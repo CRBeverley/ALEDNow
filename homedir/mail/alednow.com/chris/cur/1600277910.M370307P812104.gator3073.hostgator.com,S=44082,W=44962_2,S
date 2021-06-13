@@ -1,0 +1,880 @@
+Return-Path: <dandb.51910@envfrm.rsys5.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id ONP3FZZNYl9IZAwAi5QuQQ
+	(envelope-from <dandb.51910@envfrm.rsys5.com>)
+	for <chris@alednow.com>; Wed, 16 Sep 2020 12:38:30 -0500
+Return-path: <dandb.51910@envfrm.rsys5.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Wed, 16 Sep 2020 12:38:30 -0500
+Received: from omp.click.dandb.com ([199.7.202.225]:48291)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <dandb.51910@envfrm.rsys5.com>)
+	id 1kIbO2-003V3D-83
+	for chris@alednow.com; Wed, 16 Sep 2020 12:38:30 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dandb; d=click.dandb.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:List-Unsubscribe:Message-ID; i=DandB@click.dandb.com;
+ bh=FLEpviv0FSxY7erzAyeSwSLs1qZhiBQ/GtY1A0t6yX0=;
+ b=CrrslXDyfW0A2it9vdADQvApzmSW6MTCyH6EYn02FCxh/yJGfpOKDh6/JJvwgbRliMlg2Nvp67C+
+   zxox+MUL+qD821ZGvMXwn2QgBJejmYDXlz3FDlJdXZkBbwn74TwlvPDoNIeobEIM0K3l+0oHkE0J
+   hlmqjxD6qDM/RWB74Oo=
+Received: by omp.click.dandb.com id hc96om2lr0o8 for <chris@alednow.com>; Wed, 16 Sep 2020 10:38:19 -0700 (envelope-from <dandb.51910@envfrm.rsys5.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="ISO-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 16 Sep 2020 10:38:19 -0700
+To: chris@alednow.com
+From: =?ISO-8859-1?B?RHVuICYgQnJhZHN0cmVldA==?= <DandB@click.dandb.com>
+Reply-To: =?ISO-8859-1?B?RHVuICYgQnJhZHN0cmVldA==?= <reply@click.dandb.com>
+Subject: American Lighting and Electrical Design LLC: Your CreditSignal Monthly Summary Report
+Feedback-ID: 51910:12375017:oraclersys
+List-Unsubscribe: <mailto:unsubscribe-AQpglLjHJlYQGrKRbw3HMyrnDsESp4I7DiGA0h1gGSzcaaHSUECBNRe31LcfzdcWNX@imh.rsys5.com?subject=List-Unsubscribe>, <https://click.dandb.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DAQpglLjHJlYQGrKRbw3HMyrnDsESp4I7DiGA0h1gGSzcaaHSUECBNRe31LcfzdcWNX&_ei_=Erx8xjw6j1nV4Vrzk06qKJK_3mUXV0yyYSQuee451tceHWCyrkVJb6CxODBGYT_2IIF4McqbiQ29dlnyUnM-Zb8ySSdCdw.>
+X-sgxh1: JojpkxHtLKghOQJhu
+X-rext: 6.interact5.Ejd0IOUafPjg9kG1iWbB9pE6RoSnE1XHHa13G87v0LUSeJMZJ4v_
+X-cid: dandb.10044633
+X-ei: EgLAhGhGY7rNLkJTgOajEph8TGSHbM
+Message-ID: <0.1.3AA.175.1D68C502A8317C2.0@omp.click.dandb.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html>
+ <head>
+  <title></title>
+ </head>
+ <body style=3D=22border-top: 0px; border-right: 0px; background: =23f2f2f2=
+; border-bottom: 0px; outline-width: 0px; padding-bottom: 0px; padding-top:=
+ 0px; outline-style: none; padding-left: 0px; margin: 0px; border-left: 0px=
+; outline-color: invert; padding-right: 0px=22>
+  <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=22 bor=
+der=3D=220=22>
+   <tbody>
+    <tr>
+     <td valign=3D=22top=22 width=3D=22605=22 align=3D=22center=22>
+     <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22605=22 b=
+order=3D=220=22 style=3D=22border-top: 0px; border-right: 0px; border-botto=
+m: 0px; outline-width: 0px; padding-bottom: 0px; padding-top: 0px; outline-=
+style: none; padding-left: 0px; margin: 0px; border-left: 0px; outline-colo=
+r: invert; padding-right: 0px=22>
+      <tbody>
+       <tr>
+        <td height=3D=2212=22 valign=3D=22top=22 colspan=3D=222=22 align=3D=
+=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0px=22></t=
+d>
+       </tr>
+       <tr>
+        <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-size: 14p=
+x; height: 26px; font-family: Arial, Helvetica, sans-serif; color: =2367666=
+9; line-height: 26px=22>Having trouble seeing this email? <a style=3D=22col=
+or: =23006699; text-decoration: underline=22 href=3D=22https://click=2Edand=
+b=2Ecom/pub/sf/FormLink?_ri_=3DX0Gzc2X%3DAQpglLjHJlYQGrKRbw3HMyrnDsESp4I7Di=
+GA0h1gGSzcaaHSUECBNRe31LcfzdcWNXVXMtX%3DAQpglLjHJlYQGjT0NpnMyY3XizezgeXzgFC=
+NpGPAUzeP0SPAbHh6jzc50l2daYuXwzeuoj&_ei_=3DErsJHLp1bSkxyfTUl-fCvsiOrgvmPEEG=
+Kdz5TOAUiRpZjHFJpOcV6EhhDAMuHr7yV7u2TBZ6oGhNiMJRRzS6YA8DmO6UgzMTQ19BhulE7Yo=
+6l6xMrmySIeNTqCfGhLPoHUOLAv_p3XPgz2iKEpzBWTQPDvrFWsYaSslSyNjeZ4bfn3aC8054tN=
+TmSsjrh0jzYw5llH7T7rxjvK1Mtjnn6iJKVN2iObfQnkORZREdQLuXG8DhNsQfAnPs-4b4AP-WZ=
+dfu8TMXOPcd4xXENs82X8HHD5qqQ4qqGR_lEkcQ_TOCugSOyd1mNbxzKhOrFnY_GqG5FmgiJeNp=
+f4DaVi6BoSa5AlN5ZG4_9qP60_xmaoN92Q5PzDeSGzlnEjX0B-0ZsZY4f1xnbZhtAHfuRIR3Vtn=
+bgW1SjuqIOaplgvZLokw6WPQNOjj-ZGfASXNpohcZu1Tus4P49Y3Mmb7eJkHItg=2E&_di_=3D2=
+rh4c0qabi3q4f3rvmkfqmo4hvd0hqk3dr0lvcpv54j88kqv5ld0=22>View it online</a></=
+td>
+        <td height=3D=2226=22 valign=3D=22top=22 width=3D=22145=22 align=3D=
+=22right=22 style=3D=22font-size: 0px; height: 26px; line-height: 0px; widt=
+h: 145px=22><a href=3D=22https://dashboard=2Ednb=2Ecom/login=22><img src=3D=
+=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/dandb/contentl=
+ibrary/oldcontent/alerts/alert=2Eimages/access_ac=2Ejpg=22 alt=3D=22=22 /><=
+/a></td>
+       </tr>
+       <tr>
+        <td height=3D=228=22 valign=3D=22top=22 colspan=3D=222=22 align=3D=
+=22left=22 style=3D=22font-size: 0px; height: 8px; line-height: 0px=22></td>
+       </tr>
+       <tr>
+        <td valign=3D=22top=22 colspan=3D=222=22 align=3D=22left=22>
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=
+=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td valign=3D=22top=22 width=3D=2217=22 align=3D=22left=22 style=
+=3D=22font-size: 0px; line-height: 0px; width: 17px=22></td>
+           <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-size: =
+12px; font-family: Arial, Helvetica, sans-serif; color: =23767676; line-hei=
+ght: 15px=22>
+           <p>CreditSignal&reg; is a FREE service that alerts you to change=
+s in your D&amp;B credit file=2E For many companies with complete and healt=
+hy credit files, these indicators may be all that is needed=2E To access sc=
+ores and ratings or to help build your credit file, we recommend that you l=
+og in to your product and upgrade to either CreditMonitor&trade; or CreditB=
+uilder&trade;=2E If you would like more information about what these change=
+s mean or anything else related to your D&amp;B credit file, please call&nb=
+sp;1-866-584-0283&nbsp;and speak to a Dun &amp; Bradstreet&nbsp;Credit Advi=
+sor=2E</p>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+        </td>
+       </tr>
+       <tr>
+        <td height=3D=2211=22 valign=3D=22top=22 colspan=3D=222=22 align=3D=
+=22left=22 style=3D=22font-size: 0px; height: 11px; line-height: 0px=22></t=
+d>
+       </tr>
+       <tr>
+        <td height=3D=2216=22 valign=3D=22top=22 colspan=3D=222=22 align=3D=
+=22left=22 style=3D=22font-size: 0px; height: 25px; line-height: 0px=22><im=
+g alt=3D=22=23=22 width=3D=22605=22 height=3D=2290=22 src=3D=22https://prod=
+ucts=2Edandb=2Ecom/creative_services/email_headers_90px/CreditSignal_drip_6=
+00x90/logo=2Epng=22 /></td>
+       </tr>
+       <tr>
+        <td valign=3D=22top=22 colspan=3D=222=22 align=3D=22left=22 style=
+=3D=22background: =23ffffff;=22>
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=
+=22 border=3D=220=22>
+         <=21-- business table head start here -->
+         <tbody>
+          <tr>
+           <td valign=3D=22top=22 colspan=3D=222=22 align=3D=22left=22>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=2210=
+0%=22 border=3D=220=22>
+            <tbody>
+             <tr>
+              <td height=3D=2210=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 10px; line-height: 0px=22></td>
+             </tr>
+             <=21-- name and company start here -->
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 width=3D=22358=22 align=3D=22left=
+=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold=
+; color: =23434343; line-height: 22px=22>American Lighting and Electrical D=
+esign LLC</td>
+                   </tr>
+                   <tr>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; font-weight: norm=
+al; color: =23434343; line-height: 22px=22>Monthly Summary - 09/16/2020<br =
+/><strong>account:</strong> chris=40alednow=2Ecom</td>
+                    <td valign=3D=22top=22 align=3D=22left=22 width=3D=2210=
+=22></td>
+                    <td valign=3D=22top=22><a href=3D=22https://livechat=2E=
+boldchat=2Ecom/aid/652348453108072006/bc=2Echat?resize=3Dtrue&cbdid=3D36320=
+14993247758457&wdid=3D1588294243546547055=22 rilt=3D=22chat2=22><img src=3D=
+=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dandb/=
+chat-DandB-Blue=2Epng=22 width=3D=2240=22 height=3D=2253=22 alt=3D=22=22 st=
+yle=3D=22border:0px;=22 /></a></td>
+                    <td valign=3D=22top=22 align=3D=22left=22 width=3D=2210=
+=22></td>
+                   </tr>
+                   <tr>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 14px; font-family: Arial, Helvetica, sans-serif; font-weight: norm=
+al; color: =23434343; line-height: 22px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                 <td height=3D=2238=22 valign=3D=22middle=22 width=3D=22210=
+=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 38px; line-height=
+: 0px; width: 210px=22><a href=3D=22https://dashboard=2Ednb=2Ecom/login=22>=
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/dan=
+db/contentlibrary/oldcontent/alerts/alert=2Eimages/log_ac=2Ejpg=22 alt=3D=
+=22=22 /></a></td>
+                 <td valign=3D=22top=22 width=3D=222116=22 align=3D=22left=
+=22 style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2210=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 10px; line-height: 0px=22></td>
+             </tr>
+             <=21-- score table head start here -->
+             <tr>
+              <td bgcolor=3D=22=23006598=22 height=3D=2241=22 valign=3D=22t=
+op=22 align=3D=22left=22 style=3D=22height: 41px; background: =23006598=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td height=3D=2240=22 valign=3D=22middle=22 width=3D=2221=
+=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 40px; line-height=
+: 0px; width: 21px=22></td>
+                 <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22lef=
+t=22 style=3D=22font-size: 18px; font-family: Arial, Helvetica, sans-serif;=
+ font-weight: bold; color: =23ffffff; line-height: 18px; width: 217px=22>Sc=
+ores / Ratings</td>
+                 <td valign=3D=22middle=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 0px; line-height: 0px=22></td>
+                 <td valign=3D=22middle=22 width=3D=22217=22 align=3D=22lef=
+t=22 style=3D=22font-size: 18px; font-family: Arial, Helvetica, sans-serif;=
+ font-weight: bold; color: =23ffffff; line-height: 18px; width: 217px=22>Mo=
+nthly Change</td>
+                 <td valign=3D=22middle=22 width=3D=2216=22 align=3D=22left=
+=22 style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <=21-- score table start here -->
+             <tr>
+              <td bgcolor=3D=22=23ffffff=22 valign=3D=22top=22 align=3D=22l=
+eft=22 style=3D=22bgcolor: =23ffffff=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22borde=
+r-bottom: =23dadad9 1px solid=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td height=3D=2235=22 valign=3D=22middle=22 width=3D=22=
+21=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 35px; line-heig=
+ht: 0px; width: 21px;=22></td>
+                    <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; color: =23434343; line-height: 18px; width: 217px=
+=22>PAYDEX<sup style=3D=22font-size: 10px; color: =23434343=22>&reg;</sup><=
+/td>
+                    <td valign=3D=22middle=22 align=3D=22left=22 style=3D=
+=22font-size: 0px; line-height: 0px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22117=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; line-height: 18px; width: 117px=22><font style=3D=
+=22color:=23858585; font-weight:bold;=22>No Change</font></td>
+                    <td valign=3D=22middle=22 width=3D=2229=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 29px=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dan=
+db/gray_strips=2Epng=22 /></td>
+                    <td valign=3D=22middle=22 width=3D=2265=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 65px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22borde=
+r-top: =23fefefe 1px solid; border-bottom: =23dadad9 1px solid=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td height=3D=2235=22 valign=3D=22middle=22 width=3D=22=
+21=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 35px; line-heig=
+ht: 0px; width: 21px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; color: =23434343; line-height: 18px; width: 217px=
+=22>Delinquency Predictor</td>
+                    <td valign=3D=22middle=22 align=3D=22left=22 style=3D=
+=22font-size: 0px; line-height: 0px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22117=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; line-height: 18px; width: 117px=22><font style=3D=
+=22color:=23858585; =22>No Change</font></td>
+                    <td valign=3D=22middle=22 width=3D=2229=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 29px=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dan=
+db/gray_strips=2Epng=22 /></td>
+                    <td valign=3D=22middle=22 width=3D=2265=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 65px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22borde=
+r-top: =23fefefe 1px solid; border-bottom: =23dadad9 1px solid=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td height=3D=2235=22 valign=3D=22middle=22 width=3D=22=
+21=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 35px; line-heig=
+ht: 0px; width: 21px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; color: =23434343; line-height: 18px; width: 217px=
+=22>Financial Stress Score</td>
+                    <td valign=3D=22middle=22 align=3D=22left=22 style=3D=
+=22font-size: 0px; line-height: 0px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22117=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; line-height: 18px; width: 117px=22><font style=3D=
+=22color:=23858585; =22>No Change</font></td>
+                    <td valign=3D=22middle=22 width=3D=2229=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 29px=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dan=
+db/gray_strips=2Epng=22 /></td>
+                    <td valign=3D=22middle=22 width=3D=2265=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 65px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22borde=
+r-top: =23fefefe 1px solid; border-bottom: =23dadad9 1px solid=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td height=3D=2235=22 valign=3D=22middle=22 width=3D=22=
+21=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 35px; line-heig=
+ht: 0px; width: 21px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; color: =23434343; line-height: 18px; width: 217px=
+=22>Supplier Evaluation Rating</td>
+                    <td valign=3D=22middle=22 align=3D=22left=22 style=3D=
+=22font-size: 0px; line-height: 0px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22117=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; line-height: 18px; width: 117px=22><font style=3D=
+=22color:=23858585;=22>No Change</font></td>
+                    <td valign=3D=22middle=22 width=3D=2229=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 29px=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dan=
+db/gray_strips=2Epng=22/></td>
+                    <td valign=3D=22middle=22 width=3D=2265=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 65px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22borde=
+r-top: =23fefefe 1px solid; border-bottom: =23dadad9 1px solid=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td height=3D=2235=22 valign=3D=22middle=22 width=3D=22=
+21=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 35px; line-heig=
+ht: 0px; width: 21px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; color: =23434343; line-height: 18px; width: 217px=
+=22>D&amp;B Rating<sup style=3D=22font-size: 10px; color: =23434343=22>&reg=
+;</sup></td>
+                    <td valign=3D=22middle=22 align=3D=22left=22 style=3D=
+=22font-size: 0px; line-height: 0px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22117=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; line-height: 18px; width: 117px=22><font style=3D=
+=22color:=23858585;=22>No Change</font></td>
+                    <td valign=3D=22middle=22 width=3D=2229=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 29px=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dan=
+db/gray_strips=2Epng=22 /></td>
+                    <td valign=3D=22middle=22 width=3D=2265=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 65px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22borde=
+r-top: =23fefefe 1px solid; border-bottom: =23dadad9 1px solid=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td height=3D=2235=22 valign=3D=22middle=22 width=3D=22=
+21=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 35px; line-heig=
+ht: 0px; width: 21px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22286=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; color: =23434343; line-height: 18px; width: 217px=
+=22>D&amp;B Viability Rating</td>
+                    <td valign=3D=22middle=22 align=3D=22left=22 style=3D=
+=22font-size: 0px; line-height: 0px=22></td>
+                    <td valign=3D=22middle=22 width=3D=22117=22 align=3D=22=
+left=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal; line-height: 18px; width: 117px=22><font style=3D=
+=22color:=23858585;=22>No Change</font></td>
+                    <td valign=3D=22middle=22 width=3D=2229=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 29px=22><img src=
+=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/dan=
+db/gray_strips=2Epng=22/></td>
+                    <td valign=3D=22middle=22 width=3D=2265=22 align=3D=22l=
+eft=22 style=3D=22font-size: 0px; line-height: 0px; width: 65px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td height=3D=2212=22 valign=3D=22top=22 align=3D=22left=
+=22 style=3D=22font-size: 0px; border-top: =23fefefe 1px solid; height: 12p=
+x; line-height: 0px=22></td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 align=3D=22left=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=
+=22 style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 14px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22><a style=3D=22font-weight: bold; color: =23ed0000; te=
+xt-decoration: none=22 href=3D=22https://dashboard=2Ednb=2Ecom/login=22>Cli=
+ck here</a> to learn more<br />                     about D&amp;B scores an=
+d ratings</td>
+                    <td height=3D=2242=22 valign=3D=22top=22 width=3D=22162=
+=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 40px; line-height=
+: 0px; width: 267px=22><a href=3D=22https://dashboard=2Ednb=2Ecom/login=22>=
+<img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/dan=
+db/contentlibrary/oldcontent/alerts/creditsignal_monthly=2Eimages/view_aler=
+ts=2Ejpg=22 alt=3D=22=22 /></a></td>
+                    <td valign=3D=22top=22 width=3D=2216=22 align=3D=22left=
+=22 style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                </tr>
+                <tr>
+                 <td height=3D=2212=22 valign=3D=22top=22 align=3D=22left=
+=22 style=3D=22font-size: 0px; height: 12px; line-height: 0px=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <=21-- enquery head start here -->
+             <tr>
+              <td bgcolor=3D=22=23006598=22 valign=3D=22top=22 align=3D=22l=
+eft=22 style=3D=22background: =23006598=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td height=3D=2210=22 valign=3D=22top=22 colspan=3D=222=22=
+ align=3D=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0=
+px=22></td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22middle=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold=
+; color: =23ffffff; line-height: 18px=22>Inquiries</td>
+                </tr>
+                <tr>
+                 <td height=3D=228=22 valign=3D=22top=22 colspan=3D=222=22 =
+align=3D=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0p=
+x=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2218=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 18px; line-height: 0px=22></td>
+             </tr>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-=
+size: 18px; font-family: Arial, Helvetica, sans-serif; color: =23434343; li=
+ne-height: 18px=22>You have received <strong style=3D=22font-weight: normal=
+; color: =23ed0000=22>0</strong> new inquiries=2E</td>
+                 <td valign=3D=22top=22 align=3D=22right=22 style=3D=22font=
+-size: 16px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; =
+color: =233b3a3a; line-height: 18px=22><a style=3D=22color: =23006699; text=
+-decoration: underline=22 href=3D=22https://dashboard=2Ednb=2Ecom/login=22>=
+View Alert</a></td>
+                 <td valign=3D=22top=22 width=3D=2216=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+                <tr>
+                 <td height=3D=2219=22 valign=3D=22top=22 colspan=3D=224=22=
+ align=3D=22left=22 style=3D=22font-size: 0px; height: 19px; line-height: 0=
+px=22></td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 colspan=3D=222=22 align=3D=22left=
+=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-serif; =
+color: =23434343; line-height: 18px=22>Inquiry or Inquiries are the number =
+of individual request(s) for information, which may include but is not limi=
+ted to credit information, by a unique external customer(s) on a Dun & Brad=
+street D-U-N-S&reg; Number in a rolling one-year (365-day) time period=2E M=
+ore than one inquiry can be made by each unique customer, which would indic=
+ate that some customers have inquired on such<br/>D-U-N-S Number multiple t=
+imes and may be monitoring the associated business=2E</td>
+                 <td valign=3D=22top=22 width=3D=2216=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2220=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 20px; line-height: 0px=22></td>
+             </tr>
+             <tr>
+              <td bgcolor=3D=22=23006598=22 valign=3D=22top=22 align=3D=22l=
+eft=22 style=3D=22background: =23006598=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td height=3D=2210=22 valign=3D=22top=22 colspan=3D=222=22=
+ align=3D=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0=
+px=22></td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22middle=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold=
+; color: =23ffffff; line-height: 18px=22>Special Events</td>
+                </tr>
+                <tr>
+                 <td height=3D=228=22 valign=3D=22top=22 colspan=3D=222=22 =
+align=3D=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0p=
+x=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2221=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 21px; line-height: 0px=22></td>
+             </tr>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-=
+size: 18px; font-family: Arial, Helvetica, sans-serif; color: =23434343; li=
+ne-height: 18px=22>You have received <strong style=3D=22font-weight: normal=
+; color: =23ed0000=22>0</strong> new events=2E</td>
+                 <td valign=3D=22top=22 align=3D=22right=22 style=3D=22font=
+-size: 16px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; =
+color: =233b3a3a; line-height: 18px=22><a style=3D=22color: =23006699; text=
+-decoration: underline=22 href=3D=22https://dashboard=2Ednb=2Ecom/login=22>=
+View Alert</a></td>
+                 <td valign=3D=22top=22 width=3D=2216=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+                <tr>
+                 <td height=3D=2219=22 valign=3D=22top=22 colspan=3D=224=22=
+ align=3D=22left=22 style=3D=22font-size: 0px; height: 19px; line-height: 0=
+px=22></td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 colspan=3D=222=22 align=3D=22left=
+=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-serif; =
+color: =23434343; line-height: 18px=22>Special events display information o=
+n your company such as bankruptcies, suits, liens, mergers, acquisitions or=
+ changes in ownership that may impact your relationship with other firms or=
+ lending institutions=2E</td>
+                 <td valign=3D=22top=22 width=3D=2216=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2224=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 24px; line-height: 0px=22></td>
+             </tr>
+             <tr>
+              <td bgcolor=3D=22=23006598=22 valign=3D=22top=22 align=3D=22l=
+eft=22 style=3D=22background: =23006598=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td height=3D=2210=22 valign=3D=22top=22 colspan=3D=222=22=
+ align=3D=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0=
+px=22></td>
+                </tr>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22middle=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 18px; font-family: Arial, Helvetica, sans-serif; font-weight: bold=
+; color: =23ffffff; line-height: 18px=22>Business Information</td>
+                </tr>
+                <tr>
+                 <td height=3D=228=22 valign=3D=22top=22 colspan=3D=222=22 =
+align=3D=22left=22 style=3D=22font-size: 0px; height: 12px; line-height: 0p=
+x=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2218=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 18px; line-height: 0px=22></td>
+             </tr>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-=
+size: 16px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; c=
+olor: =23434343; line-height: 18px=22>Please call 1-866-584-0283 to update =
+your D&amp;B business information</td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2224=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 24px; line-height: 0px=22></td>
+             </tr>
+             <=21-- business table start here -->
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22>
+              <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=
+=22100%=22 border=3D=220=22>
+               <tbody>
+                <tr>
+                 <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+                 <td valign=3D=22top=22 align=3D=22left=22>
+                 <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=
+=3D=22100%=22 border=3D=220=22>
+                  <tbody>
+                   <tr>
+                    <td valign=3D=22top=22 width=3D=22280=22 align=3D=22lef=
+t=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-serif;=
+ color: =23434343; line-height: 18px; width: 280px=22>Company Name:</td>
+                    <td valign=3D=22top=22 width=3D=22288=22 align=3D=22lef=
+t=22 style=3D=22font-size: 16px; font-family: Arial, Helvetica, sans-serif;=
+ color: =23434343; line-height: 18px; width: 288px=22>American Lighting and=
+ Electrical Design LLC</td>
+                   </tr>
+                   <tr>
+                    <td height=3D=2210=22 valign=3D=22top=22 colspan=3D=222=
+=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 10px; line-height=
+: 0px=22></td>
+                   </tr>
+                   <tr>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22>Address:</td>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22><span class=3D=22MainBody=22>234 SW Honeycomb Ct,Fort=
+ White,32038</span></td>
+                   </tr>
+                   <tr>
+                    <td height=3D=2210=22 valign=3D=22top=22 colspan=3D=222=
+=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 10px; line-height=
+: 0px=22></td>
+                   </tr>
+                   <tr>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22>Telephone:</td>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22>N/A</td>
+                   </tr>
+                   <tr>
+                    <td height=3D=2210=22 valign=3D=22top=22 colspan=3D=222=
+=22 align=3D=22left=22 style=3D=22font-size: 0px; height: 10px; line-height=
+: 0px=22></td>
+                   </tr>
+                   <tr>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22>Website:</td>
+                    <td valign=3D=22top=22 align=3D=22left=22 style=3D=22fo=
+nt-size: 16px; font-family: Arial, Helvetica, sans-serif; color: =23434343;=
+ line-height: 18px=22><a style=3D=22color: =23434343; text-decoration: none=
+=22 href=3D=22N/A=22><span class=3D=22MainBody=22>N/A</span></a></td>
+                   </tr>
+                  </tbody>
+                 </table>
+                 </td>
+                 <td valign=3D=22top=22 width=3D=2216=22 align=3D=22left=22=
+ style=3D=22font-size: 0px; line-height: 0px; width: 16px=22></td>
+                </tr>
+               </tbody>
+              </table>
+              </td>
+             </tr>
+             <tr>
+              <td height=3D=2227=22 valign=3D=22top=22 align=3D=22left=22 s=
+tyle=3D=22font-size: 0px; height: 27px;line-height: 0px=22></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+          </tr>
+          <=21-- footer start here -->
+         </tbody>
+        </table>
+        </td>
+       </tr>
+       <tr>
+        <td height=3D=2222=22 valign=3D=22top=22 colspan=3D=222=22 align=3D=
+=22left=22 style=3D=22font-size: 0px; height: 22px; line-height: 0px=22></t=
+d>
+       </tr>
+       <tr>
+        <td valign=3D=22top=22 colspan=3D=222=22 align=3D=22left=22>
+        <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=22100%=
+=22 border=3D=220=22>
+         <tbody>
+          <tr>
+           <td valign=3D=22top=22 width=3D=2221=22 align=3D=22left=22 style=
+=3D=22font-size: 0px; line-height: 0px; width: 21px=22></td>
+           <td valign=3D=22top=22 align=3D=22left=22>
+           <table cellspacing=3D=220=22 cellpadding=3D=220=22 width=3D=2210=
+0%=22 border=3D=220=22>
+            <tbody>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-siz=
+e: 12px; font-family: Arial, Helvetica, sans-serif; color: =23767676; line-=
+height: 15px=22>Please add <a href=3D=22mailto:dandb=40click=2EDandB=2Ecom=
+=22 style=3D=22color: =23767676; text-decoration: underline=22>DandB=40clic=
+k=2Edandb=2Ecom</a> to your email address book to ensure delivery of our em=
+ails to your inbox=2E This is a notification regarding your product subscri=
+ption with Dun &amp; Bradstreet=2E Please see our <a href=3D=22https://www=
+=2Edandb=2Ecom/terms-service-phoenix/=22 style=3D=22color:=23767676=22>Prod=
+uct License Agreement</a>=2E</td>
+             </tr>
+             <tr>
+              <td height=3D=225=22 valign=3D=22top=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 style=3D=22font-size: 0px; height: 18px; line-height: 0px=
+=22></td>
+             </tr>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-siz=
+e: 12px; font-family: Arial, Helvetica, sans-serif; color: =23767676; line-=
+height: 15px=22>Privacy and Cancelation Notice: You can modify the types of=
+ alerts you receive with your CreditSignal or opt out of all CreditSignal e=
+mails by <a href=3D=22https://dashboard=2Ednb=2Ecom/login=22 style=3D=22col=
+or: =23767676; text-decoration: underline=22>logging in </a> to your produc=
+t and going to the Tools section=2E</td>
+             </tr>
+             <tr>
+              <td height=3D=225=22 valign=3D=22top=22 colspan=3D=222=22 ali=
+gn=3D=22left=22 style=3D=22font-size: 0px; height: 18px; line-height: 0px=
+=22></td>
+             </tr>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-siz=
+e: 12px; font-family: Arial, Helvetica, sans-serif; color: =23767676; line-=
+height: 15px=22>You may <a href=3D=22https://www=2Ednb=2Ecom/utility-pages/=
+communication-preferences=2Ehtml?email=3Dchris=40alednow=2Ecom=22 style=3D=
+=22color: =23767676; text-decoration: underline=22>change your email market=
+ing preferences</a> or <a href=3D=22http://app=2Einsight=2Ednb=2Ecom/e/f2?e=
+lqformname=3DSYSTEM-PreferenceForm2017&elqsiteid=3D1471&emailAddress=3Dchri=
+s=40alednow=2Ecom&DnBCONTACT-byemail=3D0&DnBPREFS-IndustryNews=3D0&DnBPREFS=
+-CorporateAnnouncements=3D0&DnBPREFS-CustomerandIndustryResearch=3D0&DnBPRE=
+FS-productsandservices=3D0&DnBPREFS-BusinessCreditandProfileNotifications=
+=3D0&DnBPREFS-ThirdPartyOffers=3D0&redirect=3Dhttps://www=2Ednb=2Ecom/utili=
+ty-pages/communication-preferences/survey=2Ehtml?email=3Dchris=40alednow=2E=
+com=22 style=3D=22color: =23767676; text-decoration: underline=22>unsubscri=
+be to this email</a>=2E If you have any questions, email us at <a href=3D=
+=22customersupport=40DandB=2Ecom=22 style=3D=22color: =23767676; text-decor=
+ation: underline=22>customersupport=40DandB=2Ecom</a>=2E Your privacy is im=
+portant to us; please see our&nbsp;<a style=3D=22color: =23767676; text-dec=
+oration: underline=22 href=3D=22https://businesscredit=2Ednb=2Ecom/privacy-=
+policy/=22>Privacy Policy</a> and <a style=3D=22color: =23767676; text-deco=
+ration: underline=22 href=3D=22https://dandb=2Ecom/terms-service/=22>Terms =
+of Service</a>=2E</td>
+             </tr>
+             <tr>
+              <td height=3D=228=22 valign=3D=22top=22 align=3D=22left=22 st=
+yle=3D=22font-size: 0px; height: 16px; line-height: 0px=22></td>
+             </tr>
+             <tr>
+              <td valign=3D=22top=22 align=3D=22left=22 style=3D=22font-siz=
+e: 12px; font-family: Arial, Helvetica, sans-serif; color: =23767676; line-=
+height: 15px=22>&copy;Dun &amp; Bradstreet, Inc=2E 2020=2E All rights reser=
+ved=2E <span style=3D=22white-space: nowrap=22>1250 Valley Brook Avenue, Su=
+ite 102 Lyndhurst, NJ 07071</span></td>
+             </tr>
+            </tbody>
+           </table>
+           </td>
+           <td valign=3D=22top=22 width=3D=2219=22 align=3D=22left=22 style=
+=3D=22font-size: 0px; line-height: 0px; width: 19px=22></td>
+          </tr>
+         </tbody>
+        </table>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     </td>
+    </tr>
+   </tbody>
+  </table><br>
+<table cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border: 0px; =
+padding: 0px; margin: 0px; position: absolute; display: none; float: left=
+=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<br><img src=3D=22https://click=2Edandb=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DAQpgl=
+LjHJlYQGrKRbw3HMyrnDsESp4I7DiGA0h1gGSzcaaHSUECBNRe31LcfzdcWNXVXHkMX%3Dw&_ei=
+_=3DErx8xjw6j1nV4Vrzk06qKJK_3mUXV0yyYSQuee451tceHWCyrkVJb6CxODBGYT_2IIF4Mcq=
+biQ29dlnyUnM-Zb8ySSdCdw=2E=22></img>
+</td>
+</tr>
+</table>
+ </body>
+</html>
+
+

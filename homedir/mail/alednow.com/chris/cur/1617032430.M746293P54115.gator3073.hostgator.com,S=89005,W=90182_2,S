@@ -1,0 +1,1177 @@
+Return-Path: <bounces+1959045-387e-chris=alednow.com@em.u.quill.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id MNE2LO70YWBj0wAAi5QuQQ
+	(envelope-from <bounces+1959045-387e-chris=alednow.com@em.u.quill.com>)
+	for <chris@alednow.com>; Mon, 29 Mar 2021 10:40:30 -0500
+Return-path: <bounces+1959045-387e-chris=alednow.com@em.u.quill.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Mon, 29 Mar 2021 10:40:30 -0500
+Received: from o5.em.u.quill.com ([167.89.75.211]:5238)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounces+1959045-387e-chris=alednow.com@em.u.quill.com>)
+	id 1lQu0E-000LSa-GH
+	for chris@alednow.com; Mon, 29 Mar 2021 10:40:30 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=u.quill.com;
+	h=content-transfer-encoding:content-type:from:mime-version:subject:
+	reply-to:to;
+	s=s1; bh=mJS0bEG156iztdR87WeCMAwkFdscnjN1H6103ERNBNA=;
+	b=Gt+B2qCFAUFsCHmWOSoDs+15GHxPUu+CSZ4jQxr5JSozJC8vNXvVhRmHwdoRuMwQbdEx
+	Epx6fTF0/mCbyAMYNwZTxL3MSe2LewYLRRXBlwr3Zfnyt0lG431qGwF3Kyl8V5+W57xxwd
+	gGN1lm0y1CJLi/W7GbPp62WhVSHAnk+xc=
+Received: by filterdrecv-p3iad2-7d7c446bd4-mfhjf with SMTP id filterdrecv-p3iad2-7d7c446bd4-mfhjf-21-6061F4E3-19
+        2021-03-29 15:40:19.183374773 +0000 UTC m=+508034.088641499
+Received: from MTk1OTA0NQ (unknown)
+	by ismtpd0144p1mdw1.sendgrid.net (SG)
+	with HTTP id YD2lGNdjQEi0Liymb2A6Bg
+	for <email@u.quill.com>;
+	Mon, 29 Mar 2021 15:40:19.105 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Date: Mon, 29 Mar 2021 15:40:19 +0000 (UTC)
+From: Kim Atwood <email@u.quill.com>
+Mime-Version: 1.0
+Subject: The Offers We Discussed: $30 Coupon + More!
+Message-ID: <YD2lGNdjQEi0Liymb2A6Bg@ismtpd0144p1mdw1.sendgrid.net>
+Reply-To: Kim.Atwood@quill.com
+X-SG-EID: 
+ =?us-ascii?Q?Db4A=2FhKVC8z74YMGEEAM=2FQW2qW1K3UzHaQl0bwjPo3a6sQCMTaBg8+iciDGdTB?=
+ =?us-ascii?Q?oYOxEc4ytbeiEo2LfKtPP5Pv7c34nyKHOrdI=2FIv?=
+ =?us-ascii?Q?TNjHCdNP36CObhqJ7=2F=2FRLX0cN6Dnz68e=2Fxe8m7P?=
+ =?us-ascii?Q?CZFndLKTL=2FtP7nzaV1M=2FyY5gzjT+DyApvwiVneX?=
+ =?us-ascii?Q?kpKztfiMh2G0zewinZ5HN6yLfUylQc9R8uNLMgm?=
+ =?us-ascii?Q?f7gq5bBQoMQFAySKWGfiOFMdOcPz5SR64Lgikj?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb6EYAACvl6ZIKC9A27vrB8H08xoRPMFApk3jkTh6CT?=
+ =?us-ascii?Q?HTr2wLrz3xz+QrHnmRxqSSOdkN851yCL2EktyIl?=
+ =?us-ascii?Q?C4Y8f+nUpn+0FpJeGz4c1+kOrfhof0cgRDm3B7T?=
+ =?us-ascii?Q?ZGextdzMxMTbJB3MICCWogokOnp9=2Fos=3D?=
+To: chris@alednow.com
+X-Entity-ID: HQWBybnQCZrYreC2nvlQug==
+
+<!DOCTYPE html><!-- Template DASH_R_HTML_2 --><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:sc=
+hemas-microsoft-com:office:office"><head><title>Quill.com | Default</title>=
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1,=
+ maximum-scale=3D2.5"><meta name=3D"format-detection" content=3D"telephone=
+=3Dno"></head><body style=3D"margin:0; padding:0;"><style type=3D"text/css"=
+> html{ -webkit-text-size-adjust:none; -ms-text-size-adjust:none; } td, div=
+{ font-family:Arial, Verdana, sans-serif; } a{ text-decoration:none !import=
+ant; } a:link, a:visited, a:active, a:hover{ color:#000000; } a.underline{ =
+text-decoration:underline !important; } a.underline:hover{ text-decoration:=
+underline !important; } span.noWrap{ white-space:nowrap; } .ExternalClass *=
+ { line-height:100%; } .addr a { color:#4d4d4d !important;} a[x-apple-data-=
+detectors] { color: inherit !important; text-decoration: none !important; f=
+ont-size: inherit !important; font-family: inherit !important; font-weight:=
+ inherit !important; line-height: inherit !important; } table.mngRep .col{w=
+idth: 33%;} .leftMargin163{margin-left:163px;} @media screen and (max-width=
+:640px){ *[class].w300{ width:300px !important; } *[class].w319{ width:319p=
+x !important; } *[class].w318{ width:318px !important; } *[class].w320{ wid=
+th:320px !important; } *[class].w280{ width:280px !important; } *[class].he=
+i30{ height:30px !important; } *[class].hei10{ height:10px !important; } *[=
+class].hei87{ height:87px !important; } *[class].i90{ width:90px !important=
+; height:auto !important; } *[class].i80{ width:80px !important; height:aut=
+o !important; } *[class].i20{ width:20px !important; height:auto !important=
+; } *[class].i10{ width:10px !important; height:auto !important; } *[class]=
+.disclaimer{ font-size:14px !important; line-height:24px !important; width:=
+280px !important; } *[class].c50pc100pc{ display:block !important; width:10=
+0% !important; height:auto !important; float:left !important; } *[class].re=
+versepcfloat{ display:inline !important; height:auto !important; float:left=
+ !important;} *[class].remove{ display:none !important; } *[class].watchCho=
+p{ height:238px !important; overflow:hidden !important; } *[class].adCrop{ =
+height:180px !important; overflow:hidden !important; } *[class].adChop{ hei=
+ght:140px !important; overflow:hidden !important; } *[class].center{ text-a=
+lign:center !important; } *[class].addr a { color:#4d4d4d !important;} *[cl=
+ass].dbdbdb { background-color:#dbdbdb !important;} *[class].showInline{dis=
+play: inline !important; height: auto !important; line-height:32px !importa=
+nt;} *[class].showFoTABLE { display:block !important; font-size:100% !impor=
+tant; line-height:100% !important; height:auto !important; } .mobileRuleHei=
+{ height:1px !important; } .mobileRule{ background-image: url('http://www.q=
+uill.com/images/products/catalog/Content/2014/08/018/spa.gif') !important; =
+background-repeat:no-repeat; background-position: center !important; backgr=
+ound-color: #9e9e9e !important;} .mobileLogoHei{ height:75px !important; } =
+.mobileDefaultLogo{background-image: url('https://www.quill.com/Content/EMA=
+IL/2020/header/2020_logo_default_mobile.gif') !important; background-repeat=
+:no-repeat; background-position: center !important; } .mobileSchoolLogo{bac=
+kground-image: url('https://www.quill.com/Content/EMAIL/2020/header/2020_lo=
+go_education_mobile.gif') !important; background-repeat:no-repeat; backgrou=
+nd-position: center !important; } .mobileRewardsLogo{background-image: url(=
+'https://www.quill.com/images/products/catalog/Content/resp/EH/102015/Mobil=
+e_Logo_Rewards.jpg') !important; background-repeat:no-repeat; background-po=
+sition: center !important; } .mobilePreferredLogo{background-image: url('ht=
+tps://www.quill.com/Content/EMAIL/2020/header/2020_logo_preferred_mobile.gi=
+f') !important; background-repeat:no-repeat; background-position: center !i=
+mportant; } .mobileHealthcareLogo{background-image: url('https://www.quill.=
+com/Content/EMAIL/2020/header/2020_logo_healthcare_mobile.gif') !important;=
+ background-repeat:no-repeat; background-position: center !important; } .mo=
+bileQPGOLDLogo{background-image: url('https://www.quill.com/Content/EMAIL/2=
+017/header/mobile_QuillPlus-gold_Logo.jpg') !important; background-repeat:n=
+o-repeat; background-position: center !important; }.mobileQPBLUELogo{backgr=
+ound-image: url('https://www.quill.com/Content/EMAIL/2017/header/mobile_Qui=
+llPlus-blue_Logo.jpg') !important; background-repeat:no-repeat; background-=
+position: center !important; }.mobileQPPointsLogo{background-image: url('ht=
+tps://www.quill.com/Content/EMAIL/2020/header/2020_logo_QP_points_mobile.gi=
+f') !important; background-repeat:no-repeat; background-position: center !i=
+mportant; } .mobileQPPlusLogo{ background-image: url('https://www.quill.com=
+/Content/EMAIL/2020/header/2020_logo_PLUS_mobile.gif') !important; backgrou=
+nd-repeat:no-repeat; background-position: center !important; } *[class].Mob=
+ileIconHei{ height:44px !important; } *[class].R3Clock{ background-image: u=
+rl('http://www.quill.com/images/products/catalog/Content/resp/EH/102015/Mob=
+ile_Clock_Icon.jpg') !important; background-repeat:no-repeat; height: 44px =
+!important; width: 38px !important; } *[class].R3Coup{ background-image: ur=
+l('http://www.quill.com/images/products/catalog/Content/resp/EH/102015/Mobi=
+le_Coupon_Icon.jpg') !important; background-repeat:no-repeat; height: 44px =
+!important; width: 31px !important; } *[class].R3Spec{ background-image: ur=
+l('http://www.quill.com/images/products/catalog/Content/resp/EH/102015/Mobi=
+le_Tag_Icon.jpg') !important; background-repeat:no-repeat; height: 44px !im=
+portant; width: 35px !important; } *[class].showQuickLinks3table { display:=
+block !important; font-size:100% !important; line-height:100% !important; h=
+eight:auto !important; } *[class].showQuickLinks3TD { display:block !import=
+ant; font-size:14px !important; line-height:18px !important; height:44px !i=
+mportant; } *[class].showMobilePrefA {display:block !important; font-size:1=
+2px !important; line-height:18px !important; color:#428cde !important; text=
+-decoration:underline !important; padding: 10px 10px !important; line-heigh=
+t:100% !important; height:auto !important; } *[class].showMobileLogoTable {=
+ display:block !important; font-size:100% !important; line-height:100% !imp=
+ortant; height:auto !important; } *[class].showQuickLinks3td { display:bloc=
+k !important; font-size:14px !important; line-height:18px !important; heigh=
+t:44px !important; color:#428cde !important;} *[class].showQuickLinks3a { d=
+isplay:block !important; font-size:14px !important; line-height:18px !impor=
+tant; height:auto !important; color:#000000 !important;} *[class].showQuick=
+Links2b { display:block !important; font-size:14px !important; line-height:=
+25px !important; height:25px !important; } *[class].showQuickLinks2table { =
+display:block !important; font-size:100% !important; line-height:100% !impo=
+rtant; height:auto !important; } *[class].showFoTD { display:block !importa=
+nt; font-size:14px !important; line-height:44px !important; background-colo=
+r: #0071BB !important;} *[class].bgRED { background-color:#cc0000 !importan=
+t; } *[class].cta-sm{ font-size:14px !important; line-height:20px !importan=
+t; } *[class].left{ text-align:left !important; } *[class].removeBGimg{ bac=
+kground-image:none !important; } *[class].mobileFooterNavBkg{ background-co=
+lor:#0071BB !important; } *[class].ltrCopy{ display:block !important; font-=
+size:14px !important; line-height:16px !important; height:25px !important; =
+color: #000000 !important;} *[class].hei954{ height: 954px !important;} *[c=
+lass].Survey_320{ background-image: url('http://www.quill.com/images/produc=
+ts/catalog/Content/2015/08/042/08_042_M.jpg') !important;} *[class].D16_10_=
+000_QIDEAS_320{ background-image: url('http://www.quill.com/content/EMAIL/2=
+016/10/qideas/E16_10_000_mobile_qullideas.jpg') !important; background-repe=
+at:no-repeat; background-position: center !important; } <!--for managed rep=
+ --> table.mngRep .col{ width: 100%; display: block; } table.mngRep .col-le=
+ft,table.mngRep .col-mid { margin-bottom: 1px; } .bottomBorder{border-botto=
+m:1px solid #ffffff; padding-bottom:3px;} .borderBottom{border-bottom: 1px =
+solid #d7d7d7;} .smallPart{background-image:url('https://www.quill.com/cont=
+ent/EMAIL/2020/00/E20_00_888_smallpart_320.jpg') !important; background-rep=
+eat: no-repeat;background-position: center;} .smallPartHt{height:134px; dis=
+play:block !important;} .hei36{height: 36px;display:block !important;} .E20=
+_00_888_111111_320{ background-image: url('https://www.quill.com/Content/EM=
+AIL/2020/00/E20_00_888_shipping_320.jpg') !important;background-repeat:no-r=
+epeat;} .welcomeHt{ height: 164px !important;display:block;} .welcomeBG{ ba=
+ckground-image: url('https://www.quill.com/Content/EMAIL/2020/01/333/welcom=
+e_to_the_program_320.jpg') !important;background-repeat:no-repeat;} .leftMa=
+rgin163{margin-left:70px !important;} .left100{padding-left:100px;} .left60=
+{padding-left:60px;} }</style><!--[if gte mso 15]><style type=3D"text/css" =
+media=3D"all">tr { font-size:1px; mso-line-height-alt:0; mso-margin-top-alt=
+:1px; }</style><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSetting=
+s><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSetti=
+ngs></xml><![endif]--><table width=3D"100%" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td align=3D"center" bgcolor=3D"#FFFFFF"><table class=3D"w320" w=
+idth=3D"640" cellpadding=3D"0" cellspacing=3D"0" align=3D"center" bgcolor=
+=3D"#FFFFFF"><tr><td><!-- Promo Msg --><table class=3D"w320" width=3D"640" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0" bgcolor=3D"#FFFFFF"><tr><t=
+d class=3D"c50pc100pc" align=3D"left" style=3D"line-height:12px;" width=3D"=
+250"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12p=
+x; line-height:15px;">Savings and great services are always here for you.</=
+span></td></tr></table><!-- Logo Section --><!-- Logo Section --><table cla=
+ss=3D"remove" width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" bgcolor=3D"#FFFFFF"><tr><td width=3D"640"><table width=3D"640" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0"><tr><td width=3D"290" height=3D"90" =
+align=3D"left" valign=3D"middle" style=3D"mso-line-height-alt:100px;"><a ta=
+rget=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBb=
+em4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteK=
+JRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25REa29a_qy3bSm0jbtc8KwuU_C23BSAM1HKTBVM3=
+oUqNzfXWgPt8ae3jC1UL06SMw94JGX6J0tUxiUXGUGbzDAa3dL5dx2A3d_c4jkWXkaZ-M_uADAu=
+TAantRNSj7BQG8Yj2fHnpYoZxaT6RMX7Xj6_ra85ar7Yc1OH5ux8dAdnA/3am/v6Q7UoiEQqiql=
+POVsmTa3g/h0/HnGcwpQX2SCt6n1MJoXk2E_mzM9AtMOnLHPSrcIAXRI"><img style=3D"dis=
+play:block;vertical-align:middle;" src=3D"https://www.quill.com/Content/EMA=
+IL/2020/header/2020_logo_default.png" width=3D"290" height=3D"86" border=3D=
+"0" alt=3D"Quill.com" /></a></td><td><img style=3D"display:block;" src=3D"h=
+ttp://www.quill.com/s.gif" alt=3D"" width=3D"40" height=3D"1" /></td><td wi=
+dth=3D"250"><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><td=
+ style=3D"padding-right:5px;"><img src=3D"https://www.quill.com/Content/EMA=
+IL/2020/header/2020_header_truck.gif" width=3D"76"></td><td><!-- desktop Fr=
+ee Shipping --><table cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>=
+<td style=3D"font-size:0;line-height:10px;">&nbsp;</td></tr><tr><td height=
+=3D"23" style=3D"width:275px;text-align:left;font-family:Arial, Verdana, sa=
+ns-serif; font-size:20px; line-height:24px; color:#0072bb; text-decoration:=
+none;"> FREE Shipping<br> ANY SIZE ORDER </td></tr><tr><td style=3D"font-fa=
+mily:Arial, Verdana, sans-serif;font-size:9px;line-height: 13px;"><a class=
+=3D"underline" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbe=
+m4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJ=
+RArW78f7R58Rul1sMSlBhgsluQNWlfgTr25Km5oY2-xVuq-juBsYHw6m0q9WKwyXjwnrh43S360=
+hfpmlvndmN8TQybVFB_64nTttFhcqMfv_MXdM4Z7o_xqrCKhoAJBeHF7ddLt6F01c94cVWRgJKV=
+_3yaFf1YZsBcdeoHZPcv1R0lPV9LzombJh8x3ki7F8gVtny_3je-PeS-5H9HBiYzLwNy36yobc0=
+YU3WXt36gVqyUH9VdLQjuP4BQdCUjJvBsg2HVlBeb33PU/3am/v6Q7UoiEQqiqlPOVsmTa3g/h1=
+/OneS3VgRYGWT7hQ7QrpBwXD4wa_3lt92gIqtCVrA-Ws" style=3D"font-family:Arial, V=
+erdana, sans-serif; font-size:9px; line-height:10px; color:#428cde;">See&nb=
+sp;Details</a></td></tr></table></td><tr></table></td></tr></table></td></t=
+r><tr><td><img style=3D"display:block;" src=3D"http://www.quill.com/s.gif" =
+alt=3D"" width=3D"10" height=3D"6" /></td></tr></table><!-- Mobile Logo -->=
+<table class=3D"showQuickLinks3table" width=3D"320" cellpadding=3D"0" cells=
+pacing=3D"0" bgcolor=3D"#ffffff" style=3D"display:none; font-size:0px; line=
+-height:0px; height:0px; margin:0; padding:0;"><tr><td class=3D"mobileLogoH=
+ei mobileDefaultLogo" width=3D"320"><img src=3D"http://www.quill.com/s.gif"=
+ alt=3D"" width=3D"320" height=3D"1"></td></tr></table><!-- Shipping Messag=
+e --><!-- Desktop Nav Bar or Mobile Quick Links --><table class=3D"remove" =
+width=3D"640" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><!-- CATEGOR=
+Y NAVIGATION --><tr><td height=3D"26" align=3D"center" valign=3D"middle" st=
+yle=3D"line-height:14px;"><a target=3D"_blank" href=3D"http://visit.us.at.q=
+uill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHK=
+ZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25C5j7SV0y=
+J_xx56DnNIeovVAys5OKKo803X7_wpcdtzBi4i2CoBYwB-DuATkLGIba8Uh9tX74EbfwFH3m-8O=
+GW84H6MBmVzxUhXkupN2lbGnZEgDqJJVcXOH6wlNdIPmTwSBWYsp0tsd_v5-PZKkTWdZnse85WX=
+6g7w0QSW4fflPUZZWHjYNj5anOo28lbvz9p_aD6auXPn_RTUU73wDj3vAUeewEJ19YSEZKfvfzE=
+bM/3am/v6Q7UoiEQqiqlPOVsmTa3g/h2/stTmmyTVYG86yq3Zr6JioNSu6fFvVtXJH7l38MFt1A=
+o" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; line-he=
+ight:14px; color:#000000; text-decoration:none;font-weight:bold;">Office Su=
+pplies</a></td><td height=3D"26" align=3D"center" valign=3D"middle" style=
+=3D"line-height:14px; font-family:arial, sans-serif; font-size:12px; color:=
+#000000;">&nbsp;&nbsp;|&nbsp;&nbsp;</td><td height=3D"26" align=3D"center" =
+valign=3D"middle" style=3D"line-height:14px;"><a target=3D"_blank" href=3D"=
+http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8pr=
+bkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgs=
+luQNWlfgTr256cb8ojiU6m6n07oosufKtLZHPJNvic0sB5jAh3OYnim8h3Lip6kuyS1PWdyCOn8=
+ZklKaBG2Z12lFAsv4C0RrEDTs27nAB4i_68PN4rJxeeHlGfmbHBKfxieFLgr7qavvuHz0wf1iHo=
+_lSA3arhCNZHq6nY6qwdFyPyFq1raxpn1slhYclBl6DaFTs1SQr6lfxr5yj_bDHBLQkqBfE8bwK=
+u1TdWkUX3Kz50wA58h-YKk/3am/v6Q7UoiEQqiqlPOVsmTa3g/h3/TJAZQBgjjMD-mISgZaEDDA=
+2wBEas6IQh-7ssrN7DHHs" style=3D"font-family:Arial, Verdana, sans-serif; fon=
+t-size:12px; line-height:14px; color:#000000; text-decoration:none;font-wei=
+ght:bold;">Paper</a></td><td height=3D"26" align=3D"center" valign=3D"middl=
+e" style=3D"line-height:14px; font-family:arial, sans-serif; font-size:12px=
+; color:#000000;">&nbsp;&nbsp;|&nbsp;&nbsp;</td><td height=3D"26" align=3D"=
+center" valign=3D"middle" style=3D"line-height:14px;"><a target=3D"_blank" =
+href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrB=
+X5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1=
+sMSlBhgsluQNWlfgTr258HlgcikEJNJiubCy4Bp5eB3z0ry6A-4Kl18TEdt8AZ5f2YJL2ddJ7E6=
+sbu6_eUzSRh59KHjKemWd28IIOUKZ4-G95SbuUVmaAmvU6b_0o2cZWch_B3WT6XMUN_d1TQR_9T=
+F2Hyehx2mGVqP-0aNn152AlZYK8msJrcRWO-74H5A1z_KzQO-Bl4Ta37oswZADRnMu0XO8BUs4T=
+ZAHpFbBdw/3am/v6Q7UoiEQqiqlPOVsmTa3g/h4/gCbgIJ4zrtRTwMwDq01lF-2SHURsScpBwd-=
+I0kKCo5I" style=3D"font-family:Arial, Verdana, sans-serif; font-size:12px; =
+line-height:14px; color:#000000; text-decoration:none;font-weight:bold;">In=
+k &amp; Toner</a></td><td height=3D"26" align=3D"center" valign=3D"middle" =
+style=3D"line-height:14px; font-family:arial, sans-serif; font-size:12px; c=
+olor:#000000;">&nbsp;&nbsp;|&nbsp;&nbsp;</td><td height=3D"26" align=3D"cen=
+ter" valign=3D"middle" style=3D"line-height:14px;"><a target=3D"_blank" hre=
+f=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5J=
+js8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMS=
+lBhgsluQNWlfgTr25Ly2yaijVMrpZ8FeRzoxZwhL35xmKd4Jx6vyqg7ke-eYlhp9_F1nZLEnJD3=
+_PS0QLrI0ObME3ZwhE7DNZNX0Mv26LNVCzCuUhw0tDR6NSCREEc75d8THt5IJRnHqWmgcHBKAZC=
+Vxl3mNZs1tjkH4OvV7mUe9tx7FcjPb28pNFyjvfbwiO1xs1jNo-fewg4Ekaheuo_y7M1E_Qv32j=
+5XEfbiLjh8P_YqMH9qb0l6sWgUM/3am/v6Q7UoiEQqiqlPOVsmTa3g/h5/cDFD-UftOGZDCox6q=
+VUcFP2yKS-dHO9hemAArDV9fGk" style=3D"font-family:Arial, Verdana, sans-serif=
+; font-size:12px; line-height:14px; color:#000000; text-decoration:none;fon=
+t-weight:bold;">Coffee &amp; Snacks</a></td><td height=3D"26" align=3D"cent=
+er" valign=3D"middle" style=3D"line-height:14px; font-family:arial, sans-se=
+rif; font-size:12px; color:#000000;">&nbsp;&nbsp;|&nbsp;&nbsp;</td><td heig=
+ht=3D"26" align=3D"center" valign=3D"middle" style=3D"line-height:14px;"><a=
+ target=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowK=
+SBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5o=
+teKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25f9gN6lR7B2ZLbY2CqMeumiVwlPN12C1_E1fx=
+hNaur3Sddrt2ujbCk2Ge-U8WAsnzVJf8LvdsCWqDRElfIWpWAvlsYfQIHs6185WkEeOHN9HQBqr=
+QoUHU0KqK5UPkgSFkqfT9nIBVWBwFGEBzgMTq6RZ9qZ833peQdtvkEuMoXtVkrQV-ySydx0OTri=
+kFblMOgfwECgjitiK1VZX51xlymmZosXVsByWmI_cP-dCM4DE/3am/v6Q7UoiEQqiqlPOVsmTa3=
+g/h6/AKHg0h57JjMGNjS80pYXdkgfdXOUtxHpcGsqg0KgjVU" style=3D"font-family:Aria=
+l, Verdana, sans-serif; font-size:12px; line-height:14px; color:#000000; te=
+xt-decoration:none;font-weight:bold;">Cleaning</a></td><td height=3D"26" al=
+ign=3D"center" valign=3D"middle" style=3D"line-height:14px; font-family:ari=
+al, sans-serif; font-size:12px; color:#000000;">&nbsp;&nbsp;|&nbsp;&nbsp;</=
+td><td height=3D"26" align=3D"center" valign=3D"middle" style=3D"line-heigh=
+t:14px;"><a target=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJ=
+W8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAl=
+kOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr258ti_dndC8XakkNanEFylZZwZW=
+xaepAeadNGv8ydlre7fm6_NdC07Py2OEIqoSp159gIsXeX3wCxLv4PbpLnpUOXWydJxwviLdcDu=
+TZs1uqhQa47FMcEDJnAQETnBezr2JA5dbme_9aMe3wkFR7f6K_4zIxAa-7aLSlHIpMWuPrmHmLj=
+k3C8sbmfcHQJzkzKXDYfncUjNGfv5aNWdFa62AyHCoYTZQf5GUEOPZ8ETpvY/3am/v6Q7UoiEQq=
+iqlPOVsmTa3g/h7/B-7EZ0FRTjdmx70ywUb5Xgu33bRl_9ND9v_jsPrNS3w" style=3D"font-=
+family:Arial, Verdana, sans-serif; font-size:12px; line-height:14px; color:=
+#000000; text-decoration:none;font-weight:bold;">Furniture</a></td><td heig=
+ht=3D"26" align=3D"center" valign=3D"middle" style=3D"line-height:14px; fon=
+t-family:arial, sans-serif; font-size:12px; color:#000000;">&nbsp;&nbsp;|&n=
+bsp;&nbsp;</td><td height=3D"26" align=3D"center" valign=3D"middle" style=
+=3D"line-height:14px;"><a target=3D"_blank" href=3D"http://visit.us.at.quil=
+l.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf=
+6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25Idqd0FEwIaZ=
+o_5g0q6HSSIFdZEOIEOCx9TAJ2HRur7FicWuyPqp5YETHIShEkxPbpnzmLc-2xfiWRFQy5HrTgA=
+Vd3iv240g85kM-cZ0khGPBodzDVVNJfc-LONp92yQZvTGPIhaDrUbAY55OjfwLZBadp4lTzJygZ=
+mv_HyL_ygrw2lZ5OY-6q12BYIarIZq3VVmf9ZY2t1FoM9fJzsFu8A/3am/v6Q7UoiEQqiqlPOVs=
+mTa3g/h8/QYLyOB1e0jmuOG8lMLSebGQTl9SBcBqPARPCTV4-HAA" style=3D"font-family:=
+Arial, Verdana, sans-serif; font-size:12px; line-height:14px; color:#000000=
+; text-decoration:none;font-weight:bold;">Technology</a></td><td width=3D"5=
+" height=3D"35" valign=3D"top"><img style=3D"display:block;" src=3D"http://=
+www.quill.com/s.gif" alt=3D"" width=3D"5" height=3D"35" /></td></tr></table=
+><table class=3D"showQuickLinks3table" width=3D"320" cellpadding=3D"0" cell=
+spacing=3D"0" bgcolor=3D"#ffffff" style=3D"display:none; font-size:0px; lin=
+e-height:0px; height:0px; margin:0; padding:0;"><!-- Quick Links(3) --><tr>=
+<td class=3D"MobileIconHei R3reorder" align=3D"center"><img src=3D"http://w=
+ww.quill.com/s.gif" alt=3D"" width=3D"38" height=3D"1"></td><td width=3D"66=
+" height=3D"1" align=3D"left" valign=3D"middle"><a class=3D"showQuickLinks3=
+a" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpeh=
+TrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58R=
+ul1sMSlBhgsluQNWlfgTr25k_I6W8ue6ewtgq2RdNfMGU4sqwP3xDZ3Kf29C6K1_sgGNvuAPvRC=
+miuGNIM3gp0-G7LeJh0EWq7Kj9TFULPye8ZffRkhbcJhmUsUTNXjd5Y5iliQWGesYFpAAFfs8oX=
+aOeMlHbAXBvvuYU9cQ_dc1NXFeD3KIKl_aOQVpyHgrcPS_UqQGlA-wUZo1KCiipSQJdNtIa8KUU=
+IaXCf-m2msN3fUBblkRuhh1X3fon3W-zqLZBLGx6-_InzEvyJo4Bl95jBh2kto9gpuz72QXrkt5=
+ZkYcbGcqeQWU7W8vKJ6C1_M_ez3jITB9ANBHRO0OlGGK7KhnBNSRJylWnlhsKb3sa23nqodLhtt=
+xQUQhGVUmxIAufux61q_hjEa4EWoc7mJ0dnLCgB6IV8NRtsXDmVtn3bVyPtzWKmfI84mMa0OCIY=
+h_nOdqwcJMqseDZKgN6vX/3am/v6Q7UoiEQqiqlPOVsmTa3g/h9/HaOKzC0zy5b8SceIOBXCKTy=
+b_FvxTqNPXMnzTmeAR8o" style=3D"display:none; font-family:Arial, Verdana, sa=
+ns-serif; font-size:0px; line-height:0px; height:0px; margin:0; padding:0; =
+color:#000000; text-decoration:none;">Reorder</a></td><td class=3D"showQuic=
+kLinks3td" width=3D"1" height=3D"1" bgcolor=3D"#999999" style=3D"display:no=
+ne; font-size:0px; line-height:0px; height:0px; margin:0; padding:0;"><img =
+style=3D"display:block;" src=3D"http://www.quill.com/s.gif" alt=3D"" width=
+=3D"1" height=3D"1"></td><td class=3D"MobileIconHei R3Coupon" align=3D"cent=
+er"><img src=3D"http://www.quill.com/s.gif" alt=3D"" width=3D"31" height=3D=
+"1"></td><td showQuickLinks3TD width=3D"66" height=3D"1" align=3D"left" val=
+ign=3D"middle"><a class=3D"showQuickLinks3a" href=3D"http://visit.us.at.qui=
+ll.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZD=
+f6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25H_dNpK0Cee=
+-9CmdNHroC7c7DdO908UY2nOEdkPUkNX3MHaAPQzT9fG8w6f7Tqh80zomFUteT1yjczYWEi7CUZ=
+WK3b5SdOCZRMUNJWaqZUNegsyAJN4b4ziJZ1AjUwHxOaUZKRS3YAy3MQJdy7jBZLa-ybyzB37ln=
+toD0reLL2KJfh-U5DWUhr1BqDw7_sXeV2fB_SFYKH97-mrBJ7_x2Bg/3am/v6Q7UoiEQqiqlPOV=
+smTa3g/h10/uF7oqdmZa_5sPGt1UUEPobpDDKd0PuGkksBPZ6o_nZU" style=3D"display:no=
+ne; font-family:Arial, Verdana, sans-serif; font-size:0px; line-height:0px;=
+ height:0px; margin:0; padding:0; color:#000000; text-decoration:none;">Cou=
+pons</a></td><td class=3D"showQuickLinks3td" width=3D"1" height=3D"1" bgcol=
+or=3D"#999999" style=3D"display:none; font-size:0px; line-height:0px; heigh=
+t:0px; margin:0; padding:0;"><img style=3D"display:block;" src=3D"http://ww=
+w.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"1"></td><td class=3D"Mobi=
+leIconHei R3FreeGift" align=3D"center"><img src=3D"http://www.quill.com/s.g=
+if" alt=3D"" width=3D"35" height=3D"1"></td><td showQuickLinks3TD width=3D"=
+66" height=3D"1" align=3D"left" valign=3D"middle"><a class=3D"showQuickLink=
+s3a" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZp=
+ehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R5=
+8Rul1sMSlBhgsluQNWlfgTr25H_dNpK0Cee-9CmdNHroC7c7DdO908UY2nOEdkPUkNX3MHaAPQz=
+T9fG8w6f7Tqh80zomFUteT1yjczYWEi7CUZWK3b5SdOCZRMUNJWaqZUNegsyAJN4b4ziJZ1AjUw=
+HxOaUZKRS3YAy3MQJdy7jBZLa-ybyzB37lntoD0reLL2KJfh-U5DWUhr1BqDw7_sXeV2fB_SFYK=
+H97-mrBJ7_x2Bg/3am/v6Q7UoiEQqiqlPOVsmTa3g/h11/L_Q4k7n9y57nYQt2sHccjrxt7fKGC=
+y9PEO77rata1sw" style=3D"display:none; font-family:Arial, Verdana, sans-ser=
+if; font-size:0px; line-height:0px; height:0px; margin:0; padding:0; color:=
+#000000; text-decoration:none;">Free Gifts</a></td></tr></table><!-- Deskto=
+p Nav Bar or Mobile Quick Links --><!-- new 2020 icon section --><table cla=
+ss=3D"remove" width=3D"640" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"=
+#005eb8"><tr><td width=3D"42" align=3D"right"><img src=3D"https://www.quill=
+.com/Content/EMAIL/2020/header/2020_header_reorder.gif" alt=3D"" width=3D"2=
+5" height=3D"25"></td><td width=3D"66" height=3D"1" align=3D"left" valign=
+=3D"middle" style=3D"font-family:Arial, Verdana, sans-serif; font-size:13px=
+; line-height:13px;"><a href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9h=
+enowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfk=
+jJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25k_I6W8ue6ewtgq2RdNfMGU4sqwP3xDZ=
+3Kf29C6K1_sgGNvuAPvRCmiuGNIM3gp0-G7LeJh0EWq7Kj9TFULPye8ZffRkhbcJhmUsUTNXjd5=
+Y5iliQWGesYFpAAFfs8oXaOeMlHbAXBvvuYU9cQ_dc1NXFeD3KIKl_aOQVpyHgrcPS_UqQGlA-w=
+UZo1KCiipSQJdNtIa8KUUIaXCf-m2msN3fUBblkRuhh1X3fon3W-zqLZBLGx6-_InzEvyJo4Bl9=
+EcpRP17dU-xKawZRokmRj0iFjsO8S0sVwBubagkzBmtHDt5l61ytyvH5WLXBrl91iuDE7Hxi4Xd=
+DJoVGMSau4mHJHnr3zwjCiKF0qPu8qr2MyiGA5bWV5h8DbUZqev5_W8kSSaddVh0Q9xhsZS3pQV=
+5BLm_-9479R-YaIlfkv2YAqcxv5Zrz8LCHE7ZnlEhG/3am/v6Q7UoiEQqiqlPOVsmTa3g/h12/J=
+Zr7DC7ln108noZQRSWSb6XKueKcdrI2QJHXJLXd1vc" target=3D"_blank" style=3D"font=
+-family:Arial, Verdana, sans-serif; font-size:13px; line-height:13px; color=
+:#ffffff; text-decoration:none;font-weight:bold;">Reorder</a></td><td width=
+=3D"50" align=3D"right"><img src=3D"https://www.quill.com/Content/EMAIL/202=
+0/header/2020_header_coupons.gif" alt=3D"" width=3D"25" height=3D"25"></td>=
+<td width=3D"66" align=3D"left" valign=3D"middle" style=3D"font-family:Aria=
+l, Verdana, sans-serif; font-size:13px; line-height:13px;"><a href=3D"http:=
+//visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v=
+4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNW=
+lfgTr25H_dNpK0Cee-9CmdNHroC7c7DdO908UY2nOEdkPUkNX3MHaAPQzT9fG8w6f7Tqh80zomF=
+UteT1yjczYWEi7CUZYp33LIOMm50hA2dlFLtSXdoGkQGXBOZ9MfR3XSLAW36Z-9yxmxlUQXqWtM=
+GwW4pSYbP2m1HSkrYCmr2vNOPp2xssslefvLLi9SC7B5DtEy2b6jp1Y-U034kfWL5qSCYWg/3am=
+/v6Q7UoiEQqiqlPOVsmTa3g/h13/xAcxGcNQucpgIfhi7tT1FF0Aw__c0nhi_S6iP28w_-E" ta=
+rget=3D"_blank" style=3D"font-family:Arial, Verdana, sans-serif; font-size:=
+13px; line-height:13px; color:#ffffff; text-decoration:none;font-weight:bol=
+d;">Coupons</a></td><td width=3D"50" align=3D"right"><img src=3D"https://ww=
+w.quill.com/Content/EMAIL/2020/header/2020_header_gifts.gif" alt=3D"" width=
+=3D"25" height=3D"25"></td><td width=3D"66" height=3D"1" align=3D"left" val=
+ign=3D"middle" style=3D"font-family:Arial, Verdana, sans-serif; font-size:1=
+3px; line-height:13px;"><a href=3D"http://visit.us.at.quill.com/ss/c/vnJW8V=
+T9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOC=
+cfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25H_dNpK0Cee-9CmdNHroC7c7DdO90=
+8UY2nOEdkPUkNX3MHaAPQzT9fG8w6f7Tqh80zomFUteT1yjczYWEi7CUZYp33LIOMm50hA2dlFL=
+tSXdoGkQGXBOZ9MfR3XSLAW36Z-9yxmxlUQXqWtMGwW4pSYbP2m1HSkrYCmr2vNOPp2xssslefv=
+LLi9SC7B5DtEy2b6jp1Y-U034kfWL5qSCYWg/3am/v6Q7UoiEQqiqlPOVsmTa3g/h14/L_KJaov=
+p5S3Y74TVjqclM3PWX7BagQB0wPn16wtlqOI" target=3D"_blank" style=3D"font-famil=
+y:Arial, Verdana, sans-serif; font-size:13px; line-height:13px; color:#ffff=
+ff; text-decoration:none;font-weight:bold;">Free Gifts</a></td><td width=3D=
+"50" align=3D"right"><img src=3D"https://www.quill.com/Content/EMAIL/2020/h=
+eader/2020_header_quillcash.gif" alt=3D"" width=3D"25" height=3D"25"></td><=
+td width=3D"66" align=3D"left" valign=3D"middle" style=3D"font-family:Arial=
+, Verdana, sans-serif;font-weight:bold; font-size:13px; line-height:13px; c=
+olor:#ffffff;padding-left:4px;"><a href=3D"http://visit.us.at.quill.com/ss/=
+c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfM=
+dteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25Km5oY2-xVuq-juBsYHw6=
+m5Pa_nqMverLZeIDcKw-oNlQNW5SbUZhQdugS6pffTecV_bp4ldKkZ8R8byd0YBCM7EehHPZmjR=
+WelhJJZpVEF7yLXtJ1W2Fndl7pevqzW1A0fm9H68OkeqBFI80smsZDiwHXdrRX-gQwWbtbU-eLo=
+I14uFsGWYW-x7fRB7zgQCBV0Fr6CLrfHCE_TR4KMY29M2iQHVcqi9FRN_AyqkvQps/3am/v6Q7U=
+oiEQqiqlPOVsmTa3g/h15/uvLuTS5LmVeLLECUg30Dd7khMiijWHrBM8zYOq1LK-0" style=3D=
+"font-family:Arial, Verdana, sans-serif; font-size:13px; line-height:13px;c=
+olor:#ffffff;">$0.00</a>*</td></tr></table><!--End new 2020 icon section-->=
+<!-- BEGIN CREATIVE --><style type=3D"text/css"> @media screen and (max-wid=
+th: 640px){ *[class].hei946{ height: 946px !important;display:block;} *[cla=
+ss].D18_06_027_050101_320{ background-image: url('https://www.quill.com/Con=
+tent/EMAIL/2018/06/027/D18_06_027_050101_320.jpg') !important;background-re=
+peat:no-repeat;}*[class].hei115{ height: 115px !important;display:block;} *=
+[class].D18_06_027_170101_320{ background-image: url('https://www.quill.com=
+/Content/EMAIL/2018/06/027/D18_06_027_170101_320.jpg') !important;backgroun=
+d-repeat:no-repeat;}*[class].hei136{ height: 136px !important;display:block=
+;} *[class].D18_06_027_040101_320{ background-image: url('https://www.quill=
+.com/Content/EMAIL/2018/06/027/D18_06_027_040101_320.jpg') !important;backg=
+round-repeat:no-repeat;}*[class].hei400{ height: 400px !important;display:b=
+lock;} *[class].D18_06_027_180101_320{ background-image: url('https://www.q=
+uill.com/Content/EMAIL/2018/06/027/D18_06_027_180101_320.jpg') !important;b=
+ackground-repeat:no-repeat;}*[class].hei400{ height: 400px !important;displ=
+ay:block;} *[class].D18_06_027_180101_320{ background-image: url('https://w=
+ww.quill.com/Content/EMAIL/2018/06/027/D18_06_027_180101_320.jpg') !importa=
+nt;background-repeat:no-repeat;}*[class].hei400{ height: 400px !important;d=
+isplay:block;} *[class].D19_03_001_060101_320{ background-image: url('https=
+://www.quill.com/Content/EMAIL/2019/03/002/E19_03_002_060202_320.jpg') !imp=
+ortant;background-repeat:no-repeat;}*[class].hei{ height: px !important;dis=
+play:block;} *[class]._320{ background-image: url('') !important;background=
+-repeat:no-repeat;}*[class].hei{ height: px !important;display:block;} *[cl=
+ass]._320{ background-image: url('') !important;background-repeat:no-repeat=
+;}*[class].hei{ height: px !important;display:block;} *[class]._320{ backgr=
+ound-image: url('') !important;background-repeat:no-repeat;}*[class].hei{ h=
+eight: px !important;display:block;} *[class]._320{ background-image: url('=
+') !important;background-repeat:no-repeat;}*[class].hei{ height: px !import=
+ant;display:block;} *[class]._320{ background-image: url('') !important;bac=
+kground-repeat:no-repeat;}*[class].hei{ height: px !important;display:block=
+;} *[class]._320{ background-image: url('') !important;background-repeat:no=
+-repeat;}*[class].hei{ height: px !important;display:block;} *[class]._320{=
+ background-image: url('') !important;background-repeat:no-repeat;}*[class]=
+.hei{ height: px !important;display:block;} *[class]._320{ background-image=
+: url('') !important;background-repeat:no-repeat;}*[class].hei{ height: px =
+!important;display:block;} *[class]._320{ background-image: url('') !import=
+ant;background-repeat:no-repeat;}*[class].hei{ height: px !important;displa=
+y:block;} *[class]._320{ background-image: url('') !important;background-re=
+peat:no-repeat;} } </style><style type=3D"text/css"> @media screen and (max=
+-width: 640px){ *[class].hei351{ height: 351px !important;display:block;} *=
+[class].D16_12_047_280102A_320{ background-image: url('https://www.quill.co=
+m/Content/EMAIL/2017/09/000/E17_00_105_060101_320.jpg') !important;backgrou=
+nd-repeat:no-repeat;}*[class].hei{ height: px !important;display:block;} *[=
+class]._320{ background-image: url('') !important;background-repeat:no-repe=
+at;}*[class].hei{ height: px !important;display:block;} *[class]._320{ back=
+ground-image: url('') !important;background-repeat:no-repeat;}*[class].hei{=
+ height: px !important;display:block;} *[class]._320{ background-image: url=
+('') !important;background-repeat:no-repeat;}*[class].hei{ height: px !impo=
+rtant;display:block;} *[class]._320{ background-image: url('') !important;b=
+ackground-repeat:no-repeat;}*[class].hei{ height: px !important;display:blo=
+ck;} *[class]._320{ background-image: url('') !important;background-repeat:=
+no-repeat;}*[class].hei{ height: px !important;display:block;} *[class]._32=
+0{ background-image: url('') !important;background-repeat:no-repeat;}*[clas=
+s].hei{ height: px !important;display:block;} *[class]._320{ background-ima=
+ge: url('') !important;background-repeat:no-repeat;}*[class].hei{ height: p=
+x !important;display:block;} *[class]._320{ background-image: url('') !impo=
+rtant;background-repeat:no-repeat;}*[class].hei{ height: px !important;disp=
+lay:block;} *[class]._320{ background-image: url('') !important;background-=
+repeat:no-repeat;}*[class].hei{ height: px !important;display:block;} *[cla=
+ss]._320{ background-image: url('') !important;background-repeat:no-repeat;=
+}*[class].hei{ height: px !important;display:block;} *[class]._320{ backgro=
+und-image: url('') !important;background-repeat:no-repeat;}*[class].hei{ he=
+ight: px !important;display:block;} *[class]._320{ background-image: url(''=
+) !important;background-repeat:no-repeat;}*[class].hei{ height: px !importa=
+nt;display:block;} *[class]._320{ background-image: url('') !important;back=
+ground-repeat:no-repeat;}*[class].hei{ height: px !important;display:block;=
+} *[class]._320{ background-image: url('') !important;background-repeat:no-=
+repeat;}*[class].hei{ height: px !important;display:block;} *[class]._320{ =
+background-image: url('') !important;background-repeat:no-repeat;} } </styl=
+e><table class=3D"w320" width=3D"640" cellpadding=3D"0" cellspacing=3D"0"><=
+tr><td align=3D"left" bgcolor=3D"#ffffff" class=3D"w320" width=3D"640" styl=
+e=3D"color:#666666; font-family:arial; font-size: 14px; line-height: 18px; =
+padding: 0px 20px 0px 20px;"> </td></tr></table><!-- Full width text only -=
+-><table class=3D"w320" width=3D"640" cellpadding=3D"0" cellspacing=3D"0" B=
+Gcolor=3D"#fbfbfb"><tr><td align=3D"left" bgcolor=3D"#F9F9F9" class=3D"w320=
+" width=3D"640" style=3D"color:#F9F9F9; font-family:arial; font-size: 18px;=
+ line-height: 18px; padding: 20px 20px 10px 20px;"><p style=3D"color:#4C4C4=
+C; font-family:arial; font-size: 18px; line-height: 22px;"><center><font fa=
+ce=3D"verdana" size=3D"6" color=3D"black">I'm Glad We Spoke!</font><br /><b=
+r /><center><font face=3D"verdana" size=3D"3" color=3D"black">Here are some=
+ offers just for you!</font><br /><br /></p></td></tr></table><!-- END Full=
+ width text only --><!-- Double Coupon ------------------------------------=
+------------------ Start --><table class=3D"w320" width=3D"640" cellpadding=
+=3D"0" cellspacing=3D"0" ><tr><!-- MOBILE IMAGE --><td class=3D"c50pc100pc =
+hei136 D18_07_039_040102_320" width=3D"320"><a href=3D"http://visit.us.at.q=
+uill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHK=
+ZDf6sNizCbfMdteAlkOCcfkjA-pV0t6-bb7_LmNUDHK0CQ/3am/v6Q7UoiEQqiqlPOVsmTa3g/h=
+16/Hnq1G8mMXuxmVCerEIyMZm52F72yaHJpgSxjeRicYiU"><img class=3D"w320 hei136" =
+style=3D"display: block; font-family: Arial, Verdana, sans-serif; font-size=
+: 24px; line-height: 28px; color: #0071be;" src=3D"http://www.quill.com/ima=
+ges/products/catalog/Content/2014/08/018/spa.gif" width=3D"640" height=3D"1=
+" border=3D"0" alt=3D"Thanks for the chat!"></a></td></tr><tr class=3D"remo=
+ve"><!-- DESKTOP IMAGE --><td class=3D"remove" width=3D"640"><a href=3D"htt=
+p://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ=
+0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjA-pV0t6-bb7_LmNUDHK0CQ/3am/v6Q7Uoi=
+EQqiqlPOVsmTa3g/h17/6XcuLBy9oqqn_oStslvnQ5s68yj2py8b2eEDcZwnGpw"><img style=
+=3D"display: block; font-family: Arial, Verdana, sans-serif; font-size: 24p=
+x; line-height: 28px; color: #0071be;" src=3D"" width=3D"640" height=3D"86"=
+ border=3D"0" alt=3D""></a></td></tr></table><table class=3D"w320" width=3D=
+"640" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#F9F9F9"><tr><td><!-- =
+Headline and Image - Start --><!-- Headline and Image - END --></td></tr><t=
+r><td class=3D"w320" width=3D"640" align=3D"center" bgcolor=3D"#F9F9F9"><!-=
+- Coupon - Start --><table class=3D"w320" width=3D"640" cellpadding=3D"0" c=
+ellspacing=3D"0" bgcolor=3D"#F9F9F9"><tr><td class=3D"c50pc100pc" width=3D"=
+310" align=3D"center" valign=3D"top" ><!-- left coupon - Start --><table wi=
+dth=3D"100%" cellpadding=3D"0" cellspacing=3D"0"><tr><td align=3D"center"><=
+table width=3D"95%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" style=
+=3D"background:#FFFFFF; color:#000000; border:1px dashed #000000;"><tr><td>=
+<img src=3D"https://www.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"10"=
+ style=3D"display:block;"></td></tr><tr><td align=3D"center" style=3D"font-=
+family:arial,helvetica,sans-serif; font-size: 18px; line-height:18px; color=
+:#35bdb4"><span></span></td></tr><tr><td><img src=3D"https://www.quill.com/=
+s.gif" alt=3D"" width=3D"1" height=3D"3" style=3D"display:block;"></td></tr=
+><!-- CMS Coupon 1 dollars off amount --><tr><td align=3D"center" style=3D"=
+font-family:arial,helvetica,sans-serif; font-size: 32px; line-height:40px; =
+color:#35bdb4"><sup style=3D"font-size: .75em; line-height: .5em; font-fami=
+ly: arial, sans-serif; vertical-align: .55em;">$</sup> 20 off </td></tr><tr=
+><td align=3D"center" style=3D"font-family:arial,helvetica,sans-serif; font=
+-size: 12px; line-height:12px; color:#000000"> when you spend $60 on your o=
+rder.<sup style=3D"font-size:.6em; line-height:0; vertical-align:9px;">(1)<=
+/sup></td></tr><tr><td><img src=3D"https://www.quill.com/s.gif" alt=3D"" wi=
+dth=3D"1" height=3D"20" style=3D"display:block;"></td></tr><tr><td style=3D=
+"font-family: arial, helvetica, sans-serif; font-size: 18px; line-height: 2=
+2px; color:#000000;" height=3D"25" align=3D"center" valign=3D"top"><table s=
+tyle=3D"width:191px; height:22px;" bgcolor=3D"#CECECE" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0"><tr><td height=3D"28" align=3D"left" style=3D"=
+font-family: 'Arial', 'Verdana', 'Helvetica', sans-serif; font-size: 18px; =
+line-height:18px; font-weight:normal; color: #000000; text-align:center; ">=
+<span height=3D"28" align=3D"right" style=3D"font-family: 'Arial', 'Verdana=
+', 'Helvetica', sans-serif; font-size: 12px; line-height:12px; color: #0000=
+00; text-align:center; ">Use code</span><input type=3D"hidden" value=3D"QT9=
+DLR3X">2JC68XT7</td></tr></table></td></tr><tr><td style=3D"font-family: ar=
+ial, helvetica, sans-serif; font-size: 10px; line-height:10px; color:#66666=
+6; padding-top:5px;" align=3D"center">Copy code into coupon box at checkout=
+.</td></tr><tr><td><img src=3D"https://www.quill.com/s.gif" alt=3D"" width=
+=3D"1" height=3D"10" style=3D"display:block;"></td></tr><tr><td><table styl=
+e=3D"width:112px; height:28px;" align=3D"center" bgcolor=3D"#FDCC09" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td style=3D"font-family: 'A=
+rial', 'Verdana', 'Helvetica', sans-serif; font-size: 14px; line-height:14p=
+x;color: #000000; text-align:center; " height=3D"28"><a href=3D"http://visi=
+t.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_=
+I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr2=
+5H_dNpK0Cee-9CmdNHroC7c7DdO908UY2nOEdkPUkNX0_TD2KkJ3mcpNBfXGefrJQMx6mhBlA-V=
+F-xoX-hNfbPfcgXgyO6ROrfsaud2_U3nSFw2BKiX02CpyvVTwTAdw3mcUR1hwsWnWuU5VrCZOz8=
+_aGpdRxRzzEjYh2AyJqQd9arFTz1niIV8BEjCHEZjC3lwVxPB99o5AevdwC6D2Jdw/3am/v6Q7U=
+oiEQqiqlPOVsmTa3g/h18/1i-3fRBjCslsn_1HTmoh30z3nbU2z_MFXilthUlD2eI" target=
+=3D"_blank" style=3D"text-decoration:none;"><span style=3D"color:#58585A;">=
+Shop Now</span></a></td></tr></table></td></tr><tr><td><img src=3D"https://=
+www.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"3" style=3D"display:blo=
+ck;"></td></tr><tr><td style=3D"font-family: arial, helvetica, sans-serif; =
+font-size: 10px; line-height:11px; color:#666666;" align=3D"center" width=
+=3D"100%">Valid For 30 Days<br>One-time use.<br>&nbsp;</td></tr><tr><td><im=
+g src=3D"https://www.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"3" sty=
+le=3D"display:block;"></td></tr></table></td></tr></table><!-- left coupon =
+- END --></td><td class=3D"c50pc100pc" width=3D"8" align=3D"center" valign=
+=3D"middle"><img class=3D"w320" style=3D"display:block;" src=3D"http://www.=
+quill.com/s.gif" width=3D"8" height=3D"8" /></td><td class=3D"c50pc100pc" w=
+idth=3D"310" align=3D"center" valign=3D"top" ><!-- Right coupon Module - St=
+art --><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0"><tr><td al=
+ign=3D"center"><table width=3D"95%" cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" style=3D"background:#FFFFFF; color:#000000; border:1px dashed #00=
+0000;"><tr><td><img src=3D"https://www.quill.com/s.gif" alt=3D"" width=3D"1=
+" height=3D"10" style=3D"display:block;"></td></tr><tr><td align=3D"center"=
+ style=3D"font-family:arial,helvetica,sans-serif; font-size: 18px; line-hei=
+ght:18px; color:#35bdb4"><span></span></td></tr><tr><td><img src=3D"https:/=
+/www.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"3" style=3D"display:bl=
+ock;"></td></tr><tr><td align=3D"center" style=3D"font-family:arial,helveti=
+ca,sans-serif; font-size: 32px; line-height:40px; color:#35bdb4"><sup style=
+=3D"font-size: .75em; line-height: .5em; font-family: arial, sans-serif; ve=
+rtical-align: .55em;">$</sup> 30 off </td></tr><tr><td align=3D"center" sty=
+le=3D"font-family:arial,helvetica,sans-serif; font-size: 12px; line-height:=
+12px; color:#000000"> when you spend $150 on your order.<sup style=3D"font-=
+size:.6em; line-height:0; vertical-align:9px;">(1)</sup></td></tr><tr><td><=
+img src=3D"https://www.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"20" =
+style=3D"display:block;"></td></tr><tr><td style=3D"font-family: arial, hel=
+vetica, sans-serif; font-size: 18px; line-height: 22px; color:#000000;" hei=
+ght=3D"25" align=3D"center" valign=3D"top"><table style=3D"width:191px; hei=
+ght:22px;" bgcolor=3D"#CECECE" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tr><td height=3D"28" align=3D"left" style=3D"font-family: 'Arial', =
+'Verdana', 'Helvetica', sans-serif; font-size: 18px; line-height:18px; font=
+-weight:normal; color: #000000; text-align:center; "><span height=3D"28" al=
+ign=3D"right" style=3D"font-family: 'Arial', 'Verdana', 'Helvetica', sans-s=
+erif; font-size: 12px; line-height:12px; color: #000000; text-align:center;=
+ ">Use code</span><input type=3D"hidden" value=3D"QT8DLR8Y">3VU9XS4R</td></=
+tr></table></td></tr><tr><td style=3D"font-family: arial, helvetica, sans-s=
+erif; font-size: 10px; line-height:10px; color:#666666; padding-top:5px;" a=
+lign=3D"center">Copy code into coupon box at checkout.</td></tr><tr><td><im=
+g src=3D"https://www.quill.com/s.gif" alt=3D"" width=3D"1" height=3D"10" st=
+yle=3D"display:block;"></td></tr><tr><td><table style=3D"width:112px; heigh=
+t:28px;" align=3D"center" bgcolor=3D"#FDCC09" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0"><tr><td style=3D"font-family: 'Arial', 'Verdana', 'Helv=
+etica', sans-serif; font-size: 14px; line-height:14px;color: #000000; text-=
+align:center; " height=3D"28"><a href=3D"http://visit.us.at.quill.com/ss/c/=
+vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdt=
+eAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25H_dNpK0Cee-9CmdNHroC7c=
+7DdO908UY2nOEdkPUkNX0_TD2KkJ3mcpNBfXGefrJQMx6mhBlA-VF-xoX-hNfbPfcgXgyO6ROrf=
+saud2_U3nSFw2BKiX02CpyvVTwTAdw3mcUR1hwsWnWuU5VrCZOz8_aGpdRxRzzEjYh2AyJqQd9a=
+rFTz1niIV8BEjCHEZjC3lwVxPB99o5AevdwC6D2Jdw/3am/v6Q7UoiEQqiqlPOVsmTa3g/h19/z=
+SLkFm17DrXN7tJymhvJ5Uizpnmd_OkB4UkYQc0b3cY" target=3D"_blank" style=3D"text=
+-decoration:none;"><span style=3D"color:#58585A;">Shop Now</span></a></td><=
+/tr></table></td></tr><tr><td><img src=3D"https://www.quill.com/s.gif" alt=
+=3D"" width=3D"1" height=3D"3" style=3D"display:block;"></td></tr><tr><td s=
+tyle=3D"font-family: arial, helvetica, sans-serif; font-size: 10px; line-he=
+ight:11px; color:#666666;" align=3D"center" width=3D"100%">Valid For 30 Day=
+s<br>One-time use.<br>&nbsp;</td></tr><tr><td><img src=3D"https://www.quill=
+.com/s.gif" alt=3D"" width=3D"1" height=3D"3" style=3D"display:block;"></td=
+></tr></table></td></tr></table><!-- Right coupon Module - END --></td></tr=
+><tr><td colspan=3D"3"><img style=3D"display:block;" src=3D"https://www.qui=
+ll.com/s.gif" alt=3D"" width=3D"1" height=3D"8" /></td></tr></table><!-- Co=
+upons - END --></td></tr></table><!-- 50% Module--><table class=3D"w320" wi=
+dth=3D"640" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"c50pc100pc=
+" width=3D"320" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"><table =
+class=3D"w320" width=3D"640" cellpadding=3D"0" cellspacing=3D"0" ><tr><!-- =
+DESKTOP/MOBILE IMAGE --><td width=3D"640"><a target=3D"_blank" href=3D"http=
+://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0=
+v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQN=
+WlfgTr25H_dNpK0Cee-9CmdNHroC7c7DdO908UY2nOEdkPUkNX0_TD2KkJ3mcpNBfXGefrJQMx6=
+mhBlA-VF-xoX-hNfbPSULWtiAzxTxX_ivC--euShtUAMa8fA5QIYs5_xktxmcg3UffNwsaGOP_V=
+64Rtz7cj-2atZwC8tqV09w526LA93cwQkvNUIsRoCYA2HM3KAsYj-IKYLTWS-OwWPcFhV_sw/3a=
+m/v6Q7UoiEQqiqlPOVsmTa3g/h20/dTZQS1KEzTrXWzb0VdBrtgnOBFPUkW_Ithd3NmoIbGY"><=
+span class=3D"hei250 $%u_ad_offercodename%$_320"><img class=3D"remove" styl=
+e=3D"display: block; font-family: Arial, Verdana, sans-serif; font-size: 24=
+px; line-height: 28px; color: #0071be;" src=3D"https://www.quill.com/Conten=
+t/EMAIL/2019/09/028/E19_09_028_170101_640.jpg" width=3D"640" height=3D"182"=
+ border=3D"0" alt=3D"Want more coupon options?"></span></a></td></tr></tabl=
+e></td><!-- right offer --><td class=3D"c50pc100pc" width=3D"320" align=3D"=
+center" valign=3D"top" bgcolor=3D"#ffffff"><!-- right module --></td></tr><=
+/table><!-- 50% Module - END--><!-- 50% Module--><table class=3D"w320" widt=
+h=3D"640" cellpadding=3D"0" cellspacing=3D"0"><tr><td class=3D"c50pc100pc" =
+width=3D"320" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"><!--Half =
+module: DASH R_half_Mod_2019_B Start--><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"319"><tr><td align=3D"left" class=3D"W320"><ta=
+ble width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td=
+ height=3D"5"><img src=3D"https://www.quill.com/s.gif" width=3D"10" height=
+=3D"5" style=3D"display:block; border:none"></td></tr></table><table width=
+=3D"318" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr height=3D"7">=
+<td width=3D"5" style=3D"height:5px;"><img src=3D"https://www.quill.com/s.g=
+if" width=3D"5" height=3D"6" style=3D"display:inline; border:none" /></td><=
+td valign=3D"bottom" width=3D"1" style=3D"height:30px;"><img src=3D"https:/=
+/www.quill.com/content/iw/adv/2020/02/039/promise-badge.png" alt=3D"" width=
+=3D"" height=3D"30" style=3D"display:inline; border:none" /></td><td valign=
+=3D"middle" height=3D"30" style=3D"height:30px; font-family: Arial, Helveti=
+ca, sans-serif; font-size: 20px; mso-line-height-rule: 20px; line-height:20=
+px; text-align:left; color:#0071be;">Hammermill Copy Plus Paper</td></tr></=
+table><table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+"><tr><td height=3D"5"><img src=3D"https://www.quill.com/s.gif" width=3D"10=
+" height=3D"5" style=3D"display:block; border:none"></td></tr></table><tabl=
+e cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"318"><tr><td st=
+yle=3D"padding:0 5px 0 5px;" valign=3D"top"><table height=3D"150px" width=
+=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td width=3D=
+"1" valign=3D"top" style=3D"height:22px; font-family: Arial, Helvetica, san=
+s-serif; text-align:left; mso-line-height-rule:22px; line-height:22px; "><i=
+mg src=3D"https://www.quill.com/s.gif" width=3D"1" height=3D"65" style=3D"d=
+isplay:block; border:none"/></td><td valign=3D"top"><table width=3D"100%" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0"><tr><td height=3D"20" valig=
+n=3D"top" style=3D"height:20px; font-family: Arial, Helvetica, sans-serif; =
+text-align:left; mso-line-height-rule:20px; line-height:20px; "><span style=
+=3D"font-size: 20px; font-weight:bold; color:#ec4e1b;">$27.99 </span><span =
+style=3D"font-size: 20px; font-weight:bold; color:#1c5ab8;"><Br>With Qualif=
+ying Order</span></td></tr></table></td></tr><tr><td valign=3D"bottom" widt=
+h=3D"1" height=3D"14" style=3D"font-family: Arial, Helvetica, sans-serif; t=
+ext-align:left; height:14px; mso-line-height-rule:14px; line-height:14px; "=
+><img src=3D"https://www.quill.com/s.gif" width=3D"1" height=3D"14" style=
+=3D"display:block; border:none"/></td><td valign=3D"top" height=3D"14px" st=
+yle=3D"font-family: Arial, Helvetica, sans-serif; text-align:left; height:1=
+4px; mso-line-height-rule:14px; line-height:14px; "><span style=3D"font-siz=
+e: 12px; color:#0071be; font-weight:bold">&nbsp;</span></td></tr><tr><td wi=
+dth=3D"1" rowspan=3D"2"><img src=3D"https://www.quill.com/s.gif" width=3D"1=
+" height=3D"52" style=3D"display:block; border:none"/></td><td width=3D"125=
+" height=3D"24" align=3D"left" valign=3D"bottom"><table width=3D"130" heigh=
+t=3D"30" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#fccd0=
+9"><tr><td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 1=
+4px; line-height:14px; color:#0071be; padding: 5px 0 5px 0; text-align:cent=
+er; font-weight:normal;"><a style=3D"color:#4d4d4e; text-decoration:none;" =
+href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrB=
+X5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1=
+sMSlBhgsluQNWlfgTr253g2kVjCzd1EaLnN1ZJpQeErKqUOgVQMZ5jxCTyuJCRy6a9Vrr4EnF-g=
+9LXuiVzyZdPItDpO2SLVXdEUr8inYBln9tIZKXwlBhfli23ZeO3NPxV4qOzRLfEtfv8axSGSgZ-=
+gCUCoHVGgh31rgtnf_IYXC650Nul9bkUWDs0hvpJxBvRWOrHOHoPgc1eRA1-v-ARkuUsbvnrQ9c=
+UOMZTUDrR1cMs8A2r0du-0r05Eg1r4UzZuNc1pZXgMcLRT0GDoAoUmtYl3qkOBT74WW6YOceGU5=
+S0k_RIo47TDrDXuLlwTNoDCfTnaqSxzTvlhBsS9puaESMugPfOi2JBm3icoJSDjwuS5xfEPdMfh=
+EavwP8G7lYipxELysmPwanXCh43twvHFWBA4lJSHj2tkR_zIwsibPf7nXoDaA2r9QUKnyM6M/3a=
+m/v6Q7UoiEQqiqlPOVsmTa3g/h21/wFZEAxynQ_Fo6T6nTA1EWQ4pirggjPaHFG2peLAA-rs" t=
+arget=3D"_blank">Shop Now</a></td></tr></table></td></tr><tr><td align=3D"l=
+eft" height=3D"22" valign=3D"top" style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size: 10px; mso-line-height-rule:10px; line-height:10px; co=
+lor:#666666; padding: 5px 0 0 0;">Valid Through 03/31/2021</td></tr></table=
+></td><td valign=3D"bottom" align=3D"left" width=3D"150" style=3D"padding:0=
+ 5px 0 0;"><a href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem=
+4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJR=
+ArW78f7R58Rul1sMSlBhgsluQNWlfgTr253g2kVjCzd1EaLnN1ZJpQeErKqUOgVQMZ5jxCTyuJC=
+Ry6a9Vrr4EnF-g9LXuiVzyZdPItDpO2SLVXdEUr8inYBln9tIZKXwlBhfli23ZeO3NPxV4qOzRL=
+fEtfv8axSGSgZ-gCUCoHVGgh31rgtnf_IYXC650Nul9bkUWDs0hvpJxBvRWOrHOHoPgc1eRA1-v=
+-ARkuUsbvnrQ9cUOMZTUDrR1cMs8A2r0du-0r05Eg1r4UzZuNc1pZXgMcLRT0GDoAoUmtYl3qkO=
+BT74WW6YOceGU5S0k_RIo47TDrDXuLlwTNoDCfTnaqSxzTvlhBsS9puaESMugPfOi2JBm3icoJS=
+DjwuS5xfEPdMfhEavwP8G7lYipxELysmPwanXCh43twvHFWBA4lJSHj2tkR_zIwsibPf7nXoDaA=
+2r9QUKnyM6M/3am/v6Q7UoiEQqiqlPOVsmTa3g/h22/JY4K9RJ9pJtFzDlZK-uTWUzbbiwqkSN2=
+108BLzxsbWk"><img src=3D"https://www.quill.com/is/image/Quill/s1183916_s7?$=
+156$" alt=3D"Hammermill Copy Plus Paper" width=3D"150" height=3D"150" style=
+=3D"display:block; border:none" /></a></td></tr></table></td></tr><tr><td><=
+table cellpadding=3D"0" cellspacing=3D"0" height=3D"1px" width=3D"100%"><tr=
+><td height=3D"1" valign=3D"top" bgcolor=3D"#ffffff"><img src=3D"https://ww=
+w.quill.com/s.gif" width=3D"318" height=3D"1" style=3D"display:block; borde=
+r:none"></td></tr><tr><td height=3D"1" valign=3D"top" bgcolor=3D"#666666"><=
+img src=3D"https://www.quill.com/s.gif" width=3D"318" height=3D"1" style=3D=
+"display:block; border:none"></td></tr></table></td></tr></table><!--Half m=
+odule: R_half_Mod_2018 END--></td><!-- right offer --><td class=3D"c50pc100=
+pc" width=3D"320" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"><!-- =
+right module --><!--Half module: DASH R_half_Mod_2019_B Start--><table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"319"><tr><td align=3D=
+"left" class=3D"W320"><table width=3D"100%" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td height=3D"5"><img src=3D"https://www.quill.com/s.=
+gif" width=3D"10" height=3D"5" style=3D"display:block; border:none"></td></=
+tr></table><table width=3D"318" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"><tr height=3D"7"><td width=3D"5" style=3D"height:5px;"><img src=3D"h=
+ttps://www.quill.com/s.gif" width=3D"5" height=3D"6" style=3D"display:inlin=
+e; border:none" /></td><td valign=3D"bottom" width=3D"1" style=3D"height:30=
+px;"><img src=3D"" alt=3D"" width=3D"" height=3D"30" style=3D"display:inlin=
+e; border:none" /></td><td valign=3D"middle" height=3D"30" style=3D"height:=
+30px; font-family: Arial, Helvetica, sans-serif; font-size: 20px; mso-line-=
+height-rule: 20px; line-height:20px; text-align:left; color:#0071be;">Quill=
+ Brand Multipurpose Copy Paper</td></tr></table><table width=3D"100%" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tr><td height=3D"5"><img src=
+=3D"https://www.quill.com/s.gif" width=3D"10" height=3D"5" style=3D"display=
+:block; border:none"></td></tr></table><table cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" width=3D"318"><tr><td style=3D"padding:0 5px 0 5px;" va=
+lign=3D"top"><table height=3D"150px" width=3D"100%" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0"><tr><td width=3D"1" valign=3D"top" style=3D"heigh=
+t:22px; font-family: Arial, Helvetica, sans-serif; text-align:left; mso-lin=
+e-height-rule:22px; line-height:22px; "><img src=3D"https://www.quill.com/s=
+.gif" width=3D"1" height=3D"65" style=3D"display:block; border:none"/></td>=
+<td valign=3D"top"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0"><tr><td height=3D"20" valign=3D"top" style=3D"height:20px; f=
+ont-family: Arial, Helvetica, sans-serif; text-align:left; mso-line-height-=
+rule:20px; line-height:20px; "><span style=3D"font-size: 20px; font-weight:=
+bold; color:#ec4e1b;">$29.99 </span><span style=3D"font-size: 20px; font-we=
+ight:bold; color:#1c5ab8;"><Br></span></td></tr></table></td></tr><tr><td v=
+align=3D"bottom" width=3D"1" height=3D"14" style=3D"font-family: Arial, Hel=
+vetica, sans-serif; text-align:left; height:14px; mso-line-height-rule:14px=
+; line-height:14px; "><img src=3D"https://www.quill.com/s.gif" width=3D"1" =
+height=3D"14" style=3D"display:block; border:none"/></td><td valign=3D"top"=
+ height=3D"14px" style=3D"font-family: Arial, Helvetica, sans-serif; text-a=
+lign:left; height:14px; mso-line-height-rule:14px; line-height:14px; "><spa=
+n style=3D"font-size: 12px; color:#0071be; font-weight:bold">&nbsp;</span><=
+/td></tr><tr><td width=3D"1" rowspan=3D"2"><img src=3D"https://www.quill.co=
+m/s.gif" width=3D"1" height=3D"52" style=3D"display:block; border:none"/></=
+td><td width=3D"125" height=3D"24" align=3D"left" valign=3D"bottom"><table =
+width=3D"130" height=3D"30" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" bgcolor=3D"#fccd09"><tr><td style=3D"font-family: Arial, Helvetica, sans-=
+serif; font-size: 14px; line-height:14px; color:#0071be; padding: 5px 0 5px=
+ 0; text-align:center; font-weight:normal;"><a style=3D"color:#4d4d4e; text=
+-decoration:none;" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowK=
+SBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5o=
+teKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25yFwhDcRN3CSQlaYzaSe5HbpYy3L4w8NNNtfi=
+phxn-xT0UgYkksllwh8KrbcnYpvES8amlNsFkK8IHcpQoNoGj6af7Z-mqsToqAul6Skq0oKWPvB=
+T29oYKJvvgPWL1sL7iSQjynjT1pCIUlocFzu70Te1qNL-FAzldabIbAcaKhTu6HSNKwWOqdj8aP=
+i9rjLZRSlTzlWA6R9UyXIqr2daCbGJJsjMvAUZDkwkTcyGNJa6iA5nMdyVRFe3cnf9gxjkerj3O=
+P1-TLJVjqyTVGhSwftBOAYx1ek78ggneSWhGYzMEfFkhllWuWkK1gNmHDCcETM5dPu-gEjHYtvV=
+qJht6lhv3qR80QshYxwoknvoNak5WJJggO24kfk22fZIwM2uN2ZTJY0GkgdOAGw5psn0LKx-Efj=
+BAv-jnh13nAB44LU/3am/v6Q7UoiEQqiqlPOVsmTa3g/h23/TjpFz_5V2iDSSs5ipj3lA38zc30=
+PUmu4pzBkBG4PoeI" target=3D"_blank">Shop Now</a></td></tr></table></td></tr=
+><tr><td align=3D"left" height=3D"22" valign=3D"top" style=3D"font-family: =
+Arial, Helvetica, sans-serif; font-size: 10px; mso-line-height-rule:10px; l=
+ine-height:10px; color:#666666; padding: 5px 0 0 0;">Valid Through 03/31/20=
+21</td></tr></table></td><td valign=3D"bottom" align=3D"left" width=3D"150"=
+ style=3D"padding:0 5px 0 0;"><a href=3D"http://visit.us.at.quill.com/ss/c/=
+vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdt=
+eAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25yFwhDcRN3CSQlaYzaSe5Hb=
+pYy3L4w8NNNtfiphxn-xT0UgYkksllwh8KrbcnYpvES8amlNsFkK8IHcpQoNoGj6af7Z-mqsToq=
+Aul6Skq0oKWPvBT29oYKJvvgPWL1sL7iSQjynjT1pCIUlocFzu70Te1qNL-FAzldabIbAcaKhTu=
+6HSNKwWOqdj8aPi9rjLZRSlTzlWA6R9UyXIqr2daCbGJJsjMvAUZDkwkTcyGNJa6iA5nMdyVRFe=
+3cnf9gxjkerj3OP1-TLJVjqyTVGhSwftBOAYx1ek78ggneSWhGYzMEfFkhllWuWkK1gNmHDCcET=
+M5dPu-gEjHYtvVqJht6lhv3qR80QshYxwoknvoNak5WJJggO24kfk22fZIwM2uN2ZTJY0GkgdOA=
+Gw5psn0LKx-EfjBAv-jnh13nAB44LU/3am/v6Q7UoiEQqiqlPOVsmTa3g/h24/p_CAIomLD-W-O=
+wn026exNEZG2IIZKEe_fWDyYk8J_EE"><img src=3D"https://www.quill.com/is/image/=
+Quill/sp72302608_s7?$156$" alt=3D"" width=3D"150" height=3D"150" style=3D"d=
+isplay:block; border:none" /></a></td></tr></table></td></tr><tr><td><table=
+ cellpadding=3D"0" cellspacing=3D"0" height=3D"1px" width=3D"100%"><tr><td =
+height=3D"1" valign=3D"top" bgcolor=3D"#ffffff"><img src=3D"https://www.qui=
+ll.com/s.gif" width=3D"318" height=3D"1" style=3D"display:block; border:non=
+e"></td></tr><tr><td height=3D"1" valign=3D"top" bgcolor=3D"#666666"><img s=
+rc=3D"https://www.quill.com/s.gif" width=3D"318" height=3D"1" style=3D"disp=
+lay:block; border:none"></td></tr></table></td></tr></table><!--Half module=
+: R_half_Mod_2018 END--></td></tr></table><!-- 50% Module - END--><!-- 50% =
+Module--><table class=3D"w320" width=3D"640" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td class=3D"c50pc100pc" width=3D"320" align=3D"center" valign=
+=3D"top" bgcolor=3D"#ffffff"><table class=3D"w320" width=3D"" cellpadding=
+=3D"0" cellspacing=3D"0" ><tr><!-- DESKTOP/MOBILE IMAGE --><td width=3D""><=
+a target=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henow=
+KSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjA-p=
+V0t6-bb7_LmNUDHK0CQ/3am/v6Q7UoiEQqiqlPOVsmTa3g/h25/6ZrLqZEhDnZ45dK1EvWCNzt4=
+FanJ-HvAit3sBLo-3rg"><span class=3D"hei _320"><img class=3D"remove" style=
+=3D"display: block; font-family: Arial, Verdana, sans-serif; font-size: 24p=
+x; line-height: 28px; color: #0071be;" src=3D"" width=3D"" height=3D"" bord=
+er=3D"0" alt=3D""></span></a></td></tr></table></td><!-- right offer --><td=
+ class=3D"c50pc100pc" width=3D"320" align=3D"center" valign=3D"top" bgcolor=
+=3D"#ffffff"><!-- right module --></td></tr></table><!-- 50% Module - END--=
+><!-- 50% Module--><table class=3D"w320" width=3D"640" cellpadding=3D"0" ce=
+llspacing=3D"0"><tr><td class=3D"c50pc100pc" width=3D"320" align=3D"center"=
+ valign=3D"top" bgcolor=3D"#ffffff"><table class=3D"w320" width=3D"640" cel=
+lpadding=3D"0" cellspacing=3D"0" ><tr><!-- DESKTOP/MOBILE IMAGE --><td widt=
+h=3D"640"><a target=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vn=
+JW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteA=
+lkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25TM_3squ1CiUo3fAcGyLKhN4t=
+j-nncZBkrc4DoA9lAiVbrUjA-Xw8d4QTsh3YnFv0r5JACUayGkPZwCuwQA24qHXk3rT5Z4RRKe4=
+XogsBop7DlZD2epioSnBO4rDiLZ5DmRsoTsrkKBJb8nuf9pyn8r1D2f7VXKHDBTZHcLcyqNiIQC=
+oLhwcB0pUOQOAOeFpQz8lzRi6UvOkZLINqNQEBx4TWLsYIKdFFOIWCwj1yUP0RigGpjuG9GsoFU=
+Cc32npE/3am/v6Q7UoiEQqiqlPOVsmTa3g/h26/Bswq9eQwBH5EgfzT82TWz_yDN4CSfGgdwwyA=
+DkNCJtI"><span class=3D"hei330 E20_08_041_050101_320"><img class=3D"remove"=
+ style=3D"display: block; font-family: Arial, Verdana, sans-serif; font-siz=
+e: 24px; line-height: 28px; color: #0071be;" src=3D"https://www.quill.com/C=
+ontent/EMAIL/2020/08/041/E20_08_041_050101_640.jpg" width=3D"640" height=3D=
+"207" border=3D"0" alt=3D"FREE COVID-19 Preparation Checklists"></span></a>=
+</td></tr></table></td><!-- right offer --><td class=3D"c50pc100pc" width=
+=3D"320" align=3D"center" valign=3D"top" bgcolor=3D"#ffffff"><!-- right mod=
+ule --></td></tr></table><!-- 50% Module - END--><!-- 50% Module--><table c=
+lass=3D"w320" width=3D"640" cellpadding=3D"0" cellspacing=3D"0"><tr><td cla=
+ss=3D"c50pc100pc" width=3D"320" align=3D"center" valign=3D"top" bgcolor=3D"=
+#ffffff"><table class=3D"w320" width=3D"640" cellpadding=3D"0" cellspacing=
+=3D"0" ><tr><!-- DESKTOP/MOBILE IMAGE --><td width=3D"640"><a target=3D"_bl=
+ank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZp=
+ehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R5=
+8Rul1sMSlBhgsluQNWlfgTr25TM_3squ1CiUo3fAcGyLKhN4tj-nncZBkrc4DoA9lAiVbrUjA-X=
+w8d4QTsh3YnFv0r5JACUayGkPZwCuwQA24qHXk3rT5Z4RRKe4XogsBop7DlZD2epioSnBO4rDiL=
+Z5DmRsoTsrkKBJb8nuf9pyn8oVQPxda2vdJMAIU_mEwRcsVlCdDRj9yhrcYDWm-t01A4cSUmTmW=
+YegQlvmnPj7PdM7Wmh_POjnQlMUNAz19QXnZSt8SpeAqXK-bMAp1_g4C/3am/v6Q7UoiEQqiqlP=
+OVsmTa3g/h27/JFhYTJ48A-_o8Jssq5appUxHwgRWAFMmW6aUrOqbOfU"><span class=3D"he=
+i87 E20_08_041_170101_320"><img class=3D"remove" style=3D"display: block; f=
+ont-family: Arial, Verdana, sans-serif; font-size: 24px; line-height: 28px;=
+ color: #0071be;" src=3D"https://www.quill.com/Content/EMAIL/2020/07/049/E2=
+0_07_049_060101_640.jpg" width=3D"640" height=3D"97" border=3D"0" alt=3D"St=
+ay Safe. Stay Healthy."></span></a></td></tr></table></td><!-- right offer =
+--><td class=3D"c50pc100pc" width=3D"320" align=3D"center" valign=3D"top" b=
+gcolor=3D"#ffffff"><!-- right module --></td></tr></table><!-- 50% Module -=
+ END--><table class=3D"w320" width=3D"640" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0"><tr><td style=3D"background-color: #eae6df ; height: 60px;=
+ color: #000000; padding: 15px; font-family: 'Arial', 'Verdana', 'Helvetica=
+', sans-serif; font-size: 16px; line-height: 18px; font-weight:normal; text=
+-align: center;"><b>Have questions?</b> Call Kim Atwood at 1-800-789-5385 e=
+xt. 1074.</td></tr></table><!-- END CREATIVE --><!-- Quill Plus Paper --><!=
+-- Preferred Custom Pricing --><!-- Mobile QuillCash --><!-- Mobile Nav Bar=
+ --><!-- recovery footer --><table class=3D"w320" width=3D"640" cellpadding=
+=3D"0" cellspacing=3D"0"><tr><td class=3D"respTable"><!--icon Module goes h=
+ere--><!--new icon module goes here--><table cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"w320" bgcolor=3D"#f2f2f2"><tr><td colspan=3D"5"><span class=
+=3D"smallPartHt smallPart"><img class=3D"remove" style=3D"display: block; f=
+ont-family: Arial, Verdana, sans-serif; font-size: 24px; line-height: 28px;=
+ color: #0071be;" src=3D"http://www.quill.com/content/EMAIL/2020/00/E20_00_=
+888_smallpart.jpg" alt=3D"Small part"></span></td></tr><tr><td class=3D"col=
+ col-left borderBottom" align=3D"center"><a target=3D"_blank" href=3D"http:=
+//visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v=
+4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNW=
+lfgTr25RqE3hNxnlKy09LqDzArkXBp8Ihe71GqGw5rekO56wEpunsMDAAucWMDWRCg1WBMFYR-X=
+LWGZJK0josTEp0JZyrZeuk_Qr3J7837D0KpTUzTZso2DYvGgDJJ0BroT51q8QphXDp-FWCj0Ni7=
+ExdnE0v1mtJehupP6s8AdMj2plBIKUaEjy4XYhPIx7vFddvEBhsV3dWQAjkIx0YyFdRKl9g/3am=
+/v6Q7UoiEQqiqlPOVsmTa3g/h28/CsKH_8RFp-CyTQB4N-LIcubquyp3SiyERKTGxpVtO1g"><i=
+mg style=3D"display: block; font-family: Arial, Verdana, sans-serif; font-s=
+ize: 24px; line-height: 28px; color: #0071be;" src=3D"https://www.quill.com=
+/content/EMAIL/2020/00/E20_00_888_hotdeals.jpg" alt=3D"Best Sellers"></a></=
+td><td width=3D"1" align=3D"center" valign=3D"middle" class=3D"remove"><img=
+ src=3D"http://www.quill.com/content/EMAIL/2020/00/E20_00_888_vertpipe.jpg"=
+></td><td class=3D"col col-mid borderBottom" align=3D"center"><a target=3D"=
+_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvb=
+IZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f=
+7R58Rul1sMSlBhgsluQNWlfgTr25H_dNpK0Cee-9CmdNHroC7c7DdO908UY2nOEdkPUkNX0_TD2=
+KkJ3mcpNBfXGefrJQMx6mhBlA-VF-xoX-hNfbPQqowIN7TN2U5_5Maf_zkEe2XWdFYScKcWn5vM=
+dERl2AtdPQeAjllEB7c9MPsMdnXUwOHnn49ciaZ8tTCUKPUH2cYQnaFDH3ZjA5LqugALtwBKXBo=
+x0_MQAAtvzUOOnjLA/3am/v6Q7UoiEQqiqlPOVsmTa3g/h29/r07OU5npnWs1p-IMO2gFzRETVS=
+WYgTrDoUy3ptjkCXk"><img style=3D"display: block; font-family: Arial, Verdan=
+a, sans-serif; font-size: 24px; line-height: 28px; color: #0071be;" src=3D"=
+http://www.quill.com/content/EMAIL/2020/00/E20_00_888_freegifts.jpg" alt=3D=
+"Free Gifts"></a></td><td width=3D"1" align=3D"center" valign=3D"middle" cl=
+ass=3D"remove"><img src=3D"http://www.quill.com/content/EMAIL/2020/00/E20_0=
+0_888_vertpipe.jpg"></td><td class=3D"col borderBottom" align=3D"center"><a=
+ target=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowK=
+SBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5o=
+teKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25H_dNpK0Cee-9CmdNHroC7c7DdO908UY2nOEd=
+kPUkNX0_TD2KkJ3mcpNBfXGefrJQMx6mhBlA-VF-xoX-hNfbPQqowIN7TN2U5_5Maf_zkEe2XWd=
+FYScKcWn5vMdERl2AtdPQeAjllEB7c9MPsMdnXUwOHnn49ciaZ8tTCUKPUH2cYQnaFDH3ZjA5Lq=
+ugALtwBKXBox0_MQAAtvzUOOnjLA/3am/v6Q7UoiEQqiqlPOVsmTa3g/h30/8MFJiFT9d8YEIK9=
+kA--LTb2JTS0PAT0CHDiPeVSNRcQ"><img style=3D"display: block; font-family: Ar=
+ial, Verdana, sans-serif; font-size: 24px; line-height: 28px; color: #0071b=
+e;" src=3D"https://www.quill.com/content/EMAIL/2020/00/E20_00_888_couponcen=
+ter.jpg" alt=3D"Coupon Center"></a></td></tr></table><!--navigation Module =
+goes here--><table class=3D"w320" cellpadding=3D"0" cellspacing=3D"0"><tr><=
+td class=3D"col col-left" width=3D"212" align=3D"left" valign=3D"top" style=
+=3D"padding-right:2px; padding-bottom:2px;"><div><!--[if mso]><v:rect xmlns=
+:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:o=
+ffice:word" href=3D"https://www.quill.com/mcode/mcode.aspx?m=3D210329_PVT_A=
+QD_062_3&u=3Dhttps%3a%2f%2fwww.quill.com%2foffice-supplies-office-products%=
+2fcbu%2f2.html%3fcm_mmc%3d210329_PVT_AQD_062_3_D18_00_223_NAVLINK%26RegID%3=
+d204046230%26RegID1%3d184274558%26RegID2%3d172907733" style=3D"height:40px;=
+v-text-anchor:middle;width:212px;" stroke=3D"f" fillcolor=3D"#1380b9"><w:an=
+chorlock/><center><![endif]--><a href=3D"http://visit.us.at.quill.com/ss/c/=
+vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdt=
+eAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25C5j7SV0yJ_xx56DnNIeovV=
+Ays5OKKo803X7_wpcdtzBi4i2CoBYwB-DuATkLGIbaaDBRXLxl-AGWr1dbWjTCsmOkkRLnQXf3Z=
+LCrwJJusLp7Hj2ddbhWCHWgDEz2EoKqcp5ygaU6XO79Nad4h2u5XPb4q6gFnrG4aTI_usbeuxnf=
+BeGgDIiQZHDvGRkx4CuBfTOdWa7sm5g-HlRAJaGXncg5xZLVxvqx80UYCAkYLSY/3am/v6Q7Uoi=
+EQqiqlPOVsmTa3g/h31/TOKBiDa3TMSlopCFiaNtbsAW8GKP3hBs9yhZN-6r0yY" style=3D"b=
+ackground-color:#1380b9;color:#ffffff;display:inline-block;font-family:sans=
+-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;t=
+ext-decoration:none;width:212px;-webkit-text-size-adjust:none;" class=3D"mo=
+bileSize">Office Supplies</a><!--[if mso]></center></v:rect><![endif]--></d=
+iv></td><td class=3D"col col-mid" width=3D"212" align=3D"left" valign=3D"to=
+p" style=3D"padding-right:2px; padding-bottom:2px;"><div><!--[if mso]><v:re=
+ct xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microso=
+ft-com:office:word" href=3D"https://www.quill.com/mcode/mcode.aspx?m=3D2103=
+29_PVT_AQD_062_3&u=3Dhttps%3a%2f%2fwww.quill.com%2fcopy-paper-multipurpose-=
+paper%2fcbu%2f28.html%3fcm_mmc%3d210329_PVT_AQD_062_3_D18_00_223_NAVLINK%26=
+RegID%3d204046230%26RegID1%3d184274558%26RegID2%3d172907733" style=3D"heigh=
+t:40px;v-text-anchor:middle;width:212px;" stroke=3D"f" fillcolor=3D"#1380b9=
+"><w:anchorlock/><center><![endif]--><a href=3D"http://visit.us.at.quill.co=
+m/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNi=
+zCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr256cb8ojiU6m6n07o=
+osufKtLZHPJNvic0sB5jAh3OYnim8h3Lip6kuyS1PWdyCOn8Zqyokn_r6iHzepqS6ufWBmlQlfm=
+xW7vobI_46iGg14SHgs2NTwgDc6esXItLkA8bBBBH-2iIfPRceXG3xQB9lXFPopS1NAwhpPhF6Q=
+V2oxjBLcjTfMo3uLJPHXs_j5OH9pi3N_VJIQA5opJFNd7rf4dkkfWJfWIbWjVhQyl9qpJU/3am/=
+v6Q7UoiEQqiqlPOVsmTa3g/h32/EDdoGkk3LeswV5yAI7xDiG18JgDR5PzHpkabrsENFUk" sty=
+le=3D"background-color:#1380b9;color:#ffffff;display:inline-block;font-fami=
+ly:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:c=
+enter;text-decoration:none;width:212px;-webkit-text-size-adjust:none;" clas=
+s=3D"mobileSize">Paper</a><!--[if mso]></center></v:rect><![endif]--></div>=
+</td><td class=3D"col" width=3D"212" align=3D"left" valign=3D"top" style=3D=
+"padding-bottom:2px;"><div><!--[if mso]><v:rect xmlns:v=3D"urn:schemas-micr=
+osoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"ht=
+tps://www.quill.com/mcode/mcode.aspx?m=3D210329_PVT_AQD_062_3&u=3Dhttps%3a%=
+2f%2fwww.quill.com%2fink-toner-finder%2f%3fcm_mmc%3d210329_PVT_AQD_062_3_D1=
+8_00_223_NAVLINK%26RegID%3d204046230%26RegID1%3d184274558%26RegID2%3d172907=
+733" style=3D"height:40px;v-text-anchor:middle;width:212px;" stroke=3D"f" f=
+illcolor=3D"#1380b9"><w:anchorlock/><center><![endif]--><a href=3D"http://v=
+isit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZ=
+Ls_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfg=
+Tr25xKxES-Rb7NE54B1OS2Syk3cajncs8YrrWE1Gv1hRFbSkfY5C86xAPjJXjaiFxo6VTFdzs3x=
+y_bXdAxfbss0m0mYEaGV15JzSIOILO_dN_qFhYwjHewDF0TMrkEFY2aH-BCGQscnRw4JM2ATUrz=
+nbeg0Ef41R6-W2Unb35LFu3eSRYteV0lG0XsbrDcpY1l7H/3am/v6Q7UoiEQqiqlPOVsmTa3g/h=
+33/OmBDO61PZu5MtcZ4lUM4WfLOCku34H-L84VJFdBtqLQ" style=3D"background-color:#=
+1380b9;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:=
+13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:no=
+ne;width:212px;-webkit-text-size-adjust:none;" class=3D"mobileSize">Ink &am=
+p; Toner</a><!--[if mso]></center></v:rect><![endif]--></div></td></tr></ta=
+ble><table cellpadding=3D"0" cellspacing=3D"0" class=3D"w320"><tr><td class=
+=3D"col col-left" width=3D"212" align=3D"left" valign=3D"top" style=3D"padd=
+ing-right:2px; padding-bottom:2px;"><div><!--[if mso]><v:rect xmlns:v=3D"ur=
+n:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:wo=
+rd" href=3D"https://www.quill.com/mcode/mcode.aspx?m=3D210329_PVT_AQD_062_3=
+&u=3Dhttps%3a%2f%2fwww.quill.com%2fnutritious-snacks-bulk%2fcbu%2f34.html%3=
+fcm_mmc%3d210329_PVT_AQD_062_3_D18_00_223_NAVLINK%26RegID%3d204046230%26Reg=
+ID1%3d184274558%26RegID2%3d172907733" style=3D"height:40px;v-text-anchor:mi=
+ddle;width:212px;" stroke=3D"f" fillcolor=3D"#1380b9"><w:anchorlock/><cente=
+r><![endif]--><a href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSB=
+bem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5ote=
+KJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25dSRFhS7wNDnbY818Ev-9dQMkgVmZs9eoCqvGGQ=
+30NDIDRSmrgPOHBVgLBiSU553iPXAuOxVG0IT2NRT830kwhW4Xs5XYoWLB8zR6LNUrV3nbfEYhB=
+Z3F7tcBZVFPVXzCy6-iB_dK3iM4YfHLlDh7Xq6kjakvMDj3-dZrs16CR5YIHzY71DLJ8PEv2mCk=
+hMqRrk1YfQoRSXYOTCGIwqUfEg/3am/v6Q7UoiEQqiqlPOVsmTa3g/h34/fEevEsm95EXOBDtiw=
+WCRxbbVwgAWTGbUw7TTA0s_InM" style=3D"background-color:#1380b9;color:#ffffff=
+;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bol=
+d;line-height:40px;text-align:center;text-decoration:none;width:212px;-webk=
+it-text-size-adjust:none;" class=3D"mobileSize">Coffee and Breakroom</a><!-=
+-[if mso]></center></v:rect><![endif]--></div></td><td class=3D"col col-mid=
+" width=3D"212" align=3D"left" valign=3D"top" style=3D"padding-right:2px; p=
+adding-bottom:2px;"><div><!--[if mso]><v:rect xmlns:v=3D"urn:schemas-micros=
+oft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"http=
+s://www.quill.com/mcode/mcode.aspx?m=3D210329_PVT_AQD_062_3&u=3Dhttps%3a%2f=
+%2fwww.quill.com%2fcleaning-supplies-paper-towels%2fcbu%2f6.html%3fcm_mmc%3=
+d210329_PVT_AQD_062_3_D18_00_223_NAVLINK%26RegID%3d204046230%26RegID1%3d184=
+274558%26RegID2%3d172907733" style=3D"height:40px;v-text-anchor:middle;widt=
+h:212px;" stroke=3D"f" fillcolor=3D"#1380b9"><w:anchorlock/><center><![endi=
+f]--><a href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvb=
+IZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f=
+7R58Rul1sMSlBhgsluQNWlfgTr25f9gN6lR7B2ZLbY2CqMeumiVwlPN12C1_E1fxhNaur3Sddrt=
+2ujbCk2Ge-U8WAsnzs_gSaFdcyYoooVmOK7_QdoeaiiiUZLDTjnyM-cjqbG38yc3vfVNY9d-o0F=
+QB6Op5RP283L6hyqOzW4qWj56m3UXLQKeSr4OBYTyGeBSDNYipoE09VPNSHWMCDAkJniO5aE1Cm=
+LTZ9yCOc6GI6sd90p6BoHGeM6NwaKqhbA8D8vI/3am/v6Q7UoiEQqiqlPOVsmTa3g/h35/QP_Wr=
+DMIX5jGCOpYkP5vMgyTw0uN3Kh_4rdtCpluVDM" style=3D"background-color:#1380b9;c=
+olor:#ffffff;display:inline-block;font-family:sans-serif;font-size:13px;fon=
+t-weight:bold;line-height:40px;text-align:center;text-decoration:none;width=
+:212px;-webkit-text-size-adjust:none;" class=3D"mobileSize">Cleaning &amp; =
+Janitorial</a><!--[if mso]></center></v:rect><![endif]--></div></td><td cla=
+ss=3D"col" width=3D"212" align=3D"left" valign=3D"top" style=3D"padding-bot=
+tom:2px;"><div><!--[if mso]><v:rect xmlns:v=3D"urn:schemas-microsoft-com:vm=
+l" xmlns:w=3D"urn:schemas-microsoft-com:office:word" href=3D"https://www.qu=
+ill.com/mcode/mcode.aspx?m=3D210329_PVT_AQD_062_3&u=3Dhttps%3a%2f%2fwww.qui=
+ll.com%2foffice-technology%2fcbx%2f305.html%3fcm_mmc%3d210329_PVT_AQD_062_3=
+_D18_00_223_NAVLINK%26RegID%3d204046230%26RegID1%3d184274558%26RegID2%3d172=
+907733" style=3D"height:40px;v-text-anchor:middle;width:212px;" stroke=3D"f=
+" fillcolor=3D"#1380b9"><w:anchorlock/><center><![endif]--><a href=3D"http:=
+//visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v=
+4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNW=
+lfgTr25Idqd0FEwIaZo_5g0q6HSSIFdZEOIEOCx9TAJ2HRur7FVyu6_KL4HRz5q89f4ZPdluia3=
+IqBMupXacc9FQJ9dtkpXWYku6F3pbvtAabMw5cBJxC6CPsi-poUB5sUrothQmIE0xurbkk8XJ2a=
+XquPWQ5948nxhA_awMkpoKhVieJgalVGyeD7F_XUFur0LbWnBTm4Di_NO29PnTHTP7q87oQ/3am=
+/v6Q7UoiEQqiqlPOVsmTa3g/h36/qKfJRVUzUQ6upyS45d15JQEvce9cU34xJzluEaHdZV4" st=
+yle=3D"background-color:#1380b9;color:#ffffff;display:inline-block;font-fam=
+ily:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:=
+center;text-decoration:none;width:212px;-webkit-text-size-adjust:none;" cla=
+ss=3D"mobileSize">Technology</a><!--[if mso]></center></v:rect><![endif]-->=
+</div></td></tr></table><table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"w320"><tr><td class=3D"col col-left" width=3D"212" align=3D"left" valign=
+=3D"top" style=3D"padding-right:2px; padding-bottom:2px;"><div><!--[if mso]=
+><v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-m=
+icrosoft-com:office:word" href=3D"https://www.quill.com/mcode/mcode.aspx?m=
+=3D210329_PVT_AQD_062_3&u=3Dhttps%3a%2f%2fwww.quill.com%2fdiscount-modern-o=
+ffice-furniture-chairs-desks-tables%2fcbu%2f1.html%3fcm_mmc%3d210329_PVT_AQ=
+D_062_3_D18_00_223_NAVLINK%26RegID%3d204046230%26RegID1%3d184274558%26RegID=
+2%3d172907733" style=3D"height:40px;v-text-anchor:middle;width:212px;" stro=
+ke=3D"f" fillcolor=3D"#1380b9"><w:anchorlock/><center><![endif]--><a href=
+=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jj=
+s8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSl=
+BhgsluQNWlfgTr25PeyGZGrvXGkQrYByPaqAiQ9jYRGP0mSmfZMAnNEkpYgfFzIRNLRd08n2P12=
+gMqKzWgEvOUcQc2_rpHSH5DXViOfWoyJcANebuoIwx-93w1XBLA2ZeQ28oglnij35hohhtw8jSL=
+61zUsNsgnNbqKCMjr7BOZYR67m61U8RK_lijhViVvyLNdREjqrUs0hnXqbuXG0Iuc5KGWYspBLJ=
+U-daYplBGpcIFsJxCvvbe09Lfd9k4qY6I36QeWio71-SRfh/3am/v6Q7UoiEQqiqlPOVsmTa3g/=
+h37/nN9nTxZyYukE0XEfCpqSEM949oQbyyVDiyRenW-LdUA" style=3D"background-color:=
+#1380b9;color:#ffffff;display:inline-block;font-family:sans-serif;font-size=
+:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:n=
+one;width:212px;-webkit-text-size-adjust:none;" class=3D"mobileSize">Chairs=
+ and Furniture</a><!--[if mso]></center></v:rect><![endif]--></div></td><td=
+ class=3D"col col-mid" width=3D"212" align=3D"left" valign=3D"top" style=3D=
+"padding-right:2px; padding-bottom:2px;"><div><!--[if mso]><v:rect xmlns:v=
+=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:off=
+ice:word" href=3D"https://www.quill.com/mcode/mcode.aspx?m=3D210329_PVT_AQD=
+_062_3&u=3Dhttps%3a%2f%2fwww.quill.com%2fshipping-supplies-and-mailing-enve=
+lopes%2fcbu%2f29.html%3fcm_mmc%3d210329_PVT_AQD_062_3_D18_00_223_NAVLINK%26=
+RegID%3d204046230%26RegID1%3d184274558%26RegID2%3d172907733" style=3D"heigh=
+t:40px;v-text-anchor:middle;width:212px;" stroke=3D"f" fillcolor=3D"#1380b9=
+"><w:anchorlock/><center><![endif]--><a href=3D"http://visit.us.at.quill.co=
+m/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNi=
+zCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr25mmFAK9wg8jXrH0T=
+RTGgT4d1O479Uy5Gsb2-J7jvBP1gfosUb81iod_aTIz3h-Z_zRM9miF8N18pf0NGle2te4CZFGJ=
+Mq0PmCg-FpAfbVbwMsaebpF4IbTQb9VoOR6ThL5TlPHWzTKbjVxe5wCm7rHqjaAnOiibipj7jsf=
+2fkl2mGq2cdEz7_gp21j_V_e4-0skmGSvxDJDkokSu_pVayqjXrNtEafFIJfRzWhZOqig8/3am/=
+v6Q7UoiEQqiqlPOVsmTa3g/h38/QxYDaqov4SmE-yY3MKtq8sNAH3fmhPGP0KF6LjRMFck" sty=
+le=3D"background-color:#1380b9;color:#ffffff;display:inline-block;font-fami=
+ly:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:c=
+enter;text-decoration:none;width:212px;-webkit-text-size-adjust:none;" clas=
+s=3D"mobileSize">Mail &amp; Ship</a><!--[if mso]></center></v:rect><![endif=
+]--></div></td><td class=3D"col" width=3D"212" align=3D"left" valign=3D"top=
+" style=3D"padding-bottom:2px;"><div><!--[if mso]><v:rect xmlns:v=3D"urn:sc=
+hemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+href=3D"https://www.quill.com/mcode/mcode.aspx?m=3D210329_PVT_AQD_062_3&u=
+=3Dhttps%3a%2f%2fwww.quill.com%2fcustom-printing-services-personalized-busi=
+ness-products%2fcbu%2f7.html%3fcm_mmc%3d210329_PVT_AQD_062_3_D18_00_223_NAV=
+LINK%26RegID%3d204046230%26RegID1%3d184274558%26RegID2%3d172907733" style=
+=3D"height:40px;v-text-anchor:middle;width:212px;" stroke=3D"f" fillcolor=
+=3D"#1380b9"><w:anchorlock/><center><![endif]--><a href=3D"http://visit.us.=
+at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5=
+ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Rul1sMSlBhgsluQNWlfgTr258mWi=
+oJ42pLfaRF6-ZxJaCvR1LWKDr0Yat60NkSLHzODpiobFJSt28ui_ZsBxImvrfRB-emjOkd7Mivt=
+6a8_kDxPNv9H9_LBR67X3vSBhVDcgE4ruZdmvSckF5cw_ell11kP931KHB7BXb19SVtHI18kzHr=
+nBg2SKk-dS2SBz7DVcTICal9trgAI_N1NXd2fQkUQBwfLF4OQYy0f2iKHuKYay4PcqJb0K51Hs2=
+paJeRXbydWqvcQug2XuofCdZ3Nv/3am/v6Q7UoiEQqiqlPOVsmTa3g/h39/ViUzVOuO3Ny6HvbF=
+HErFgPM13UckxYeJ3EMnXYLMrDI" style=3D"background-color:#1380b9;color:#fffff=
+f;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bo=
+ld;line-height:40px;text-align:center;text-decoration:none;width:212px;-web=
+kit-text-size-adjust:none;" class=3D"mobileSize">Copy &amp; Print</a><!--[i=
+f mso]></center></v:rect><![endif]--></div></td></tr></table></td></tr></ta=
+ble><!-- Social Media --><table class=3D"w320" width=3D"640" cellpadding=3D=
+"0" cellspacing=3D"0" ><tr><!-- DESKTOP/MOBILE IMAGE --><td width=3D"640"><=
+a href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEvbIZpehT=
+rBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjJA5oteKJRArW78f7R58Ru=
+lj4zW457XDyn7PpFZPqx36QpNOICJp6D55jGJ1gNHuPA/3am/v6Q7UoiEQqiqlPOVsmTa3g/h40=
+/Msfnxr-jBhQ8yws5_RcZfRUIHBJbT_5uKNoF2Y76Z6o" target=3D"_blank"><span class=
+=3D"hei87 _320"><img class=3D"remove" style=3D"display: block; font-family:=
+ Arial, Verdana, sans-serif; font-size: 24px; line-height: 28px; color: #00=
+71be;" src=3D"http://www.quill.com/content/EMAIL/2016/10/qideas/E16_10_000_=
+desktop_qullideas.jpg" width=3D"640" height=3D"55" border=3D"0" alt=3D"Quil=
+l Ideas&trade;. Make a better Quill.com. Your Ideas. Your Vote. Your Voice.=
+ Learn More"></span></a></td></tr></table><table class=3D"w320" width=3D"64=
+0" cellpadding=3D"0" cellspacing=3D"0"><!-- LEGAL --><tr><td class=3D"w320"=
+ width=3D"1"><img style=3D"display:block;" src=3D"http://www.quill.com/imag=
+es/products/catalog/Content/2014/08/018/spa.gif" alt=3D"" width=3D"1" heigh=
+t=3D"17" /></td></tr><!--Regular Disclaimers --><tr><td style=3D"text-align=
+:center; vertical-align:top; font-size:0;"><table cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%" border=3D"0"><tr><td style=3D" font-family: Arial=
+, Helvetica, sans-serif; font-size: 10px; line-height: 10px; color: #000000=
+" width=3D"18" align=3D"right" valign=3D"top" ><span style=3D"padding: 0 5p=
+x 0 0;">(1)</span></td><td style=3D" font-family: Arial, Helvetica, sans-se=
+rif; font-size: 10px; line-height: 10px; color: #000000" align=3D"left" val=
+ign=3D"top"><span style=3D"padding:0;">Cannot be combined with any discount=
+ coupon or ink &amp; toner free gift coupon. Not valid on monitors, e-reade=
+rs, streaming devices, desktop, netbook, laptop and tablet computers, print=
+ers, vending machines, appliances, the Keurig K1500 Bundle, Hot Buy paper o=
+r QuillPLUS paper. Excludes Apple products, HP, Samsung and Epson<sup>&reg;=
+</sup>. Excludes all pallet and truckload shipments of paper. Other exclusi=
+ons may apply as noted on specific products. Discount or minimum spend requ=
+irement applies to merchandise only; it does not include furniture assembly=
+, packaging, applicable taxes or shipping &amp; handling charges. Offer is =
+non-transferable and cannot be used on prior purchases. Quill.com may refus=
+e to redeem any instant coupon which it believes in good faith to be fraudu=
+lently or improperly obtained.</span></td></tr><tr><td style=3D" font-famil=
+y: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 10px; color:=
+ #000000" width=3D"18" align=3D"right" valign=3D"top" ><span style=3D"paddi=
+ng:0;">**</span></td><td style=3D" font-family: Arial, Helvetica, sans-seri=
+f; font-size: 10px; line-height: 10px; color: #000000" align=3D"left" valig=
+n=3D"top"><span style=3D"padding:2;">Excludes HP and Epson<sup style=3D"fon=
+t-size: .75em; line-height: .5em; font-family: arial, sans-serif; vertical-=
+align: .25em;">&reg;</sup>.</span></td></tr><tr><td style=3D" font-family: =
+Arial, Helvetica, sans-serif; font-size: 10px; line-height: 10px; color: #0=
+00000" width=3D"18" align=3D"right" valign=3D"top" ></td><td style=3D" font=
+-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 10px; =
+color: #000000" align=3D"left" valign=3D"top"></td></tr><tr><td style=3D" f=
+ont-family: Arial, Helvetica, sans-serif; font-size: 10px; line-height: 10p=
+x; color: #000000" width=3D"18" align=3D"right" valign=3D"top" ></td><td st=
+yle=3D" font-family: Arial, Helvetica, sans-serif; font-size: 10px; line-he=
+ight: 10px; color: #000000" align=3D"left" valign=3D"top"></td></tr><tr><td=
+ style=3D" font-family: Arial, Helvetica, sans-serif; font-size: 10px; line=
+-height: 10px; color: #000000" width=3D"18" align=3D"right" valign=3D"top" =
+></td><td style=3D" font-family: Arial, Helvetica, sans-serif; font-size: 1=
+0px; line-height: 10px; color: #000000" align=3D"left" valign=3D"top"></td>=
+</tr><tr><td style=3D" font-family: Arial, Helvetica, sans-serif; font-size=
+: 10px; line-height: 10px; color: #000000" width=3D"18" align=3D"right" val=
+ign=3D"top" ></td><td style=3D" font-family: Arial, Helvetica, sans-serif; =
+font-size: 10px; line-height: 10px; color: #000000" align=3D"left" valign=
+=3D"top"></td></tr><tr><td style=3D" font-family: Arial, Helvetica, sans-se=
+rif; font-size: 10px; line-height: 10px; color: #000000" width=3D"18" align=
+=3D"right" valign=3D"top" ></td><td style=3D" font-family: Arial, Helvetica=
+, sans-serif; font-size: 10px; line-height: 10px; color: #000000" align=3D"=
+left" valign=3D"top"></td></tr><tr><td style=3D" font-family: Arial, Helvet=
+ica, sans-serif; font-size: 10px; line-height: 10px; color: #000000" width=
+=3D"18" align=3D"right" valign=3D"top" ></td><td style=3D" font-family: Ari=
+al, Helvetica, sans-serif; font-size: 10px; line-height: 10px; color: #0000=
+00" align=3D"left" valign=3D"top"><span style=3D"padding:2;">QuillCASH&trad=
+e; amount may change depending on available bonus offer and/or your use of =
+coupons. QuillCASH&trade; earned will take up to 2 business days to be cred=
+ited to your account. Redeem your QuillCASH&trade; at checkout on your next=
+ order when your merchandise total is $100 or more ($75 for QuillPLUS membe=
+rs) after discounts are applied. QuillCASH&trade; must be redeemed within 9=
+0 days unless otherwise noted.</span></td></tr></table></td></tr><!-- end r=
+egular disclaimers --><!-- legal --><tr><td><table cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%" border=3D"0"><tr><td><div style=3D"text-align: c=
+enter; background-color: #ffffff; line-height: 12px;"><font size=3D"1" face=
+=3D"Arial, Helvetica, sans-serif" style=3D"text-align:center;"><a target=3D=
+"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henowKSBbem4YqEv=
+bIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjBMq6m0AYa_ZicF=
+qmjXy7tWNK3024ououWGwbfALLkojM6UyzqNqgtUUo59xlrAIF0uoB0rO4JZnfyCVLfcZsbmV_g=
+UYeDmsXJZo00YsSaqXJdRBxlRm8UQixMWV045Qu3XLoQZq-lqnR13sRtDTN-QsAJF-rFun-a9DL=
+LFPDwR1XJG6ZFMr6pQPI7O4LX7r9Sz67Wtdf-_kXh771_xcnf4C8LjUuLGgdqPFCNSmrxz3Yn0v=
+CtGNHsPhlqATgwbCibDZQllIm6rbVHoxRaVoi2g/3am/v6Q7UoiEQqiqlPOVsmTa3g/h41/byiK=
+82O2B50OtMUVYJZPBsaERzv3Yt_K-N6Nxe069cE" style=3D"color:#003399;">E-mail us=
+</a> your comments anytime! <br />If you prefer not to receive future e-mai=
+ls from Quill.com call 1.800.982.3400 (prompt 2).<br />Like what you see? <=
+a target=3D"_blank" href=3D"http://visit.us.at.quill.com/ss/c/vnJW8VT9henow=
+KSBbem4YqEvbIZpehTrBX5Jjs8prbkZ0v4hZLs_I5SX5ssHKZDf6sNizCbfMdteAlkOCcfkjBMq=
+6m0AYa_ZicFqmjXy7tWNK3024ououWGwbfALLkojVCuhJVGHYbcLvzVhHieYJ_9l9P4MIjFXtEe=
+5p4DKhNA6dWej9gEHzWMl6GiKOhLQw492Z6caOP1Og9WKKLincwjol-mO9dUWVNrwT55QAVwJQI=
+NfQIdYFekct6CXmSHPfEtjG1YAihL6x50V-7HDCn_VCJw8VQqvPwq0O0tbIzyVS6qLMcM_XUc82=
+cyQVPXN/3am/v6Q7UoiEQqiqlPOVsmTa3g/h42/bv667dyX0gzWbTAtGEXK-M-AKTt525fifdJT=
+Jz-Am84" style=3D"color:#003399;">Sign up</a> to receive more email exclusi=
+ve offers and promotions. <br><br>Quill Lincolnshire, Inc., 100 Schelter Ro=
+ad, Lincolnshire, IL 60069 </font></div></td></tr></table></td></tr><!-- en=
+d legal --><tr><td width=3D"1"><img style=3D"display:block;" src=3D"http://=
+www.quill.com/images/products/catalog/Content/2014/08/018/spa.gif" alt=3D""=
+ width=3D"1" height=3D"30" /></td></tr></table></td></tr></table></td></tr>=
+</table><img src=3D"http://visit.us.at.quill.com/ss/o/7dpSQEQmONZTbCWnDBlye=
+Q/3am/v6Q7UoiEQqiqlPOVsmTa3g/ho.gif" alt=3D"" width=3D"1" height=3D"1" bord=
+er=3D"0" style=3D"height:1px !important;width:1px !important;border-width:0=
+ !important;margin-top:0 !important;margin-bottom:0 !important;margin-right=
+:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bot=
+tom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></=
+body></html>

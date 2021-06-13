@@ -1,0 +1,1965 @@
+Return-Path: <faae250d-3f67-479c-bfcf-bbc52d00c86a-9006797@returns.smtpengine.statsauth01.com>
+Delivered-To: Chris@Alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id wPztHX/+I2DhzgwAi5QuQQ
+	(envelope-from <faae250d-3f67-479c-bfcf-bbc52d00c86a-9006797@returns.smtpengine.statsauth01.com>)
+	for <Chris@Alednow.com>; Wed, 10 Feb 2021 09:40:47 -0600
+Return-path: <faae250d-3f67-479c-bfcf-bbc52d00c86a-9006797@returns.smtpengine.statsauth01.com>
+Envelope-to: Chris@Alednow.com
+Delivery-date: Wed, 10 Feb 2021 09:40:47 -0600
+Received: from smtpengine5.statsauth01.com ([192.40.178.197]:56613)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <faae250d-3f67-479c-bfcf-bbc52d00c86a-9006797@returns.smtpengine.statsauth01.com>)
+	id 1l9rbj-003eXT-7G
+	for Chris@Alednow.com; Wed, 10 Feb 2021 09:40:47 -0600
+X-MSFBL: DkUNYMTjhTgOS3Z1iDovAn7+FPe59Rk9SeuYh5MitjU=|eyJyIjoiQ2hyaXNAYWx
+	lZG5vdy5jb20iLCJnIjoiZXpwdWJsaXNoaW5nX2RlZGljYXRlZF9wb29sIiwiYiI
+	6ImV6cHVibGlzaGluZ19kZWRpY2F0ZWRfcG9vbF8xOTJfNDBfMTc4XzE5NyJ9
+Received: from [10.137.129.31] ([10.137.129.31:43190] helo=[10.0.0.90])
+	by mtl-mtsp-mta04-out2.smtp.com (envelope-from <faae250d-3f67-479c-bfcf-bbc52d00c86a-9006797@returns.smtpengine.statsauth01.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id F2/9B-16587-37EF3206; Wed, 10 Feb 2021 15:40:35 +0000
+Received: Received from 10.137.11.81 by Caffeine (mtl-mtsp-c01-2) with SMTP id
+ 62382845-2c76-499b-8377-b1e7f93c3cbe  for Chris@Alednow.com;
+  Wed, 10 Feb 2021 15:40:32 +0000 (UTC)
+Received: from [71.6.106.69] ([71.6.106.69:27762] helo=SERVER)
+	by mtl-mtsp-mta02-in1 (envelope-from <sales@norwall.com>)
+	(ecelerity 4.1.0.46749 r(Core:4.1.0.4)) with ESMTPA
+	id C9/18-01894-F6EF3206; Wed, 10 Feb 2021 15:40:32 +0000
+Date: Wed, 10 Feb 2021 07:40:31 -0800
+From: Norwall PowerSystems <sales@norwall.com>
+To: Chris@Alednow.com
+Message-ID: <6023fe6fa2773_27b4ee19622731145@app-blast2.streamsend.com.mail>
+Subject: =?UTF-8?Q?Standby_Generator_Registration_an_Important_Installation?=
+ =?UTF-8?Q?_Step_=F0=9F=8F=A1_=E2=9D=84?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_6023fe6f9fcff_27b4ee196227310b6";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: StreamSend2 - 510551
+X-Mailer-Version: 2.0
+X-Mailer-Environment: production
+X-Report-Abuse-At: abuse@ryzeo.com
+X-Report-Abuse-Info: It is important to please include full email headers in
+ the report
+X-rpcampaign: StreamSend31197595
+X-Streamsend2id: 510551+1+122633+31197595+
+List-Unsubscribe: 
+ <mailto:unsubscribe+34b85zly4i+31197595+PdCqjht@unsubscribe.ryzeo.com>
+X-RYZEO-SCR: 0
+Feedback-ID: 9006797:SMTPCOM
+X-SMTPCOM-Sender-ID: 9006797
+X-SMTPCOM-Tracking-Number: 62382845-2c76-499b-8377-b1e7f93c3cbe
+X-SMTPCOM-Message-ID: faae250d-3f67-479c-bfcf-bbc52d00c86a
+X-SMTPCOM-Payload: 
+ Lm4uASiuZiMYj7Z3rlRlfsA04iychUcAc6KeaJIP9Fy7mk3HbyG9f0jV_6wlQ67KyhCseopwlwEL4MTdGLyLzhrr2wS5wU3QI9AiLu1Bg-8JRRpq-vD1RVqNaIq1yjeaHUPzvEfUTo60tUMLrFcIxczfTPoPKKVAQIep7rFq7AUlMC6MXIcpltO45e2to1mN
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+ d=smtpengine.statsauth01.com; i=@smtpengine.statsauth01.com;
+ q=dns/txt; s=smtpenginestatsauth01com; t=1612971634; h=date : from :
+ to : message-id : subject : mime-version : content-type :
+ content-transfer-encoding : list-unsubscribe : from;
+ bh=uDYQRX8k+hidkHeEP7+m9F86Q5x1ruZt92+wOxXOA3g=;
+ b=HNiK2sOQpOp6XuUT/rbeIM69YQhuysz5MCR1wB7kglFtvU2gmYHr12hUUBfq4RTdJ01g1
+ P398n8k9g+0HnKHZ6jCvY9PGBlmB193b2fxy9hRdiWUL1A4caTyMxIz2aj3teytVIxoIfin
+ 962n9IT6NrBHLTPmy5E//b99JMA9sBM=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=smtpsendemail.com;
+ i=@smtpsendemail.com; q=dns/txt; s=smtpcustomer; t=1612971634; h=date
+ : from : to : message-id : subject : mime-version : content-type :
+ content-transfer-encoding : list-unsubscribe : from;
+ bh=uDYQRX8k+hidkHeEP7+m9F86Q5x1ruZt92+wOxXOA3g=;
+ b=TanbtvH7BC5pCAPUrarUQfHzHZm6Tm1SZKZaE9YS3Nfd3oHiQ3KyZ+NMaJCvLbYGhJkWw
+ AoUA7Ntevw2n8a9Qfsw4IFYkO0qB2aCxX49E38GZsa+Yl/knRzUgOJdiZpZM2SoZPWfk5r0
+ 5FLNDrOJH6PaURYnIl0Ygl+0+V/7tbG0m863PydnpWOMW303UYTCgxe2YpNc1t04LUSNdlk
+ GIbPXru7LufJxkh2rkyEI0k8FNYPCW3Ny5B3KlEliu93Ts+7jD4bRCSMVGVh86akrFB7XXE
+ mn0DBqaYjUdgoxMYtlw1dA3UsI5pPp+20ibuq/dxaIl8M9QaCUqXE3uEWrVQ==
+X-Report-Abuse: SMTP.com is an email service provider. Our abuse team cares about your feedback. Please contact abuse@smtp.com for further investigation.
+
+
+----==_mimepart_6023fe6f9fcff_27b4ee196227310b6
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+https://www.norwall.com/
+
+
+
+http://app.ryzeo.com/private/34b85zly4i/F01/PdCqjht/unsubscribe/31197595
+----==_mimepart_6023fe6f9fcff_27b4ee196227310b6
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<title></title>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+<style>@media only screen and (max-width: 480px) {
+  body {
+    width: 100% !important; min-width: 100% !important; box-sizing: borde=
+r-box !important;
+  }
+  #ss-email {
+    width: 100% !important; min-width: 100% !important; box-sizing: borde=
+r-box !important;
+  }
+  #ss-email-content {
+    width: 100% !important; min-width: 100% !important; box-sizing: borde=
+r-box !important;
+  }
+  img.user_uploaded_image {
+    width: 100% !important; border: none !important; height: auto !import=
+ant;
+  }
+  #ss-3e2e9a80-ac55-0137-82ac-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-3e2eab50-ac55-0137-82ac-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-3e2e7ef0-ac55-0137-82ac-00163e53695f .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-4235cc80-ac55-0137-6cf5-00163e482560 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-44fc2db5-0bbf-441e-8ab5-d5e18a5b71ff .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-498e7152-1238-41ac-97cb-975a324f7936 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-aa560483-0925-4d25-b43e-c6ea8d63875b .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-2d6bede0-a9f6-0137-ed1f-00163e6db787 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-2d6c11e0-a9f6-0137-ed1f-00163e6db787 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-6f729f00-421a-0138-d25f-00163e63c88c .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-6f72b7a0-421a-0138-d25f-00163e63c88c {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-0001ec09-bb88-4999-959e-0fab57de62f0 .ss-editor-button-display {
+    padding-right: 18px !important; padding-left: 18px !important;
+  }
+  #ss-0001ec09-bb88-4999-959e-0fab57de62f0 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-d44632c0-4d59-0139-3f38-00163e09ca58 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-c652e3e5-4224-457b-bf23-c37dd8fc6465 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-5ebec695-e207-4ed3-a647-516f3e668351 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-93d0d300-ea49-0138-6996-00163e09ca58 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-93d10420-ea49-0138-6996-00163e09ca58 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-005de1b0-ea4d-0138-bade-00163e71c942 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-005dfb60-ea4d-0138-bade-00163e71c942 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-7e7f6980-4d5a-0139-9e12-00163e3a609b .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-d1a6f97b-3b24-4022-b82d-e4073a6e7c75 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-f4b444e2-3769-4340-b89c-89839348a540 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-4f0e4bc0-ea49-0138-55f6-00163e36e0eb .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-4f0e75f0-ea49-0138-55f6-00163e36e0eb {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995 .ss-editor-button-display {
+    padding-right: 18px !important; padding-left: 18px !important;
+  }
+  #ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-1b39ca40-ea4b-0138-55f6-00163e36e0eb .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-1b39ef50-ea4b-0138-55f6-00163e36e0eb {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-bee65060-4dde-0139-1869-00163e36e0eb {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-bee62a60-4dde-0139-1869-00163e36e0eb .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-58a2e704-f8cf-473c-b4a7-e33f866529de .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-58a2e704-f8cf-473c-b4a7-e33f866529de .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-7cf678c0-ea4a-0138-c894-00163e3a609b .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-0748c520-ea49-0138-c894-00163e3a609b .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-0748deb0-ea49-0138-c894-00163e3a609b {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-f99543f1-952c-4e5a-ba3a-753e3e308738 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-f99543f1-952c-4e5a-ba3a-753e3e308738 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-01cb6538-e00a-42dd-a9d2-55c48ad3efc2 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-1c477b60-a9fc-0137-d3ad-00163e2e3ac9 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-1c47a6e0-a9fc-0137-d3ad-00163e2e3ac9 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-afec796f-dea5-44df-967c-1901fd01807e .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-475248a0-a9fc-0137-20e7-00163e743bca .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-47526300-a9fc-0137-20e7-00163e743bca {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-6bf73f65-607a-4d6f-945f-5f4243510951 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-6bf73f65-607a-4d6f-945f-5f4243510951 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-d9b23950-a9fc-0137-b9b8-00163e74fec4 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-d9b25000-a9fc-0137-b9b8-00163e74fec4 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-1344be90-a9fd-0137-0b95-00163e63c88c .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-13d19a00-a9fd-0137-3698-00163e53695f .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-13d1bd10-a9fd-0137-3698-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-24840c20-a9fd-0137-0d5d-00163e2d792a .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-24842830-a9fd-0137-0d5d-00163e2d792a {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-485c04db-bdb4-4662-b101-93417df5acd7 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-394ac280-a9fd-0137-20e7-00163e743bca .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-394af060-a9fd-0137-20e7-00163e743bca {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-ce0c8932-3559-4aae-b11d-4cfb7fa6545a .ss-editor-widget-padding {
+    padding-right: 22px !important; padding-left: 12px !important;
+  }
+  #ss-4b353160-aa3e-0137-20e7-00163e743bca .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-4b355ee0-aa3e-0137-20e7-00163e743bca {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-7e194489-d089-41b7-bd12-d34c80a7224a .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-660dcc70-a9fd-0137-0b95-00163e63c88c .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-660df0b0-a9fd-0137-0b95-00163e63c88c {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-ecd54af0-a9fd-0137-ed1f-00163e6db787 img {
+    width: 35% !important;
+  }
+  #ss-ecd54af0-a9fd-0137-ed1f-00163e6db787 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-ecdd2130-a9fd-0137-0b95-00163e63c88c .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-ecdd4970-a9fd-0137-0b95-00163e63c88c {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-8202416a-b6f0-44a6-908e-3c415568c3b4 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-8202416a-b6f0-44a6-908e-3c415568c3b4 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-0da89480-a9fe-0137-8f4c-00163e0dcb3d .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-0da8ae50-a9fe-0137-8f4c-00163e0dcb3d {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86 .ss-social-icons-icon {
+    display: inline-block !important;
+  }
+  #ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86 .ss-social-icons-spacer {
+    display: inline-block !important;
+  }
+  #ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-27c6e4a0-a9fe-0137-ed1f-00163e6db787 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-27c70550-a9fe-0137-ed1f-00163e6db787 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-891d913b-57ae-450d-88cb-8c6c305bd925 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-891d913b-57ae-450d-88cb-8c6c305bd925 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-dc081e40-a9fe-0137-3698-00163e53695f .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-dc083e00-a9fe-0137-3698-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-bf533aa2-cb54-42fd-b302-a4088118ae51 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-424a2960-fde5-0134-aebe-00163e37ebd9 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-424a46c0-fde5-0134-aebe-00163e37ebd9 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+}
+</style>
+</head>
+<body style=3D"background: #fff none; border: 0px none; height: 100% !imp=
+ortant; margin: 0; padding: 10px 0px; width: 100% !important">
+<style type=3D"text/css">
+body {
+margin: 0; padding: 0; height: 100% !important; width: 100% !important;
+}
+img {
+border: 0; line-height: 100%; outline: none; text-decoration: none;
+}
+body {
+width: 100%; background-color: #fff; background-image: none; padding-top:=
+ 10px; padding-bottom: 10px; padding-right: 0px; padding-left: 0px; borde=
+r-width: 0px; border-style: none; margin: 0 !important;
+}
+body {
+margin: 0; padding: 0; height: 100% !important; width: 100% !important;
+}
+img {
+border: 0; line-height: 100%; outline: none; text-decoration: none;
+}
+body {
+width: 100%; background-color: #fff; background-image: none; padding-top:=
+ 10px; padding-bottom: 10px; padding-right: 0px; padding-left: 0px; borde=
+r-width: 0px; border-style: none; margin: 0 !important;
+}
+</style>
+<table width=3D"100%" style=3D"border-spacing: 0px; mso-table-lspace: 0; =
+mso-table-rspace: 0; padding: 0px">
+<tr><td id=3D"streamsend_header" style=3D"mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 0px">
+
+<div id=3D"social_bar" style=3D"border-bottom-color: #ffffff; border-bott=
+om-style: solid; border-bottom-width: 1px">
+  <div style=3D"background: #f3f3f3; border-bottom-color: #c4c4c4; border=
+-bottom-style: solid; border-bottom-width: 1px">
+    <div style=3D"border-bottom-color: #e0e0e0; border-bottom-style: soli=
+d; border-bottom-width: 1px">
+      <div style=3D"border-bottom-color: #e6e6e6; border-bottom-style: so=
+lid; border-bottom-width: 1px">
+        <div style=3D"border-bottom-color: #ededed; border-bottom-style: =
+solid; border-bottom-width: 1px">
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspa=
+ce: 0; padding: 0px"><tr>
+<td valign=3D"top" bgcolor=3D"#f3f3f3" style=3D"mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px">
+                <table width=3D"100%" height=3D"20" border=3D"0" align=3D=
+"left" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#f3f3f3" class=3D"c=
+ontenttable" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px"><tr>
+<td align=3D"left" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px">
+                      <table style=3D"border-spacing: 0px; min-width: 245=
+px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px" width=3D"100%=
+" height=3D"20" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D=
+"#f3f3f3" class=3D"removewidth"><tbody style=3D"float: left">
+<tr>
+<td colspan=3D"18" height=3D"4" style=3D"font-size: 1px; line-height: 1px=
+; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"></td>
+                        </tr>
+<tr>
+<td width=3D"4" style=3D"font-size: 1px; line-height: 1px; mso-table-lspa=
+ce: 0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+                          <td width=3D"35" style=3D"color: #878787; font-=
+family: arial; font-size: 12px; line-height: 20px; mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px">Share</td>
+                          <td width=3D"4" style=3D"font-size: 1px; line-h=
+eight: 1px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=A0=
+</td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Embed Email" href=3D"http://app.r=
+yzeo.com/s/1/34b85zly4i/Hr69qHf/12k78v?social_bar_action=3Dembed" class=3D=
+"social" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-ser=
+if; font-weight: normal; text-decoration: none"><img alt=3D"Embed Email" =
+src=3D"http://app.ryzeo.com/images/icons/embed_16.png" border=3D"0" width=
+=3D"16" height=3D"16" style=3D"border: 0; display: block; line-height: 10=
+0%; outline: none; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share Email" href=3D"http://app.r=
+yzeo.com/s/1/34b85zly4i/Hr69qHf/12k78v?social_bar_action=3Demail" class=3D=
+"social" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-ser=
+if; font-weight: normal; text-decoration: none"><img alt=3D"Share Email" =
+src=3D"http://app.ryzeo.com/images/icons/email.png" border=3D"0" width=3D=
+"16" height=3D"16" style=3D"border: 0; display: block; line-height: 100%;=
+ outline: none; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share on Facebook" href=3D"http:/=
+/www.facebook.com/sharer.php?u=3Dhttp%3A%2F%2Fapp.ryzeo.com%2Fs%2F1%2F34b=
+85zly4i%2FHr69qHf%2F12k78p" class=3D"social" style=3D"color: #2baadf; fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: normal; text-decorat=
+ion: none"><img alt=3D"Share on Facebook" src=3D"http://app.ryzeo.com/ima=
+ges/forms/share/facebook_16.png" border=3D"0" width=3D"16" height=3D"16" =
+style=3D"border: 0; display: block; line-height: 100%; outline: none; tex=
+t-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share on Twitter" href=3D"http://=
+twitter.com/?status=3D%F0%9F%8F%A1+%E2%9D%84+Standby+Generator+Registrati=
+on+an+Important+Installation+Step%3A+http%3A%2F%2Fapp.ryzeo.com%2Fs%2F1%2=
+F34b85zly4i%2FHr69qHf%2F12k78r" class=3D"social" style=3D"color: #2baadf;=
+ font-family: Helvetica, Arial, sans-serif; font-weight: normal; text-dec=
+oration: none"><img alt=3D"Share on Twitter" src=3D"http://app.ryzeo.com/=
+images/forms/share/twitter_16.png" border=3D"0" width=3D"16" height=3D"16=
+" style=3D"border: 0; display: block; line-height: 100%; outline: none; t=
+ext-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share on LinkedIn" href=3D"http:/=
+/www.linkedin.com/shareArticle?mini=3Dtrue&amp;title=3D%F0%9F%8F%A1+%E2%9=
+D%84+Standby+Generator+Registration+an+Important+Installation+Step&amp;su=
+mmary=3DStandby+Generator+Registration+helps+you+get+the+most+out+of+your=
++warranty+and+your+generator.+After+registration%2C+coverage+begins+on+th=
+e+install+date+instead+of+the+manufacturing+date.+Activation+of+the+gener=
+ator+controller+with+the+provided+registration+code+permits+full+standby+=
+functionality.+When+service+is+required%2C+the+technician+verifies+covera=
+ge+in+seconds+with+just+the+model+and+serial+number.+Every+brand+is+diffe=
+rent.+Get+the+Facts.+%F0%9F%8F%A1+%E2%9D%84&amp;url=3Dhttp%3A%2F%2Fapp.ry=
+zeo.com%2Fs%2F1%2F34b85zly4i%2FHr69qHf%2F12k78t" class=3D"social" style=3D=
+"color: #2baadf; font-family: Helvetica, Arial, sans-serif; font-weight: =
+normal; text-decoration: none"><img alt=3D"Share on LinkedIn" src=3D"http=
+://app.ryzeo.com/images/forms/share/linkedin_16.png" border=3D"0" width=3D=
+"16" height=3D"16" style=3D"border: 0; display: block; line-height: 100%;=
+ outline: none; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          =
+
+                            <td width=3D"49" style=3D"line-height: 16px; =
+mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a id=3D"facebook-tab" title=3D"Post a tab on=
+ Facebook" href=3D"http://app.ryzeo.com/s/1/34b85zly4i/Hr69qHf/12k78p?soc=
+ial_bar_action=3Dtab" class=3D"social" style=3D"color: #2baadf; font-fami=
+ly: Helvetica, Arial, sans-serif; font-weight: normal; text-decoration: n=
+one"><img alt=3D"Post a tab on Facebook" src=3D"http://app.ryzeo.com/imag=
+es/forms/share/facebook_tab_custom.png" border=3D"0" width=3D"46" height=3D=
+"20" style=3D"border: 0; display: block; line-height: 100%; outline: none=
+; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                        =
+
+                          <td width=3D"49" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a id=3D"facebook-like" title=3D"Like on Face=
+book" href=3D"http://app.ryzeo.com/s/1/34b85zly4i/Hr69qHf/12k78p?fb_like=3D=
+1" class=3D"social" style=3D"color: #2baadf; font-family: Helvetica, Aria=
+l, sans-serif; font-weight: normal; text-decoration: none"><img alt=3D"Li=
+ke on Facebook" src=3D"http://app.ryzeo.com/images/forms/share/facebook_l=
+ike_custom.png" border=3D"0" width=3D"49" height=3D"20" style=3D"border: =
+0; display: block; line-height: 100%; outline: none; text-decoration: non=
+e"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                        </tr>
+<tr><td colspan=3D"17" height=3D"1" style=3D"mso-table-lspace: 0; mso-tab=
+le-rspace: 0; padding: 0px"></td></tr>
+</tbody></table>
+</td>
+                  </tr></table>
+</td>
+          </tr></table>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+</td></tr>
+<tr><td id=3D"streamsend_content" style=3D"mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px">
+	=
+
+<!-- Email Background -->
+<table id=3D"ss-email" cellspacing=3D"0" cellpadding=3D"0" height=3D"100%=
+" width=3D"100%" style=3D"background: #fff none; border-spacing: 0px; bor=
+der: 0px none; margin: 0; mso-table-lspace: 0; mso-table-rspace: 0; paddi=
+ng: 10px 0px; width: 100%"><tbody><tr>
+<td style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+
+<!-- Email Content | Set Email Width Here --> =
+
+<table id=3D"ss-email-content" cellspacing=3D"0" cellpadding=3D"0" align=3D=
+"center" width=3D"600" class=3D"ss-editor-flexible-body-width" style=3D"b=
+ackground: #fff none; border-spacing: 0px; border: 0px none #000000; marg=
+in-left: auto; margin-right: auto; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 0px"><tbody><tr>
+<!-- Email Middle | Body text, images, etc --><td width=3D"600" class=3D"=
+ss-editor-flexible-body-width" style=3D"mso-table-lspace: 0; mso-table-rs=
+pace: 0; padding: 0px">
+				=
+
+<!-- Email Region surrounds email for free widget movement -->		=
+
+<div data-type=3D"region">
+<!-- Editor inserted widgets live here --><div data-type=3D"block" style=3D=
+"border: 0px hidden rgb(0,0,0)" class=3D"" align=3D"">
+<table id=3D"ss-3e2e7ef0-ac55-0137-82ac-00163e53695f" data-id=3D"ss-3e2e7=
+ef0-ac55-0137-82ac-00163e53695f" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-3e2e9a80-ac55-0137-82ac-00163e53695f" id=3D"ss=
+-3e2e9a80-ac55-0137-82ac-00163e53695f" width=3D"67%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-4235cc80-ac55-0137-6cf5-00163e482560" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-4235cc80-ac55-0137-6cf5-00163e482560" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"" =
+style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><a href=3D"ht=
+tp://app.ryzeo.com/c/31197595/2551/PdCqjht/34b85zly4i?redirect_to=3Dhttps=
+%3A%2F%2Fwww.norwall.com%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demai=
+l%26utm_content%3D31197595%26utm_campaign%3DStandby%2520Generator%2520Reg=
+istration%2520an%2520Important%2520Installation%2520Step%2520%25F0%259F%2=
+58F%25A1%2520%25E2%259D%2584&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D=
+"color: #2baadf; font-family: Helvetica, Arial, sans-serif; font-weight: =
+normal; line-height: 185%; text-decoration: none"><img src=3D"http://prod=
+uction-streamsend-ezpublishing.netdna-ssl.com/assets/extended/5105/51/ima=
+ges/NORWALL_Blue-01-940c72e8203db3df673576b55daf2720.jpg" border=3D"0" wi=
+dth=3D"250" class=3D"user_uploaded_image" style=3D"border: 0; display: bl=
+ock; line-height: 185%; outline: none; text-decoration: none" height=3D"8=
+8"></a></td></tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-3e2eab50-ac55-0137-82ac-00163e53695f" id=3D"ss=
+-3e2eab50-ac55-0137-82ac-00163e53695f" width=3D"33%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-44fc2db5-0bbf-441e-8ab5-d5e18a5b71ff" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-44fc2db5-0bbf-441e-8ab5-d5e18a5b71ff" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #333333; font-family: 'Roboto', sans-serif; fo=
+nt-size: 16px; font-weight: bold; line-height: 130%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 30px 10px 10px; text-align: center; word-b=
+reak: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #333333; font-family: 'Roboto', sans-serif; fo=
+nt-size: 16px; font-weight: bold; line-height: 130%; text-align: center; =
+word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 130%; text-align: left">
+<div style=3D"line-height: 130%; text-align: center"><b style=3D"line-hei=
+ght: 130%">Call Us Toll-Free:</b></div>
+<div style=3D"line-height: 130%; text-align: center"><b style=3D"line-hei=
+ght: 130%">1-855-453-4494</b></div>
+</div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)" align=3D"">
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-6f729f00-421a-0138-d25f-00163e63c88c" data-id=3D"ss-6f729=
+f00-421a-0138-d25f-00163e63c88c" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-6f72b7a0-421a-0=
+138-d25f-00163e63c88c" id=3D"ss-6f72b7a0-421a-0138-d25f-00163e63c88c" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19" data-type=3D"ss-div=
+ider" data-id=3D"ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"ss-editor-divider-border ss-editor-divider-width" style=3D=
+"border-spacing: 0px; border-top-color: #333333; border-top-style: solid;=
+ border-top-width: 1px; line-height: 185%; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px; width: 100%"><tbody style=3D"line-height: 185%"=
+><tr style=3D"line-height: 185%"><td height=3D"0" class=3D"ss-editor-divi=
+der-font-size ss-editor-divider-line-height" style=3D"font-size: 0px; lin=
+e-height: 0px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=
+=A0</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)" align=3D"">
+<table id=3D"ss-93d0d300-ea49-0138-6996-00163e09ca58" data-id=3D"ss-93d0d=
+300-ea49-0138-6996-00163e09ca58" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-93d10420-ea49-0=
+138-6996-00163e09ca58" id=3D"ss-93d10420-ea49-0138-6996-00163e09ca58" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-5ebec695-e207-4ed3-a647-516f3e668351" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-5ebec695-e207-4ed3-a647-516f3e668351" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding ss-editor-widget-text" s=
+tyle=3D"font-size: 24px; font-weight: bold; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 10px; text-align: center; word-b=
+reak: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: bold; line-height: 185%; text-align: =
+center; word-break: break-word; word-wrap: break-word">Registration Maxim=
+izes Warranty=E2=80=94Enables Automatic Operation</span>
+</td></tr></tbody></table>
+<table id=3D"ss-c652e3e5-4224-457b-bf23-c37dd8fc6465" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-c652e3e5-4224-457b-bf23-c37dd8fc6465" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width: =
+100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%">=
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rsp=
+ace: 0; padding: 10px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 185%; text-align=
+: left; word-break: break-word; word-wrap: break-word">Standby Generator =
+Registration helps you get the most out of your warranty and your generat=
+or. After registration, coverage begins on the install date instead of th=
+e manufacturing date. Activation of the generator controller with the pro=
+vided registration code permits full standby functionality. When service =
+is required, the technician verifies coverage in seconds with just the mo=
+del and serial number. Every brand is different. Get the Facts.</span>
+</td></tr></tbody></table>
+<table id=3D"ss-0001ec09-bb88-4999-959e-0fab57de62f0" data-type=3D"ss-but=
+ton" data-id=3D"ss-0001ec09-bb88-4999-959e-0fab57de62f0" data-version=3D"=
+1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width: 100%"=
+><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td c=
+lass=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"center"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" class=3D"ss-editor-button-align" style=3D"border-=
+spacing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0=
+; padding: 0px"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%"><td align=3D"center" class=3D"ss-editor-button-border ss-editor=
+-button-border-radius ss-editor-button-background ss-editor-button-displa=
+y ss-editor-button-font" style=3D"background: #153b63; border-radius: 3px=
+; border: 1px solid #739cba; color: #ffffff; display: inline-block; font-=
+family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: norma=
+l; line-height: 100%; margin: 0px; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 12px 18px; text-decoration: none"><a href=3D"http://app.ryze=
+o.com/c/31197595/2553/PdCqjht/34b85zly4i?redirect_to=3Dhttps%3A%2F%2Fwww.=
+norwall.com%2Fpower-expert%2Fstandby-generator-registration-warranty-info=
+rmation%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content%3=
+D31197595%26utm_campaign%3DStandby%2520Generator%2520Registration%2520an%=
+2520Important%2520Installation%2520Step%2520%25F0%259F%258F%25A1%2520%25E=
+2%259D%2584&amp;r=3D&amp;c=3D" target=3D"_blank" class=3D"ss-editor-butto=
+n-link ss-editor-button-text ss-editor-button-border-radius ss-editor-but=
+ton-font" style=3D"border-radius: 3px; color: #ffffff; cursor: pointer; d=
+isplay: inline-block; font-family: Helvetica, Arial, sans-serif; font-siz=
+e: 16px; font-weight: normal; line-height: 100%; text-decoration: none">=E2=
+=9C=85 How Registration Affects Generator Operation and Warranty</a></td>=
+</tr></tbody></table>
+</td></tr></tbody></table>
+<table id=3D"ss-d44632c0-4d59-0139-3f38-00163e09ca58" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-d44632c0-4d59-0139-3f38-00163e09ca58" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width:=
+ 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%"=
+><td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D""=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><img src=3D"h=
+ttp://production-streamsend-ezpublishing.netdna-ssl.com/assets/extended/5=
+105/51/images/briggs-and-stratton-home-backup-generator-900x340px_1_-5e23=
+e7b4942eacc7cd3da356b9512a63.jpg" border=3D"0" width=3D"600" class=3D"use=
+r_uploaded_image" style=3D"border: 0; display: block; line-height: 185%; =
+outline: none; text-decoration: none" height=3D"226"></td></tr></tbody></=
+table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-005de1b0-ea4d-0138-bade-00163e71c942" data-id=3D"ss-005de=
+1b0-ea4d-0138-bade-00163e71c942" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-005dfb60-ea4d-0=
+138-bade-00163e71c942" id=3D"ss-005dfb60-ea4d-0138-bade-00163e71c942" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5" data-type=3D"ss-div=
+ider" data-id=3D"ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"ss-editor-divider-border ss-editor-divider-width" style=3D=
+"border-spacing: 0px; border-top-color: #333333; border-top-style: solid;=
+ border-top-width: 1px; line-height: 185%; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px; width: 100%"><tbody style=3D"line-height: 185%"=
+><tr style=3D"line-height: 185%"><td height=3D"0" class=3D"ss-editor-divi=
+der-font-size ss-editor-divider-line-height" style=3D"font-size: 0px; lin=
+e-height: 0px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=
+=A0</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)" align=3D"center">
+<table id=3D"ss-4f0e4bc0-ea49-0138-55f6-00163e36e0eb" data-id=3D"ss-4f0e4=
+bc0-ea49-0138-55f6-00163e36e0eb" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-4f0e75f0-ea49-0=
+138-55f6-00163e36e0eb" id=3D"ss-4f0e75f0-ea49-0138-55f6-00163e36e0eb" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-f4b444e2-3769-4340-b89c-89839348a540" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-f4b444e2-3769-4340-b89c-89839348a540" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding ss-editor-widget-text" s=
+tyle=3D"font-size: 24px; font-weight: bold; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 10px; text-align: center; word-b=
+reak: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: bold; line-height: 185%; text-align: =
+center; word-break: break-word; word-wrap: break-word">=E2=9D=84 Winter W=
+eather Safety=C2=A0=E2=9D=84</span>
+</td></tr></tbody></table>
+<table id=3D"ss-d1a6f97b-3b24-4022-b82d-e4073a6e7c75" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-d1a6f97b-3b24-4022-b82d-e4073a6e7c75" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width: =
+100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%">=
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rsp=
+ace: 0; padding: 10px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 185%; text-align=
+: left; word-break: break-word; word-wrap: break-word">Stay safe in blizz=
+ards and ice storms, floods, fog or dangerous cold and wind chill. From t=
+raveling to having fun outdoors to staying warm in front of a fire, winte=
+r safety is all about preparation and knowing what to expect. It doesn=E2=
+=80=99t matter if you=E2=80=99re snowboarding, traveling on wintry roads,=
+ or sitting out an ice storm with a cozy fire, good preparation keeps you=
+ and your family safe and warm.</span>
+</td></tr></tbody></table>
+<table id=3D"ss-7e7f6980-4d5a-0139-9e12-00163e3a609b" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-7e7f6980-4d5a-0139-9e12-00163e3a609b" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width:=
+ 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%"=
+><td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"c=
+enter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"bord=
+er-collapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height=
+: 185%"><tr style=3D"line-height: 185%"><td align=3D"center" style=3D"lin=
+e-height: 100%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><=
+a href=3D"http://app.ryzeo.com/c/31197595/2555/PdCqjht/34b85zly4i?redirec=
+t_to=3Dhttps%3A%2F%2Fwww.norwall.com%2Fpower-expert%2Fwinter-weather-safe=
+ty%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D3119=
+7595%26utm_campaign%3DStandby%2520Generator%2520Registration%2520an%2520I=
+mportant%2520Installation%2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259=
+D%2584&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D"color: #2baadf; font=
+-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height: =
+185%; text-decoration: none"><img src=3D"http://production-streamsend-ezp=
+ublishing.netdna-ssl.com/assets/extended/5105/51/images/science-of-wind-c=
+hill_1_-5d8983d03080271cbc52fb458c312ba3.png" border=3D"0" width=3D"576" =
+class=3D"user_uploaded_image" style=3D"border: 0; display: block; line-he=
+ight: 185%; outline: none; text-decoration: none" height=3D"300"></a></td=
+></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-1b39ca40-ea4b-0138-55f6-00163e36e0eb" data-id=3D"ss-1b39c=
+a40-ea4b-0138-55f6-00163e36e0eb" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-1b39ef50-ea4b-0=
+138-55f6-00163e36e0eb" id=3D"ss-1b39ef50-ea4b-0138-55f6-00163e36e0eb" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995" data-type=3D"ss-but=
+ton" data-id=3D"ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995" data-version=3D"=
+1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" class=3D"ss-editor-button-align" style=3D"border-=
+spacing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0=
+; padding: 0px"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%"><td align=3D"center" class=3D"ss-editor-button-border ss-editor=
+-button-border-radius ss-editor-button-background ss-editor-button-displa=
+y ss-editor-button-font" style=3D"background: #153b63; border-radius: 3px=
+; border: 1px solid #739cba; color: #ffffff; display: inline-block; font-=
+family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: norma=
+l; line-height: 100%; margin: 0px; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 12px 18px; text-decoration: none"><a href=3D"http://app.ryze=
+o.com/c/31197595/2557/PdCqjht/34b85zly4i?redirect_to=3Dhttps%3A%2F%2Fwww.=
+norwall.com%2Fpower-expert%2Fwinter-weather-safety%2F%3Futm_source%3Dstre=
+amsend%26utm_medium%3Demail%26utm_content%3D31197595%26utm_campaign%3DSta=
+ndby%2520Generator%2520Registration%2520an%2520Important%2520Installation=
+%2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259D%2584&amp;r=3D&amp;c=3D"=
+ target=3D"_blank" class=3D"ss-editor-button-link ss-editor-button-text s=
+s-editor-button-border-radius ss-editor-button-font" style=3D"border-radi=
+us: 3px; color: #ffffff; cursor: pointer; display: inline-block; font-fam=
+ily: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; =
+line-height: 100%; text-decoration: none">=E2=9D=84 Winter Weather Prepar=
+edness and Safety</a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-bee62a60-4dde-0139-1869-00163e36e0eb" data-id=3D"ss-bee62=
+a60-4dde-0139-1869-00163e36e0eb" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-bee65060-4dde-0=
+139-1869-00163e36e0eb" id=3D"ss-bee65060-4dde-0139-1869-00163e36e0eb" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-58a2e704-f8cf-473c-b4a7-e33f866529de" data-type=3D"ss-div=
+ider" data-id=3D"ss-58a2e704-f8cf-473c-b4a7-e33f866529de" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width: 100%"=
+><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td c=
+lass=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"center"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"ss-editor-divider-border ss-editor-divider-width" style=3D=
+"border-spacing: 0px; border-top-color: #333333; border-top-style: solid;=
+ border-top-width: 1px; line-height: 185%; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px; width: 100%"><tbody style=3D"line-height: 185%"=
+><tr style=3D"line-height: 185%"><td height=3D"0" class=3D"ss-editor-divi=
+der-font-size ss-editor-divider-line-height" style=3D"font-size: 0px; lin=
+e-height: 0px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=
+=A0</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)" align=3D"center">
+<table id=3D"ss-0748c520-ea49-0138-c894-00163e3a609b" data-id=3D"ss-0748c=
+520-ea49-0138-c894-00163e3a609b" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-0748deb0-ea49-0=
+138-c894-00163e3a609b" id=3D"ss-0748deb0-ea49-0138-c894-00163e3a609b" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-7cf678c0-ea4a-0138-c894-00163e3a609b" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-7cf678c0-ea4a-0138-c894-00163e3a609b" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding" align=3D"center" style=3D=
+"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"bord=
+er-collapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height=
+: 185%"><tr style=3D"line-height: 185%"><td align=3D"center" style=3D"lin=
+e-height: 100%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 25px 0=
+px 0px"><img src=3D"https://live.staticflickr.com/65535/48874404241_7db64=
+2769e_b.jpg" border=3D"0" alt=3D"Preparedness=E2=80=94Things to Remember =
+When Disaster Threatens" title=3D"Preparedness=E2=80=94Things to Remember=
+ When Disaster Threatens" width=3D"500" class=3D"user_uploaded_image" sty=
+le=3D"border: 0; display: block; line-height: 185%; outline: none; text-d=
+ecoration: none" height=3D"1216"></td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-1c477b60-a9fc-0137-d3ad-00163e2e3ac9" data-id=3D"ss-1c477=
+b60-a9fc-0137-d3ad-00163e2e3ac9" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-1c47a6e0-a9fc-0137-d3ad-00163e2e3ac9" id=3D"ss=
+-1c47a6e0-a9fc-0137-d3ad-00163e2e3ac9" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+
+
+<table id=3D"ss-f99543f1-952c-4e5a-ba3a-753e3e308738" data-type=3D"ss-div=
+ider" data-id=3D"ss-f99543f1-952c-4e5a-ba3a-753e3e308738" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #333333; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+<table id=3D"ss-01cb6538-e00a-42dd-a9d2-55c48ad3efc2" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-01cb6538-e00a-42dd-a9d2-55c48ad3efc2" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #254685; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; line-height: 160%; mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 15px 10px; word-break: break-word; word-wrap: break-w=
+ord">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #254685; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%; text-align: center"><b style=3D"line-hei=
+ght: 160%"><font size=3D"5" style=3D"line-height: 160%">Sales Support Hou=
+rs=C2=A0</font></b></div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-475248a0-a9fc-0137-20e7-00163e743bca" data-id=3D"ss-47524=
+8a0-a9fc-0137-20e7-00163e743bca" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-47526300-a9fc-0137-20e7-00163e743bca" id=3D"ss=
+-47526300-a9fc-0137-20e7-00163e743bca" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-afec796f-dea5-44df-967c-1901fd01807e" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-afec796f-dea5-44df-967c-1901fd01807e" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #343434; line-height: 160%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px 20px 15px; word-break: break-word; w=
+ord-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #343434; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%; text-align: center">Friendly Norwall Pow=
+erSystems sales representatives are available to help answer questions an=
+d assist you with your purchase. Phone support is available:</div>
+<div style=3D"line-height: 160%; text-align: center"><br style=3D"line-he=
+ight: 160%"></div>
+<div style=3D"line-height: 160%; text-align: center">
+<b style=3D"line-height: 160%">Monday to Friday - 6 am to 4 pm AZ</b><br =
+style=3D"line-height: 160%">
+</div>
+<div style=3D"line-height: 160%; text-align: center"><b style=3D"line-hei=
+ght: 160%"> Saturday - 7 am to 3 pm AZ<br style=3D"line-height: 160%"></b=
+></div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-d9b23950-a9fc-0137-b9b8-00163e74fec4" data-id=3D"ss-d9b23=
+950-a9fc-0137-b9b8-00163e74fec4" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-d9b25000-a9fc-0137-b9b8-00163e74fec4" id=3D"ss=
+-d9b25000-a9fc-0137-b9b8-00163e74fec4" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-6bf73f65-607a-4d6f-945f-5f4243510951" data-type=3D"ss-div=
+ider" data-id=3D"ss-6bf73f65-607a-4d6f-945f-5f4243510951" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"">
+<table id=3D"ss-13d19a00-a9fd-0137-3698-00163e53695f" data-id=3D"ss-13d19=
+a00-a9fd-0137-3698-00163e53695f" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-13d1bd10-a9fd-0137-3698-00163e53695f" id=3D"ss=
+-13d1bd10-a9fd-0137-3698-00163e53695f" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-1344be90-a9fd-0137-0b95-00163e63c88c" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-1344be90-a9fd-0137-0b95-00163e63c88c" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"" =
+style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><a href=3D"ht=
+tp://app.ryzeo.com/c/31197595/2559/PdCqjht/34b85zly4i?redirect_to=3Dhttps=
+%3A%2F%2Fwww.norwall.com%2Fpages%2FCurrent-Rebates%2F%3Futm_source%3Dstre=
+amsend%26utm_medium%3Demail%26utm_content%3D31197595%26utm_campaign%3DSta=
+ndby%2520Generator%2520Registration%2520an%2520Important%2520Installation=
+%2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259D%2584&amp;r=3D&amp;c=3D"=
+ target=3D"_blank" style=3D"color: #2baadf; font-family: Helvetica, Arial=
+, sans-serif; font-weight: normal; line-height: 185%; text-decoration: no=
+ne"><img src=3D"http://production-streamsend-ezpublishing.netdna-ssl.com/=
+assets/extended/5105/51/images/ia270-0ac61ea2-1786-4aee-ae29-2aac0b13e01e=
+-v2-e7229e331d04236646fd0d7f172a3e69.png" border=3D"0" width=3D"600" clas=
+s=3D"user_uploaded_image" style=3D"border: 0; display: block; line-height=
+: 185%; outline: none; text-decoration: none" height=3D"200"></a></td></t=
+r></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-24840c20-a9fd-0137-0d5d-00163e2d792a" data-id=3D"ss-24840=
+c20-a9fd-0137-0d5d-00163e2d792a" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-24842830-a9fd-0137-0d5d-00163e2d792a" id=3D"ss=
+-24842830-a9fd-0137-0d5d-00163e2d792a" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8" data-type=3D"ss-div=
+ider" data-id=3D"ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-394ac280-a9fd-0137-20e7-00163e743bca" data-id=3D"ss-394ac=
+280-a9fd-0137-20e7-00163e743bca" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-394af060-a9fd-0137-20e7-00163e743bca" id=3D"ss=
+-394af060-a9fd-0137-20e7-00163e743bca" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-485c04db-bdb4-4662-b101-93417df5acd7" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-485c04db-bdb4-4662-b101-93417df5acd7" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #383838; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; line-height: 160%; mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 10px 10px 10px 15px; word-break: break-word; word-wra=
+p: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #383838; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<span id=3D"goog_1597274233" style=3D"line-height: 160%"></span><b style=3D=
+"line-height: 160%"><font size=3D"5" style=3D"line-height: 160%"> Expert =
+Customer Service</font></b><span id=3D"goog_1597274234" style=3D"line-hei=
+ght: 160%"></span>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-4b353160-aa3e-0137-20e7-00163e743bca" data-id=3D"ss-4b353=
+160-aa3e-0137-20e7-00163e743bca" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-4b355ee0-aa3e-0137-20e7-00163e743bca" id=3D"ss=
+-4b355ee0-aa3e-0137-20e7-00163e743bca" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-ce0c8932-3559-4aae-b11d-4cfb7fa6545a" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-ce0c8932-3559-4aae-b11d-4cfb7fa6545a" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #343434; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; line-height: 160%; mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 10px 10px 10px 15px; word-break: break-word; word-wra=
+p: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #343434; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<span style=3D"color: rgb(52, 52, 52); line-height: 160%">Norwall PowerSy=
+stems prides itself on customer service and making sure your shopping exp=
+erience and after sales support is the best it can be. Check out this rec=
+ent review from</span>
+<div style=3D"line-height: 160%"><span style=3D"color: rgb(52, 52, 52); l=
+ine-height: 160%">Rob:=C2=A0</span></div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-660dcc70-a9fd-0137-0b95-00163e63c88c" data-id=3D"ss-660dc=
+c70-a9fd-0137-0b95-00163e63c88c" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-660df0b0-a9fd-0137-0b95-00163e63c88c" id=3D"ss=
+-660df0b0-a9fd-0137-0b95-00163e63c88c" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-7e194489-d089-41b7-bd12-d34c80a7224a" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-7e194489-d089-41b7-bd12-d34c80a7224a" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #5e5e5e; font-family: Helvetica, Arial, sans-s=
+erif; line-height: 160%; mso-table-lspace: 0; mso-table-rspace: 0; paddin=
+g: 3px 10px 10px 15px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #5e5e5e; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%">Best prices and an outstanding product. =
+It was delivered today by a UPS truck and delivered to my door. Very much=
+ faster than advertised. The Onan 4500 is a dream come true, very quiet a=
+nd runs our Lance Camper=E2=80=99s A/C unit easily. <u style=3D"line-heig=
+ht: 160%"><a href=3D"http://app.ryzeo.com/c/31197595/2561/PdCqjht/34b85zl=
+y4i?redirect_to=3Dhttps%3A%2F%2Fwww.trustpilot.com%2Fusers%2F5d9679135a7b=
+0378134dce6b%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content=
+%3D31197595%26utm_campaign%3DStandby%2520Generator%2520Registration%2520a=
+n%2520Important%2520Installation%2520Step%2520%25F0%259F%258F%25A1%2520%2=
+5E2%259D%2584&amp;r=3D&amp;c=3D" style=3D"color: #2baadf; font-family: He=
+lvetica, Arial, sans-serif; font-weight: normal; line-height: 160%; text-=
+decoration: none"><b style=3D"line-height: 160%">Read Review</b></a></u><=
+br style=3D"line-height: 160%">
+</div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"center">
+<table id=3D"ss-ecdd2130-a9fd-0137-0b95-00163e63c88c" data-id=3D"ss-ecdd2=
+130-a9fd-0137-0b95-00163e63c88c" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-ecdd4970-a9fd-0137-0b95-00163e63c88c" id=3D"ss=
+-ecdd4970-a9fd-0137-0b95-00163e63c88c" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-ecd54af0-a9fd-0137-ed1f-00163e6db787" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-ecd54af0-a9fd-0137-ed1f-00163e6db787" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 50% !import=
+ant"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 5px 0px 0px; width: 50% !important">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"bord=
+er-collapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height=
+: 185%"><tr style=3D"line-height: 185%"><td align=3D"center" style=3D"lin=
+e-height: 100%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><=
+img src=3D"http://production-streamsend-ezpublishing.netdna-ssl.com/asset=
+s/extended/5105/51/images/ia270-6b5d2505-748c-44d5-be9b-c365a81b8212-v2-7=
+0963c09e233c9e6e4fa32d6aea582e0.png" border=3D"0" width=3D"216" class=3D"=
+user_uploaded_image" style=3D"border: 0; display: block; line-height: 185=
+%; outline: none; text-decoration: none" height=3D"81"></td></tr></tbody>=
+</table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-0da89480-a9fe-0137-8f4c-00163e0dcb3d" data-id=3D"ss-0da89=
+480-a9fe-0137-8f4c-00163e0dcb3d" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-0da8ae50-a9fe-0137-8f4c-00163e0dcb3d" id=3D"ss=
+-0da8ae50-a9fe-0137-8f4c-00163e0dcb3d" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-8202416a-b6f0-44a6-908e-3c415568c3b4" data-type=3D"ss-div=
+ider" data-id=3D"ss-8202416a-b6f0-44a6-908e-3c415568c3b4" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-27c6e4a0-a9fe-0137-ed1f-00163e6db787" data-id=3D"ss-27c6e=
+4a0-a9fe-0137-ed1f-00163e6db787" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-27c70550-a9fe-0137-ed1f-00163e6db787" id=3D"ss=
+-27c70550-a9fe-0137-ed1f-00163e6db787" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86" data-type=3D"ss-soc=
+ial-icons" data-id=3D"ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" da=
+ta-icon-size=3D"38" style=3D"border-spacing: 0px; border: 0px none #00000=
+0; color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: =
+14px; font-weight: normal; line-height: 185%; margin: 0px; min-width: 100=
+%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px; text-align: le=
+ft; width: 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-hei=
+ght: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table width=3D"100%" style=3D"border-spacing: 0px; line-height: 185%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"lin=
+e-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-social-icons-parent ss-social-icons-align" align=3D"cente=
+r" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 15px 10px">
+<table class=3D"ss-social-icons ss-social-icons-align" style=3D"border-sp=
+acing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0px"><tbody style=3D"line-height: 185%"><tr class=3D"ss-social-i=
+cons-container  ss-social-icons-align" style=3D"line-height: 185%">
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"facebook" style=3D"line-height: 100%; mso-table-lspac=
+e: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100%=
+"><a href=3D"http://app.ryzeo.com/c/31197595/2563/PdCqjht/34b85zly4i?redi=
+rect_to=3Dhttps%3A%2F%2Fwww.facebook.com%2FNorwallPowerSystems%3Futm_sour=
+ce%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D31197595%26utm_campa=
+ign%3DStandby%2520Generator%2520Registration%2520an%2520Important%2520Ins=
+tallation%2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259D%2584&amp;r=3D&=
+amp;c=3D" class=3D"ss-social-icons-icon-link" style=3D"color: #2baadf; fo=
+nt-family: Helvetica, Arial, sans-serif; font-weight: normal; line-height=
+: 100%; text-decoration: none"><img class=3D"ss-social-icons-icon-image" =
+data-type=3D"ss-social-icons-icon" src=3D"https://javascript_library.s3.a=
+mazonaws.com/bard/ic-facebook.png" width=3D"38" style=3D"border: 0; displ=
+ay: block; line-height: 100%; outline: none; text-decoration: none"></a><=
+/span></td>
+<td class=3D"ss-social-icons-spacer" data-type=3D"ss-social-icons-spacer"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; width: 11px">
+<div class=3D"ss-social-icons-spacer" style=3D"line-height: 185%; width: =
+11px"></div>
+</td>
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"twitter" style=3D"line-height: 100%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100%"=
+><a href=3D"http://app.ryzeo.com/c/31197595/2565/PdCqjht/34b85zly4i?redir=
+ect_to=3Dhttps%3A%2F%2Ftwitter.com%2FNorwallPowerSys%3Futm_source%3Dstrea=
+msend%26utm_medium%3Demail%26utm_content%3D31197595%26utm_campaign%3DStan=
+dby%2520Generator%2520Registration%2520an%2520Important%2520Installation%=
+2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259D%2584&amp;r=3D&amp;c=3D" =
+class=3D"ss-social-icons-icon-link" style=3D"color: #2baadf; font-family:=
+ Helvetica, Arial, sans-serif; font-weight: normal; line-height: 100%; te=
+xt-decoration: none"><img class=3D"ss-social-icons-icon-image" data-type=3D=
+"ss-social-icons-icon" src=3D"https://javascript_library.s3.amazonaws.com=
+/bard/ic-twitter.png" width=3D"38" style=3D"border: 0; display: block; li=
+ne-height: 100%; outline: none; text-decoration: none"></a></span></td>
+<td class=3D"ss-social-icons-spacer" data-type=3D"ss-social-icons-spacer"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; width: 11px">
+<div class=3D"ss-social-icons-spacer" style=3D"line-height: 185%; width: =
+11px"></div>
+</td>
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"linkedin" style=3D"line-height: 100%; mso-table-lspac=
+e: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100%=
+"><a href=3D"http://app.ryzeo.com/c/31197595/2567/PdCqjht/34b85zly4i?redi=
+rect_to=3Dhttps%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnorwall-powersystems=
+%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D311975=
+95%26utm_campaign%3DStandby%2520Generator%2520Registration%2520an%2520Imp=
+ortant%2520Installation%2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259D%=
+2584&amp;r=3D&amp;c=3D" class=3D"ss-social-icons-icon-link" style=3D"colo=
+r: #2baadf; font-family: Helvetica, Arial, sans-serif; font-weight: norma=
+l; line-height: 100%; text-decoration: none"><img class=3D"ss-social-icon=
+s-icon-image" data-type=3D"ss-social-icons-icon" src=3D"https://javascrip=
+t_library.s3.amazonaws.com/bard/ic-linkedin.png" width=3D"38" style=3D"bo=
+rder: 0; display: block; line-height: 100%; outline: none; text-decoratio=
+n: none"></a></span></td>
+<td class=3D"ss-social-icons-spacer" data-type=3D"ss-social-icons-spacer"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; width: 11px">
+<div class=3D"ss-social-icons-spacer" style=3D"line-height: 185%; width: =
+11px"></div>
+</td>
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"pinterest" style=3D"line-height: 100%; mso-table-lspa=
+ce: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100=
+%"><a href=3D"http://app.ryzeo.com/c/31197595/2569/PdCqjht/34b85zly4i?red=
+irect_to=3Dhttps%3A%2F%2Fwww.pinterest.com%2Fnorwall%2F%3Futm_source%3Dst=
+reamsend%26utm_medium%3Demail%26utm_content%3D31197595%26utm_campaign%3DS=
+tandby%2520Generator%2520Registration%2520an%2520Important%2520Installati=
+on%2520Step%2520%25F0%259F%258F%25A1%2520%25E2%259D%2584&amp;r=3D&amp;c=3D=
+" class=3D"ss-social-icons-icon-link" style=3D"color: #2baadf; font-famil=
+y: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 100%; =
+text-decoration: none"><img class=3D"ss-social-icons-icon-image" data-typ=
+e=3D"ss-social-icons-icon" src=3D"https://javascript_library.s3.amazonaws=
+.com/bard/ic-pinterest.png" width=3D"38" style=3D"border: 0; display: blo=
+ck; line-height: 100%; outline: none; text-decoration: none"></a></span><=
+/td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-dc081e40-a9fe-0137-3698-00163e53695f" data-id=3D"ss-dc081=
+e40-a9fe-0137-3698-00163e53695f" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-dc083e00-a9fe-0137-3698-00163e53695f" id=3D"ss=
+-dc083e00-a9fe-0137-3698-00163e53695f" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-891d913b-57ae-450d-88cb-8c6c305bd925" data-type=3D"ss-div=
+ider" data-id=3D"ss-891d913b-57ae-450d-88cb-8c6c305bd925" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-424a2960-fde5-0134-aebe-00163e37ebd9" data-id=3D"ss-424a2=
+960-fde5-0134-aebe-00163e37ebd9" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"background: #fff; bord=
+er-spacing: 0px; border: 0px none #000000; margin: 0px; min-width: 100%; =
+mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbo=
+dy><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"background: #fff; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-424a46c0-fde5-0134-aebe-00163e37ebd9" id=3D"ss=
+-424a46c0-fde5-0134-aebe-00163e37ebd9" width=3D"100.0%" style=3D"border: =
+0px none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0px; vertical-align: top">
+<table id=3D"ss-bf533aa2-cb54-42fd-b302-a4088118ae51" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-bf533aa2-cb54-42fd-b302-a4088118ae51" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"background: #FFFFFF; border-spacing: 0px; border: 0px none #000000;=
+ color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: 14=
+px; font-weight: normal; line-height: 185%; margin: 0px; min-width: 100%;=
+ mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px; text-align: left=
+; width: 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #999999; font-size: 11px; line-height: 160%; m=
+so-table-lspace: 0; mso-table-rspace: 0; padding: 15px 10px 20px; text-al=
+ign: center; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #999999; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 11px; font-weight: normal; line-height: 160%; text-align=
+: center; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%"><a style=3D"color: #999999 !important; f=
+ont-family: Helvetica, Arial, sans-serif; font-weight: normal; line-heigh=
+t: 160%; text-decoration: none" href=3D"http://app.ryzeo.com/private/34b8=
+5zly4i/F01/PdCqjht/unsubscribe/31197595"><u style=3D"line-height: 160%">U=
+nsubscribe</u></a></div>
+<div style=3D"line-height: 160%"><br style=3D"line-height: 160%"></div>
+<div style=3D"line-height: 160%">Norwall PowerSystems</div>
+<div style=3D"line-height: 160%">2455 Kiowa Blvd N Ste 102</div>
+<div style=3D"line-height: 160%">Lake Havasu City, Arizona 86403=C2=A0</d=
+iv>
+<div style=3D"line-height: 160%">United States=C2=A0</div>
+<div style=3D"line-height: 160%">1 (855) 453-4494</div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<!-- end Region -->
+
+</td>
+</tr></tbody></table>
+<!-- end Content -->
+</td>
+</tr></tbody></table>
+<!-- end Email --><style id=3D"ss-editor-web-font-import" scoped=3D"">@im=
+port url('https://fonts.googleapis.com/css?family=3DDroid+Sans:400,700|Dr=
+oid+Serif:400,700|Lato:400,700|Lobster:400,700|Merriweather:400,700|Monts=
+errat:400,700|Open+Sans:400,700|Roboto:400,700|Roboto+Condensed:400,700|R=
+oboto+Slab:400,700|Source+Sans+Pro:400,700');</style>
+</td></tr>
+<tr><td id=3D"streamsend_footer" style=3D"mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 0px"></td></tr>
+</table>
+<img src=3D"http://app.ryzeo.com/v/31197595/PdCqjht/34b85zly4i?r=3D" styl=
+e=3D"border: 0; line-height: 100%; outline: none; text-decoration: none">=
+
+</body>
+</html>
+
+----==_mimepart_6023fe6f9fcff_27b4ee196227310b6--
+

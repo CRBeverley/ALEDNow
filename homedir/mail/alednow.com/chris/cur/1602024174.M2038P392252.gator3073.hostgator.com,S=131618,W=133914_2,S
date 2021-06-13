@@ -1,0 +1,2296 @@
+Return-Path: <bf2bca5a-7ef2-4e9e-8ac1-ce4908fab40f-9006797@returns.smtpengine.statsauth01.com>
+Delivered-To: Chris@Alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id AAjwOe3yfF88/AUAi5QuQQ
+	(envelope-from <bf2bca5a-7ef2-4e9e-8ac1-ce4908fab40f-9006797@returns.smtpengine.statsauth01.com>)
+	for <Chris@Alednow.com>; Tue, 06 Oct 2020 17:42:53 -0500
+Return-path: <bf2bca5a-7ef2-4e9e-8ac1-ce4908fab40f-9006797@returns.smtpengine.statsauth01.com>
+Envelope-to: Chris@Alednow.com
+Delivery-date: Tue, 06 Oct 2020 17:42:54 -0500
+Received: from smtpengine1.statsauth01.com ([192.40.178.193]:52001)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bf2bca5a-7ef2-4e9e-8ac1-ce4908fab40f-9006797@returns.smtpengine.statsauth01.com>)
+	id 1kPvfZ-001nIm-I2
+	for Chris@Alednow.com; Tue, 06 Oct 2020 17:42:53 -0500
+X-MSFBL: hkl+68Fd5pLnXlOUNcPh+wqyFTK4q0vtyN3nIAz1Qrs=|eyJiIjoiZXpwdWJsaXN
+	oaW5nX2RlZGljYXRlZF9wb29sXzE5Ml80MF8xNzhfMTkzIiwiZyI6ImV6cHVibGl
+	zaGluZ19kZWRpY2F0ZWRfcG9vbCIsInIiOiJDaHJpc0BhbGVkbm93LmNvbSJ9
+Received: from [10.137.129.35] ([10.137.129.35:50332] helo=[10.0.0.112])
+	by mtl-mtsp-mta04-out2.smtp.com (envelope-from <bf2bca5a-7ef2-4e9e-8ac1-ce4908fab40f-9006797@returns.smtpengine.statsauth01.com>)
+	(ecelerity 4.2.38.62370 r(:)) with ESMTP
+	id C6/BE-21103-6D2FC7F5; Tue, 06 Oct 2020 22:42:30 +0000
+Received: Received from 10.137.11.78 by Caffeine (mtl-mtsp-c02-3) with SMTP id
+ 71e74f55-22be-49a5-89d7-aaa0db83de2a  for Chris@Alednow.com;
+  Tue, 06 Oct 2020 22:42:25 +0000 (UTC)
+Received: from [71.6.106.42] ([71.6.106.42:18522] helo=SERVER)
+	by mtl-mtsp-mta01-in2 (envelope-from <sales@norwall.com>)
+	(ecelerity 4.1.0.46749 r(Core:4.1.0.4)) with ESMTPA
+	id 4F/60-23350-FC2FC7F5; Tue, 06 Oct 2020 22:42:25 +0000
+Date: Tue, 06 Oct 2020 15:42:35 -0700
+From: Norwall PowerSystems <sales@norwall.com>
+To: Chris@Alednow.com
+Message-ID: <5f7cf2db706e7_3d744c779603136191@app-blast2.streamsend.com.mail>
+Subject: =?UTF-8?Q?_=E2=9A=A0_Breaking!_Gulf_Coast_Braces_for_Major_Hurric?=
+ =?UTF-8?Q?ane_Delta?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_5f7cf2db6ee21_3d744c779603136088";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: StreamSend2 - 510551
+X-Mailer-Version: 2.0
+X-Mailer-Environment: production
+X-Report-Abuse-At: abuse@ryzeo.com
+X-Report-Abuse-Info: It is important to please include full email headers in
+ the report
+X-rpcampaign: StreamSend31194343
+X-Streamsend2id: 510551+1+122633+31194343+
+List-Unsubscribe: 
+ <mailto:unsubscribe+34b85zly4i+31194343+PdCqjht@unsubscribe.ryzeo.com>
+X-RYZEO-SCR: 0
+Feedback-ID: 9006797:SMTPCOM
+X-SMTPCOM-Sender-ID: 9006797
+X-SMTPCOM-Tracking-Number: 71e74f55-22be-49a5-89d7-aaa0db83de2a
+X-SMTPCOM-Message-ID: bf2bca5a-7ef2-4e9e-8ac1-ce4908fab40f
+X-SMTPCOM-Payload: 
+ 64lC9od7llBki3vKzAngW0H5ZiR6DpjPOi9Y0djaay-sSFkVAKvFQzT-BSc3pLOCGY2XcXGKCxKZ4E4K8ej1-mh1NLg7xQ9cz4gBIsoG2g-s4mRXDCayE1xugp6DvzvsX1TlkFEyIxceJwZ5g765KPytNXZ67udKCMQ2RTalzS1cciL2xUxVdNRP6hCQi2B9
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple;
+ d=smtpengine.statsauth01.com; i=@smtpengine.statsauth01.com;
+ q=dns/txt; s=smtpenginestatsauth01com; t=1602024148; h=date : from :
+ to : message-id : subject : mime-version : content-type :
+ content-transfer-encoding : list-unsubscribe : from;
+ bh=43WDhtZuJUPPbcwyyvNolyXSOGse9vO786Up6LbiO2w=;
+ b=NRCOMiUhuu0LV2S2Xfv7ZkOspmDUlx2Afmx9+ddPHQyewxVFVJs6Rl+Z3MO4AfVgrj5wh
+ 6kJ5snnuO9vMi3aN53Q7/K8py/qtU+YkDpy/BI0//HYIQb0C2M5X4v9iW+zL/3oAIMw4jBI
+ C+MB95bOJHrE/HmDY6vlAG0If/D1B08=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=smtpsendemail.com;
+ i=@smtpsendemail.com; q=dns/txt; s=smtpcustomer; t=1602024148; h=date
+ : from : to : message-id : subject : mime-version : content-type :
+ content-transfer-encoding : list-unsubscribe : from;
+ bh=43WDhtZuJUPPbcwyyvNolyXSOGse9vO786Up6LbiO2w=;
+ b=YnGc7Fdl6betE36zZhGRvOFx9dPZpZR+hAPdS+7KGQMEP4/fsQN7wGzpXU/Jj43OVKZbJ
+ 1nmhf+i4ARQJmOEUEhZQeiBPJp3gqGJFYotdt8AZwMU0wEtkVvuwZsyl0ludR9joCRIMIH2
+ Arcst28xzwUdN38J5ME3Xc9FA5n+2QoGeaNXXrLTtmRW1RAVGbYC1jXCpsDKVCV3+CMM542
+ JrX1gyUh1qWD4whSDzDU0eLYiEqYqi71guwozwVVKXss6WXb2JP2ulSawwwg6+vJE8hsfyL
+ VN13omZUEPDOAa5owYosp2oA26oO7VV1i1CUszDRNbCS/pPMPuWKjLZNIF6Q==
+X-Report-Abuse: SMTP.com is an email service provider. Our abuse team cares about your feedback. Please contact abuse@smtp.com for further investigation.
+
+
+----==_mimepart_5f7cf2db6ee21_3d744c779603136088
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+https://www.norwall.com/
+
+
+
+http://app.ryzeo.com/private/34b85zly4i/F01/PdCqjht/unsubscribe/31194343
+----==_mimepart_5f7cf2db6ee21_3d744c779603136088
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
+
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<title></title>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+<style>@media only screen and (max-width: 480px) {
+  body {
+    width: 100% !important; min-width: 100% !important; box-sizing: borde=
+r-box !important;
+  }
+  #ss-email {
+    width: 100% !important; min-width: 100% !important; box-sizing: borde=
+r-box !important;
+  }
+  #ss-email-content {
+    width: 100% !important; min-width: 100% !important; box-sizing: borde=
+r-box !important;
+  }
+  img.user_uploaded_image {
+    width: 100% !important; border: none !important; height: auto !import=
+ant;
+  }
+  #ss-3e2e9a80-ac55-0137-82ac-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-3e2eab50-ac55-0137-82ac-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-3e2e7ef0-ac55-0137-82ac-00163e53695f .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-4235cc80-ac55-0137-6cf5-00163e482560 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-44fc2db5-0bbf-441e-8ab5-d5e18a5b71ff .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-498e7152-1238-41ac-97cb-975a324f7936 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-aa560483-0925-4d25-b43e-c6ea8d63875b .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-2d6bede0-a9f6-0137-ed1f-00163e6db787 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-2d6c11e0-a9f6-0137-ed1f-00163e6db787 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-6f729f00-421a-0138-d25f-00163e63c88c .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-6f72b7a0-421a-0138-d25f-00163e63c88c {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-5ebec695-e207-4ed3-a647-516f3e668351 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-93d0d300-ea49-0138-6996-00163e09ca58 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-93d10420-ea49-0138-6996-00163e09ca58 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-b5bb963c-cd80-444c-9921-68fbc84b1e6d {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-20def7df-30cc-4f02-b948-d3544f6c59b0 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-7ec8d75f-e997-4592-a846-deb5a7a2f891 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-bbae4ee0-ea49-0138-55f6-00163e36e0eb .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-c652e3e5-4224-457b-bf23-c37dd8fc6465 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-0001ec09-bb88-4999-959e-0fab57de62f0 .ss-editor-button-display {
+    padding-right: 18px !important; padding-left: 18px !important;
+  }
+  #ss-0001ec09-bb88-4999-959e-0fab57de62f0 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-109161c0-ea4b-0138-222b-00163e44f538 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-10918730-ea4b-0138-222b-00163e44f538 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-005de1b0-ea4d-0138-bade-00163e71c942 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-005dfb60-ea4d-0138-bade-00163e71c942 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-7983f81b-5ebf-4863-b110-d83b359be636 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-01921940-ea49-0138-6996-00163e09ca58 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-01924220-ea49-0138-6996-00163e09ca58 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-2750f970-ea49-0138-222b-00163e44f538 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-27511930-ea49-0138-222b-00163e44f538 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-2750c660-ea49-0138-222b-00163e44f538 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-1dda4040-ea4a-0138-b8cc-00163e62cc95 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-d9c143a2-a191-468b-8250-4c94e563e810 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-3a07fda9-d8e3-4b32-aa15-e6b535e779a7 .ss-editor-button-display {
+    padding-right: 18px !important; padding-left: 18px !important;
+  }
+  #ss-3a07fda9-d8e3-4b32-aa15-e6b535e779a7 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-15c98070-ea4b-0138-c894-00163e3a609b .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-15c9a210-ea4b-0138-c894-00163e3a609b {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-ac3f9429-e33f-48e9-976e-053076fdb41e .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-ac3f9429-e33f-48e9-976e-053076fdb41e .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-075a2a70-ea4d-0138-1ace-00163e6f89a4 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-075a5930-ea4d-0138-1ace-00163e6f89a4 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-f4b444e2-3769-4340-b89c-89839348a540 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-4f0e4bc0-ea49-0138-55f6-00163e36e0eb .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-4f0e75f0-ea49-0138-55f6-00163e36e0eb {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-718d8825-09b2-48e8-aed6-b561aad34741 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-eaa77ad6-33ef-42f9-af9e-be185086ef3e {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-5e051958-6471-489a-b34e-47f12c9db253 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-47f1e560-ea4a-0138-222b-00163e44f538 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-d1a6f97b-3b24-4022-b82d-e4073a6e7c75 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995 .ss-editor-button-display {
+    padding-right: 18px !important; padding-left: 18px !important;
+  }
+  #ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-1b39ca40-ea4b-0138-55f6-00163e36e0eb .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-1b39ef50-ea4b-0138-55f6-00163e36e0eb {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-7cf678c0-ea4a-0138-c894-00163e3a609b .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-0748c520-ea49-0138-c894-00163e3a609b .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-0748deb0-ea49-0138-c894-00163e3a609b {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-f99543f1-952c-4e5a-ba3a-753e3e308738 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-f99543f1-952c-4e5a-ba3a-753e3e308738 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-01cb6538-e00a-42dd-a9d2-55c48ad3efc2 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-1c477b60-a9fc-0137-d3ad-00163e2e3ac9 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-1c47a6e0-a9fc-0137-d3ad-00163e2e3ac9 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-afec796f-dea5-44df-967c-1901fd01807e .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-475248a0-a9fc-0137-20e7-00163e743bca .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-47526300-a9fc-0137-20e7-00163e743bca {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-6bf73f65-607a-4d6f-945f-5f4243510951 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-6bf73f65-607a-4d6f-945f-5f4243510951 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-d9b23950-a9fc-0137-b9b8-00163e74fec4 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-d9b25000-a9fc-0137-b9b8-00163e74fec4 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-1344be90-a9fd-0137-0b95-00163e63c88c .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-13d19a00-a9fd-0137-3698-00163e53695f .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-13d1bd10-a9fd-0137-3698-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-24840c20-a9fd-0137-0d5d-00163e2d792a .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-24842830-a9fd-0137-0d5d-00163e2d792a {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-485c04db-bdb4-4662-b101-93417df5acd7 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-394ac280-a9fd-0137-20e7-00163e743bca .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-394af060-a9fd-0137-20e7-00163e743bca {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-ce0c8932-3559-4aae-b11d-4cfb7fa6545a .ss-editor-widget-padding {
+    padding-right: 22px !important; padding-left: 12px !important;
+  }
+  #ss-4b353160-aa3e-0137-20e7-00163e743bca .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-4b355ee0-aa3e-0137-20e7-00163e743bca {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-7e194489-d089-41b7-bd12-d34c80a7224a .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-660dcc70-a9fd-0137-0b95-00163e63c88c .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-660df0b0-a9fd-0137-0b95-00163e63c88c {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-ecd54af0-a9fd-0137-ed1f-00163e6db787 img {
+    width: 35% !important;
+  }
+  #ss-ecd54af0-a9fd-0137-ed1f-00163e6db787 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-ecdd2130-a9fd-0137-0b95-00163e63c88c .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-ecdd4970-a9fd-0137-0b95-00163e63c88c {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-8202416a-b6f0-44a6-908e-3c415568c3b4 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-8202416a-b6f0-44a6-908e-3c415568c3b4 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-0da89480-a9fe-0137-8f4c-00163e0dcb3d .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-0da8ae50-a9fe-0137-8f4c-00163e0dcb3d {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86 .ss-social-icons-icon {
+    display: inline-block !important;
+  }
+  #ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86 .ss-social-icons-spacer {
+    display: inline-block !important;
+  }
+  #ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86 .ss-editor-widget-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-27c6e4a0-a9fe-0137-ed1f-00163e6db787 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-27c70550-a9fe-0137-ed1f-00163e6db787 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-891d913b-57ae-450d-88cb-8c6c305bd925 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-891d913b-57ae-450d-88cb-8c6c305bd925 .ss-editor-divider-border {
+    width: 100% !important;
+  }
+  #ss-dc081e40-a9fe-0137-3698-00163e53695f .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-dc083e00-a9fe-0137-3698-00163e53695f {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+  #ss-bf533aa2-cb54-42fd-b302-a4088118ae51 .ss-editor-widget-padding {
+    padding-right: 10px !important; padding-left: 10px !important;
+  }
+  #ss-424a2960-fde5-0134-aebe-00163e37ebd9 .ss-editor-section-padding {
+    padding-right: 0px !important; padding-left: 0px !important;
+  }
+  #ss-424a46c0-fde5-0134-aebe-00163e37ebd9 {
+    padding-right: 0px !important; padding-left: 0px !important; display:=
+ block !important; min-width: 100% !important;
+  }
+}
+</style>
+</head>
+<body style=3D"background: #fff none; border: 0px none; height: 100% !imp=
+ortant; margin: 0; padding: 10px 0px; width: 100% !important">
+<style type=3D"text/css">
+body {
+margin: 0; padding: 0; height: 100% !important; width: 100% !important;
+}
+img {
+border: 0; line-height: 100%; outline: none; text-decoration: none;
+}
+body {
+width: 100%; background-color: #fff; background-image: none; padding-top:=
+ 10px; padding-bottom: 10px; padding-right: 0px; padding-left: 0px; borde=
+r-width: 0px; border-style: none; margin: 0 !important;
+}
+body {
+margin: 0; padding: 0; height: 100% !important; width: 100% !important;
+}
+img {
+border: 0; line-height: 100%; outline: none; text-decoration: none;
+}
+body {
+width: 100%; background-color: #fff; background-image: none; padding-top:=
+ 10px; padding-bottom: 10px; padding-right: 0px; padding-left: 0px; borde=
+r-width: 0px; border-style: none; margin: 0 !important;
+}
+</style>
+<table width=3D"100%" style=3D"border-spacing: 0px; mso-table-lspace: 0; =
+mso-table-rspace: 0; padding: 0px">
+<tr><td id=3D"streamsend_header" style=3D"mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 0px">
+
+<div id=3D"social_bar" style=3D"border-bottom-color: #ffffff; border-bott=
+om-style: solid; border-bottom-width: 1px">
+  <div style=3D"background: #f3f3f3; border-bottom-color: #c4c4c4; border=
+-bottom-style: solid; border-bottom-width: 1px">
+    <div style=3D"border-bottom-color: #e0e0e0; border-bottom-style: soli=
+d; border-bottom-width: 1px">
+      <div style=3D"border-bottom-color: #e6e6e6; border-bottom-style: so=
+lid; border-bottom-width: 1px">
+        <div style=3D"border-bottom-color: #ededed; border-bottom-style: =
+solid; border-bottom-width: 1px">
+          <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspa=
+ce: 0; padding: 0px"><tr>
+<td valign=3D"top" bgcolor=3D"#f3f3f3" style=3D"mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px">
+                <table width=3D"100%" height=3D"20" border=3D"0" align=3D=
+"left" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#f3f3f3" class=3D"c=
+ontenttable" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px"><tr>
+<td align=3D"left" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px">
+                      <table style=3D"border-spacing: 0px; min-width: 245=
+px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px" width=3D"100%=
+" height=3D"20" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D=
+"#f3f3f3" class=3D"removewidth"><tbody style=3D"float: left">
+<tr>
+<td colspan=3D"18" height=3D"4" style=3D"font-size: 1px; line-height: 1px=
+; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"></td>
+                        </tr>
+<tr>
+<td width=3D"4" style=3D"font-size: 1px; line-height: 1px; mso-table-lspa=
+ce: 0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+                          <td width=3D"35" style=3D"color: #878787; font-=
+family: arial; font-size: 12px; line-height: 20px; mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px">Share</td>
+                          <td width=3D"4" style=3D"font-size: 1px; line-h=
+eight: 1px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=A0=
+</td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Embed Email" href=3D"http://app.r=
+yzeo.com/s/1/34b85zly4i/ddsCHD7/12jx7z?social_bar_action=3Dembed" class=3D=
+"social" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-ser=
+if; font-weight: normal; text-decoration: none"><img alt=3D"Embed Email" =
+src=3D"http://app.ryzeo.com/images/icons/embed_16.png" border=3D"0" width=
+=3D"16" height=3D"16" style=3D"border: 0; display: block; line-height: 10=
+0%; outline: none; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share Email" href=3D"http://app.r=
+yzeo.com/s/1/34b85zly4i/ddsCHD7/12jx7z?social_bar_action=3Demail" class=3D=
+"social" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-ser=
+if; font-weight: normal; text-decoration: none"><img alt=3D"Share Email" =
+src=3D"http://app.ryzeo.com/images/icons/email.png" border=3D"0" width=3D=
+"16" height=3D"16" style=3D"border: 0; display: block; line-height: 100%;=
+ outline: none; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share on Facebook" href=3D"http:/=
+/www.facebook.com/sharer.php?u=3Dhttp%3A%2F%2Fapp.ryzeo.com%2Fs%2F1%2F34b=
+85zly4i%2FddsCHD7%2F12jx7t" class=3D"social" style=3D"color: #2baadf; fon=
+t-family: Helvetica, Arial, sans-serif; font-weight: normal; text-decorat=
+ion: none"><img alt=3D"Share on Facebook" src=3D"http://app.ryzeo.com/ima=
+ges/forms/share/facebook_16.png" border=3D"0" width=3D"16" height=3D"16" =
+style=3D"border: 0; display: block; line-height: 100%; outline: none; tex=
+t-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share on Twitter" href=3D"http://=
+twitter.com/?status=3D+%E2%9A%A0+Breaking%21+Gulf+Coast+Braces+for+Major+=
+Hurricane+Delta%3A+http%3A%2F%2Fapp.ryzeo.com%2Fs%2F1%2F34b85zly4i%2FddsC=
+HD7%2F12jx7v" class=3D"social" style=3D"color: #2baadf; font-family: Helv=
+etica, Arial, sans-serif; font-weight: normal; text-decoration: none"><im=
+g alt=3D"Share on Twitter" src=3D"http://app.ryzeo.com/images/forms/share=
+/twitter_16.png" border=3D"0" width=3D"16" height=3D"16" style=3D"border:=
+ 0; display: block; line-height: 100%; outline: none; text-decoration: no=
+ne"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          <td width=3D"16" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a title=3D"Share on LinkedIn" href=3D"http:/=
+/www.linkedin.com/shareArticle?mini=3Dtrue&amp;title=3D+%E2%9A%A0+Breakin=
+g%21+Gulf+Coast+Braces+for+Major+Hurricane+Delta&amp;summary=3DAfter+Hurr=
+icanes+Laura%2C+Marco%2C+and+Sally+hit+the+Gulf+Coast+from+Texas+to+Flori=
+da%2C+the+last+thing+the+region+needs+is+another+storm.+Now+Major+Hurrica=
+ne+Delta+will+make+landfall+sometime+Late+Friday+or+Early+Saturday+Mornin=
+g%2C+somewhere+between+East+Texas+and+the+West+Florida+Panhandle.+Residen=
+ts+and+businesses+have+72+hours+to+prepare+for+extreme+winds%2C+flooding%=
+2C+and+a+dangerous+storm+surge.%C2%A0%C2%A0&amp;url=3Dhttp%3A%2F%2Fapp.ry=
+zeo.com%2Fs%2F1%2F34b85zly4i%2FddsCHD7%2F12jx7x" class=3D"social" style=3D=
+"color: #2baadf; font-family: Helvetica, Arial, sans-serif; font-weight: =
+normal; text-decoration: none"><img alt=3D"Share on LinkedIn" src=3D"http=
+://app.ryzeo.com/images/forms/share/linkedin_16.png" border=3D"0" width=3D=
+"16" height=3D"16" style=3D"border: 0; display: block; line-height: 100%;=
+ outline: none; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                          =
+
+                            <td width=3D"49" style=3D"line-height: 16px; =
+mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a id=3D"facebook-tab" title=3D"Post a tab on=
+ Facebook" href=3D"http://app.ryzeo.com/s/1/34b85zly4i/ddsCHD7/12jx7t?soc=
+ial_bar_action=3Dtab" class=3D"social" style=3D"color: #2baadf; font-fami=
+ly: Helvetica, Arial, sans-serif; font-weight: normal; text-decoration: n=
+one"><img alt=3D"Post a tab on Facebook" src=3D"http://app.ryzeo.com/imag=
+es/forms/share/facebook_tab_custom.png" border=3D"0" width=3D"46" height=3D=
+"20" style=3D"border: 0; display: block; line-height: 100%; outline: none=
+; text-decoration: none"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                        =
+
+                          <td width=3D"49" style=3D"line-height: 16px; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+                            <a id=3D"facebook-like" title=3D"Like on Face=
+book" href=3D"http://app.ryzeo.com/s/1/34b85zly4i/ddsCHD7/12jx7t?fb_like=3D=
+1" class=3D"social" style=3D"color: #2baadf; font-family: Helvetica, Aria=
+l, sans-serif; font-weight: normal; text-decoration: none"><img alt=3D"Li=
+ke on Facebook" src=3D"http://app.ryzeo.com/images/forms/share/facebook_l=
+ike_custom.png" border=3D"0" width=3D"49" height=3D"20" style=3D"border: =
+0; display: block; line-height: 100%; outline: none; text-decoration: non=
+e"></a>
+                          </td>
+                          <td width=3D"4" style=3D"mso-table-lspace: 0; m=
+so-table-rspace: 0; padding: 0px"></td>
+                        </tr>
+<tr><td colspan=3D"17" height=3D"1" style=3D"mso-table-lspace: 0; mso-tab=
+le-rspace: 0; padding: 0px"></td></tr>
+</tbody></table>
+</td>
+                  </tr></table>
+</td>
+          </tr></table>
+</div>
+    </div>
+  </div>
+</div>
+</div>
+</td></tr>
+<tr><td id=3D"streamsend_content" style=3D"mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px">
+	=
+
+<!-- Email Background -->
+<table id=3D"ss-email" cellspacing=3D"0" cellpadding=3D"0" height=3D"100%=
+" width=3D"100%" style=3D"background: #fff none; border-spacing: 0px; bor=
+der: 0px none; margin: 0; mso-table-lspace: 0; mso-table-rspace: 0; paddi=
+ng: 10px 0px; width: 100%"><tbody><tr>
+<td style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+
+<!-- Email Content | Set Email Width Here --> =
+
+<table id=3D"ss-email-content" cellspacing=3D"0" cellpadding=3D"0" align=3D=
+"center" width=3D"600" class=3D"ss-editor-flexible-body-width" style=3D"b=
+ackground: #fff none; border-spacing: 0px; border: 0px none #000000; marg=
+in-left: auto; margin-right: auto; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 0px"><tbody><tr>
+<!-- Email Middle | Body text, images, etc --><td width=3D"600" class=3D"=
+ss-editor-flexible-body-width" style=3D"mso-table-lspace: 0; mso-table-rs=
+pace: 0; padding: 0px">
+				=
+
+<!-- Email Region surrounds email for free widget movement -->		=
+
+<div data-type=3D"region">
+<!-- Editor inserted widgets live here --><div data-type=3D"block" style=3D=
+"border: 0px hidden rgb(0,0,0)" class=3D"" align=3D"">
+<table id=3D"ss-3e2e7ef0-ac55-0137-82ac-00163e53695f" data-id=3D"ss-3e2e7=
+ef0-ac55-0137-82ac-00163e53695f" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-3e2e9a80-ac55-0137-82ac-00163e53695f" id=3D"ss=
+-3e2e9a80-ac55-0137-82ac-00163e53695f" width=3D"67%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-4235cc80-ac55-0137-6cf5-00163e482560" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-4235cc80-ac55-0137-6cf5-00163e482560" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"" =
+style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><a href=3D"ht=
+tp://app.ryzeo.com/c/31194343/2507/PdCqjht/34b85zly4i?redirect_to=3Dhttps=
+%3A%2F%2Fwww.norwall.com%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demai=
+l%26utm_content%3D31194343%26utm_campaign%3D%2520%2525u26A0%2520Breaking%=
+21%2520Gulf%2520Coast%2520Braces%2520for%2520Major%2520Hurricane%2520Delt=
+a&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D"color: #2baadf; font-fami=
+ly: Helvetica, Arial, sans-serif; font-weight: normal; line-height: 185%;=
+ text-decoration: none"><img src=3D"http://production-streamsend.ezpublis=
+hing.netdna-cdn.com/assets/extended/5105/51/images/NORWALL_Blue-01-940c72=
+e8203db3df673576b55daf2720.jpg" border=3D"0" width=3D"250" class=3D"user_=
+uploaded_image" style=3D"border: 0; display: block; line-height: 185%; ou=
+tline: none; text-decoration: none" height=3D"88"></a></td></tr></tbody><=
+/table>
+</td>
+</tr></tbody></table>
+</td>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-3e2eab50-ac55-0137-82ac-00163e53695f" id=3D"ss=
+-3e2eab50-ac55-0137-82ac-00163e53695f" width=3D"33%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-44fc2db5-0bbf-441e-8ab5-d5e18a5b71ff" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-44fc2db5-0bbf-441e-8ab5-d5e18a5b71ff" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #333333; font-family: 'Roboto', sans-serif; fo=
+nt-size: 16px; font-weight: bold; line-height: 130%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 30px 10px 10px; text-align: center; word-b=
+reak: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #333333; font-family: 'Roboto', sans-serif; fo=
+nt-size: 16px; font-weight: bold; line-height: 130%; text-align: center; =
+word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 130%; text-align: left">
+<div style=3D"line-height: 130%; text-align: center"><b style=3D"line-hei=
+ght: 130%">Call Us Toll-Free:</b></div>
+<div style=3D"line-height: 130%; text-align: center"><b style=3D"line-hei=
+ght: 130%">1-855-453-4494</b></div>
+</div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)" align=3D"">
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-6f729f00-421a-0138-d25f-00163e63c88c" data-id=3D"ss-6f729=
+f00-421a-0138-d25f-00163e63c88c" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-6f72b7a0-421a-0=
+138-d25f-00163e63c88c" id=3D"ss-6f72b7a0-421a-0138-d25f-00163e63c88c" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19" data-type=3D"ss-div=
+ider" data-id=3D"ss-eefa0b1b-c081-4e55-b0c3-52c6c873aa19" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"ss-editor-divider-border ss-editor-divider-width" style=3D=
+"border-spacing: 0px; border-top-color: #333333; border-top-style: solid;=
+ border-top-width: 1px; line-height: 185%; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px; width: 100%"><tbody style=3D"line-height: 185%"=
+><tr style=3D"line-height: 185%"><td height=3D"0" class=3D"ss-editor-divi=
+der-font-size ss-editor-divider-line-height" style=3D"font-size: 0px; lin=
+e-height: 0px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=
+=A0</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-93d0d300-ea49-0138-6996-00163e09ca58" data-id=3D"ss-93d0d=
+300-ea49-0138-6996-00163e09ca58" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-93d10420-ea49-0=
+138-6996-00163e09ca58" id=3D"ss-93d10420-ea49-0138-6996-00163e09ca58" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-5ebec695-e207-4ed3-a647-516f3e668351" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-5ebec695-e207-4ed3-a647-516f3e668351" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding ss-editor-widget-text" s=
+tyle=3D"font-size: 24px; font-weight: bold; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 10px; text-align: center; word-b=
+reak: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: bold; line-height: 185%; text-align: =
+center; word-break: break-word; word-wrap: break-word">Major Hurricane De=
+lta to Hit Gulf Coast between Texas and Florida on Friday/Saturday.</span=
+>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"center">
+<table id=3D"ss-7ec8d75f-e997-4592-a846-deb5a7a2f891" data-id=3D"ss-7ec8d=
+75f-e997-4592-a846-deb5a7a2f891" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-b5bb963c-cd80-444c-9921-68fbc84b1e6d" id=3D"ss=
+-b5bb963c-cd80-444c-9921-68fbc84b1e6d" width=3D"33%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-bbae4ee0-ea49-0138-55f6-00163e36e0eb" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-bbae4ee0-ea49-0138-55f6-00163e36e0eb" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width:=
+ 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%"=
+><td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"c=
+enter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"bord=
+er-collapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height=
+: 185%"><tr style=3D"line-height: 185%"><td align=3D"center" style=3D"lin=
+e-height: 100%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px 0=
+px 0px"><a href=3D"http://app.ryzeo.com/c/31194343/2509/PdCqjht/34b85zly4=
+i?redirect_to=3Dhttps%3A%2F%2Fblog.norwall.com%2Fnews-and-updates%2Fhurri=
+cane-delta-takes-aim-on-gulf-coast%2F%3Futm_source%3Dstreamsend%26utm_med=
+ium%3Demail%26utm_content%3D31194343%26utm_campaign%3D%2520%2525u26A0%252=
+0Breaking%21%2520Gulf%2520Coast%2520Braces%2520for%2520Major%2520Hurrican=
+e%2520Delta&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D"color: #2baadf;=
+ font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-hei=
+ght: 185%; text-decoration: none"><img src=3D"http://production-streamsen=
+d.ezpublishing.netdna-cdn.com/assets/extended/5105/51/images/hurricane-de=
+lta-forecast-cone-watches-warning-6-oct-2020-noaa_1_-bcfe80eddd1c2855ae3d=
+c9442955b3ab.jpg" border=3D"0" alt=3D"Major Hurricane Delta to Hit Gulf C=
+oast between Texas and Florida on Friday/Saturday." title=3D"Major Hurric=
+ane Delta to Hit Gulf Coast between Texas and Florida on Friday/Saturday.=
+" width=3D"285" class=3D"user_uploaded_image" style=3D"border: 0; display=
+: block; line-height: 185%; outline: none; text-decoration: none" height=3D=
+"232"></a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</td>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-20def7df-30cc-4f02-b948-d3544f6c59b0" id=3D"ss=
+-20def7df-30cc-4f02-b948-d3544f6c59b0" width=3D"67%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-c652e3e5-4224-457b-bf23-c37dd8fc6465" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-c652e3e5-4224-457b-bf23-c37dd8fc6465" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width: =
+100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%">=
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rsp=
+ace: 0; padding: 10px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 185%; text-align=
+: left; word-break: break-word; word-wrap: break-word">After Hurricanes L=
+aura, Marco, and Sally hit the Gulf Coast from Texas to Florida, the last=
+ thing the region needs is another storm. Now Major Hurricane Delta will =
+make landfall sometime Late Friday or Early Saturday Morning, somewhere b=
+etween East Texas and the West Florida Panhandle. Residents and businesse=
+s have 72 hours to prepare for extreme winds, flooding, and a dangerous s=
+torm surge.=C2=A0=C2=A0</span>
+</td></tr></tbody></table>
+</td>
+</tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-109161c0-ea4b-0138-222b-00163e44f538" data-id=3D"ss-10916=
+1c0-ea4b-0138-222b-00163e44f538" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-10918730-ea4b-0=
+138-222b-00163e44f538" id=3D"ss-10918730-ea4b-0138-222b-00163e44f538" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-0001ec09-bb88-4999-959e-0fab57de62f0" data-type=3D"ss-but=
+ton" data-id=3D"ss-0001ec09-bb88-4999-959e-0fab57de62f0" data-version=3D"=
+1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" class=3D"ss-editor-button-align" style=3D"border-=
+spacing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0=
+; padding: 0px"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%"><td align=3D"center" class=3D"ss-editor-button-border ss-editor=
+-button-border-radius ss-editor-button-background ss-editor-button-displa=
+y ss-editor-button-font" style=3D"background: #153b63; border-radius: 3px=
+; border: 1px solid #739cba; color: #ffffff; display: inline-block; font-=
+family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: norma=
+l; line-height: 100%; margin: 0px; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 12px 18px; text-decoration: none"><a href=3D"http://app.ryze=
+o.com/c/31194343/2511/PdCqjht/34b85zly4i?redirect_to=3Dhttps%3A%2F%2Fblog=
+.norwall.com%2Fnews-and-updates%2Fhurricane-delta-takes-aim-on-gulf-coast=
+%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D311943=
+43%26utm_campaign%3D%2520%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%25=
+20Braces%2520for%2520Major%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" tar=
+get=3D"_blank" class=3D"ss-editor-button-link ss-editor-button-text ss-ed=
+itor-button-border-radius ss-editor-button-font" style=3D"border-radius: =
+3px; color: #ffffff; cursor: pointer; display: inline-block; font-family:=
+ Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line=
+-height: 100%; text-decoration: none">=E2=9C=85 Hurricane Delta Forecast =
+with Watches and Warnings</a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-005de1b0-ea4d-0138-bade-00163e71c942" data-id=3D"ss-005de=
+1b0-ea4d-0138-bade-00163e71c942" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-005dfb60-ea4d-0=
+138-bade-00163e71c942" id=3D"ss-005dfb60-ea4d-0138-bade-00163e71c942" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5" data-type=3D"ss-div=
+ider" data-id=3D"ss-5c032025-1552-4637-ad7c-1c4c6d58fbd5" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"ss-editor-divider-border ss-editor-divider-width" style=3D=
+"border-spacing: 0px; border-top-color: #333333; border-top-style: solid;=
+ border-top-width: 1px; line-height: 185%; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px; width: 100%"><tbody style=3D"line-height: 185%"=
+><tr style=3D"line-height: 185%"><td height=3D"0" class=3D"ss-editor-divi=
+der-font-size ss-editor-divider-line-height" style=3D"font-size: 0px; lin=
+e-height: 0px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=
+=A0</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-01921940-ea49-0138-6996-00163e09ca58" data-id=3D"ss-01921=
+940-ea49-0138-6996-00163e09ca58" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-01924220-ea49-0=
+138-6996-00163e09ca58" id=3D"ss-01924220-ea49-0138-6996-00163e09ca58" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-7983f81b-5ebf-4863-b110-d83b359be636" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-7983f81b-5ebf-4863-b110-d83b359be636" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; opacity: 1; padding: 0px; text-align: left; width: =
+100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%">=
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"font-size: 24px; font-weight: bold; line-height: 185%=
+; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px; text-align: ce=
+nter; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: bold; line-height: 185%; text-align: =
+center; word-break: break-word; word-wrap: break-word">Top Ten Tips to Su=
+rvive a Hurricane Disaster</span>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"">
+<table id=3D"ss-2750c660-ea49-0138-222b-00163e44f538" data-id=3D"ss-2750c=
+660-ea49-0138-222b-00163e44f538" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-2750f970-ea49-0138-222b-00163e44f538" id=3D"ss=
+-2750f970-ea49-0138-222b-00163e44f538" width=3D"33%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-1dda4040-ea4a-0138-b8cc-00163e62cc95" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-1dda4040-ea4a-0138-b8cc-00163e62cc95" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding" align=3D"" style=3D"lin=
+e-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 30px 0px 0px"><a h=
+ref=3D"http://app.ryzeo.com/c/31194343/2513/PdCqjht/34b85zly4i?redirect_t=
+o=3Dhttps%3A%2F%2Fwww.norwall.com%2Fpower-expert%2Ftop-10-tips-to-survive=
+-a-hurricane-disaster%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%2=
+6utm_content%3D31194343%26utm_campaign%3D%2520%2525u26A0%2520Breaking%21%=
+2520Gulf%2520Coast%2520Braces%2520for%2520Major%2520Hurricane%2520Delta&a=
+mp;r=3D&amp;c=3D" target=3D"_blank" style=3D"color: #2baadf; font-family:=
+ Helvetica, Arial, sans-serif; font-weight: normal; line-height: 185%; te=
+xt-decoration: none"><img src=3D"http://production-streamsend.ezpublishin=
+g.netdna-cdn.com/assets/extended/5105/51/images/boarding-up-the-house-fot=
+olia-896974-300px_1_-203b3f3856a837d1a43fa6a08929301b.jpg" border=3D"0" a=
+lt=3D"Top Ten Tips to Survive a Hurricane Disaster" title=3D"Top Ten Tips=
+ to Survive a Hurricane Disaster" width=3D"285" class=3D"user_uploaded_im=
+age" style=3D"border: 0; display: block; line-height: 185%; outline: none=
+; text-decoration: none" height=3D"190"></a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</td>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-27511930-ea49-0138-222b-00163e44f538" id=3D"ss=
+-27511930-ea49-0138-222b-00163e44f538" width=3D"67%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-d9c143a2-a191-468b-8250-4c94e563e810" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-d9c143a2-a191-468b-8250-4c94e563e810" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding ss-editor-widget-text" s=
+tyle=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padd=
+ing: 10px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 185%; text-align=
+: left; word-break: break-word; word-wrap: break-word">If you live in one=
+ of the states on the Gulf of Mexico, these tips are for you. Major Hurri=
+cane Delta will arrive late Friday and Early Saturday with Storm Surge, F=
+lash Floods, Tornadoes, High Winds, and Widespread Power Outages. Prepare=
+ your home. Stay informed by local and state officials. Know how to prepa=
+re before the hurricane arrives. Stay safe until it passes and follow thr=
+ough after it=E2=80=99s over. </span>
+</td></tr></tbody></table>
+</td>
+</tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-15c98070-ea4b-0138-c894-00163e3a609b" data-id=3D"ss-15c98=
+070-ea4b-0138-c894-00163e3a609b" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-15c9a210-ea4b-0=
+138-c894-00163e3a609b" id=3D"ss-15c9a210-ea4b-0138-c894-00163e3a609b" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-3a07fda9-d8e3-4b32-aa15-e6b535e779a7" data-type=3D"ss-but=
+ton" data-id=3D"ss-3a07fda9-d8e3-4b32-aa15-e6b535e779a7" data-version=3D"=
+1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" class=3D"ss-editor-button-align" style=3D"border-=
+spacing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0=
+; padding: 0px"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%"><td align=3D"center" class=3D"ss-editor-button-border ss-editor=
+-button-border-radius ss-editor-button-background ss-editor-button-displa=
+y ss-editor-button-font" style=3D"background: #153b63; border-radius: 3px=
+; border: 1px solid #739cba; color: #ffffff; display: inline-block; font-=
+family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: norma=
+l; line-height: 100%; margin: 0px; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 12px 18px; text-decoration: none"><a href=3D"http://app.ryze=
+o.com/c/31194343/2515/PdCqjht/34b85zly4i?redirect_to=3Dhttps%3A%2F%2Fwww.=
+norwall.com%2Fpower-expert%2Ftop-10-tips-to-survive-a-hurricane-disaster%=
+2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D3119434=
+3%26utm_campaign%3D%2520%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%252=
+0Braces%2520for%2520Major%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" targ=
+et=3D"_blank" class=3D"ss-editor-button-link ss-editor-button-text ss-edi=
+tor-button-border-radius ss-editor-button-font" style=3D"border-radius: 3=
+px; color: #ffffff; cursor: pointer; display: inline-block; font-family: =
+Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-=
+height: 100%; text-decoration: none">=E2=9C=85 Hurricane Awareness and Pr=
+eparation Eliminates Uncertainty and Worry</a></td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-075a2a70-ea4d-0138-1ace-00163e6f89a4" data-id=3D"ss-075a2=
+a70-ea4d-0138-1ace-00163e6f89a4" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-075a5930-ea4d-0=
+138-1ace-00163e6f89a4" id=3D"ss-075a5930-ea4d-0138-1ace-00163e6f89a4" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-ac3f9429-e33f-48e9-976e-053076fdb41e" data-type=3D"ss-div=
+ider" data-id=3D"ss-ac3f9429-e33f-48e9-976e-053076fdb41e" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"ss-editor-divider-border ss-editor-divider-width" style=3D=
+"border-spacing: 0px; border-top-color: #333333; border-top-style: solid;=
+ border-top-width: 1px; line-height: 185%; mso-table-lspace: 0; mso-table=
+-rspace: 0; padding: 0px; width: 100%"><tbody style=3D"line-height: 185%"=
+><tr style=3D"line-height: 185%"><td height=3D"0" class=3D"ss-editor-divi=
+der-font-size ss-editor-divider-line-height" style=3D"font-size: 0px; lin=
+e-height: 0px; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">=C2=
+=A0</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-4f0e4bc0-ea49-0138-55f6-00163e36e0eb" data-id=3D"ss-4f0e4=
+bc0-ea49-0138-55f6-00163e36e0eb" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-4f0e75f0-ea49-0=
+138-55f6-00163e36e0eb" id=3D"ss-4f0e75f0-ea49-0138-55f6-00163e36e0eb" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-f4b444e2-3769-4340-b89c-89839348a540" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-f4b444e2-3769-4340-b89c-89839348a540" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding ss-editor-widget-text" s=
+tyle=3D"font-size: 24px; font-weight: bold; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 10px; text-align: center; word-b=
+reak: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: bold; line-height: 185%; text-align: =
+center; word-break: break-word; word-wrap: break-word">Hurricane Prepared=
+ness Tips for Disasters</span>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"">
+<table id=3D"ss-5e051958-6471-489a-b34e-47f12c9db253" data-id=3D"ss-5e051=
+958-6471-489a-b34e-47f12c9db253" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-718d8825-09b2-48e8-aed6-b561aad34741" id=3D"ss=
+-718d8825-09b2-48e8-aed6-b561aad34741" width=3D"33%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-47f1e560-ea4a-0138-222b-00163e44f538" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-47f1e560-ea4a-0138-222b-00163e44f538" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding" align=3D"center" style=3D=
+"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 50px 0px 0px"><a h=
+ref=3D"http://app.ryzeo.com/c/31194343/2517/PdCqjht/34b85zly4i?redirect_t=
+o=3Dhttps%3A%2F%2Fwww.norwall.com%2Fpower-expert%2Fhurricane-preparedness=
+-things-to-remember-when-disaster-threatens%2F%3Futm_source%3Dstreamsend%=
+26utm_medium%3Demail%26utm_content%3D31194343%26utm_campaign%3D%2520%2525=
+u26A0%2520Breaking%21%2520Gulf%2520Coast%2520Braces%2520for%2520Major%252=
+0Hurricane%2520Delta&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D"color:=
+ #2baadf; font-family: Helvetica, Arial, sans-serif; font-weight: normal;=
+ line-height: 185%; text-decoration: none"><img src=3D"http://production-=
+streamsend.ezpublishing.netdna-cdn.com/assets/extended/5105/51/images/eme=
+rgency-disaster-kit-fotolia-136563634-xs_1_-36ba82bb6d3b73e7ddf70da41c293=
+5c8.jpg" border=3D"0" alt=3D"Hurricane Preparedness Tips for Disasters" t=
+itle=3D"Hurricane Preparedness Tips for Disasters" width=3D"285" class=3D=
+"user_uploaded_image" style=3D"border: 0; display: block; line-height: 18=
+5%; outline: none; text-decoration: none" height=3D"190"></a></td></tr></=
+tbody></table>
+</td></tr></tbody></table>
+</td>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-eaa77ad6-33ef-42f9-af9e-be185086ef3e" id=3D"ss=
+-eaa77ad6-33ef-42f9-af9e-be185086ef3e" width=3D"67%" style=3D"border: 0px=
+ none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px; vertical-align: top">
+<table id=3D"ss-d1a6f97b-3b24-4022-b82d-e4073a6e7c75" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-d1a6f97b-3b24-4022-b82d-e4073a6e7c75" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding ss-editor-widget-text" s=
+tyle=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padd=
+ing: 10px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #000000; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 185%; text-align=
+: left; word-break: break-word; word-wrap: break-word">Preparation can ta=
+ke hours or days. Children, Teenagers, Pets, and Adults all have specific=
+ needs to meet while the hurricane hits and immediately after it passes. =
+It could be days before relief comes, so medicine, food, and water are es=
+sentials not to forget. Make your children and teens a part of your plan =
+and preparation. It keeps them involved and causes them less worry, and i=
+t helps keep them close. Don=E2=80=99t forget to prep for your pets. They=
+ need you more than ever.</span>
+</td></tr></tbody></table>
+</td>
+</tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-1b39ca40-ea4b-0138-55f6-00163e36e0eb" data-id=3D"ss-1b39c=
+a40-ea4b-0138-55f6-00163e36e0eb" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-1b39ef50-ea4b-0=
+138-55f6-00163e36e0eb" id=3D"ss-1b39ef50-ea4b-0138-55f6-00163e36e0eb" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995" data-type=3D"ss-but=
+ton" data-id=3D"ss-1a1cb14f-d7bc-40b6-93a1-0bc87de9f995" data-version=3D"=
+1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D"ss-e=
+ditor-widget-align ss-editor-widget-padding" align=3D"center" style=3D"li=
+ne-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 10px"=
+>
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" align=3D"center" class=3D"ss-editor-button-align" style=3D"border-=
+spacing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0=
+; padding: 0px"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%"><td align=3D"center" class=3D"ss-editor-button-border ss-editor=
+-button-border-radius ss-editor-button-background ss-editor-button-displa=
+y ss-editor-button-font" style=3D"background: #153b63; border-radius: 3px=
+; border: 1px solid #739cba; color: #ffffff; display: inline-block; font-=
+family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: norma=
+l; line-height: 100%; margin: 0px; mso-table-lspace: 0; mso-table-rspace:=
+ 0; padding: 12px 18px; text-decoration: none"><a href=3D"http://app.ryze=
+o.com/c/31194343/2519/PdCqjht/34b85zly4i?redirect_to=3Dhttps%3A%2F%2Fwww.=
+norwall.com%2Fpower-expert%2Fhurricane-preparedness-things-to-remember-wh=
+en-disaster-threatens%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%2=
+6utm_content%3D31194343%26utm_campaign%3D%2520%2525u26A0%2520Breaking%21%=
+2520Gulf%2520Coast%2520Braces%2520for%2520Major%2520Hurricane%2520Delta&a=
+mp;r=3D&amp;c=3D" target=3D"_blank" class=3D"ss-editor-button-link ss-edi=
+tor-button-text ss-editor-button-border-radius ss-editor-button-font" sty=
+le=3D"border-radius: 3px; color: #ffffff; cursor: pointer; display: inlin=
+e-block; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font=
+-weight: normal; line-height: 100%; text-decoration: none">=E2=9C=85 Not =
+Just for hurricanes=E2=80=94Here's a List For Every Emergency</a></td></t=
+r></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)" align=3D"center">
+<table id=3D"ss-0748c520-ea49-0138-c894-00163e3a609b" data-id=3D"ss-0748c=
+520-ea49-0138-c894-00163e3a609b" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr><td class=3D=
+"ss-editor-section-padding ss-editor-section-outlook-background" style=3D=
+"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><table width=3D"=
+100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-editor-section-min-=
+width" style=3D"border-spacing: 0px; mso-table-lspace: 0; mso-table-rspac=
+e: 0; padding: 0px"><tbody><tr><td data-type=3D"ss-column" class=3D"ss-ed=
+itor-column-container" data-version=3D"1.0" data-id=3D"ss-0748deb0-ea49-0=
+138-c894-00163e3a609b" id=3D"ss-0748deb0-ea49-0138-c894-00163e3a609b" wid=
+th=3D"100%" style=3D"border: 0px none #000000; margin: 0px; mso-table-lsp=
+ace: 0; mso-table-rspace: 0; padding: 0px; vertical-align: top">
+<table id=3D"ss-7cf678c0-ea4a-0138-c894-00163e3a609b" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-7cf678c0-ea4a-0138-c894-00163e3a609b" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%"><td class=3D=
+"ss-editor-widget-align ss-editor-widget-padding" align=3D"center" style=3D=
+"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"bord=
+er-collapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height=
+: 185%"><tr style=3D"line-height: 185%"><td align=3D"center" style=3D"lin=
+e-height: 100%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 25px 0=
+px 0px"><a href=3D"http://app.ryzeo.com/c/31194343/2521/PdCqjht/34b85zly4=
+i?redirect_to=3Dhttps%3A%2F%2Fblog.norwall.com%2Fnews-and-updates%2Fhurri=
+cane-delta-takes-aim-on-gulf-coast%2F%3Futm_source%3Dstreamsend%26utm_med=
+ium%3Demail%26utm_content%3D31194343%26utm_campaign%3D%2520%2525u26A0%252=
+0Breaking%21%2520Gulf%2520Coast%2520Braces%2520for%2520Major%2520Hurrican=
+e%2520Delta&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D"color: #2baadf;=
+ font-family: Helvetica, Arial, sans-serif; font-weight: normal; line-hei=
+ght: 185%; text-decoration: none"><img src=3D"https://live.staticflickr.c=
+om/65535/48874404241_7db642769e_b.jpg" border=3D"0" alt=3D"Preparedness=E2=
+=80=94Things to Remember When Disaster Threatens" title=3D"Preparedness=E2=
+=80=94Things to Remember When Disaster Threatens" width=3D"500" class=3D"=
+user_uploaded_image" style=3D"border: 0; display: block; line-height: 185=
+%; outline: none; text-decoration: none" height=3D"1216"></a></td></tr></=
+tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table></td></tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-1c477b60-a9fc-0137-d3ad-00163e2e3ac9" data-id=3D"ss-1c477=
+b60-a9fc-0137-d3ad-00163e2e3ac9" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-1c47a6e0-a9fc-0137-d3ad-00163e2e3ac9" id=3D"ss=
+-1c47a6e0-a9fc-0137-d3ad-00163e2e3ac9" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+
+
+<table id=3D"ss-f99543f1-952c-4e5a-ba3a-753e3e308738" data-type=3D"ss-div=
+ider" data-id=3D"ss-f99543f1-952c-4e5a-ba3a-753e3e308738" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #333333; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heig=
+ht: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+<table id=3D"ss-01cb6538-e00a-42dd-a9d2-55c48ad3efc2" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-01cb6538-e00a-42dd-a9d2-55c48ad3efc2" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #254685; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; line-height: 160%; mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 15px 10px; word-break: break-word; word-wrap: break-w=
+ord">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #254685; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%; text-align: center"><b style=3D"line-hei=
+ght: 160%"><font size=3D"5" style=3D"line-height: 160%">Sales Support Hou=
+rs=C2=A0</font></b></div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-475248a0-a9fc-0137-20e7-00163e743bca" data-id=3D"ss-47524=
+8a0-a9fc-0137-20e7-00163e743bca" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-47526300-a9fc-0137-20e7-00163e743bca" id=3D"ss=
+-47526300-a9fc-0137-20e7-00163e743bca" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-afec796f-dea5-44df-967c-1901fd01807e" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-afec796f-dea5-44df-967c-1901fd01807e" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #343434; line-height: 160%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px 20px 15px; word-break: break-word; w=
+ord-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #343434; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%; text-align: center">Friendly Norwall Pow=
+erSystems sales representatives are available to help answer questions an=
+d assist you with your purchase. Phone support is available:</div>
+<div style=3D"line-height: 160%; text-align: center"><br style=3D"line-he=
+ight: 160%"></div>
+<div style=3D"line-height: 160%; text-align: center">
+<b style=3D"line-height: 160%">Monday to Friday - 6 am to 4 pm AZ</b><br =
+style=3D"line-height: 160%">
+</div>
+<div style=3D"line-height: 160%; text-align: center"><b style=3D"line-hei=
+ght: 160%"> Saturday - 7 am to 3 pm AZ<br style=3D"line-height: 160%"></b=
+></div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-d9b23950-a9fc-0137-b9b8-00163e74fec4" data-id=3D"ss-d9b23=
+950-a9fc-0137-b9b8-00163e74fec4" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-d9b25000-a9fc-0137-b9b8-00163e74fec4" id=3D"ss=
+-d9b25000-a9fc-0137-b9b8-00163e74fec4" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-6bf73f65-607a-4d6f-945f-5f4243510951" data-type=3D"ss-div=
+ider" data-id=3D"ss-6bf73f65-607a-4d6f-945f-5f4243510951" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"">
+<table id=3D"ss-13d19a00-a9fd-0137-3698-00163e53695f" data-id=3D"ss-13d19=
+a00-a9fd-0137-3698-00163e53695f" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-13d1bd10-a9fd-0137-3698-00163e53695f" id=3D"ss=
+-13d1bd10-a9fd-0137-3698-00163e53695f" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-1344be90-a9fd-0137-0b95-00163e63c88c" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-1344be90-a9fd-0137-0b95-00163e63c88c" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbod=
+y style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"" =
+style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pad=
+ding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"" style=3D"border-col=
+lapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height: 185%=
+"><tr style=3D"line-height: 185%"><td align=3D"" style=3D"line-height: 10=
+0%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><a href=3D"ht=
+tp://app.ryzeo.com/c/31194343/2523/PdCqjht/34b85zly4i?redirect_to=3Dhttps=
+%3A%2F%2Fwww.norwall.com%2Fpages%2FCurrent-Rebates%2F%3Futm_source%3Dstre=
+amsend%26utm_medium%3Demail%26utm_content%3D31194343%26utm_campaign%3D%25=
+20%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%2520Braces%2520for%2520Ma=
+jor%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" target=3D"_blank" style=3D=
+"color: #2baadf; font-family: Helvetica, Arial, sans-serif; font-weight: =
+normal; line-height: 185%; text-decoration: none"><img src=3D"http://prod=
+uction-streamsend.ezpublishing.netdna-cdn.com/assets/extended/5105/51/ima=
+ges/ia270-0ac61ea2-1786-4aee-ae29-2aac0b13e01e-v2-e7229e331d04236646fd0d7=
+f172a3e69.png" border=3D"0" width=3D"600" class=3D"user_uploaded_image" s=
+tyle=3D"border: 0; display: block; line-height: 185%; outline: none; text=
+-decoration: none" height=3D"200"></a></td></tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-24840c20-a9fd-0137-0d5d-00163e2d792a" data-id=3D"ss-24840=
+c20-a9fd-0137-0d5d-00163e2d792a" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-24842830-a9fd-0137-0d5d-00163e2d792a" id=3D"ss=
+-24842830-a9fd-0137-0d5d-00163e2d792a" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8" data-type=3D"ss-div=
+ider" data-id=3D"ss-6c991c39-03f6-4f22-a953-7a837ca2d4f8" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-394ac280-a9fd-0137-20e7-00163e743bca" data-id=3D"ss-394ac=
+280-a9fd-0137-20e7-00163e743bca" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-394af060-a9fd-0137-20e7-00163e743bca" id=3D"ss=
+-394af060-a9fd-0137-20e7-00163e743bca" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-485c04db-bdb4-4662-b101-93417df5acd7" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-485c04db-bdb4-4662-b101-93417df5acd7" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #383838; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; line-height: 160%; mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 10px 10px 10px 15px; word-break: break-word; word-wra=
+p: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #383838; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 24px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<span id=3D"goog_1597274233" style=3D"line-height: 160%"></span><b style=3D=
+"line-height: 160%"><font size=3D"5" style=3D"line-height: 160%"> Expert =
+Customer Service</font></b><span id=3D"goog_1597274234" style=3D"line-hei=
+ght: 160%"></span>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-4b353160-aa3e-0137-20e7-00163e743bca" data-id=3D"ss-4b353=
+160-aa3e-0137-20e7-00163e743bca" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-4b355ee0-aa3e-0137-20e7-00163e743bca" id=3D"ss=
+-4b355ee0-aa3e-0137-20e7-00163e743bca" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-ce0c8932-3559-4aae-b11d-4cfb7fa6545a" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-ce0c8932-3559-4aae-b11d-4cfb7fa6545a" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #343434; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; line-height: 160%; mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 10px 10px 10px 15px; word-break: break-word; word-wra=
+p: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #343434; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<span style=3D"color: rgb(52, 52, 52); line-height: 160%">Norwall PowerSy=
+stems prides itself on customer service and making sure your shopping exp=
+erience and after sales support is the best it can be. Check out this rec=
+ent review from</span>
+<div style=3D"line-height: 160%"><span style=3D"color: rgb(52, 52, 52); l=
+ine-height: 160%">Rob:=C2=A0</span></div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-660dcc70-a9fd-0137-0b95-00163e63c88c" data-id=3D"ss-660dc=
+c70-a9fd-0137-0b95-00163e63c88c" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-660df0b0-a9fd-0137-0b95-00163e63c88c" id=3D"ss=
+-660df0b0-a9fd-0137-0b95-00163e63c88c" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-7e194489-d089-41b7-bd12-d34c80a7224a" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-7e194489-d089-41b7-bd12-d34c80a7224a" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: norm=
+al; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody=
+ style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #5e5e5e; font-family: Helvetica, Arial, sans-s=
+erif; line-height: 160%; mso-table-lspace: 0; mso-table-rspace: 0; paddin=
+g: 3px 10px 10px 15px; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #5e5e5e; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 14px; font-weight: normal; line-height: 160%; text-align=
+: left; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%">Best prices and an outstanding product. =
+It was delivered today by a UPS truck and delivered to my door. Very much=
+ faster than advertised. The Onan 4500 is a dream come true, very quiet a=
+nd runs our Lance Camper=E2=80=99s A/C unit easily. <u style=3D"line-heig=
+ht: 160%"><a href=3D"http://app.ryzeo.com/c/31194343/2525/PdCqjht/34b85zl=
+y4i?redirect_to=3Dhttps%3A%2F%2Fwww.trustpilot.com%2Fusers%2F5d9679135a7b=
+0378134dce6b%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content=
+%3D31194343%26utm_campaign%3D%2520%2525u26A0%2520Breaking%21%2520Gulf%252=
+0Coast%2520Braces%2520for%2520Major%2520Hurricane%2520Delta&amp;r=3D&amp;=
+c=3D" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-serif;=
+ font-weight: normal; line-height: 160%; text-decoration: none"><b style=3D=
+"line-height: 160%">Read Review</b></a></u><br style=3D"line-height: 160%=
+">
+</div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"" align=3D"center">
+<table id=3D"ss-ecdd2130-a9fd-0137-0b95-00163e63c88c" data-id=3D"ss-ecdd2=
+130-a9fd-0137-0b95-00163e63c88c" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-ecdd4970-a9fd-0137-0b95-00163e63c88c" id=3D"ss=
+-ecdd4970-a9fd-0137-0b95-00163e63c88c" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-ecd54af0-a9fd-0137-ed1f-00163e6db787" data-type=3D"ss-leg=
+acy-image" data-id=3D"ss-ecd54af0-a9fd-0137-ed1f-00163e6db787" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" st=
+yle=3D"border-spacing: 0px; border: 0px none #000000; color: #000000; fon=
+t-family: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: nor=
+mal; line-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0=
+; mso-table-rspace: 0; padding: 0px; text-align: left; width: 50% !import=
+ant"><tbody style=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 5px 0px 0px; width: 50% !important">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"bord=
+er-collapse: collapse; border-spacing: 0px; line-height: 185%; mso-table-=
+lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"line-height=
+: 185%"><tr style=3D"line-height: 185%"><td align=3D"center" style=3D"lin=
+e-height: 100%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><=
+img src=3D"http://production-streamsend.ezpublishing.netdna-cdn.com/asset=
+s/extended/5105/51/images/ia270-6b5d2505-748c-44d5-be9b-c365a81b8212-v2-7=
+0963c09e233c9e6e4fa32d6aea582e0.png" border=3D"0" width=3D"216" class=3D"=
+user_uploaded_image" style=3D"border: 0; display: block; line-height: 185=
+%; outline: none; text-decoration: none" height=3D"81"></td></tr></tbody>=
+</table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-0da89480-a9fe-0137-8f4c-00163e0dcb3d" data-id=3D"ss-0da89=
+480-a9fe-0137-8f4c-00163e0dcb3d" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-0da8ae50-a9fe-0137-8f4c-00163e0dcb3d" id=3D"ss=
+-0da8ae50-a9fe-0137-8f4c-00163e0dcb3d" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-8202416a-b6f0-44a6-908e-3c415568c3b4" data-type=3D"ss-div=
+ider" data-id=3D"ss-8202416a-b6f0-44a6-908e-3c415568c3b4" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-27c6e4a0-a9fe-0137-ed1f-00163e6db787" data-id=3D"ss-27c6e=
+4a0-a9fe-0137-ed1f-00163e6db787" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-27c70550-a9fe-0137-ed1f-00163e6db787" id=3D"ss=
+-27c70550-a9fe-0137-ed1f-00163e6db787" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86" data-type=3D"ss-soc=
+ial-icons" data-id=3D"ss-2fdb8d2f-d389-4cb3-b0d9-eefc51c79b86" data-versi=
+on=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" da=
+ta-icon-size=3D"38" style=3D"border-spacing: 0px; border: 0px none #00000=
+0; color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: =
+14px; font-weight: normal; line-height: 185%; margin: 0px; min-width: 100=
+%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px; text-align: le=
+ft; width: 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-hei=
+ght: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 0px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table width=3D"100%" style=3D"border-spacing: 0px; line-height: 185%; ms=
+o-table-lspace: 0; mso-table-rspace: 0; padding: 0px"><tbody style=3D"lin=
+e-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-social-icons-parent ss-social-icons-align" align=3D"cente=
+r" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 15px 10px">
+<table class=3D"ss-social-icons ss-social-icons-align" style=3D"border-sp=
+acing: 0px; line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0px"><tbody style=3D"line-height: 185%"><tr class=3D"ss-social-i=
+cons-container  ss-social-icons-align" style=3D"line-height: 185%">
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"facebook" style=3D"line-height: 100%; mso-table-lspac=
+e: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100%=
+"><a href=3D"http://app.ryzeo.com/c/31194343/2527/PdCqjht/34b85zly4i?redi=
+rect_to=3Dhttps%3A%2F%2Fwww.facebook.com%2FNorwallPowerSystems%3Futm_sour=
+ce%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D31194343%26utm_campa=
+ign%3D%2520%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%2520Braces%2520f=
+or%2520Major%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" class=3D"ss-socia=
+l-icons-icon-link" style=3D"color: #2baadf; font-family: Helvetica, Arial=
+, sans-serif; font-weight: normal; line-height: 100%; text-decoration: no=
+ne"><img class=3D"ss-social-icons-icon-image" data-type=3D"ss-social-icon=
+s-icon" src=3D"https://javascript_library.s3.amazonaws.com/bard/ic-facebo=
+ok.png" width=3D"38" style=3D"border: 0; display: block; line-height: 100=
+%; outline: none; text-decoration: none"></a></span></td>
+<td class=3D"ss-social-icons-spacer" data-type=3D"ss-social-icons-spacer"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; width: 11px">
+<div class=3D"ss-social-icons-spacer" style=3D"line-height: 185%; width: =
+11px"></div>
+</td>
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"twitter" style=3D"line-height: 100%; mso-table-lspace=
+: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100%"=
+><a href=3D"http://app.ryzeo.com/c/31194343/2529/PdCqjht/34b85zly4i?redir=
+ect_to=3Dhttps%3A%2F%2Ftwitter.com%2FNorwallPowerSys%3Futm_source%3Dstrea=
+msend%26utm_medium%3Demail%26utm_content%3D31194343%26utm_campaign%3D%252=
+0%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%2520Braces%2520for%2520Maj=
+or%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" class=3D"ss-social-icons-ic=
+on-link" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-ser=
+if; font-weight: normal; line-height: 100%; text-decoration: none"><img c=
+lass=3D"ss-social-icons-icon-image" data-type=3D"ss-social-icons-icon" sr=
+c=3D"https://javascript_library.s3.amazonaws.com/bard/ic-twitter.png" wid=
+th=3D"38" style=3D"border: 0; display: block; line-height: 100%; outline:=
+ none; text-decoration: none"></a></span></td>
+<td class=3D"ss-social-icons-spacer" data-type=3D"ss-social-icons-spacer"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; width: 11px">
+<div class=3D"ss-social-icons-spacer" style=3D"line-height: 185%; width: =
+11px"></div>
+</td>
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"linkedin" style=3D"line-height: 100%; mso-table-lspac=
+e: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100%=
+"><a href=3D"http://app.ryzeo.com/c/31194343/2531/PdCqjht/34b85zly4i?redi=
+rect_to=3Dhttps%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fnorwall-powersystems=
+%2F%3Futm_source%3Dstreamsend%26utm_medium%3Demail%26utm_content%3D311943=
+43%26utm_campaign%3D%2520%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%25=
+20Braces%2520for%2520Major%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" cla=
+ss=3D"ss-social-icons-icon-link" style=3D"color: #2baadf; font-family: He=
+lvetica, Arial, sans-serif; font-weight: normal; line-height: 100%; text-=
+decoration: none"><img class=3D"ss-social-icons-icon-image" data-type=3D"=
+ss-social-icons-icon" src=3D"https://javascript_library.s3.amazonaws.com/=
+bard/ic-linkedin.png" width=3D"38" style=3D"border: 0; display: block; li=
+ne-height: 100%; outline: none; text-decoration: none"></a></span></td>
+<td class=3D"ss-social-icons-spacer" data-type=3D"ss-social-icons-spacer"=
+ style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; width: 11px">
+<div class=3D"ss-social-icons-spacer" style=3D"line-height: 185%; width: =
+11px"></div>
+</td>
+<td class=3D"ss-social-icons-icon" data-type=3D"ss-social-icons-icon" dat=
+a-social-network=3D"pinterest" style=3D"line-height: 100%; mso-table-lspa=
+ce: 0; mso-table-rspace: 0; padding: 0px"><span style=3D"line-height: 100=
+%"><a href=3D"http://app.ryzeo.com/c/31194343/2533/PdCqjht/34b85zly4i?red=
+irect_to=3Dhttps%3A%2F%2Fwww.pinterest.com%2Fnorwall%2F%3Futm_source%3Dst=
+reamsend%26utm_medium%3Demail%26utm_content%3D31194343%26utm_campaign%3D%=
+2520%2525u26A0%2520Breaking%21%2520Gulf%2520Coast%2520Braces%2520for%2520=
+Major%2520Hurricane%2520Delta&amp;r=3D&amp;c=3D" class=3D"ss-social-icons=
+-icon-link" style=3D"color: #2baadf; font-family: Helvetica, Arial, sans-=
+serif; font-weight: normal; line-height: 100%; text-decoration: none"><im=
+g class=3D"ss-social-icons-icon-image" data-type=3D"ss-social-icons-icon"=
+ src=3D"https://javascript_library.s3.amazonaws.com/bard/ic-pinterest.png=
+" width=3D"38" style=3D"border: 0; display: block; line-height: 100%; out=
+line: none; text-decoration: none"></a></span></td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" style=3D"border: 0px hidden rgb(0,0,0)" class=3D=
+"">
+<table id=3D"ss-dc081e40-a9fe-0137-3698-00163e53695f" data-id=3D"ss-dc081=
+e40-a9fe-0137-3698-00163e53695f" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"border-spacing: 0px; b=
+order: 0px none #000000; margin: 0px; min-width: 100%; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbody><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-dc083e00-a9fe-0137-3698-00163e53695f" id=3D"ss=
+-dc083e00-a9fe-0137-3698-00163e53695f" width=3D"100%" style=3D"border: 0p=
+x none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; pa=
+dding: 0px; vertical-align: top">
+<table id=3D"ss-891d913b-57ae-450d-88cb-8c6c305bd925" data-type=3D"ss-div=
+ider" data-id=3D"ss-891d913b-57ae-450d-88cb-8c6c305bd925" data-version=3D=
+"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" style=3D=
+"border-spacing: 0px; border: 0px none #000000; color: #000000; font-fami=
+ly: Helvetica, Arial, sans-serif; font-size: 14px; font-weight: normal; l=
+ine-height: 185%; margin: 0px; min-width: 100%; mso-table-lspace: 0; mso-=
+table-rspace: 0; padding: 0px; text-align: left; width: 100%"><tbody styl=
+e=3D"line-height: 185%"><tr style=3D"line-height: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding" align=3D"ce=
+nter" style=3D"line-height: 185%; mso-table-lspace: 0; mso-table-rspace: =
+0; padding: 15px 10px">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]-->
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=3D"ss-edito=
+r-divider-border ss-editor-divider-width" style=3D"border-spacing: 0px; b=
+order-top-color: #dddddd; border-top-style: solid; border-top-width: 1px;=
+ line-height: 185%; mso-table-lspace: 0; mso-table-rspace: 0; padding: 0p=
+x; width: 98%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td height=3D"0" class=3D"ss-editor-divider-font-size ss-editor-divider-l=
+ine-height" style=3D"font-size: 0px; line-height: 0px; mso-table-lspace: =
+0; mso-table-rspace: 0; padding: 0px">=C2=A0</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+<div data-type=3D"block" class=3D"" style=3D"border: 0px hidden rgb(0,0,0=
+)">
+<table id=3D"ss-424a2960-fde5-0134-aebe-00163e37ebd9" data-id=3D"ss-424a2=
+960-fde5-0134-aebe-00163e37ebd9" data-type=3D"ss-section" data-version=3D=
+"1.0" cellpadding=3D"0" cellspacing=3D"0" style=3D"background: #fff; bord=
+er-spacing: 0px; border: 0px none #000000; margin: 0px; min-width: 100%; =
+mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px; width: 100%"><tbo=
+dy><tr>
+<td class=3D"ss-editor-section-padding ss-editor-section-outlook-backgrou=
+nd" style=3D"background: #fff; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0px">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" class=3D"ss-edi=
+tor-section-min-width" style=3D"border-spacing: 0px; mso-table-lspace: 0;=
+ mso-table-rspace: 0; padding: 0px"><tbody><tr>
+<td data-type=3D"ss-column" class=3D"ss-editor-column-container" data-ver=
+sion=3D"1.0" data-id=3D"ss-424a46c0-fde5-0134-aebe-00163e37ebd9" id=3D"ss=
+-424a46c0-fde5-0134-aebe-00163e37ebd9" width=3D"100.0%" style=3D"border: =
+0px none #000000; margin: 0px; mso-table-lspace: 0; mso-table-rspace: 0; =
+padding: 0px; vertical-align: top">
+<table id=3D"ss-bf533aa2-cb54-42fd-b302-a4088118ae51" data-type=3D"ss-leg=
+acy-text" data-id=3D"ss-bf533aa2-cb54-42fd-b302-a4088118ae51" data-versio=
+n=3D"1.0" width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"ss-editor-widget ss-editor-global-text" draggable=3D"false" sty=
+le=3D"background: #FFFFFF; border-spacing: 0px; border: 0px none #000000;=
+ color: #000000; font-family: Helvetica, Arial, sans-serif; font-size: 14=
+px; font-weight: normal; line-height: 185%; margin: 0px; min-width: 100%;=
+ mso-table-lspace: 0; mso-table-rspace: 0; padding: 0px; text-align: left=
+; width: 100%"><tbody style=3D"line-height: 185%"><tr style=3D"line-heigh=
+t: 185%">
+<td class=3D"ss-editor-widget-align ss-editor-widget-padding ss-editor-wi=
+dget-text" style=3D"color: #999999; font-size: 11px; line-height: 160%; m=
+so-table-lspace: 0; mso-table-rspace: 0; padding: 15px 10px 20px; text-al=
+ign: center; word-break: break-word; word-wrap: break-word">
+<!--[if mso]> <style type=3D"text/css" scoped> a { text-decoration: none;=
+ } </style> <![endif]--><span class=3D"ss-editor-global-text ss-editor-wi=
+dget-text" style=3D"color: #999999; font-family: Helvetica, Arial, sans-s=
+erif; font-size: 11px; font-weight: normal; line-height: 160%; text-align=
+: center; word-break: break-word; word-wrap: break-word">
+
+<div style=3D"line-height: 160%"><a style=3D"color: #999999 !important; f=
+ont-family: Helvetica, Arial, sans-serif; font-weight: normal; line-heigh=
+t: 160%; text-decoration: none" href=3D"http://app.ryzeo.com/private/34b8=
+5zly4i/F01/PdCqjht/unsubscribe/31194343"><u style=3D"line-height: 160%">U=
+nsubscribe</u></a></div>
+<div style=3D"line-height: 160%"><br style=3D"line-height: 160%"></div>
+<div style=3D"line-height: 160%">Norwall PowerSystems</div>
+<div style=3D"line-height: 160%">2455 Kiowa Blvd N Ste 102</div>
+<div style=3D"line-height: 160%">Lake Havasu City, Arizona 86403=C2=A0</d=
+iv>
+<div style=3D"line-height: 160%">United States=C2=A0</div>
+<div style=3D"line-height: 160%">1 (855) 453-4494</div>
+
+</span>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</td>
+</tr></tbody></table>
+</div>
+</div>
+<!-- end Region -->
+
+</td>
+</tr></tbody></table>
+<!-- end Content -->
+</td>
+</tr></tbody></table>
+<!-- end Email --><style id=3D"ss-editor-web-font-import" scoped=3D"">@im=
+port url('https://fonts.googleapis.com/css?family=3DDroid+Sans:400,700|Dr=
+oid+Serif:400,700|Lato:400,700|Lobster:400,700|Merriweather:400,700|Monts=
+errat:400,700|Open+Sans:400,700|Roboto:400,700|Roboto+Condensed:400,700|R=
+oboto+Slab:400,700|Source+Sans+Pro:400,700');</style>
+</td></tr>
+<tr><td id=3D"streamsend_footer" style=3D"mso-table-lspace: 0; mso-table-=
+rspace: 0; padding: 0px"></td></tr>
+</table>
+<img src=3D"http://app.ryzeo.com/v/31194343/PdCqjht/34b85zly4i?r=3D" styl=
+e=3D"border: 0; line-height: 100%; outline: none; text-decoration: none">=
+
+</body>
+</html>
+
+----==_mimepart_5f7cf2db6ee21_3d744c779603136088--
+

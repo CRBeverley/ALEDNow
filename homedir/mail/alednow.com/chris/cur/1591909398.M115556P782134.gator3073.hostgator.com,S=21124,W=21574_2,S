@@ -1,0 +1,450 @@
+Return-Path: <bounces+7731203-a960-chris=alednow.com@send.hyperikon.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id yN/OBhac4l427wsAi5QuQQ
+	(envelope-from <bounces+7731203-a960-chris=alednow.com@send.hyperikon.com>)
+	for <chris@alednow.com>; Thu, 11 Jun 2020 16:03:18 -0500
+Return-path: <bounces+7731203-a960-chris=alednow.com@send.hyperikon.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Thu, 11 Jun 2020 16:03:18 -0500
+Received: from o9.dlv13.klaviyomsv.com ([167.89.72.24]:13064)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounces+7731203-a960-chris=alednow.com@send.hyperikon.com>)
+	id 1jjUM2-003Kkg-0W
+	for chris@alednow.com; Thu, 11 Jun 2020 16:03:18 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hyperikon.com;
+	h=content-type:mime-version:from:subject:list-unsubscribe:to;
+	s=kl; bh=cMLA2FQ+yMIwqQVtRj4D2nC5rgwYf4ruX2L1LssYUtw=;
+	b=CLXBdbH0bkEaTeFggJYJ4qZrqT0R+n71RuYjlY0c5RwfZibMjg1nSauPpkeYY7bVFgRz
+	V9VFstakaanPO07+ZeUbX1+kzgyGQuZdMx3Qqp+RgwPPGHaVrJPk8QQN5VQNX08pZ4gX1P
+	HfyMfyKqcU5K+WAikwdzHYy/czUiAiwo0=
+Received: by filterdrecv-p3iad2-784dbb6bd8-czcxs with SMTP id filterdrecv-p3iad2-784dbb6bd8-czcxs-18-5EE29C0A-BB
+        2020-06-11 21:03:06.825920314 +0000 UTC m=+694571.465107620
+Received: from ip-172-31-58-160.ec2.internal (unknown)
+	by ismtpd0001p1iad1.sendgrid.net (SG) with ESMTP id VTchkea7RDaWqnniglhwmw
+	for <chris@alednow.com>; Thu, 11 Jun 2020 21:03:06.713 +0000 (UTC)
+Received: from qw-email-sending-small-03b6729c2f7ca8171.servers.clovesoftware.com (unknown [20.0.31.59])
+	by ip-172-31-58-160.ec2.internal (Postfix) with ESMTP id 49jbt24r5VzLNZj
+	for <chris@alednow.com>; Thu, 11 Jun 2020 21:03:06 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============6915050982477413994=="
+MIME-Version: 1.0
+From: Hyperikon <support@mail.hyperikon.com>
+Subject: We heard you like rebates...
+Date: Thu, 11 Jun 2020 21:03:06 +0000 (UTC)
+List-Unsubscribe: <https://manage.kmail-lists.com/subscriptions/unsubscribe?a=HAcujD&c=KB8CVG&r=pYT8qvF&m=S5Rz53&k=0707195ffb9a5002a797d9efd2776c56>
+X-Kmail-Ops: KB8CVG
+X-Kmail-Message: S5Rz53
+X-Kmail-Account: HAcujD
+X-Kmail-Relay: [HAcujD.krelaymail.com]:587
+Message-ID: <VTchkea7RDaWqnniglhwmw@ismtpd0001p1iad1.sendgrid.net>
+X-SG-EID: 
+ =?us-ascii?Q?X5sefIVDLcG4ndDwuqQ8rV4BjeqxZE8NRGm7YrhiKQest85ZW+9H2nEQZBIKb+?=
+ =?us-ascii?Q?wnXFoYNFUvLPQl+qi0DORhLZ5LvZRCJNpNLlYjR?=
+ =?us-ascii?Q?cDECtVK9pHI9REGNWpPQeyDi9L7mbDy2BZUPeNb?=
+ =?us-ascii?Q?4u6aquSVNgyVOUAt4xMS7jjKBAUVIAM=2FuxNaXVB?=
+ =?us-ascii?Q?1lwu29JllQLpGZVpH6iPqI0=2F5qvu18RmuS3jjSc?=
+ =?us-ascii?Q?CXHpac6pEPM0diJil02Ba3vRyLLN7wISkbsjwMv?=
+ =?us-ascii?Q?FNDgdNmdiDRgtjXh78Wtw=3D=3D?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb3WdckyvbC2eFaxvdDHn8D1nndBBW0fUClUlZF2fTQ?=
+ =?us-ascii?Q?6KQCHssxKJwprJeHyfuKgAMfvb3=2FQ72uF93U=2Fbo?=
+ =?us-ascii?Q?QOLcAiFWUI+LhDBrcTuAwqA5V3H7cejmfwrwfmR?=
+ =?us-ascii?Q?vdB01bQ6v87yk421EnrEJJHpwcN8Y=2FN6ymuMq0u?=
+ =?us-ascii?Q?Jml8hQKUR=2FLCO?=
+To: "chris@alednow.com" <chris@alednow.com>
+
+--===============6915050982477413994==
+Content-Type: text/plain; charset=utf-8
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Check out our Rebate Maximizer!
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C
+
+Hi,
+
+Over the years, countless customers have called us and asked about LED reba=
+tes--- we've listened and added more rebate-qualified products across our c=
+atalog and we have no reason to stop there. We believe this is the year we =
+do more for you, and we're hoping you'll tell us what you think!
+
+Technically we cannot apply for rebates on your behalf (nor would that be a=
+ good idea), so we thought we build you an easy shortcut to rebate instead,=
+ we're calling it the Rebate Maximizer.
+
+Preview the Rebate Maximizer
+<https://www.hyperikon.com/lp/led-rebate-maximizer/>
+
+Just follow the 3 simple steps and you'll know what to expect from your reb=
+ate savings!
+
+1. Enter zipcode
+2. Check eligible rebate programs
+3. Match products with rebates
+
+We're very excited to share this tool with you before its official launch. =
+We hope that you will take a moment to give us feedback via the quick surve=
+y on the site, so we can continue to roll out more useful features and serv=
+ices in the future for you!
+<https://www.hyperikon.com/lp/led-rebate-maximizer/?zip=3D92101>
+
+Warm Regards,
+The Hyperikon Team
+
+Unsubscribe
+<https://manage.kmail-lists.com/subscriptions/unsubscribe?a=3DHAcujD&c=3DKB=
+8CVG&r=3DpYT8qvF&m=3DS5Rz53&k=3D0707195ffb9a5002a797d9efd2776c56>
+
+*Displayed rebate value is an estimate based on US zipcode 46126. The Rebat=
+e Maximizer assumes certain energy metrics widely accepted as industry aver=
+ages depending on your location and program. It is intended to be used as a=
+n estimating tool, as rebate value(s) may vary. Hyperikon is not affiliated=
+ with any rebate programs to grant or guarantee rebates.
+
+
+--===============6915050982477413994==
+Content-Type: text/html; charset=utf-8
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:v=
+=3D"urn:schemas-microsoft-com:vml">
+<head>
+<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewpor=
+t">
+<meta content=3D"telephone=3Dno" name=3D"format-detection">
+<meta content=3D"IE=3Dedge" http-equiv=3D"X-UA-Compatible">
+<title>
+      Hyperikon
+    </title>
+<!--[if gte mso 9]>
+<xml>
+  <o:OfficeDocumentSettings>
+    <o:AllowPNG  />
+    <o:PixelsPerInch>96</o:PixelsPerInch>
+ </o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+
+</head>
+<body bgcolor=3D"#ffffff" style=3D"-webkit-text-size-adjust:100%;-ms-text-s=
+ize-adjust:100%;-webkit-font-smoothing:antialiased;margin:0px; padding:0px;=
+">
+<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-=
+table-rspace:0" width=3D"100%">
+<tr>
+<td align=3D"center" style=3D"border-collapse:collapse;mso-line-height-rule=
+:exactly" valign=3D"top">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"em_main_table" style=3D"border-collapse:collapse;mso-table-lspace:0;ms=
+o-table-rspace:0;table-layout:fixed; width:600px;" width=3D"600">
+<!--Preheader-->
+<tr>
+<td height=3D"26" style=3D"border-collapse:collapse;mso-line-height-rule:ex=
+actly;line-height:0px; font-size:0px; height:26px;">
+<div style=3D"display:none;font-size:1px;color:#d5d4d4;line-height:1px;font=
+-family:Arial, Helvetica, sans-serif;max-height:0px;max-width:0px;opacity:0=
+;overflow:hidden;mso-hide:all;">
+                  Check out our Rebate Maximizer!
+                </div>
+<!-- Insert &zwnj;&nbsp; hack after hidden preview text -->
+<div style=3D"display: none; max-height: 0px; overflow: hidden;">
+                  =C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=
+=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=
+=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=
+=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=
+=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C
+                </div>
+<!--Preheader-->
+<!--Text nr1-->
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"background-color: #ffffff;" valign=3D"top">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"width:550px;" width=3D"550">
+<tbody>
+<tr>
+<td align=3D"left" padding-left=3D"10px" valign=3D"top">
+<p style=3D"margin-left:10px; font-family:Arial; font-size: 14px; line-heig=
+ht: 20px; color: #000000; background-color: #ffffff;">
+                           Hi, <br><br>
+                          Over the years, countless customers have called u=
+s and asked about LED rebates--- we've listened and added more rebate-quali=
+fied products across our catalog and we have no reason to stop there. We be=
+lieve this is the year we do more for you, and we're hoping you'll tell us =
+what you think!
+                          <br> <br>
+                          Technically we cannot apply for rebates on your b=
+ehalf (nor would that be a good idea), so we thought we build you an easy s=
+hortcut to rebate instead, we're calling it the
+                          <b>Rebate Maximizer</b>.<!--Button-->
+</p>
+</td>
+</tr>
+<tr>
+<td class=3D"em_height" height=3D"20" style=3D"border-collapse:collapse;mso=
+-line-height-rule:exactly;height: 20px; font-size: 1px; line-height: 1px;">
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"padding-left:10px" valign=3D"top">
+<table align=3D"left" bgcolor=3D"#054E8B" border=3D"0" border-radius=3D"5px=
+" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td align=3D"center" height=3D"40" style=3D"font-family: Arial , Arial, san=
+s-serif; font-size:14px; line-height:18px; letter-spacing:1px; color:#fffff=
+f; border-radius:25px;" valign=3D"middle" width=3D"250">
+<strong><a href=3D"https://trk.klclick1.com/ls/click?upn=3DFzfSiOW-2BGS3RTO=
+wqkkR3r9EqyQOjzParNsGl6OUaVqbtEbzaGf-2BJRYZ1wkxJ0xmYmqICWt51oI8R8WnnBeVsQgl=
+4kZr9UEu3xwfykupYs4vl53gwE7-2F7P7-2FnYm15Ao8G759GrD1pPrx1ZWMr57jShmwIxyUbpS=
+VQfUwNfiaGTvwZ60exxuVTCJ-2F7gv2jW4TfY-2BjXJMIBJL7X2JfAdtskSW2TT3Nkx48DgcWxk=
+WYvkSFYnx7De1AwcUF-2FwpZKFUxrPLMWtC9eniayG0oU-2FIwBR-2FHZpbCLaYp-2FYZ7nBPmQ=
+LmW2TBtznaJPlAwHHmxuSm3CKoRgDZsZ2FP-2Bbf27bqdxeyIOSUhgee5JqbT-2B27thVIM-3De=
+gdh_udT3v8hfWpShd4l40iR1Yg-2B0PB1m5ciNfCL6TqfZvxgqXDNtMqHcSAzVTe-2BwLw0Olwf=
+tIvMAOtoBdFFA5DHdPixa3jVUgIpam7SUNmQZmUsdKAdwenv1AlSwdCEAZVhf7UXMxUagBY-2Bt=
+nnCUNftzZtQeb81nmPlG-2Fpw-2FrKtZkii6VyJtld008-2FtXqwHEZnijItNUn6EvkGGifvxlU=
+hIP2mvzya-2Feyf7hSecHmlII0TUb-2FhGRePEdwxOTej-2FHET10lIuGXFzT41aIXU1lxeXQfn=
+RuoigYYQNw6OK5WrytCnujEIXijVy7TOHPPgYQiUjGpDs6k6aWS6dHAPwhQ1f6xY2G65ZzfM8aO=
+ki96IiO-2BvCcUOfy49VZ3GWmLFXPIZiRp6sTvg3MXI1d-2FMhcloPt4A-3D-3D" style=3D"t=
+ext-decoration:none; color:#ffffff;display: block;line-height:30px;" target=
+=3D"_blank">Preview the Rebate Maximizer</a></strong>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"em_height" height=3D"20" style=3D"border-collapse:collapse;mso=
+-line-height-rule:exactly;height: 20px; font-size: 1px; line-height: 1px;">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--Text nr2-->
+<tr>
+<td align=3D"left" style=3D"background-color: #ffffff;" valign=3D"top">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"width:550px;" width=3D"550">
+<tbody>
+<tr>
+<td align=3D"left" padding-left=3D"10px" valign=3D"top">
+<p style=3D"margin-left:10px; font-family:Arial; font-size: 14px; line-heig=
+ht: 20px; color: #000000; background-color: #ffffff;">
+                          Just follow the 3 simple steps and you'll know wh=
+at to expect from your rebate savings!
+                        </p>
+<p style=3D"margin-left:10px; padding-left: 20px; font-family:Arial; font-s=
+ize: 14px; line-height: 20px; color: #000000; background-color: #ffffff;">
+                          1. Enter zipcode
+                          <br>
+                          2. Check eligible rebate programs
+                          <br>
+                          3. Match products with rebates
+                        </p>
+<p style=3D"margin-left:10px; font-family:Arial; font-size: 14px; line-heig=
+ht: 20px; color: #000000; background-color: #ffffff;">
+                          We're very excited to share this tool with you be=
+fore its official launch. We hope that you will take a moment to give us fe=
+edback via the quick survey on the site, so we can continue to roll out mor=
+e useful features and services in the future for you!
+                        </p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--Instruction GIF-->
+<tr>
+<td align=3D"center" bgcolor=3D"#FFFFFF" style=3D"border-collapse:collapse;=
+mso-line-height-rule:exactly" valign=3D"top">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"em_wrapper" style=3D"border-collapse:collapse;mso-table-lspace:0;mso=
+-table-rspace:0;width:100%;" width=3D"100%">
+<tr>
+<td align=3D"center" style=3D"border-collapse:collapse;mso-line-height-rule=
+:exactly" valign=3D"top">
+<a href=3D"https://trk.klclick1.com/ls/click?upn=3DFzfSiOW-2BGS3RTOwqkkR3r9=
+EqyQOjzParNsGl6OUaVqbtEbzaGf-2BJRYZ1wkxJ0xmYmIebi4Fjz2TCvW7-2FwcrvrJvXNpvHX=
+QoQNhmduP6D37LTpq-2FJ7y2l2QReioJtl7Zu3JalioCH-2BuU3bYEmaSkBgVgHMtojsCHamYCC=
+jz7MC-2BeNwYeKzBCeggFAongk8XeVj1pkwiXR2SDuC6rJ3Cf4g8R7v8FmQnDRO73LMgU0u5fch=
+tSLGeroaCq2xQIwoanpn5yAlb5xE1IKEYx2CLnCLlgZBtTsCGYs57cjdmVurgQyg-2FXFi-2BTI=
+icczhoLao4hUiAcA7IWcZCVq3pexhFNPPRcfY42cTYmawm0ro8bb1GuXpCDAA1xnlyZnoD504qg=
+V56bW_udT3v8hfWpShd4l40iR1Yg-2B0PB1m5ciNfCL6TqfZvxgqXDNtMqHcSAzVTe-2BwLw0Ol=
+wftIvMAOtoBdFFA5DHdPixa3jVUgIpam7SUNmQZmUsdKAdwenv1AlSwdCEAZVhf7UXMxUagBY-2=
+BtnnCUNftzZtQeb81nmPlG-2Fpw-2FrKtZkii6VyJtld008-2FtXqwHEZnijItNUn6EvkGGifvx=
+lUhIP2mPaWBz-2FeXH2-2FCl3zPxmqH9ucbxnWFJG-2FVyqzFzoVFWRxSl7M9MypnyRC5OTV83s=
+RGtAXy72s1ezdZsKAQzlet3QR6GXRuLdfSeSxn2xkn-2FY8LFiLuq64MIQFY6ERH3YBsf6POczX=
+g5114nO1RqSHMYCbjzTn6bbcF7JtqRd1uBAQOX44YHECNhlmO-2Bmc1uUDw-3D-3D" style=3D=
+"border-collapse:collapse;mso-line-height-rule:exactly;text-decoration:none=
+; color: #000000;" target=3D"_blank">
+<img alt=3D"Rebate Products in Your Area" border=3D"0" class=3D"em_full_img=
+" src=3D"https://www.hyperikon.com/content/email/campaigns/rebate-maximizer=
+-6.8.20/Rebate-Maximizer_Steps_Gif.gif" style=3D"border:0;outline:none;disp=
+lay:block; font-family:Arial, sans-serif; font-size:27px; line-height: 35px=
+; color:#000000; max-width: 600px; " width=3D"600"> </a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!--Text nr3-->
+<tr>
+<td class=3D"em_height" height=3D"10" style=3D"border-collapse:collapse;mso=
+-line-height-rule:exactly;height: 10px; font-size: 1px; line-height: 1px;">
+</td>
+</tr>
+<tr>
+<td align=3D"left" style=3D"background-color: #ffffff;" valign=3D"top">
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"width:550px;" width=3D"550">
+<tbody>
+<tr>
+<td align=3D"left" valign=3D"top">
+<p style=3D"margin-left:10px; font-family:Arial; font-size: 14px; line-heig=
+ht: 20px; color: #000000; background-color: #ffffff;">
+                          Warm Regards,
+                          <br>
+                          The Hyperikon Team
+                        </p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!--Hyperikon logo-->
+<tr>
+<td class=3D"em_height" height=3D"10" style=3D"border-collapse:collapse;mso=
+-line-height-rule:exactly;height:10px;">
+</td>
+</tr>
+<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" clas=
+s=3D"em_wrapper" style=3D"border-collapse:collapse;mso-table-lspace:0;mso-t=
+able-rspace:0;width:100%;" width=3D"100%">
+<tr>
+<td align=3D"left" style=3D"border-collapse:collapse;mso-line-height-rule:e=
+xactly" valign=3D"top">
+<img alt=3D"Hyperikon Logo" border=3D"0" class=3D"em_full_img" src=3D"https=
+://www.hyperikon.com/content/email/campaigns/rebate-maximizer-6.8.20/Hyperi=
+kon%20only_blue.png" style=3D"border:0;outline:none;display:block; font-fam=
+ily:Arial, sans-serif; font-size:27px; line-height: 35px; color:#000000; ma=
+x-width: 150px; " width=3D"150">
+</td>
+</tr>
+</table>
+<!--Footer-->
+<tr>
+<td align=3D"center" style=3D"border-collapse:collapse;mso-line-height-rule=
+:exactly" valign=3D"top">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cl=
+ass=3D"em_wrapper" style=3D"border-collapse:collapse;mso-table-lspace:0;mso=
+-table-rspace:0;width: 100%;" width=3D"100%">
+<tr>
+<td class=3D"em_height" height=3D"70" style=3D"border-collapse:collapse;mso=
+-line-height-rule:exactly;height:70px; font-size: 1px; line-height: 1px;">
+</td>
+</tr>
+<tr>
+<td align=3D"left" class=3D"em_aside em_text1" style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-size:13px; line-height:15px; color:#8c8d8d;"> =
+<a href=3D"https://trk.klclick1.com/ls/click?upn=3DFzfSiOW-2BGS3RTOwqkkR3r4=
+QzmWrqzOI-2Fm6usnE3PWnhmMrECvgLWHDB6MF6BL7kHEaOAQwgqvyfFOXh2eMawiuWuuFbcxBG=
+-2BYVk7I-2FvXTQHKABKCG0W2QUsaTJlAFHZ9lM6iWvWI3A5DyKlL-2BSpl4XDIYMySxxuNjzIL=
+ca1MBIPp3K3WVFwTU-2BdRWSh-2BvHOzLNi2_udT3v8hfWpShd4l40iR1Yg-2B0PB1m5ciNfCL6=
+TqfZvxgqXDNtMqHcSAzVTe-2BwLw0OlwftIvMAOtoBdFFA5DHdPixa3jVUgIpam7SUNmQZmUsdK=
+Adwenv1AlSwdCEAZVhf7UXMxUagBY-2BtnnCUNftzZtQeb81nmPlG-2Fpw-2FrKtZkii6VyJtld=
+008-2FtXqwHEZnijItNUn6EvkGGifvxlUhIP2kqEw-2BRhX-2BllLwQA2AoiRp9puQMz958Gr0l=
+VIGBGfXjdhaxI3JjhaxoqyHnGcROqsyhvEjbJxHInTO7aLcF4ir3PSgMdKlTFrKLL0Zc9UtzGWF=
+-2FpSnFQDiJuHrwz6-2BJpeRasp9z3myg-2FzzXjvnKmSHi8kMDXOKz0Q-2FaTcVu-2FQNNhSpw=
+B-2FYBU-2Fq7PwprPNAFkPQ-3D-3D" style=3D" color:#8c8d8d; text-decoration: un=
+derline;"> Unsubscribe </a>
+</td>
+</tr>
+<tr>
+<td class=3D"em_height" height=3D"10" style=3D"border-collapse:collapse;mso=
+-line-height-rule:exactly;height:10px;">
+</td>
+</tr>
+<tr>
+<td align=3D"left" padding-left=3D"10px" valign=3D"top">
+<p style=3D"margin-left:10px; font-family:Arial; font-size: 11px; line-heig=
+ht: 11px; color: #8c8d8d; background-color: #ffffff; max-width: 600px; " wi=
+dth=3D"600">
+                        *Displayed rebate value is an estimate based on US =
+zipcode 46126. The Rebate Maximizer assumes certain energy metrics widely a=
+ccepted as industry averages depending on your location and program. It is =
+intended to be used as an estimating tool, as rebate
+ value(s) may vary. Hyperikon is not affiliated with any rebate programs to=
+ grant or guarantee rebates.
+                      </p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<!--Footer-->
+</table>
+</td>
+</tr>
+</table>
+<div class=3D"gmailfix" style=3D"display:none;white-space:nowrap; font:15px=
+ courier; line-height:0;">
+</div>
+<img src=3D"https://trk.klclick1.com/wf/open?upn=3D-2BPPYzd87qq10IXJQDD0DU8=
+546-2Bzt-2BGLKnyqeWHLVQ-2F3ImLoqmGPidYD71fhMh9KbUNwGNyUWqAJxwpuVfgbf3UjckE0=
+TGOMzOj7GAGHnJ37iIvkmdaLrKCYAxy2W4dUx985MClWX4Tjkd8-2FVzlQVdfSfSa87E00N9oz1=
+jU9n-2Bo4XP73zkQk-2BU8HEkM0FDxBXNiUFEoB6aHU-2F54IHwP3IivhIOeAKAZERsllcSticx=
+DoM1xmG2w9F37Ok7lMno5UuLXKd5D5km5MwFGSJyRyfxzNnBYKF0gnXVDkTCKDIwnJtLyJwXC-2=
+FmWvHk-2B7QzEaSiv7Ir7f6F2R3vQN698XIk9YLBIjVdxA8D1H3IrJCHfesw9hwjCHj8u-2FK4m=
+PxgBmwmj-2FN0FFxgp6B297xsa3emFA-3D-3D" alt=3D"" width=3D"1" height=3D"1" bo=
+rder=3D"0" style=3D"height:1px !important;width:1px !important;border-width=
+:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-rig=
+ht:0 !important;margin-left:0 !important;padding-top:0 !important;padding-b=
+ottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>=
+</body>
+</html>
+--===============6915050982477413994==--

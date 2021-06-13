@@ -1,0 +1,3 @@
+owner:$1$nX7nWW7B$qiKa2q3fSwWbKYNSoXQaF0:540:534:owner:/home4/owner:/usr/local/cpanel/bin/jailshell
+owner_logs:$1$nX7nWW7B$qiKa2q3fSwWbKYNSoXQaF0:540:534:owner:/etc/apache2/logs/domlogs/owner:/bin/ftpsh
+ftp::14:50:owner:/home4/owner/public_ftp:/bin/ftpsh

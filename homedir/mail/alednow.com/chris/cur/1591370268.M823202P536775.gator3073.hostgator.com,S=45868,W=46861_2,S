@@ -1,0 +1,993 @@
+Return-Path: <1axcamh6swg23nii07v3z27urcrcxkt1nemba7-chris=alednow.com@bf08x.hubspotemail.net>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id +JTsMBxi2l7HMAgAi5QuQQ
+	(envelope-from <1axcamh6swg23nii07v3z27urcrcxkt1nemba7-chris=alednow.com@bf08x.hubspotemail.net>)
+	for <chris@alednow.com>; Fri, 05 Jun 2020 10:17:48 -0500
+Return-path: <1axcamh6swg23nii07v3z27urcrcxkt1nemba7-chris=alednow.com@bf08x.hubspotemail.net>
+Envelope-to: chris@alednow.com
+Delivery-date: Fri, 05 Jun 2020 10:17:48 -0500
+Received: from bid46ra.bf08x.hubspotemail.net ([158.247.18.228]:50293)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <1axcamh6swg23nii07v3z27urcrcxkt1nemba7-chris=alednow.com@bf08x.hubspotemail.net>)
+	id 1jhE6O-002HJk-Ls
+	for chris@alednow.com; Fri, 05 Jun 2020 10:17:48 -0500
+Received: by 172.16.214.116 with SMTP id awd9wj8vrpxffjbvzics7yglmvsajiy4z3pe;
+        Fri, 5 Jun 2020 15:17:37 GMT
+DKIM-Signature: v=1; s=hs1; d=bf08x.hubspotemail.net; 
+        i=@bf08x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:x-report-abuse:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=WYZPOo7LU8z39/KtD9o2jP9RMZXxBx16RYdftBsXpFw=; 
+        b=gsPRR8zJUoYatydcZZ7LuJud8W8M4zQxYoLOqqrjUpgjyxbPRjS8s8GwuJ7yPW
+         4ngIGYM/xb9rkgZzvmz+hFAHcJUJEkKdf+V/MijCxKjELwTIFXlmDSCsMENu/v9
+         ExcXNI5tHQ91WUtuK8KAVW0udz04TpiyNdXd3iHpp3BXogTiYn1z9kmMIf3xPwk
+         e1ukYPjoclWPw6/UEweHHOkEcqpB+xaO117HaHgl4CsoDJCNuB9x6NZiGGyZ/Li
+         QNUf6l3/pSIY4uxhn5A8snY8ytQ+zu6rBlWZcNAS48f2CM3JzVtf3MHxYO3pPwK
+         jKc68fGNdXQ5dQ/Kgs0oh/SyBjMg==; q=dns/txt; t=1591370255;
+DKIM-Signature: v=1; s=hs1; d=infogroup.com; i=@infogroup.com; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:x-report-abuse:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=WYZPOo7LU8z39/KtD9o2jP9RMZXxBx16RYdftBsXpFw=; 
+        b=QNCDsj1GgML9fC3olj+7Z4/22mrgnK0Q2YqO66OOhHb7BI/dMQzfG6xS34SO23
+         ege2sseT8HITuoZvsdYA2WHrHlWBxFi/F7NvOI7dAt2e5dOwh8VjHWwfkcZBM2P
+         FN8sF3qffkabVuogAN28u0K3rLgbv84s3mC3nTDEAU6r6jUt/f/lAPnfipvU2GN
+         oyZOO5JwIoTs+5vP1ERb9fddbMQIB1nhv/imeFohOUIpZDYyoDlqF2RkX6kllap
+         fe9KWw3LFp9wYHigUaJSRxBVyZhbNkAO8cHUy8f0+OSC1kpAkpVajAr/VsbepY6
+         ZE8+ymBskmoyqz417ZeQPPH7BL7A==; q=dns/txt; t=1591370255;
+X-HS-Cid: 1axf3xf1moghdp62gpka8jqbskv6za0f7a175f
+List-Unsubscribe: <mailto:1axc7y63by00vqx4kq9di74ujdjpo73yjugyir-chris=alednow.com@bf08x.hubspotemail.net?subject=unsubscribe>
+Date: Fri, 5 Jun 2020 10:17:37 -0500
+From: Jim Robb <james.robb@infogroup.com>
+Reply-To: customerservice@credit.net
+To: chris@alednow.com
+Message-ID: <1591370015490.953c222e-3de4-491e-b5d9-fdb393e5ac91@bf08x.hubspotemail.net>
+Subject: Credit.net June Newsletter
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1328681_917256940.1591370255751"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+
+------=_Part_1328681_917256940.1591370255751
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+To our valued Credit Solutions clients:
+
+As we enter June, we continue to work with our clients to identify and impl=
+ement steps to support their specific business plans. The COVID-19 pandemic=
+ has impacted all of us =E2=80=93 personally and professionally. However, a=
+s more states re-open or enter their final phases to re-open, we recommend =
+re-assessing the criteria you=E2=80=99re currently using to support your cr=
+edit decisioning process, as well as steps being taken to proactively monit=
+or your current client base.
+
+Additionally, the new insights we are able to provide are also being levera=
+ged across the various Marketing and Sales efforts. Credit Solutions offers=
+ much more than just business credit reports. If you haven=E2=80=99t spoken=
+ with your Account Executive to review these new services you could be miss=
+ing out.
+
+In this Newsletter, here are the topics I=E2=80=99ll be covering:
+
+- Leveraging Credit.net for Portfolio Management
+- Steps to Mitigate Risk and Increase Cashflow
+- Getting ahead of your Competition: Leveraging Intent Data
+
+Leveraging Credit.net for Portfolio Management
+
+Most organizations leverage Credit.net to support their upfront Credit Deci=
+sioning.  However, that is only the first step to ensure your company doesn=
+=E2=80=99t get surprised or negatively impacted by clients that wind up pay=
+ing you beyond terms or not at all. In fact, now more than ever, it=E2=80=
+=99s critical to use Credit.net to perform ongoing customer risk assessment=
+s.
+
+Business information and a company=E2=80=99s financial position can change =
+on a daily basis. A customer who had a positive credit score when you perfo=
+rmed the initial credit check could have experienced a financial change tha=
+t has now reduced their overall score and/or ability to pay.
+
+With our unlimited Credit.net subscription you can access your customer=E2=
+=80=99s business credit report as often as you=E2=80=99d like. Unlimited is=
+ truly UNLIMITED. As a best practice, you should be reviewing each of your =
+customer=E2=80=99s business credit reports every 3 months.  Additionally, f=
+or those clients that have larger value transactions, outstanding balances =
+or are relatively new to your business =E2=80=93 we recommend proactively m=
+onitoring these by adding our Payment Trade Score =E2=80=93 which comes wit=
+h 12 months of monitoring.
+
+If monitoring your current customer base is performed by a different person=
+ or group then no worries. We can easily provision a few extra Credit.net l=
+icenses =E2=80=93 in less than 5 minutes.
+
+Steps to Mitigate Risk and Increase Cashflow
+
+We are committed to helping you identify and implement actions to mitigate =
+risk across your current customer base.  We recently introduced our, compli=
+mentary (https://hub.infogroup.com/e2t/sc2/Mm-nFbjX3ZjW5S88Xt8G2gQKW5PVkG18=
+kqdNMW5r_TFq7g0sC8f1HVPN203 ) , Data Quality & Portfolio Risk Analysis. Wit=
+hin this new service you will receive an in-depth view of your current cust=
+omer base (demographics, firmographics, risk profile, etc.) and uncover new=
+ insights.
+
+It=E2=80=99s really exciting to see that so many of our clients have taken =
+advantage of this service.  One client told us that it helped them reduce t=
+heir risk and improve their cashflow by more than $30k in less than 1 week!=
+ This is why we do what we do. Results speak louder than words.
+
+If you=E2=80=99re receiving this newsletter, but are not the right person t=
+o decide how best to leverage (or take advantage of) this service =E2=80=93=
+ forward to someone in your company that is. It=E2=80=99ll be the best acti=
+on you take today. Why would you not want to protect your company=E2=80=99s=
+ financial well-being today and as you head into the future?
+
+Getting ahead of your competition: Leveraging Intent Data
+
+Recognizing a buyer before they purchase is critical to success. The crowde=
+d B2B space allows little room for mistakes, so companies must be ready to =
+respond quickly with the right message.
+
+Building on our deep legacy of high-quality B2B data, Infogroup=E2=80=99s i=
+ntent data offering includes attributes informed by signal data from multip=
+le providers, identifying a responsive audience that will be in-market to p=
+urchase within days of taking action. Paired with the hundreds of attribute=
+s from our industry-leading B2B database, and the ability to activate this =
+data in any channel, marketers can improve closing rates by more than 79%.
+
+Forward this information to your Sales & Marketing groups. They=E2=80=99ll =
+appreciate your interest in helping grow your business in the most accelera=
+ted, positive way.
+
+For more information call (tel:8666029985) or send us an email (mailto:cust=
+omerservice@credit.net) . Thank you for your continued relationship.
+
+Jim Robb
+
+Sales Manager, Credit.net
+
+Local Marketing & Credit Solutions
+
+E: customerservice@credit.net (mailto:customerservice@credit.net)
+
+P: 866.602.9985
+
+Infogroup
+
+13155 Noel Rd #1750
+
+Dallas
+
+TX
+
+75240
+
+You received this email because you are subscribed to Newsletters
+from Infogroup.
+
+Update your email preferences (https://hub.infogroup.com/hs/manage-preferen=
+ces/unsubscribe?d=3DVnchfl74hNZ4VFjGKF3T3l53W3ZVc6K43YfrpW43T2NL4MccCgW17f7=
+hv5kNPcyW6Prd_66D7l2YW5mbwnB7cMvFXV28Mng6lFKC6MGKd_P20N4MW5tHJs062WcZvW3rcL=
+9D8Cd3Wy51ftr_1&v=3D3&_hsenc=3Dp2ANqtz-8WP5iiUnE9MC1_HGH210pkHRZCz-dLPfYRRY=
+4mAjNS6a3-OmJAPXweW0-BsSKT64NiCwgMBYsUivNgRCMUb4RBw-ud1Q&_hsmi=3D89017003 )
+to choose the types of emails you receive.
+
+Unsubscribe from all future emails (https://hub.infogroup.com/hs/manage-pre=
+ferences/unsubscribe-all?d=3DVnchfl74hNZ4VFjGKF3T3l53W3ZVc6K43YfrpW43T2NL4M=
+ccCgW17f7hv5kNPcyW6Prd_66D7l2YW5mbwnB7cMvFXV28Mng6lFKC6MGKd_P20N4MW5tHJs062=
+WcZvW3rcL9D8Cd3Wy51ftr_1&v=3D3&_hsenc=3Dp2ANqtz-8WP5iiUnE9MC1_HGH210pkHRZCz=
+-dLPfYRRY4mAjNS6a3-OmJAPXweW0-BsSKT64NiCwgMBYsUivNgRCMUb4RBw-ud1Q&_hsmi=3D8=
+9017003 )
+------=_Part_1328681_917256940.1591370255751
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- start coded_template: id:8115066511 =
+path:generated_layouts/8115066510.html --><html xmlns=3D"http://www.w3.org/=
+1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schema=
+s-microsoft-com:office:office"><head>
+        <title>Credit.net June Newsletter</title>
+        <meta property=3D"og:title" content=3D"Credit.net June Newsletter">
+        <meta name=3D"twitter:title" content=3D"Credit.net June Newsletter"=
+>
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+       =20
+        <style type=3D"text/css" id=3D"hs-inline-css">
+/*<![CDATA[*/
+  /* everything in this node will be inlined */
+  /* =3D=3D=3D=3D Page Styles =3D=3D=3D=3D */
+  body, #backgroundTable {
+      background-color: #F0F4F8; /* Use body to determine background color =
+*/
+      font-family: sans-serif;
+  }
+  #templateTable {
+      width: 600px;
+      background-color: #ffffff;
+      -webkit-font-smoothing: antialiased;
+  }
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+      display:block;
+      font-weight:bold;
+      line-height:100%;
+      margin-top:0;
+      margin-right:0;
+      margin-bottom:10px;
+      margin-left:0;
+  }
+  h1, .h1 {
+      font-size:26px;
+  }
+  h2, .h2 {
+      font-size:20px;
+  }
+  h3, .h3 {
+      font-size:15px;
+  }
+  h4, .h4 {
+      font-size:13px;
+  }
+  h5, .h5 {
+      font-size:11px;
+  }
+  h6, .h6 {
+      font-size:10px;
+  }
+  /* =3D=3D=3D=3D Header Styles =3D=3D=3D=3D */
+  #headerTable {
+      background-color: #F0F4F8;
+      color:#444444;
+      font-family:sans-serif;
+      font-size:10px;
+      line-height:120%;
+      text-align:right;
+      border-collapse: separate !important;
+      padding-right: 30px;
+  }
+  #headerTable a:link, #headerTable a:visited, /*Y*/ #headerTable a .yshort=
+cuts /*Y*/{
+      font-weight:normal;
+      text-decoration:underline;
+  }
+  /* =3D=3D=3D=3D Template Wrapper Styles =3D=3D=3D=3D */
+  #contentCell {
+      padding: 10px 20px;
+      background-color: #F0F4F8;
+  }
+  #contentTableOuter {
+      border-collapse: separate !important;
+      background-color: #ffffff;
+     =20
+      box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+     =20
+      padding: 30px;
+  }
+  #contentTableInner {
+      width: 600px;
+  }
+  /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+  .bodyContent {
+      color:#444444;
+      font-family:sans-serif;
+      font-size: 15px;
+      line-height:150%;
+      text-align:left;
+  }
+  /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+  table.columnContentTable {
+      border-collapse:separate !important;
+      border-spacing:0;
+      background-color: #ffffff;
+  }
+  td.columnContent {
+      color:#444444;
+      font-family:sans-serif;
+      font-size:15px;
+      line-height:120%;
+      padding-top:20px;
+      padding-right:20px;
+      padding-bottom:20px;
+      padding-left:20px;
+  }
+  /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+  #footerTable {
+      background-color: #F0F4F8;
+  }
+  #footerTable a {
+      color: #999999;
+  }
+  #footerTable {
+      color:#999999;
+      font-family:sans-serif;
+      font-size:12px;
+      line-height:120%;
+      padding-top:20px;
+      padding-right:20px;
+      padding-bottom:20px;
+      padding-left:20px;
+      text-align:center;
+  }
+  #footerTable a:link, #footerTable a:visited, /*Y*/ #footerTable a .yshort=
+cuts /*Y*/{
+      font-weight:normal;
+      text-decoration:underline;
+  }
+  .hs-image-social-sharing-24 {
+      max-width: 24px;
+      max-height: 24px;
+  }
+  /* =3D=3D=3D=3D Standard Resets =3D=3D=3D=3D */
+  .ExternalClass{
+      width:100%;
+  } /* Force HM to display emails at full width */
+  .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t, .ExternalClass td, .ExternalClass div {
+      line-height: 100%;
+  } /* Force HM to display normal line spacing */
+  body, table, td, p, a, li, blockquote{
+      -webkit-text-size-adjust:100%;
+      -ms-text-size-adjust:100%;
+  } /* Prevent WebKit and Windows mobile changing default text sizes */
+  table, td {
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+  } /* Remove spacing between tables in Outlook 2007 and up */
+  img {
+      vertical-align: bottom;
+      -ms-interpolation-mode:bicubic;
+  } /* Allow smoother rendering of resized image in Internet Explorer */
+  /* Reset Styles */
+  body {
+      margin:0;
+      padding:0;
+  }
+  table {
+      border-collapse:collapse !important;
+  }
+  body, #backgroundTable, #bodyCell{
+      height:100% !important;
+      margin:0;
+      padding:0;
+      width:100% !important;
+  }
+  a:link, a:visited {
+      border-bottom: none;
+  }
+  /* iOS automatically adds a link to addresses */
+  /* Style the footer with the same color as the footer text */
+  #footer a {
+      color: #999999;;
+      -webkit-text-size-adjust: none;
+      text-decoration: underline;
+      font-weight: normal
+  }
+/*]]>*/
+</style>
+        <!--[if !mso]><!-- -->
+<style type=3D"text/css">
+/*<![CDATA[*/
+  /* =3D=3D=3D=3D Mobile Styles =3D=3D=3D=3D */
+  /* Constrain email width for small screens */
+  @media screen and (max-width: 650px) {
+      table#backgroundTable {
+          width: 95% !important;
+      }
+      table#templateTable {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      table#contentTableInner {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      /* Makes image expand to take 100% of width*/
+      img {
+          width: 100% !important;
+          height: auto !important;
+      }
+      #contentCell {
+          padding: 10px 10px !important;
+      }
+      #headerTable {
+          padding-right: 15.0px !important;
+      }
+      #contentTableOuter {
+          padding: 15.0px !important;
+      }
+  }
+  @media only screen and (max-width: 480px) {
+      /* =3D=3D=3D=3D Client-Specific Mobile Styles =3D=3D=3D=3D */
+      body, table, td, p, a, li, blockquote{
+          -webkit-text-size-adjust:none !important;
+      } /* Prevent Webkit platforms from changing default text sizes */
+      body{
+          width:100% !important;
+          min-width:100% !important;
+      } /* Prevent iOS Mail from adding padding to the body */
+      /* =3D=3D=3D=3D Mobile Reset Styles =3D=3D=3D=3D */
+      td#bodyCell {
+          padding:10px !important;
+      }
+      /* =3D=3D=3D=3D Mobile Template Styles =3D=3D=3D=3D */
+      table#templateTable {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      table#contentTableInner {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+      h1, .h1 {
+          font-size:26px !important;
+          line-height:125% !important;
+      }
+      h2, .h2 {
+          font-size:20px !important;
+          line-height:125% !important;
+      }
+      h3, .h3 {
+          font-size:15px !important;
+          line-height:125% !important;
+      }
+      h4, .h4 {
+          font-size:13px !important;
+          line-height:125% !important;
+      }
+      h5, .h5 {
+          font-size:11px !important;
+          line-height:125% !important;
+      }
+      h6, .h6 {
+          font-size:10px !important;
+          line-height:125% !important;
+      }
+      .hide {
+          display:none !important;
+      } /* Hide to save space */
+      /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+      td.bodyContent {
+          font-size:16px !important;
+          line-height:145% !important;
+      }
+      /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+      td#footerTable {
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+          font-size:12px !important;
+          line-height:145% !important;
+      }
+      /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+      table.alignImageTable {
+          width: 100% !important;
+      }
+      td.imageTableTop {
+          display: none !important;
+          /*padding-top: 10px !important;*/
+      }
+      td.imageTableRight {
+          display: none !important;
+      }
+      td.imageTableBottom {
+          padding-bottom: 10px !important;
+      }
+      td.imageTableLeft {
+          display: none !important;
+      }
+      /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+      td.column {
+          display: block !important;
+          width: 100% !important;
+          padding-top: 0 !important;
+          padding-right: 0 !important;
+          padding-bottom: 0 !important;
+          padding-left: 0 !important;
+      }
+      td.columnContent {
+          font-size:14px !important;
+          line-height:145% !important;
+          padding-top: 10px !important;
+          padding-right: 10px !important;
+          padding-bottom: 10px !important;
+          padding-left: 10px !important;
+      }
+      #contentCell {
+          padding: 10px 0px !important;
+      }
+      #headerTable {
+          padding-right: 15.0px !important;
+      }
+      #contentTableOuter {
+          padding: 15.0px !important;
+      }
+  }
+/*]]>*/
+</style>
+<!--<![endif]-->
+       =20
+        <!--[if gte mso 9]>
+          <xml>
+            <o:OfficeDocumentSettings>
+              <o:AllowPNG/>
+              <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+          </xml>
+        <![endif]-->
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"https://hub.infogroup.com/-temporary-slug-7a1afe10-0536-48bc-a06=
+7-d61b589f37f2"><meta name=3D"x-apple-disable-message-reformatting"><meta n=
+ame=3D"robots" content=3D"noindex,follow"></head>
+    <body class=3D"" style=3D"background-color:#f0f4f8; font-family:sans-se=
+rif; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; height:100% =
+!important; margin:0; padding:0; width:100% !important" leftmargin=3D"0" ma=
+rginwidth=3D"0" topmargin=3D"0" marginheight=3D"0" offset=3D"0" bgcolor=3D"=
+#f0f4f8">
+        <!-- Preview text (text which appears right after subject) -->
+       =20
+        <!--  The  backgroundTable table manages the color of the backgroun=
+d and then the templateTable maintains the body of=20
+        the email template, including preheader & footer. This is the only =
+table you set the width of to, everything else is set to=20
+        100% and in the CSS above. Having the width here within the table i=
+s just a small win for Lotus Notes. -->
+        <!-- Begin backgroundTable --> =20
+        <table align=3D"center" bgcolor=3D"#f0f4f8" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" id=3D"backgroundTa=
+ble" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso=
+-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !importan=
+t; background-color:#f0f4f8; font-family:sans-serif; height:100% !important=
+; margin:0; padding:0; width:100% !important">
+            <tbody><tr>
+                <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; height:100% !important; margin:0; padding:0;=
+ width:100% !important" height=3D"100%" width=3D"100%"> <!-- When nesting t=
+ables within a TD, align center keeps it well, centered. -->
+                    <!-- Begin Template Container -->
+                    <!-- This holds everything together in a nice container=
+ -->
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ id=3D"templateTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:c=
+ollapse !important; width:600px; background-color:#ffffff; -webkit-font-smo=
+othing:antialiased" width=3D"600" bgcolor=3D"#ffffff">
+                        <tbody><tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Preheader -->
+                                <div class=3D"header-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"headerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#=
+f0f4f8; color:#444444; font-family:sans-serif; font-size:10px; line-height:=
+120%; text-align:right; border-collapse:separate !important; padding-right:=
+30px" bgcolor=3D"#f0f4f8" align=3D"right">
+                                    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<div class=3D"widget-span widget-type-email_view_as_web_page " style=3D"" d=
+ata-widget-type=3D"email_view_as_web_page">
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end header wrapper -->
+                                </tbody></table>
+                                <!-- End Template Preheader -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" id=3D"conte=
+ntCell" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; padding:10px 20px; background-c=
+olor:#f0f4f8" bgcolor=3D"#f0f4f8">
+                                <!-- Begin Template Wrapper -->
+                                <!-- This separates the preheader which usu=
+ally contains the "open in browser, etc" content
+                                from the actual body of the email. Can alte=
+rnatively contain the footer too, but I choose not
+                                to so that it stays outside of the border. =
+-->
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" id=3D"contentTableOuter" style=3D"-webkit-text-=
+size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-tabl=
+e-rspace:0pt; border-collapse:separate !important; background-color:#ffffff=
+; box-shadow:0px 1px rgba(0, 0, 0, 0.1); padding:30px; border:1px solid #ca=
+ced2; border-bottom:1px solid #aaaeb2" bgcolor=3D"#ffffff">
+                                    <tbody><tr>
+                                        <td align=3D"center" valign=3D"top"=
+ style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tab=
+le-lspace:0pt; mso-table-rspace:0pt">
+                                            <div class=3D"body-container-wr=
+apper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"content=
+TableInner" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !i=
+mportant; width:600px" width=3D"600">
+                                                <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444; pad=
+ding-bottom:10px" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_15520007811461573" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image"=
+ style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-h=
+s-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+   =20
+ =20
+<div id=3D"hs_cos_wrapper_module_15520007811461573_" class=3D"hs_cos_wrappe=
+r hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style=3D"color: i=
+nherit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"linked_image"><img src=3D"https://hub.infog=
+roup.com/hs-fs/hubfs/Credit_Hubspot_Header1.jpg?width=3D800&amp;upscale=3Dt=
+rue&amp;name=3DCredit_Hubspot_Header1.jpg" class=3D"hs-image-widget " style=
+=3D"vertical-align:bottom; -ms-interpolation-mode:bicubic; max-height:67px;=
+ max-width:400px; border-width:0px; border:0px" width=3D"400" alt=3D"Credit=
+_Hubspot_Header1" title=3D"Credit_Hubspot_Header1" srcset=3D"https://hub.in=
+fogroup.com/hs-fs/hubfs/Credit_Hubspot_Header1.jpg?upscale=3Dtrue&amp;width=
+=3D800&amp;upscale=3Dtrue&amp;name=3DCredit_Hubspot_Header1.jpg 400w, https=
+://hub.infogroup.com/hs-fs/hubfs/Credit_Hubspot_Header1.jpg?upscale=3Dtrue&=
+amp;width=3D1600&amp;upscale=3Dtrue&amp;name=3DCredit_Hubspot_Header1.jpg 8=
+00w" sizes=3D"(max-width: 400px) 100vw, 400px"></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+        <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                    <tbody><tr>
+                   </tr>
+            </tbody></table>
+           </td>
+       </tr>
+        <tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                    <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<div class=3D"widget-span widget-type-email_body " style=3D"" data-widget-t=
+ype=3D"email_body">
+<div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos_wrapper hs_cos_wra=
+pper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-si=
+ze: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" dat=
+a-hs-cos-type=3D"rich_text"><p style=3D"margin-bottom: 1em; -webkit-text-si=
+ze-adjust:100%; -ms-text-size-adjust:100%">To our valued Credit Solutions c=
+lients:</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">As we enter June, we continue to work with our clients to id=
+entify and implement steps to support their specific business plans. The CO=
+VID-19 pandemic has impacted all of us =E2=80=93 personally and professiona=
+lly. However, as more states re-open or enter their final phases to re-open=
+, we recommend re-assessing the criteria you=E2=80=99re currently using to =
+support your credit decisioning process, as well as steps being taken to pr=
+oactively monitor your current client base.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Additionally, the new insights we are able to provide are al=
+so being leveraged across the various Marketing and Sales efforts. Credit S=
+olutions offers much more than just business credit reports. If you haven=
+=E2=80=99t spoken with your Account Executive to review these new services =
+you could be missing out.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">In this Newsletter, here are the topics I=E2=80=99ll be cove=
+ring:</p>
+<ul>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Leve=
+raging Credit.net for Portfolio Management</li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Step=
+s to Mitigate Risk and Increase Cashflow</li>
+<li style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%">Gett=
+ing ahead of your Competition: Leveraging Intent Data</li>
+</ul>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><strong><u>Leveraging Credit.net for Portfolio Management</u=
+></strong></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Most organizations leverage Credit.net to support their upfr=
+ont Credit Decisioning.&nbsp; However, that is only the first step to ensur=
+e your company doesn=E2=80=99t get surprised or negatively impacted by clie=
+nts that wind up paying you beyond terms or not at all. In fact, now more t=
+han ever, it=E2=80=99s critical to use Credit.net to perform ongoing custom=
+er risk assessments.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Business information and a company=E2=80=99s financial posit=
+ion can change on a daily basis. A customer who had a positive credit score=
+ when you performed the initial credit check could have experienced a finan=
+cial change that has now reduced their overall score and/or ability to pay.=
+</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">With our unlimited Credit.net subscription you can access yo=
+ur customer=E2=80=99s business credit report as often as you=E2=80=99d like=
+. Unlimited is truly UNLIMITED. As a best practice, you should be reviewing=
+ each of your customer=E2=80=99s business credit reports every 3 months.&nb=
+sp; Additionally, for those clients that have larger value transactions, ou=
+tstanding balances or are relatively new to your business =E2=80=93 we reco=
+mmend proactively monitoring these by adding our Payment Trade Score =E2=80=
+=93 which comes with 12 months of monitoring.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">If monitoring your current customer base is performed by a d=
+ifferent person or group then no worries. We can easily provision a few ext=
+ra Credit.net licenses =E2=80=93 in less than 5 minutes.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><strong><u>Steps to Mitigate Risk and Increase Cashflow</u><=
+/strong></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">We are committed to helping you identify and implement actio=
+ns to mitigate risk across your current customer base.&nbsp; We recently in=
+troduced our, <a href=3D"https://hub.infogroup.com/e2t/tc/VWwd4l1JdW89W16C4=
+7Z6zkm2xW5j5c_V49ZGwSM3ZwRD3hkBGV1-WJV7CgZx4VfQLW01NmHGvW4MKXgm1Sn3XcW1kLP8=
+q7y61C3VZSbtd6Zk6qQW1RC3m94RnvmKW2z-FPw62rNgwW2TrzvH30L8fvW93TV194h0x8vW4bB=
+FgD2VBwC4V_VMrD8t5RhsW71SVt22n0mjBW497Wff7CCdXNW3x80V0172zrtW8n741k2LyVYVN7=
+Plp4yQYtr_W8Ry1Rk7y0w9pW5QRx414PMB7DN45rNG3lcK6cW3BLXmb6_Gzc0W91mQLJ4dyVTjW=
+8WxTPL609S7vW5dgHjT5bSRBSW8McYgL8B2GjyW47ZM6s6Bj4kDN68pk8ZvVXpZW8qDGFn3QN4B=
+PW2wmy4-3Pn6ktV8Yff-8mjJ7Z3gj81" rel=3D" noopener" style=3D"-webkit-text-si=
+ze-adjust:100%; -ms-text-size-adjust:100%" data-hs-link-id=3D"0" target=3D"=
+_blank">complimentary</a>, Data Quality &amp; Portfolio Risk Analysis. With=
+in this new service you will receive an in-depth view of your current custo=
+mer base (demographics, firmographics, risk profile, etc.) and uncover new =
+insights.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">It=E2=80=99s really exciting to see that so many of our clie=
+nts have taken advantage of this service.&nbsp; One client told us that it =
+helped them reduce their risk and improve their cashflow by more than $30k =
+in less than 1 week! This is why we do what we do. Results speak louder tha=
+n words.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">If you=E2=80=99re receiving this newsletter, but are not the=
+ right person to decide how best to leverage (or take advantage of) this se=
+rvice =E2=80=93 forward to someone in your company that is. It=E2=80=99ll b=
+e the best action you take today. Why would you not want to protect your co=
+mpany=E2=80=99s financial well-being today and as you head into the future?=
+</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><strong><u>Getting ahead of your competition: Leveraging Int=
+ent Data</u></strong></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Recognizing a buyer before they purchase is critical to succ=
+ess. The crowded B2B space allows little room for mistakes, so companies mu=
+st be ready to respond quickly with the right message.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Building on our deep legacy of high-quality B2B data, Infogr=
+oup=E2=80=99s intent data offering includes attributes informed by signal d=
+ata from multiple providers, identifying a responsive audience that will be=
+ in-market to purchase within days of taking action. Paired with the hundre=
+ds of attributes from our industry-leading B2B database, and the ability to=
+ activate this data in any channel, marketers can improve closing rates by =
+more than 79%.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">Forward this information to your Sales &amp; Marketing group=
+s. They=E2=80=99ll appreciate your interest in helping grow your business i=
+n the most accelerated, positive way.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%">For more information <a href=3D"tel:8666029985" rel=3D" noop=
+ener" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%" da=
+ta-hs-link-id=3D"0" target=3D"_blank">call</a> or send us an <a href=3D"mai=
+lto:customerservice@credit.net" rel=3D" noopener" style=3D"-webkit-text-siz=
+e-adjust:100%; -ms-text-size-adjust:100%" data-hs-link-id=3D"0" target=3D"_=
+blank">email</a>. Thank you for your continued relationship.</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%"><span>Jim Robb</span><br><strong>Sales Manager, Credit.net<b=
+r></strong><span>Local Marketing &amp; Credit Solutions</span><br><span>E:&=
+nbsp;</span><a href=3D"mailto:customerservice@credit.net" data-hs-link-id=
+=3D"1" target=3D"_blank" rel=3D"noopener" style=3D"-webkit-text-size-adjust=
+:100%; -ms-text-size-adjust:100%">customerservice@credit.net</a><br><span>P=
+: 866.602.9985</span></p></div>
+</div><!--end widget-span -->
+           </td>
+                   </tr>
+            </tbody></table>
+           </td>
+       </tr>
+    </tbody></table>
+   </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end body wrapper -->
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Wrapper -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Footer -->
+                                <div class=3D"footer-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"footerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:co=
+llapse !important; background-color:#f0f4f8; color:#999999; font-family:san=
+s-serif; font-size:12px; line-height:120%; padding-top:20px; padding-right:=
+20px; padding-bottom:20px; padding-left:20px; text-align:center" bgcolor=3D=
+"#f0f4f8" align=3D"center">
+                                    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#444444; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:sans-serif; font-size:15px; line-height:1.5em; color:#444444" ali=
+gn=3D"left">
+<div class=3D"widget-span widget-type-email_can_spam " style=3D"" data-widg=
+et-type=3D"email_can_spam">
+<p id=3D"footer" style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; font-family:Geneva, Verdana, Arial, Helvetica,=
+ sans-serif; text-align:center; font-size:12px; line-height:1.34em; color:#=
+999999; display:block" align=3D"center">
+Infogroup
+&nbsp;&nbsp;13155 Noel Rd #1750
+&nbsp;
+&nbsp;Dallas
+&nbsp;TX
+&nbsp;&nbsp;75240
+&nbsp;&nbsp;
+<br><br>
+You received this email because you are subscribed to Newsletters
+ from Infogroup.
+<br><br>
+Update your <a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D=
+"https://hub.infogroup.com/hs/manage-preferences/unsubscribe?d=3DVnchfl74hN=
+Z4VFjGKF3T3l53W3ZVc6K43YfrpW43T2NL4MccCgW17f7hv5kNPcyW6Prd_66D7l2YW5mbwnB7c=
+MvFXV28Mng6lFKC6MGKd_P20N4MW5tHJs062WcZvW3rcL9D8Cd3Wy51ftr_1&amp;v=3D3&amp;=
+utm_campaign=3DCredit%20-%20Active%20Customers&amp;utm_source=3Dhs_email&am=
+p;utm_medium=3Demail&amp;utm_content=3D89017003&amp;_hsenc=3Dp2ANqtz-_KUylm=
+apsH8vL7UhIlJvBxQ4ykxPf8KR8ugnc7e12lvrOax2UXyq-OoShxR45Ng9i2ekTkQ7tVqrY7eop=
+5NgvT_3Hc3g&amp;_hsmi=3D89017003" style=3D"-ms-text-size-adjust:100%; -webk=
+it-text-size-adjust:none; font-weight:normal; text-decoration:underline; wh=
+itespace:nowrap; color:#999999" data-hs-link-id=3D"0" target=3D"_blank">ema=
+il preferences</a>
+ to choose the types of emails you receive.
+<br><br>
+&nbsp;<a class=3D"hubspot-mergetag" data-unsubscribe=3D"true" href=3D"https=
+://hub.infogroup.com/hs/manage-preferences/unsubscribe-all?d=3DVnchfl74hNZ4=
+VFjGKF3T3l53W3ZVc6K43YfrpW43T2NL4MccCgW17f7hv5kNPcyW6Prd_66D7l2YW5mbwnB7cMv=
+FXV28Mng6lFKC6MGKd_P20N4MW5tHJs062WcZvW3rcL9D8Cd3Wy51ftr_1&amp;v=3D3&amp;ut=
+m_campaign=3DCredit%20-%20Active%20Customers&amp;utm_source=3Dhs_email&amp;=
+utm_medium=3Demail&amp;utm_content=3D89017003&amp;_hsenc=3Dp2ANqtz-_KUylmap=
+sH8vL7UhIlJvBxQ4ykxPf8KR8ugnc7e12lvrOax2UXyq-OoShxR45Ng9i2ekTkQ7tVqrY7eop5N=
+gvT_3Hc3g&amp;_hsmi=3D89017003" style=3D"-ms-text-size-adjust:100%; -webkit=
+-text-size-adjust:none; font-weight:normal; text-decoration:underline; whit=
+espace:nowrap; color:#999999" data-hs-link-id=3D"0" target=3D"_blank">Unsub=
+scribe from all future emails</a>
+&nbsp;
+</p>
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end footer wrapper -->
+                                    <tr>
+                                        <td style=3D"-webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:=
+0pt"></td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Footer -->
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- End Template Container -->
+                </td>
+            </tr>
+        </tbody></table>
+   =20
+<!-- end coded_template: id:8115066511 path:generated_layouts/8115066510.ht=
+ml -->
+<img src=3D"https://hub.infogroup.com/e2t/to/VWwd4l1JdW89W16C47Z6zkm2xW5j5c=
+_V49ZGwSd3ZwzN22" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"d=
+isplay:none!important;min-height:1px!important;width:1px!important;border-w=
+idth:0!important;margin-top:0!important;margin-bottom:0!important;margin-ri=
+ght:0!important;margin-left:0!important;padding-top:0!important;padding-bot=
+tom:0!important;padding-right:0!important;padding-left:0!important"></body>=
+</html>
+------=_Part_1328681_917256940.1591370255751--
+

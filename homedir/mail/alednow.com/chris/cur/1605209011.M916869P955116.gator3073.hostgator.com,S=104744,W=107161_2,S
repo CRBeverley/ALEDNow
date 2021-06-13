@@ -1,0 +1,2417 @@
+Return-Path: <1axbqtwk8u17oiaury38cbhrt6xqn8zlibixfn-chris=alednow.com@bf08x.hubspotemail.net>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id yKB0NrOLrV/skg4Ai5QuQQ
+	(envelope-from <1axbqtwk8u17oiaury38cbhrt6xqn8zlibixfn-chris=alednow.com@bf08x.hubspotemail.net>)
+	for <chris@alednow.com>; Thu, 12 Nov 2020 13:23:31 -0600
+Return-path: <1axbqtwk8u17oiaury38cbhrt6xqn8zlibixfn-chris=alednow.com@bf08x.hubspotemail.net>
+Envelope-to: chris@alednow.com
+Delivery-date: Thu, 12 Nov 2020 13:23:31 -0600
+Received: from bid46q8.bf08x.hubspotemail.net ([158.247.18.226]:63169)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+	(Exim 4.93)
+	(envelope-from <1axbqtwk8u17oiaury38cbhrt6xqn8zlibixfn-chris=alednow.com@bf08x.hubspotemail.net>)
+	id 1kdIBv-0041hh-Lh
+	for chris@alednow.com; Thu, 12 Nov 2020 13:23:31 -0600
+Received: by 172.16.214.116 with SMTP id awd9wj8vrpxffkan6pwtz6hhef3jlg8ju2yq;
+        Thu, 12 Nov 2020 19:23:20 GMT
+DKIM-Signature: v=1; s=hs1; d=bf08x.hubspotemail.net; 
+        i=@bf08x.hubspotemail.net; 
+        h=sender:from:reply-to:to:subject:mime-version:content-type:list-unsubscribe:form-sub:feedback-id; 
+        a=rsa-sha256; c=relaxed/relaxed; 
+        bh=SlgCezkJQfNLERyCoVI0yq4pR9/nn5JsQf07pTZ3XfQ=; 
+        b=BUoXXfD5lPS9E/KuPQCmAqtfUYlOLRO4X5/YFTcLXRiAcHON8ISy1VArZQArdf
+         af55Gcze/FGURnbGEuAan7VuMoLgZtrmL8bxSrx1FN6hxN0WTx/RkAc/TtkMe0+
+         vNFEd1M5pPZ/rVfhXiLDIwwhQMhdXNCWP1KZg4RxOZsKnLdG5VAhXwoR+8wHiX7
+         vkpKo11yncY4Rl1QusFbwiITDznKN1OZ/xpW7bCSTaksWBHtVaP1AVJszgr84ny
+         Kr/AY14TjwHTHd/HAjp7y/wsZRsEHBGICh0gD8nO5tGsbjAjlG9BZNzJi6og68W
+         K6qW4mNxxND8beb13zize5heu2/Q==; q=dns/txt; t=1605209000;
+X-HS-Cid: 1axey63689m6nvjcbzcvg05tbveg2qken535vn
+List-Unsubscribe: <mailto:1axc6ssrcwectp4do3ukrqskd4r22xovh6qbwj-chris=alednow.com@bf08x.hubspotemail.net?subject=unsubscribe>
+Date: Thu, 12 Nov 2020 13:23:20 -0600
+From: Eric Kider <eric.kider@data-axle.com>
+Reply-To: customerservice@credit.net
+To: chris@alednow.com
+Message-ID: <1605208762005.fcc7c389-e02a-4d4b-92b6-583618b611c4@bf08x.hubspotemail.net>
+Subject: New and Improved Credit Solutions Platform Coming Soon!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1156210_1117409931.1605209000600"
+X-Report-Abuse-To: abuse@hubspot.com (see
+ https://www.hubspot.com/abuse-complaints)
+
+------=_Part_1156210_1117409931.1605209000600
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Data Axle Credit Solutions Newsletter - November
+
+View in browser (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqF=
+xW7rLh975QD13_W9cd7vS7wGdY7f1HVPN203 )
+
+DA-CS-logo-rev (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFx=
+W7rLh975QD13_W9cd7vS7wGdY7f1HVPN213 )
+
+EM-news-ftr-enhanced (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb=
+81dqFxW7rLh975QD13_W9cd7vS7wGdY7f1HVPN223 )
+
+Coming Soon!  (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW=
+7rLh975QD13_W9cd7vS7wGdY7f1HVPN233 )
+
+Enhanced Data Axle Credit Solutions Features
+
+We are excited to share that we=E2=80=99re going to be introducing an impro=
+ved version of our Credit Solutions platform! Data Axle Credit Solutions (f=
+ormerly Credit.net) will offer a new, overall user experience, enhanced sea=
+rch capabilities and will leverage our real-time Data Axle database to prov=
+ide you with the most current and accurate business information. Stay tuned=
+, more to come as we look ahead to 2021!
+
+Retailer (mailto:customerservice@credit.net)
+
+Year End Planning (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81d=
+qFxW7rLh975QD13_W9cd7vS7wGdY7f1HVPN243 )
+
+Reminder =E2=80=93 as we all look ahead to the upcoming holiday season, now=
+ is the perfect time to review your own company=E2=80=99s business credit r=
+eport. It=E2=80=99s important to make sure the information presented is up =
+to date. It just takes 10 minutes of your time to review.
+
+Request My Report (mailto:customerservice@credit.net)
+
+Retailer (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh9=
+75QD13_W9cd7vS7wGdY7f1HVPN253 )
+
+Data Solutions Customer Success Story
+
+How do we do it? See how Data Axle provided one company the data solutions =
+needed to reduce $50K in unknown risk.
+
+Download Now (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7=
+rLh975QD13_W9cd7vS7wGdY7f1HVPN263 )
+
+Retailer (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh9=
+75QD13_W9cd7vS7wGdY7f1HVPN273 )
+
+eric-kider-sig-1 (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dq=
+FxW7rLh975QD13_W9cd7vS7wGdY7f1HVPN283 )
+
+Eric Kider, SVP/General Manager, Credit Solutions
+
+Data Axle Credit Solutions (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW=
+7drvPb81dqFxW7rLh975QD13_W9cd7vS7wGdY7f1HVPN293 )   |  Features (https://se=
+nd.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh975QD13_W9cd7vS7wGdY7=
+f1HVPN2b3 )   |
+
+Services (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh9=
+75QD13_W9cd7vS7wGdY7f1HVPN2c3 )   |  Plans (https://send.data-axle.com/e2t/=
+sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh975QD13_W9cd7vS7wGdY7f1HVPN2d3 )
+
+Facebook (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh9=
+75QD13_W9cd7vS7wGdY7f1HVPN2f3 )
+
+Linkedin (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh9=
+75QD13_W9cd7vS7wGdY7f1HVPN2g3 )
+
+Twitter (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh97=
+5QD13_W9cd7vS7wGdY7f1HVPN2h3 )
+
+Email (mailto:infogroupmarketing@data-axle.com)
+
+Copyright =C2=A9 =E2=80=8C2020 =E2=80=8CData Axle
+
+=E2=80=8CData Axle  =E2=80=8C13155 Noel Rd #1750  =E2=80=8C  =E2=80=8CDalla=
+s  =E2=80=8CTX  =E2=80=8C75240  =E2=80=8C
+
+Privacy Policy (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFx=
+W7rLh975QD13_W9cd7vS7wGdY7f1HVPN2j3 )   |  Unsubscribe (https://send.data-a=
+xle.com/hs/manage-preferences/unsubscribe-all?d=3DVnchfl74hNZ4VFjGKF3T3l53W=
+3ZVc6K43YfrpW43T2NL4MccCgW17f7hv79_h3BW8d-Z6c5l4cshW5G8J6q8SmYfzV28P2t5yPkJ=
+xMGKd_P20N5BW1gdVK95xTjCnW76tb3426d17_4xwPl1&v=3D3&_hsenc=3Dp2ANqtz--BQKGBJ=
+m8m0toXkZb_-4NuXO3NzJmdNcLNdyW7-6DnPUa81YxTMIB3ZfEqtyViKqzhlQ5g2Mof_rC1ssix=
+r7Kltzt8GA&_hsmi=3D99728884 )   |  Forward (https://send.data-axle.com/e2t/=
+sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh975QD13_W9cd7vS7wGdY7f1HVPN2k3 )   |  Web =
+View (https://send.data-axle.com/e2t/sc2/Mm-nFbkjcrFW7drvPb81dqFxW7rLh975QD=
+13_W9cd7vS7wGdY7f1HVPN2l3 )
+------=_Part_1156210_1117409931.1605209000600
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd"><!-- start coded_template: id:37403159989=
+ path:generated_layouts/37403159988.html --><html xmlns=3D"http://www.w3.or=
+g/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:sche=
+mas-microsoft-com:office:office"><head>
+        <title>Credit Solutions November Newsletter</title>
+        <meta property=3D"og:title" content=3D"Credit Solutions November Ne=
+wsletter">
+        <meta name=3D"twitter:title" content=3D"Credit Solutions November N=
+ewsletter">
+        <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Du=
+tf-8">
+       =20
+        <style type=3D"text/css" id=3D"hs-inline-css">
+/*<![CDATA[*/
+  /* everything in this node will be inlined */
+  /* =3D=3D=3D=3D Page Styles =3D=3D=3D=3D */
+  body, #backgroundTable {
+      background-color: #F0F4F8; /* Use body to determine background color =
+*/
+      font-family: sans-serif;
+  }
+  #templateTable {
+      width: 600px;
+      background-color: #ffffff;
+      -webkit-font-smoothing: antialiased;
+  }
+  h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+      display:block;
+      font-weight:bold;
+      line-height:100%;
+      margin-top:0;
+      margin-right:0;
+      margin-bottom:10px;
+      margin-left:0;
+  }
+  h1, .h1 {
+      font-size:26px;
+  }
+  h2, .h2 {
+      font-size:20px;
+  }
+  h3, .h3 {
+      font-size:15px;
+  }
+  h4, .h4 {
+      font-size:13px;
+  }
+  h5, .h5 {
+      font-size:11px;
+  }
+  h6, .h6 {
+      font-size:10px;
+  }
+  /* =3D=3D=3D=3D Header Styles =3D=3D=3D=3D */
+  #headerTable {
+      background-color: #F0F4F8;
+      color:#221F20;
+      font-family:sans-serif;
+      font-size:10px;
+      line-height:120%;
+      text-align:right;
+      border-collapse: separate !important;
+      padding-right: 30px;
+  }
+  #headerTable a:link, #headerTable a:visited, /*Y*/ #headerTable a .yshort=
+cuts /*Y*/{
+      font-weight:normal;
+      text-decoration:underline;
+  }
+  /* =3D=3D=3D=3D Template Wrapper Styles =3D=3D=3D=3D */
+  #contentCell {
+      padding: 10px 20px;
+      background-color: #F0F4F8;
+  }
+  #contentTableOuter {
+      border-collapse: separate !important;
+      background-color: #ffffff;
+     =20
+      box-shadow: 0px 1px rgba(0, 0, 0, 0.1);
+     =20
+      padding: 30px;
+  }
+  #contentTableInner {
+      width: 600px;
+  }
+  /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+  .bodyContent {
+      color:#221F20;
+      font-family:sans-serif;
+      font-size: 15px;
+      line-height:150%;
+      text-align:left;
+  }
+  /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+  table.columnContentTable {
+      border-collapse:separate !important;
+      border-spacing:0;
+      background-color: #ffffff;
+  }
+  td.columnContent {
+      color:#221F20;
+      font-family:sans-serif;
+      font-size:15px;
+      line-height:120%;
+      padding-top:20px;
+      padding-right:20px;
+      padding-bottom:20px;
+      padding-left:20px;
+  }
+  /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+  #footerTable {
+      background-color: #F0F4F8;
+  }
+  #footerTable a {
+      color: #999999;
+  }
+  #footerTable {
+      color:#999999;
+      font-family:sans-serif;
+      font-size:12px;
+      line-height:120%;
+      padding-top:20px;
+      padding-right:20px;
+      padding-bottom:20px;
+      padding-left:20px;
+      text-align:center;
+  }
+  #footerTable a:link, #footerTable a:visited, /*Y*/ #footerTable a .yshort=
+cuts /*Y*/{
+      font-weight:normal;
+      text-decoration:underline;
+  }
+  .hs-image-social-sharing-24 {
+      max-width: 24px;
+      max-height: 24px;
+  }
+  /* =3D=3D=3D=3D Standard Resets =3D=3D=3D=3D */
+  .ExternalClass{
+      width:100%;
+  } /* Force HM to display emails at full width */
+  .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t, .ExternalClass td, .ExternalClass div {
+      line-height: 100%;
+  } /* Force HM to display normal line spacing */
+  body, table, td, p, a, li, blockquote{
+      -webkit-text-size-adjust:100%;
+      -ms-text-size-adjust:100%;
+  } /* Prevent WebKit and Windows mobile changing default text sizes */
+  table, td {
+      mso-table-lspace:0pt;
+      mso-table-rspace:0pt;
+  } /* Remove spacing between tables in Outlook 2007 and up */
+  img {
+      vertical-align: bottom;
+      -ms-interpolation-mode:bicubic;
+  } /* Allow smoother rendering of resized image in Internet Explorer */
+  /* Reset Styles */
+  body {
+      margin:0;
+      padding:0;
+  }
+  table {
+      border-collapse:collapse !important;
+  }
+  body, #backgroundTable, #bodyCell{
+      height:100% !important;
+      margin:0;
+      padding:0;
+      width:100% !important;
+  }
+  a:link, a:visited {
+      border-bottom: none;
+  }
+  /* iOS automatically adds a link to addresses */
+  /* Style the footer with the same color as the footer text */
+  #footer a {
+      color: #999999;;
+      -webkit-text-size-adjust: none;
+      text-decoration: underline;
+      font-weight: normal
+  }
+/*]]>*/
+</style>
+        <!--[if !mso]><!-- -->
+<style type=3D"text/css">
+/*<![CDATA[*/
+  /* =3D=3D=3D=3D Mobile Styles =3D=3D=3D=3D */
+  /* Constrain email width for small screens */
+  @media screen and (max-width: 650px) {
+      table#backgroundTable {
+          width: 95% !important;
+      }
+      table#templateTable {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      table#contentTableInner {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      /* Makes image expand to take 100% of width*/
+      img {
+          width: 100% !important;
+          height: auto !important;
+      }
+      #contentCell {
+          padding: 10px 10px !important;
+      }
+      #headerTable {
+          padding-right: 15.0px !important;
+      }
+      #contentTableOuter {
+          padding: 15.0px !important;
+      }
+  }
+  @media only screen and (max-width: 480px) {
+      /* =3D=3D=3D=3D Client-Specific Mobile Styles =3D=3D=3D=3D */
+      body, table, td, p, a, li, blockquote{
+          -webkit-text-size-adjust:none !important;
+      } /* Prevent Webkit platforms from changing default text sizes */
+      body{
+          width:100% !important;
+          min-width:100% !important;
+      } /* Prevent iOS Mail from adding padding to the body */
+      /* =3D=3D=3D=3D Mobile Reset Styles =3D=3D=3D=3D */
+      td#bodyCell {
+          padding:10px !important;
+      }
+      /* =3D=3D=3D=3D Mobile Template Styles =3D=3D=3D=3D */
+      table#templateTable {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      table#contentTableInner {
+          max-width:600px !important;
+          width:100% !important;
+      }
+      /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+      h1, .h1 {
+          font-size:26px !important;
+          line-height:125% !important;
+      }
+      h2, .h2 {
+          font-size:20px !important;
+          line-height:125% !important;
+      }
+      h3, .h3 {
+          font-size:15px !important;
+          line-height:125% !important;
+      }
+      h4, .h4 {
+          font-size:13px !important;
+          line-height:125% !important;
+      }
+      h5, .h5 {
+          font-size:11px !important;
+          line-height:125% !important;
+      }
+      h6, .h6 {
+          font-size:10px !important;
+          line-height:125% !important;
+      }
+      .hide {
+          display:none !important;
+      } /* Hide to save space */
+      /* =3D=3D=3D=3D Body Styles =3D=3D=3D=3D */
+      td.bodyContent {
+          font-size:16px !important;
+          line-height:145% !important;
+      }
+      /* =3D=3D=3D=3D Footer Styles =3D=3D=3D=3D */
+      td#footerTable {
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+          font-size:12px !important;
+          line-height:145% !important;
+      }
+      /* =3D=3D=3D=3D Image Alignment Styles =3D=3D=3D=3D */
+      table.alignImageTable {
+          width: 100% !important;
+      }
+      td.imageTableTop {
+          display: none !important;
+          /*padding-top: 10px !important;*/
+      }
+      td.imageTableRight {
+          display: none !important;
+      }
+      td.imageTableBottom {
+          padding-bottom: 10px !important;
+      }
+      td.imageTableLeft {
+          display: none !important;
+      }
+      /* =3D=3D=3D=3D Column Styles =3D=3D=3D=3D */
+      td.column {
+          display: block !important;
+          width: 100% !important;
+          padding-top: 0 !important;
+          padding-right: 0 !important;
+          padding-bottom: 0 !important;
+          padding-left: 0 !important;
+      }
+      td.columnContent {
+          font-size:14px !important;
+          line-height:145% !important;
+          padding-top: 10px !important;
+          padding-right: 10px !important;
+          padding-bottom: 10px !important;
+          padding-left: 10px !important;
+      }
+      #contentCell {
+          padding: 10px 0px !important;
+      }
+      #headerTable {
+          padding-right: 15.0px !important;
+      }
+      #contentTableOuter {
+          padding: 15.0px !important;
+      }
+  }
+/*]]>*/
+</style>
+<!--<![endif]-->
+       =20
+<!--[if (mso)|(mso 16)]>
+<style type=3D"text/css">
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+outline: none !important;
+border: none !important;
+text-decoration: none !important;
+}
+</style>
+<![endif]-->
+<style type=3D"text/css">
+  @media only screen and (max-width: 700px) {
+    table[id=3D"contentTableInner"],
+    table#templateTable,
+    table.contenttable,
+    table[width=3D"640"] {
+      max-width: 100% !important;
+      width: 100% !important;
+      table-layout: fixed;
+    }
+    *{
+      -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    table#templateTable{
+      max-width:100%;
+      width:100%;
+    }
+    table {
+      border: none;
+      padding: 0;
+      width: 100%;
+      table-layout: fixed;
+    }
+    .responsive td.column,
+    .widget-span.widget-type-email_can_spam table td{
+      display:block;
+      width:100%;
+      max-width:100%;
+      margin:0 auto;
+    }
+    table.mcnTextContentContainer tr td,
+    .columnContentTable tr td{
+      display: block !important;
+      width:100% !important;
+    }
+    table.mcnTextContentContainer tr td.hoverCTAYellow,=20
+    .columnContentTable tr td.hoverCTAYellow {
+      width: auto !important;
+      display: inline-block !important;
+    }
+    img {
+      width: 100% !important;
+      height: auto !important;
+    }
+    td#bodyCell {
+      padding: 0 !important;
+    }
+    td.bodyContent {
+      width: 100% !important;
+      display: block !important;
+    }
+    td.columnContent {
+      padding: 0 !important;
+    }
+    .content-with-image.right .left-content,
+    table.two-col-with-image-wrapper.right .left-image {
+      width: 100% !important;
+      height: 100% !important;
+      display: block !important;
+      visibility: visible !important;
+    }
+    .content-with-image.right .right-content,
+    td.right-border,
+    .bottom-border td,
+    .testimonial-right-col td.hide,
+    table.two-col-with-image-wrapper.right .right-image {
+      width: 0 !important;
+      height: 0 !important;
+      display: none !important;
+      visibility: hidden !important;
+    }
+    .content-with-image table.stackTbl.right-content.mob-content {
+      height: 100% !important;
+      display: block !important;
+      visibility: visible !important;
+      opacity: 1 !important;
+    }
+    td.column{
+      display: block !important;
+      width: 100% !important;
+    }
+    td.header-top-wrapper table td.bodyContent {
+      display: table-cell !important;
+      width: 50% !important;
+    }
+    td.header-top-wrapper table td {
+      width: auto !important;
+      display: table-cell !important;
+    }
+    td.header-top-wrapper.column {
+      padding: 20px !important;
+      width: auto !important;
+      display: table-cell !important;
+    }
+    table.hs-logo.columnContentTable {
+      text-align: center !important;
+    }
+    .hs-logo td {
+      padding: 0 !important;
+      text-align: center;
+    }
+    .hs-logo a {
+      display: block !important;
+    }
+    .hs-logo img {
+      width: 203px !important;
+      margin: 0 auto !important;
+      text-align: center;
+    }
+    h3 {
+      font-size: 22px !important;
+      line-height: 26px !important;
+    }
+    h1 {
+      font-size: 36px !important;
+      line-height: 44px !important;
+    }
+    td.row1-image-wrapper.column {
+      padding: 10px !important;
+      width: auto !important;
+    }
+    table.banner-image img {
+      max-width: 100% !important;
+      max-height: none !important;
+    }
+    table.banner-image td {
+      padding: 6px 0 0 0 !important;
+    }
+    td.mail-body-group.column {
+      padding: 20px !important;
+      width: auto !important;
+      display: table-cell !important;
+    }
+    table.stackTbl {
+      width: 100% !important;
+      display: block !important;
+    }
+    td.image-width-border-inner img {
+      width: 60px !important;
+    }
+    table.image-width-border-wrapper td.mobileWidth40 {
+      width: 40% !important;
+      display: table-cell !important;
+      padding: 0 20px !important;
+    }
+    .image-width-border-wrapper td.image {
+      padding: 40px 0 !important;
+    }
+    table.button-group .button-inner-wrapper {
+      text-align: center;
+    }
+    td.hoverCTAYellow {
+      width: auto !important;
+    }
+    table.two-col-equal-content-wrapper table {
+      width: 100%;
+    }
+    table.image-width-border-wrapper img {
+      width: auto !important;
+    }
+    td.image-width-border-inner {
+      padding: 10px !important;
+    }
+    .content-with-image table.stackTbl.right-content {
+      display: none !important;
+      height: 0 !important;
+      visibility: hidden !important;
+      opacity: 0 !important;
+      width: 0 !important;
+    }
+    .content-with-image td.content-padding {
+      padding: 30px 20px !important;
+      height: auto;
+    }
+    .two-col-content-padding td {
+      padding-left: 20px !important;
+      padding-right: 20px !important;
+    }
+    .two-col-content-padding td.bottom-link {
+      padding-bottom: 30px !important;
+    }
+    .two-col-with-image-wrapper td.two-col-content-gap {
+      height: auto !important;
+      padding: 50px 20px !important;
+    }
+    .two-col-with-image-wrapper td.two-col-content-gap h3 {
+      padding-top: 0 !important;
+    }
+    .three-col-equal-wrapper td.hs-three-col img {
+      width: 180px !important;
+    }
+    .three-col-equal-wrapper td.hs-three-col {
+      padding: 20px !important;
+    }
+    table.four-col-content-wrapper td.four-col-content-inner {
+      width: 50% !important;
+      display: table-cell !important;
+      padding: 30px 20px !important;
+    }
+    table.four-col-content-wrapper table {
+      width: 100% !important;
+    }
+    table.four-col-content-wrapper td img {
+      width: 100px !important;
+    }
+    table.four-col-content-wrapper td.four-col-content-group {
+      padding-bottom: 30px !important;
+    }
+    .alignCenter {
+      text-align: center !important;
+    }
+    td.author-wrapper.column {
+      padding: 30px 20px !important;
+    }
+    td.alignRight {
+      text-align: right !important;
+    }
+    td.social-icon img {
+      width: 45px !important;
+    }
+    td.social-icon td {
+      width: auto !important;
+      display: table-cell !important;
+    }
+    td.social-icon {
+      width: auto !important;
+      display: table-cell !important;
+    }
+    table.social-icon-wrapper tbody tr td {
+      width: auto !important;
+      display: table-cell !important;
+    }
+    table.social-icon-wrapper tbody tr td.social-icon-inner {
+      padding: 30px 20px !important;
+    }
+    td.download-inner-wrapper {
+      padding: 30px 20px !important;
+    }
+    td.download-image img {
+      width: 140px !important;
+    }
+    .columnContentTable tr td.download-image {
+      display: table-cell !important;
+      width: auto !important;
+    }
+    table.footer-info td {
+      padding: 30px 20px 50px !important;
+    }
+    span.desktop-hide {
+      display: block !important;
+      height: 0 !important;
+    }
+    td.one-col-con img {
+      width: 60px !important;
+      height: 60px !important;
+    }
+    .testimonial-right-col p {
+      text-align: right !important;
+    }
+    .testimonial-wrapper .mobilePaddingLR30 {
+      padding-left: 25px !important;
+      padding-right: 25px !important;
+    }
+    .testimonial-right-col tbody tr td {
+      height: auto !important;
+    }
+    .testimonial-right-col tbody tr td.topPadding30{
+      padding-bottom: 50px !important;
+    }
+    .testimonial-right-col table {
+      width: 100% !important;
+    }
+    td.stackTbl.testimonial-right-col {
+      height: auto !important;
+    }
+    .image-with-content-wrapper td.image-with-content-col h3 {
+      padding-top: 30px !important;
+      text-align: center !important;
+    }
+    .image-with-content-wrapper td.image-with-content-col td {
+      text-align: center !important;
+    }
+    .image-with-content-wrapper td.image-with-content-col p {
+      text-align: center !important;
+    }
+    .image-with-content-wrapper td.image-with-content-col table {
+      width: 100% !important;
+      display: table !important;
+    }
+    .image-with-content-wrapper td.image-with-content-inner-wrapper img {
+      width: 130px !important;
+      margin: 0 auto !important;
+      text-align: center !important;
+    }
+    td.csm-one-col-content {
+      height: auto !important;
+    }
+    td.csm-one-col-content {
+      padding-bottom: 20px !important;
+    }
+    table.social-icon-wrapper tbody tr td.social-icon-inner table {
+      max-width: 300px;
+      width: 100%;
+    }
+    table.download-link-wrapper {
+      max-width: 310px;
+      width: 100%;
+    }
+  }
+</style>
+<style type=3D"text/css" data-hse-inline-css=3D"true">
+  [style*=3D"sans-serif"] {
+    font-family: 'Roboto', Arial, sans-serif;
+  }
+  *{
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    -webkit-font-smoothing: initial !important;
+  }
+  td .bodyCell td.bodyCell,
+  table#contentTableOuter{
+    padding:0;
+  }=20
+  table#contentTableOuter{
+    -webkit-box-shadow: none ;
+    border: none ;
+  }
+  td#responsive-group{
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;=20
+    background:#dedede ;
+  }
+  table#templateTable,
+  td#contentCell,
+  table#contentTableOuter{
+    background: #f1f2f2 !important;
+    border: none !important;
+    padding:0 !important;
+  }
+  table#backgroundTable,
+  body{
+    background: #f1f2f2;
+  }
+  table#templateTable,
+  #contentTableInner{
+    max-width: 640px;
+    width: 640px;
+  }
+  table.columnContentTable{
+    background-color: #f1f2f2;
+  }
+  body,p,ul{
+    font-family: 'Roboto', Arial, sans-serif ;
+    color: #221f20;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0;
+  }
+  p {
+    padding: 20px 0px 0px 0px;
+    margin: 0;
+    font-weight: 400;
+  }
+  a {
+    color: #00A0DC;
+    text-decoration: underline;
+  }
+  .footer,
+  .footer a {
+    color: #00A0DC;=20
+    text-decoration: none;=20
+  }
+  img {
+    max-width: 100%;
+  }
+  .widget-span.widget-type-email_body {}
+  h1,h2,h3,h4,h5,h6 {
+    margin: 0px;
+  }
+  h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    outline: none !important;
+    border: none !important;
+    text-decoration: none !important;
+  }
+  h1 {
+    font-size: 36px;
+    line-height: 44px; =20
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 600;
+    color: #221f20;
+  }
+  h2 {
+    font-size: 22px;
+    line-height: 26px;
+    font-family: 'Poppins', Arial, sans-serif ;
+    font-weight: 600 ;
+  }
+  h3 {
+    font-size: 22px;
+    line-height: 26px;
+    color: #221f20;
+    padding: 20px 0px 0px 0px;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-weight: lighter;
+  }
+  h4 {}
+</style>
+<style type=3D"text/css" data-hse-inline-css=3D"true">
+  .hs-logo.columnContentTable {
+    background-color: transparent;
+  }
+  .hs-logo td,=20
+  .row1-image,
+  td.row1-image-wrapper td{
+    text-align: center !important;
+  }
+  .header-top-wrapper p {
+    font-family: Arial, sans-serif, 'Roboto';
+    font-size: 12px;
+    line-height: 16px;
+    padding: 0;
+  }
+  .header-top-wrapper p a{
+    color: #221f20;
+  }
+  table.button-group .button-inner-wrapper {
+    padding-top: 30px;
+  }
+  td.hoverCTAYellow {
+    background-color: #FDB913;
+    border: solid 1px #FDB913;
+    border-radius: 30px;
+    display: inline-block;
+    font-size: 18px;
+    line-height: 18px;
+    color: #221f20;
+    text-align: center;
+    padding: 10px 40px 10px 40px;
+    font-weight: bold;
+  }
+  td.hoverCTAYellow a {
+    color: #221f20;
+    text-decoration: none;
+    display: block;
+  }
+  td.hoverCTAYellow:hover {
+    background-color: #ffda69 !important;
+    transition: ease .3s;
+    -moz-transition: ease .3s;
+  }
+  .image-width-border-wrapper td.border {
+    border-top: 1px dashed #bdbebf;
+    font-size: 1px;
+    line-height: 1px;
+  }
+  .content-with-image td.content-padding {
+    padding: 20px 50px;
+  }
+  .content-with-image td.content-padding h2 a {
+    color: #221f20;
+    text-decoration: none;
+  }
+  .content-with-image td.content-padding p {
+    padding-top: 10px;
+  }
+  .content-with-image .button-wrap {
+    padding-top: 20px;
+  }
+  .content-with-image table.stackTbl.right-content.mob-content {
+    height: 0;
+    display: none;
+    visibility: hidden;
+    opacity: 0;
+  }
+  .two-col-content-padding td {
+    padding: 0 30px 0px;
+  }
+  .two-col-content-padding td.bottom-link {
+    padding-bottom: 50px;
+    padding-top: 15px;
+  }
+  .white .two-col-content-padding h3 a {
+    color: #221f20;
+    text-decoration: none;
+  }
+  .black .two-col-content-padding h3 a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .black .two-col-content-padding p {
+    color: #ffffff;
+  }
+  .two-col-content-padding td.bottom-link a {
+    font-size: 18px;
+    line-height: 22px;
+    color: #00A0DC;
+  }
+  .two-col-content-padding td.bottom-link span {
+    color: #00A0DC;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    vertical-align: -2px;
+  }
+  .two-col-with-image-wrapper td.two-col-content-gap {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+  .black.two-col-with-image-wrapper td.two-col-content-gap h3 {
+    padding-top: 0;
+  }
+  .black.two-col-with-image-wrapper td.two-col-content-gap p{
+    padding-top: 15px;
+  }
+  .black.two-col-with-image-wrapper td.two-col-content-gap h3,
+  .black.two-col-with-image-wrapper td.two-col-content-gap p {
+    color: #ffffff;
+  }
+  .black.two-col-with-image-wrapper td.two-col-content-gap h3 a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .grey.two-col-with-image-wrapper td.two-col-content-gap h3,
+  .grey.two-col-with-image-wrapper td.two-col-content-gap p {
+    color: #221f20;
+  }
+  .grey.two-col-with-image-wrapper td.two-col-content-gap h3 a {
+    color: #221f20;
+    text-decoration: none;
+  }
+  .two-col-with-image-wrapper td.two-col-btn-padding {
+    padding-top: 30px;
+  }
+  .three-col-equal-wrapper td.hs-three-col {
+    padding-right: 20px;
+  }
+  .three-col-equal-wrapper td.hs-three-col.last-child {
+    padding-right: 0;
+  }
+  .four-col-content {
+    padding: 15px 10px 0;
+  }
+  .four-col-content p {
+    padding: 0;
+    color: #ffffff;
+  }
+  td.button-wrapper {
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  td.button-wrapper .btn-icon {
+    color: #00A0DC;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 20px;
+    vertical-align: -2px;
+  }
+  .image-with-content-wrapper td.image-with-content-inner-wrapper {
+    padding: 30px 30px 0px 30px;
+  }
+  .image-with-content-wrapper td.image-with-content-col {
+    padding: 0 0 30px 0;
+  }
+  .image-with-content-wrapper td.image-with-content-col h3 {
+    font-size: 22px;
+    line-height: 26px;
+    color: #ffffff;
+    text-align: left;
+    padding: 0;
+  }
+  .image-with-content-wrapper td.image-with-content-col h3 a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  .image-with-content-wrapper td.image-with-content-col p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #ffffff;
+    text-align: left;
+    padding: 10px 0px 0px 0px;
+  }
+  .footer-info p {
+    text-align: center;
+    font-size: 12px;
+    line-height: 16px;
+    color: #221f20;
+  }
+  .footer-info p a,
+  #footerTable a{
+    color: #221f20;
+    text-decoration: underline;
+  }
+  td.social-icon {
+    padding: 0px 15px 0px 15px;
+  }
+  .download-inner-wrapper p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #221f20;
+    padding: 0px;
+  }
+  td.download-image.left-col {
+    padding: 0px 15px 0px 0px;
+  }
+  td.download-image.right-col {
+    padding: 0px 0px 0px 15px;
+  }
+  .author-image {
+    text-align: center;
+  }
+  .author-image img {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .author-wrapper td {
+    text-align: center !important;
+  }
+  .author-details p {
+    padding: 25px 0px 15px 0px;
+  }
+  .testimonial-right-col p {
+    font-size: 16px;
+    line-height: 20px;
+    color: #221f20;
+    padding: 25px 0px 15px 0px;
+    text-align: center;
+  }
+  .testimonial-wrapper .mobilePaddingLR30 {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .testimonial-right-col p span {
+    font-size: 12px;
+    line-height: 16px;
+  }
+  span.desktop-hide {
+    display: none;
+  }
+  td.one-col-content-inner {
+    padding: 30px 0px 30px 0px;
+  }
+  td.one-col-con {
+    padding-bottom: 25px;
+  }
+  td.csm-one-col-content {
+    font-size: 22px;
+    line-height: 26px;
+    color: #221f20;
+    padding: 0px 20px 0px 20px;
+  }
+  td.csm-one-col-content a {
+    color: #221f20;
+    text-decoration: none;
+  }
+  .one-col-content-inner td.button-wrapper a {
+    text-decoration: underline;
+  }
+  .one-col-content-inner td.button-wrapper {
+    font-size: 18px;
+    line-height: 22px;
+    color: #00A0DC;
+  }
+  .last-col tr.bottom-border {
+    display: none;
+    height: 0;
+    visibility: hidden;
+  }
+  .content-with-image.right .left-content,
+  table.two-col-with-image-wrapper.right .left-image{
+    width: 0;
+    height: 0;
+    display: none;
+    visibility: hidden;
+  }
+  td.two-col-content-padding h3 {
+    padding: 0;
+  }
+</style>
+        <!--[if gte mso 9]>
+          <xml>
+            <o:OfficeDocumentSettings>
+              <o:AllowPNG/>
+              <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+          </xml>
+        <![endif]-->
+    <meta name=3D"generator" content=3D"HubSpot"><meta property=3D"og:url" =
+content=3D"https://send.data-axle.com/credit-solutions-november-newslette">=
+<meta name=3D"x-apple-disable-message-reformatting"><meta name=3D"robots" c=
+ontent=3D"noindex,follow"></head>
+    <body class=3D"" style=3D"background-color:#f0f4f8; -webkit-text-size-a=
+djust:100%; -ms-text-size-adjust:100%; height:100% !important; padding:0; w=
+idth:100% !important; background:#f1f2f2; font-family:'Roboto', Arial, sans=
+-serif; color:#221f20; font-size:16px; font-weight:400; line-height:20px; m=
+argin:0" leftmargin=3D"0" marginwidth=3D"0" topmargin=3D"0" marginheight=3D=
+"0" offset=3D"0" bgcolor=3D"#f0f4f8">
+        <!-- Preview text (text which appears right after subject) -->
+       =20
+        <!--  The  backgroundTable table manages the color of the backgroun=
+d and then the templateTable maintains the body of=20
+        the email template, including preheader & footer. This is the only =
+table you set the width of to, everything else is set to=20
+        100% and in the CSS above. Having the width here within the table i=
+s just a small win for Lotus Notes. -->
+        <!-- Begin backgroundTable --> =20
+        <table align=3D"center" bgcolor=3D"#f0f4f8" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" height=3D"100%" width=3D"100%" id=3D"backgroundTa=
+ble" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso=
+-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !importan=
+t; background-color:#f0f4f8; font-family:sans-serif; height:100% !important=
+; margin:0; padding:0; width:100% !important; background:#f1f2f2">
+            <tbody><tr>
+                <td align=3D"center" valign=3D"top" id=3D"bodyCell" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; height:100% !important; margin:0; padding:0;=
+ width:100% !important" height=3D"100%" width=3D"100%"> <!-- When nesting t=
+ables within a TD, align center keeps it well, centered. -->
+                    <!-- Begin Template Container -->
+                    <!-- This holds everything together in a nice container=
+ -->
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ id=3D"templateTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:c=
+ollapse !important; background-color:#ffffff; -webkit-font-smoothing:antial=
+iased; background:#f1f2f2 !important; border:none !important; padding:0 !im=
+portant; max-width:640px; width:640px" width=3D"640" bgcolor=3D"#ffffff">
+                        <tbody><tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Preheader -->
+                                <div class=3D"header-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"headerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#=
+f0f4f8; color:#221f20; font-family:sans-serif; font-size:10px; line-height:=
+120%; text-align:right; border-collapse:separate !important; padding-right:=
+30px" bgcolor=3D"#f0f4f8" align=3D"right">
+                                    <!--end header wrapper -->
+                                </table>
+                                <!-- End Template Preheader -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" id=3D"conte=
+ntCell" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#f0f4f8; backg=
+round:#f1f2f2 !important; border:none !important; padding:0 !important" bgc=
+olor=3D"#f0f4f8">
+                                <!-- Begin Template Wrapper -->
+                                <!-- This separates the preheader which usu=
+ally contains the "open in browser, etc" content
+                                from the actual body of the email. Can alte=
+rnatively contain the footer too, but I choose not
+                                to so that it stays outside of the border. =
+-->
+                                <table border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%" id=3D"contentTableOuter" style=3D"-webkit-text-=
+size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-tabl=
+e-rspace:0pt; border-collapse:separate !important; background-color:#ffffff=
+; box-shadow:0px 1px rgba(0, 0, 0, 0.1); -webkit-box-shadow:none; backgroun=
+d:#f1f2f2 !important; padding:0 !important; border:1px solid #caced2; borde=
+r-bottom:1px solid #aaaeb2" bgcolor=3D"#ffffff">
+                                    <tbody><tr>
+                                        <td align=3D"center" valign=3D"top"=
+ style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tab=
+le-lspace:0pt; mso-table-rspace:0pt">
+                                            <div class=3D"body-container-wr=
+apper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"content=
+TableInner" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !i=
+mportant; max-width:640px; width:640px" width=3D"640">
+                                                <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"header-top-wrap=
+per column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:10=
+0%; mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:le=
+ft; padding:0; font-family:'Roboto', Arial, sans-serif; font-size:15px; lin=
+e-height:1.5em; color:#221F20; padding:20px 30px" align=3D"left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"6" width=3D"50.0%" class=3D" column" style=3D=
+"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace=
+:0pt; mso-table-rspace:0pt; width:50.0%; text-align:left; padding:0; font-f=
+amily:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; color=
+:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget header-left-content" st=
+yle=3D"" data-widget-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596087452582136" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" sty=
+le=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-co=
+s-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_wra=
+pper_module_1596087452582136_" class=3D"hs_cos_wrapper hs_cos_wrapper_widge=
+t hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inheri=
+t; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"rich_text"><p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:=
+100%; -ms-text-size-adjust:100%; color:#221f20; margin:0; font-weight:400; =
+font-family:Arial, sans-serif, 'Roboto'; font-size:12px; line-height:16px; =
+padding:0">Data Axle Credit Solutions Newsletter - November</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; color:#221f20; margin:0; font-weight:400; font-family:Arial,=
+ sans-serif, 'Roboto'; font-size:12px; line-height:16px; padding:0">&nbsp;<=
+/p></div></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+<td valign=3D"top" colspan=3D"6" width=3D"50.0%" class=3D" column" style=3D=
+"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace=
+:0pt; mso-table-rspace:0pt; width:50.0%; text-align:left; padding:0; font-f=
+amily:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; color=
+:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596087446020127" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-email_view_as_=
+web_page" style=3D"color: inherit; font-size: inherit; line-height: inherit=
+;" data-hs-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+  <div id=3D"hs_cos_wrapper_module_1596087446020127_" class=3D"hs_cos_wrapp=
+er hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inh=
+erit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"rich_text"><p style=3D"margin-bottom: 1em; =
+-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#221f20; ma=
+rgin:0; font-weight:400; font-family:Arial, sans-serif, 'Roboto'; font-size=
+:12px; line-height:16px; padding:0; text-align:right" align=3D"right"><a ta=
+rget=3D"_blank" href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2N62=
+3g1-LPzfW78L4Hk4jjZPzN5r_RQG5nxGLV3Zsc37CgPH3W4lBD7r6bt3r4W8GLZ776QWKZ8W2P5=
+wRH8t7f46Vdhz-F4_D-rVW5L1RYR6tC7TbW1w02DW5xyJ77N4scXgbbVDSbW6fVCZ57RQSkVW2F=
+cNFH4yR5SxW7z5F1F6cBgfvW1lScMy1g9f8YW6NYZ2t3hTxLxW4pzBj41CkxcrW2T06yv5zl_BN=
+W4vDYq69gwx3gW7Lr3Ck3N8wrHW6_M3dD1fRRSFVw6hgB30W4X0W3QFv822myQsNW13n5zY1LBH=
+qFN8sPJp6pp06cW44qTKY3kNfWWW1Q27tz3nkD6JW7MwjMl6gZnt_MLFd81MVHM7W8P1mqB2sYP=
+c5W54JVDY6ZB_YGN4GlNv2bPBsZVkF5yS75YhC-W1bJdKQ2WSYZtW161v5K4lJRD8W2cFwMc6V3=
+LFdW5gMlQy5LS3F0W84Fgwp5Pg64BW2fcxrX6zsmkDW6TKB691zMCwr2991" data-viewasweb=
+page=3D"true" rel=3D"noopener" style=3D"-webkit-text-size-adjust:100%; -ms-=
+text-size-adjust:100%; text-decoration:underline; color:#221f20" data-hs-li=
+nk-id=3D"0">View in browser</a></p></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#221F20" class=3D"hs-logo columnContentTable" =
+bgcolor=3D"#221F20"><tbody><tr><td align=3D"center" valign=3D"top" class=3D=
+"columnContent widget-span widget-type-custom_widget" style=3D"-webkit-text=
+-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-tab=
+le-rspace:0pt; padding-top:20px; padding-right:20px; padding-bottom:20px; p=
+adding-left:20px; text-align:left; padding:0; font-family:'Roboto', Arial, =
+sans-serif; font-size:15px; line-height:1.5em; color:#221F20; text-align:ce=
+nter; padding:30px" data-widget-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596562784743793" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-logo" style=3D=
+"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-gen=
+eral-type=3D"widget" data-hs-cos-type=3D"module">
+ =20
+  <div id=3D"hs_cos_wrapper_module_1596562784743793_hs_logo_widget" class=
+=3D"hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style=3D=
+"color: inherit; font-size: inherit; line-height: inherit;" data-hs-cos-gen=
+eral-type=3D"widget" data-hs-cos-type=3D"logo"><a href=3D"https://send.data=
+-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RRy3p_9rV1-WJV7C=
+gGsyN5Hz-3V2X5rTN7B7Xvrk9Rn-W8M97kr4cm6lYN6HWTQW2jj7JW6kT8mN3SWLcCW7Tx2B-6B=
+8lfDW3NWwcl8FQ4D2W2dn3N7817x2yN1Cxt5K4Pf7_W1ZSgBW2tn-hQW6PySym3yxdMrW8jDPgS=
+2Hf-68W86nc0D5bxC-tW6_S4SC1hJMYzV9RbV71dk_STW7v7rzQ5LKvBMW73-bD8537CLMW5H2R=
+c47hCbXDW7DTS-j8BQQbxVXFG1S6BLVqtN1k4LG9FjgjTW7PglY-2ktrMPN7fFntp_N39vW84jy=
+Yg74z1rVW3QVgqd1flFG_VYl1-G3M0X7d3ldW1" target=3D"_blank" id=3D"hs-link-mod=
+ule_1596562784743793_hs_logo_widget" style=3D"-webkit-text-size-adjust:100%=
+; -ms-text-size-adjust:100%; color:#00a0dc; text-decoration:underline; bord=
+er-width:0px; border:0px" data-hs-link-id=3D"0"><img src=3D"https://send.da=
+ta-axle.com/hs-fs/hubfs/DA-CS-logo-rev.png?width=3D406&amp;upscale=3Dtrue&a=
+mp;name=3DDA-CS-logo-rev.png" class=3D"hs-image-widget " style=3D"vertical-=
+align:bottom; -ms-interpolation-mode:bicubic; max-height:77px; max-width:20=
+3px; border-width:0px; border:0px" width=3D"203" alt=3D"DA-CS-logo-rev" tit=
+le=3D"DA-CS-logo-rev" srcset=3D"https://send.data-axle.com/hs-fs/hubfs/DA-C=
+S-logo-rev.png?upscale=3Dtrue&amp;width=3D406&amp;upscale=3Dtrue&amp;name=
+=3DDA-CS-logo-rev.png 203w, https://send.data-axle.com/hs-fs/hubfs/DA-CS-lo=
+go-rev.png?upscale=3Dtrue&amp;width=3D812&amp;upscale=3Dtrue&amp;name=3DDA-=
+CS-logo-rev.png 406w" sizes=3D"(max-width: 203px) 100vw, 203px"></a></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</td></tr></tbody></table><!--end widget-table -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget banner-image" style=3D"=
+text-align:center;" data-widget-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596092484011575" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" =
+style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs=
+-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+   =20
+ =20
+<div id=3D"hs_cos_wrapper_module_1596092484011575_" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style=3D"color: in=
+herit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"linked_image"><img src=3D"https://send.data=
+-axle.com/hs-fs/hubfs/EM-news-ftr-enhanced.jpg?width=3D1280&amp;upscale=3Dt=
+rue&amp;name=3DEM-news-ftr-enhanced.jpg" class=3D"hs-image-widget " style=
+=3D"vertical-align:bottom; -ms-interpolation-mode:bicubic; max-height:310px=
+; max-width:640px; border-width:0px; border:0px" width=3D"640" alt=3D"EM-ne=
+ws-ftr-enhanced" title=3D"EM-news-ftr-enhanced" srcset=3D"https://send.data=
+-axle.com/hs-fs/hubfs/EM-news-ftr-enhanced.jpg?upscale=3Dtrue&amp;width=3D1=
+280&amp;upscale=3Dtrue&amp;name=3DEM-news-ftr-enhanced.jpg 640w, https://se=
+nd.data-axle.com/hs-fs/hubfs/EM-news-ftr-enhanced.jpg?upscale=3Dtrue&amp;wi=
+dth=3D2560&amp;upscale=3Dtrue&amp;name=3DEM-news-ftr-enhanced.jpg 1280w" si=
+zes=3D"(max-width: 640px) 100vw, 640px"></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"mail-body-group=
+ column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;=
+ mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left;=
+ padding:0; font-family:'Roboto', Arial, sans-serif; font-size:15px; line-h=
+eight:1.5em; color:#221F20; background-color:#ffffff; padding:50px 30px" al=
+ign=3D"left" bgcolor=3D"#ffffff">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-email_body " style=3D"" data-widget-t=
+ype=3D"email_body">
+<div id=3D"hs_cos_wrapper_hs_email_body" class=3D"hs_cos_wrapper hs_cos_wra=
+pper_widget hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-si=
+ze: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widget" dat=
+a-hs-cos-type=3D"rich_text"><h1 style=3D"display:block; margin-top:0; margi=
+n-right:0; margin-bottom:10px; margin-left:0; margin:0px; font-size:36px; l=
+ine-height:44px; font-family:'Poppins', Arial, sans-serif; font-weight:600;=
+ color:#221f20"><a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2=
+N623g1-LPzfW78L4Hk4jjZPzN5r_RRy3p_9rV1-WJV7CgHM2W8487hw8bBblJW7-QGYF1tSbs7W=
+1_Px9L87T8DzW6xmH-252K2f1W2783lY5Ch9qnW4HTD228pN_plW2m9q1B8VF5-3W8BptQ95f_B=
+4GW1Ywjb83mQlygW49m62j7Sd2mtW75QS9F51cFx5W81SvKx8kQcBqW6DkRT633t75PW1qNQ224=
+4kDv2W6K8fpG1RP-vGW7qVxTz65h5C9W5fD6qX4MTqJRN5ccX-KYGdpKN5tCKJlHHt-KVrLXtV5=
+3LyBfW1l3mcj92hJq4W1Gcx_12bNwWNW4prwKF1-Ly2-W4gXjqM1rSTnmW62LV5M7FbnSdW7vVD=
+KQ2-RhV63dDs1" target=3D"_blank" style=3D"-webkit-text-size-adjust:100%; -m=
+s-text-size-adjust:100%; outline:none !important; border:none !important; c=
+olor:#221f20; text-decoration:none" rel=3D"noopener" data-hs-link-id=3D"0">=
+Coming Soon!&nbsp;</a></h1>
+<h3 style=3D"display:block; margin-top:0; margin-right:0; margin-bottom:10p=
+x; margin-left:0; margin:0px; font-size:22px; line-height:26px; color:#221f=
+20; padding:20px 0px 0px 0px; font-family:'Roboto', Arial, sans-serif; font=
+-weight:lighter">Enhanced Data Axle Credit Solutions Features</h3>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; font-family:'Roboto', Arial, sans-serif; color:#221f20; font=
+-size:16px; line-height:20px; padding:20px 0px 0px 0px; margin:0; font-weig=
+ht:400">We are excited to share that we=E2=80=99re going to be introducing =
+an improved version of our Credit Solutions application! The new Data Axle =
+Credit Solutions (formerly Credit.net) offers an improved overall user expe=
+rience, enhanced search capabilities and will leverage our real-time Data A=
+xle database to provide you with the most current and accurate business inf=
+ormation. Stay tuned, more details to come as we look ahead to 2021!</p></d=
+iv>
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_15979981862289468" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module"><table class=3D"custom-spacer" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; b=
+order-collapse:collapse !important">
+  <tbody>
+    <tr>
+      <td align=3D"left" height=3D"20" style=3D"-webkit-text-size-adjust:10=
+0%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">=
+</td>
+    </tr>
+  </tbody>
+</table></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#f1f2f2" class=3D" columnContentTable" bgcolor=
+=3D"#f1f2f2"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-custom_widget" style=3D"-webkit-text-size-adj=
+ust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace=
+:0pt; padding-right:20px; padding-bottom:20px; padding-left:20px; text-alig=
+n:left; padding:0; font-family:'Roboto', Arial, sans-serif; font-size:15px;=
+ line-height:1.5em; color:#221F20; padding-top:1px" data-widget-type=3D"cus=
+tom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_15961062598431578" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit;=
+ font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"wid=
+get" data-hs-cos-type=3D"module"><table class=3D"content-with-image left" c=
+ellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" bgcolor=3D"#=
+ffffff" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !impor=
+tant">
+  <tbody>
+    <tr>
+      <td valign=3D"top" width=3D"260" align=3D"left" class=3D"stackTbl lef=
+t-content" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt">
+       =20
+       =20
+       =20
+       =20
+        <a href=3D"mailto:customerservice@credit.net" target=3D"_blank" sty=
+le=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#00a0=
+dc; text-decoration:underline" data-hs-link-id=3D"0">
+         =20
+          <img src=3D"https://send.data-axle.com/hs-fs/hubfs/Credit-report-=
+icon-em2.png?width=3D520&amp;height=3D520&amp;upscale=3Dtrue&amp;name=3DCre=
+dit-report-icon-em2.png" alt=3D"Credit-report-icon-em2" width=3D"260" heigh=
+t=3D"260" srcset=3D"https://send.data-axle.com/hs-fs/hubfs/Credit-report-ic=
+on-em2.png?upscale=3Dtrue&amp;width=3D520&amp;height=3D520&amp;upscale=3Dtr=
+ue&amp;name=3DCredit-report-icon-em2.png 260w, https://send.data-axle.com/h=
+s-fs/hubfs/Credit-report-icon-em2.png?upscale=3Dtrue&amp;width=3D1040&amp;h=
+eight=3D1040&amp;upscale=3Dtrue&amp;name=3DCredit-report-icon-em2.png 520w"=
+ sizes=3D"(max-width: 260px) 100vw, 260px" style=3D"vertical-align:bottom; =
+-ms-interpolation-mode:bicubic; max-width:100%">
+         =20
+        </a>
+      </td>
+      <td height=3D"216" class=3D"content-padding" valign=3D"middle" width=
+=3D"378" align=3D"right" style=3D"-webkit-text-size-adjust:100%; -ms-text-s=
+ize-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; padding:20px 5=
+0px">
+        <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collap=
+se:collapse !important">
+          <tbody>
+            <tr>
+              <td align=3D"left" valign=3D"bottom" class=3D"topPadding30 mo=
+bilePaddingLR20" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adju=
+st:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">
+                <h2 style=3D"display:block; margin-top:0; margin-right:0; m=
+argin-bottom:10px; margin-left:0; margin:0px; font-size:22px; line-height:2=
+6px; font-family:'Poppins', Arial, sans-serif; font-weight:600"><strong>Get=
+ting Ready for 2021</strong></h2>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; font-family:'Roboto', Arial, sans-serif; color:#221f20; font=
+-size:16px; line-height:20px; padding:20px 0px 0px 0px; margin:0; font-weig=
+ht:400; padding-top:10px">This is your <strong>year end reminder</strong> =
+=E2=80=93 as we all look ahead to the upcoming holiday season and the New Y=
+ear, now is the perfect time to review your own company=E2=80=99s business =
+credit report. It=E2=80=99s important to make sure your information is up t=
+o date. It's the best 10 minutes you'll take out of your day.</p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collap=
+se:collapse !important">
+          <tbody>
+            <tr>
+              <td align=3D"left" class=3D"button-wrap" style=3D"-webkit-tex=
+t-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-ta=
+ble-rspace:0pt; padding-top:20px">
+                <table role=3D"presentation" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:coll=
+apse !important">
+                  <tbody>
+                   =20
+                    <tr>
+                      <td align=3D"center" class=3D"hoverCTAYellow" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; background-color:#fdb913; border:solid 1px #=
+fdb913; border-radius:30px; display:inline-block; font-size:18px; line-heig=
+ht:18px; color:#221f20; text-align:center; padding:10px 40px 10px 40px; fon=
+t-weight:bold" bgcolor=3D"#fdb913">
+                       =20
+                       =20
+                       =20
+                       =20
+                        <a href=3D"mailto:customerservice@credit.net" targe=
+t=3D"_blank" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:1=
+00%; color:#221f20; text-decoration:none; display:block" data-hs-link-id=3D=
+"1">
+                          Request My Report</a>
+                      </td>
+                    </tr>
+                   =20
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+     =20
+    </tr>
+  </tbody>
+</table></div>
+</div><!--end layout-widget-wrapper -->
+</td></tr></tbody></table><!--end widget-table -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1605111188494244" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module"><table class=3D"custom-spacer" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; b=
+order-collapse:collapse !important">
+  <tbody>
+    <tr>
+      <td align=3D"left" height=3D"20" style=3D"-webkit-text-size-adjust:10=
+0%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">=
+</td>
+    </tr>
+  </tbody>
+</table></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#221F20" class=3D" columnContentTable" bgcolor=
+=3D"#221F20"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-custom_widget" style=3D"-webkit-text-size-adj=
+ust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace=
+:0pt; padding-top:20px; padding-right:20px; padding-left:20px; text-align:l=
+eft; padding:0; font-family:'Roboto', Arial, sans-serif; font-size:15px; li=
+ne-height:1.5em; color:#221F20; color:#ffffff; padding-bottom:1px" data-wid=
+get-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596169014644123" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module"><table class=3D"two-col-with-image-wrapper =
+right " role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"100%" bgcolor=3D"" style=3D"-webkit-text-size-adjust:100%; -ms=
+-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-=
+collapse:collapse !important">
+  <tbody>
+    <tr>
+      <td valign=3D"top" width=3D"0" align=3D"left" class=3D"stackTbl left-=
+image" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; m=
+so-table-lspace:0pt; mso-table-rspace:0pt; width:0; height:0; display:none;=
+ visibility:hidden" height=3D"0">
+       =20
+       =20
+        <a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-L=
+PzfW78L4Hk4jjZPzN5r_RRy3p_9rV1-WJV7CgDsWW1NvkmV7mXVQ_W7vZN931lR73FN1xDBmW3-=
+vDWW7lWkWG1wmF1wW6WC52S6hvWCgW5s877Q41WsVrW7dk7fx52rfmxW3QC4zt2R4LnlW6fRfnh=
+187lrXW6hxz-G2XPFNSVrP58X3fGQGNW7tGqJ35w4vmkW8ZbqYR27pS9hW8bfCpf642QrDVjCxK=
+y6ZL4QwN5VKJwr32k-PW2SxT5N4x6SBtW26j85n1Mzn0RW4qsjGW6Dlw_sW1bnjdF1pHjWFVFtj=
+pH6cYHLrW8Y4vyQ80DcnpVvrWJW6s7qxMN1K8bj57D7y8W8wB6TP3W9M1HW4k7rJp9fDcjd36sW=
+1" target=3D"_blank" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"1=
+">
+         =20
+          <img src=3D"https://send.data-axle.com/hs-fs/hubfs/success-story.=
+png?width=3D620&amp;height=3D902&amp;upscale=3Dtrue&amp;name=3Dsuccess-stor=
+y.png" alt=3D"success-story" width=3D"310" height=3D"451" srcset=3D"https:/=
+/send.data-axle.com/hs-fs/hubfs/success-story.png?upscale=3Dtrue&amp;width=
+=3D620&amp;height=3D902&amp;upscale=3Dtrue&amp;name=3Dsuccess-story.png 310=
+w, https://send.data-axle.com/hs-fs/hubfs/success-story.png?upscale=3Dtrue&=
+amp;width=3D1240&amp;height=3D1804&amp;upscale=3Dtrue&amp;name=3Dsuccess-st=
+ory.png 620w" sizes=3D"(max-width: 310px) 100vw, 310px" style=3D"vertical-a=
+lign:bottom; -ms-interpolation-mode:bicubic; max-width:100%">
+         =20
+        </a>
+      </td>
+      <td height=3D"450" valign=3D"middle" class=3D"two-col-content-gap aut=
+oHeight" width=3D"330" align=3D"left" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; p=
+adding-left:50px; padding-right:50px">
+        <table role=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" style=3D"-webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collap=
+se:collapse !important">
+          <tbody>
+            <tr>
+              <td align=3D"left" valign=3D"bottom" class=3D"topPadding50 mo=
+bilePaddingLR20" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adju=
+st:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">
+                <h2 style=3D"display:block; margin-top:0; margin-right:0; m=
+argin-bottom:10px; margin-left:0; margin:0px; font-size:22px; line-height:2=
+6px; font-family:'Poppins', Arial, sans-serif; font-weight:600"><span style=
+=3D"color: #ffffff;">Data Solutions Customer Success Story</span></h2>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; font-family:'Roboto', Arial, sans-serif; color:#221f20; font=
+-size:16px; line-height:20px; padding:20px 0px 0px 0px; margin:0; font-weig=
+ht:400"><span style=3D"color: #ffffff;"><span><strong>How do we do it?</str=
+ong> See how Data Axle provided one company the data solutions needed to re=
+duce $50K in unknown risk.</span></span></p>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <table role=3D"presentation" width=3D"100%" cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-=
+size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collap=
+se:collapse !important">
+          <tbody>
+            <tr>
+              <td align=3D"left" class=3D"two-col-btn-padding" style=3D"-we=
+bkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt=
+; mso-table-rspace:0pt; padding-top:30px">
+                <table role=3D"presentation" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:coll=
+apse !important">
+                  <tbody>
+                    <tr>
+                     =20
+                      <td align=3D"center" class=3D"hoverCTAYellow" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; background-color:#fdb913; border:solid 1px #=
+fdb913; border-radius:30px; display:inline-block; font-size:18px; line-heig=
+ht:18px; color:#221f20; text-align:center; padding:10px 40px 10px 40px; fon=
+t-weight:bold" bgcolor=3D"#fdb913">
+                       =20
+                       =20
+                        <a href=3D"https://send.data-axle.com/e2t/tc/VXjkd7=
+5227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RQ35nxG7V3Zsc37Cg-M2W742q6V8w5kj5W3Gj2q=
+-4wXSvYW5jTc6y5VXXZ2N4XtMktSGW0kM5q7qM159V7W6fFcMF4m2CBtVzJv-27qsd8rW24lLYX=
+7Bgvm-W7gK4TB2RpZx8N4qmcP6CKhB5W2QKvNJ6FBKhCN8XgmMJffTFPW3HYgD36GYyNzW1ygN2=
+25_RWv9W8X2MgF2Q1Kx5VZcrWM5nDQFcW2mS_TD2bz52nW3LPjn81jC0dmW1nYS8m4-2PdCW6m_=
+HCv58xv_MW5nW0ty8VjFg2W6vhJyJ7rpsN4W9ff1Jw5wbbpNMQGjnmb_jZMW3Rgqm57Ny4qpW5S=
+pMzy6pV45yW1mp30x4537pXW4WzRNN7DXnv9W8dMQ0z3cd_19W9cBT_f8Q8zfRW4X8GnK65B7km=
+W1VngBQ23qnL93jPb1" target=3D"_blank" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; color:#221f20; text-decoration:none; display:=
+block" data-hs-link-id=3D"0">Download Now</a>
+                      </td>
+                     =20
+                    </tr>
+                  </tbody>
+                </table>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+     =20
+      <td valign=3D"top" width=3D"310" align=3D"left" class=3D"stackTbl rig=
+ht-image" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%=
+; mso-table-lspace:0pt; mso-table-rspace:0pt">
+       =20
+       =20
+        <a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-L=
+PzfW78L4Hk4jjZPzN5r_RRy3p_9rV1-WJV7CgD9LW62FTKW8-xgZWW4p4Rht7w-YgYW40LWgR1Y=
+k1DCW3BH6xK6hW-BdW2QjHcy5_X_qMDVMYRypS9gW49cpmk6HqHFrW287gWV1rWsl8W92Wz935m=
+10n_W7nHjJB32n5JHW8XRPRw1nvj3cN3Yy5t9KWBpkW2wgzVm5k5KXpN1MmbCBdCXZwW67D6_g2=
+ypVkBW8dp8q63DLmNPW58bRp18Lp1c8W686mJ24NLGdVW1y0w4D9jFfpZVgrKm472N5D_W3CcQ6=
+t1j2MjcW2n4yHW8LnD3jW8Zd9j78Tjx4rW8sy7b08rhTMTW7tjn626l90kQW3CBCZ38hL0Y_3cz=
+D1" target=3D"_blank" style=3D"-webkit-text-size-adjust:100%; -ms-text-size=
+-adjust:100%; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"=
+2">
+         =20
+          <img src=3D"https://send.data-axle.com/hs-fs/hubfs/success-story.=
+png?width=3D620&amp;height=3D902&amp;upscale=3Dtrue&amp;name=3Dsuccess-stor=
+y.png" alt=3D"success-story" width=3D"310" height=3D"451" srcset=3D"https:/=
+/send.data-axle.com/hs-fs/hubfs/success-story.png?upscale=3Dtrue&amp;width=
+=3D620&amp;height=3D902&amp;upscale=3Dtrue&amp;name=3Dsuccess-story.png 310=
+w, https://send.data-axle.com/hs-fs/hubfs/success-story.png?upscale=3Dtrue&=
+amp;width=3D1240&amp;height=3D1804&amp;upscale=3Dtrue&amp;name=3Dsuccess-st=
+ory.png 620w" sizes=3D"(max-width: 310px) 100vw, 310px" style=3D"vertical-a=
+lign:bottom; -ms-interpolation-mode:bicubic; max-width:100%">
+         =20
+        </a>
+      </td>
+     =20
+    </tr>
+  </tbody>
+</table></div>
+</div><!--end layout-widget-wrapper -->
+</td></tr></tbody></table><!--end widget-table -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget " style=3D"" data-widge=
+t-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1605111137867203" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module"><table class=3D"custom-spacer" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust:100=
+%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; b=
+order-collapse:collapse !important">
+  <tbody>
+    <tr>
+      <td align=3D"left" height=3D"20" style=3D"-webkit-text-size-adjust:10=
+0%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">=
+</td>
+    </tr>
+  </tbody>
+</table></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"author-wrapper =
+column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; =
+padding:0; font-family:'Roboto', Arial, sans-serif; font-size:15px; line-he=
+ight:1.5em; color:#221F20; background-color:#ffffff; padding:50px 30px" ali=
+gn=3D"left" bgcolor=3D"#ffffff">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"center" valign=3D"top" class=3D"bodyContent" width=3D"100%" co=
+lspan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:1=
+00%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family=
+:sans-serif; font-size:15px; line-height:150%; text-align:center !important=
+">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget author-image" style=3D"=
+text-align:center" data-widget-type=3D"custom_widget" align=3D"center">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596185358848627" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-linked_image" =
+style=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs=
+-cos-general-type=3D"widget" data-hs-cos-type=3D"module">
+   =20
+ =20
+<div id=3D"hs_cos_wrapper_module_1596185358848627_" class=3D"hs_cos_wrapper=
+ hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style=3D"color: in=
+herit; font-size: inherit; line-height: inherit;" data-hs-cos-general-type=
+=3D"widget" data-hs-cos-type=3D"linked_image"></div>
+</div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+    <tr>
+<td align=3D"center" valign=3D"top" class=3D"bodyContent" width=3D"100%" co=
+lspan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:1=
+00%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family=
+:sans-serif; font-size:15px; line-height:150%; text-align:center !important=
+">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<div class=3D"widget-span widget-type-custom_widget author-details" style=
+=3D"text-align:center;" data-widget-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596185366478641" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" sty=
+le=3D"color: inherit; font-size: inherit; line-height: inherit;" data-hs-co=
+s-general-type=3D"widget" data-hs-cos-type=3D"module"><div id=3D"hs_cos_wra=
+pper_module_1596185366478641_" class=3D"hs_cos_wrapper hs_cos_wrapper_widge=
+t hs_cos_wrapper_type_rich_text" style=3D"color: inherit; font-size: inheri=
+t; line-height: inherit;" data-hs-cos-general-type=3D"widget" data-hs-cos-t=
+ype=3D"rich_text"><p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:=
+100%; -ms-text-size-adjust:100%; font-family:'Roboto', Arial, sans-serif; c=
+olor:#221f20; font-size:16px; line-height:20px; margin:0; font-weight:400; =
+padding:25px 0px 15px 0px">Eric Kider, SVP/General Manager, Credit Solution=
+s</p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; font-family:'Roboto', Arial, sans-serif; color:#221f20; font=
+-size:16px; line-height:20px; margin:0; font-weight:400; padding:0"><a href=
+=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZP=
+zN5r_RRy3p_9rV1-WJV7CgSbMW79Yrz-9kkV95W7XWDrV69x_7QW7Ky66T15s-CHW3XdG094DN7=
+J3W917Zf21HcrVnW3WbRt17FT0YqW865x_s5zFn0NW73lGMJ6k5DDKW1_g1Xt6-Dz7dW6TKswF8=
+HF0PTW630xyV3m7HvRW63-MrB677gbCF1CqRKlKQ1fW92Nxzd9gQdnNW6-fYbs8hKRKVW5TSk3y=
+86G80JW7rb4h01fLM5kW5VXwdr7d5tSXW32HvVW5d1wZfW5lfxRW3JqT4xW6S0tvY8Zh1RZW5nK=
+Gzs27vrvbW6qcnkM6jFhb6W1pdZbN8cCDxfW8p1lYf1xkpFcW1Q-P3m3YkK4K36YC1" rel=3D"=
+noopener" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%=
+; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"1" target=3D=
+"_blank">Data Axle Credit Solutions</a>&nbsp; |&nbsp; <a href=3D"https://se=
+nd.data-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RRy3p_9rV=
+1-WJV7CgBmTN4Q9F0xDDnG-W2jZCS-5syXFyW3z2ZxW3zk_8VW4NlbCY5526N_W5h2kWj6D1Khn=
+W7fGNjM72WcK5W8n7H4V4bXysbW3-2tj71J9jfgW55Rv7h5Ln0khW1JFwTr7mz3fMW8cmQw87sn=
+R3_W5SGQQ04gSsySW6SZb0Y6SBYnxW1rKMWd6Y_zBsW20fw9n7st7xtW7LkW1f5YTHc7W89y6Dy=
+5T6qTmW6bZ4nx4p0JsfW3dfPYd2c8kmtW31wWBf5zRfW0W4J4Cbt6njjb2W21gyjj4cbFMRW1-d=
+1JW7DkzP_W4hZCDw5rVB4GN10qH7dLXSCRW15_nnt4-MWtT3nm11" target=3D"_blank" rel=
+=3D"noopener" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:=
+100%; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"0">Featu=
+res</a><span class=3D"hide">&nbsp; |&nbsp;&nbsp;</span><span class=3D"deskt=
+op-hide" style=3D"display:none"><br></span><a href=3D"https://send.data-axl=
+e.com/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RRy3p_9rV1-WJV7CgYBw=
+W2GmWrH1MqKRnW7Qj23Z4NjNb-MVsglPSwR3xN6LSlD1Ml7T2W75SMQS15XBnrW1J-cPC5NbCgj=
+W6Bnr5h2GjdY7W4w-XJl8X6tvnW89FSf13bX54wW45J58Q1xk3mzN3Sy05hRv_GHW5jyKY-5Mwp=
+78W8gXLTP5v87FqN3wqwMwQyzd_W6Wtt_38kwnztW6WDZs82Fbxw0W7p-mhd8LhGSkW1QWtr18L=
+jV8dN137LWgh2X55W8MPB0T19dgQkW7kxVq11nFDP3N4CFySJsrxgQW7ZGKbC3Tc6tGN8KlY7Dd=
+zyM9V_02Wn5L9GJKW83BgmQ8F-JC13gR51" target=3D"_blank" rel=3D"noopener" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#00a0d=
+c; text-decoration:underline" data-hs-link-id=3D"0">Services</a>&nbsp;&nbsp=
+;|&nbsp;&nbsp;<a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2N6=
+23g1-LPzfW78L4Hk4jjZPzN5r_RRy3p_9rV1-WJV7CgNLRW3hkrrV8hX1t1W8mnfFP6M2VkWW65=
+GM1f5QqG_tW5z6YQR6JtzjgV3czLh8JwXT5W4X0jyd6skMXDW8-Ftfh39qy9WW6NfwFs6MctlkV=
+38Sg21F_ByLW9lm9x18qzR0_VV4KTc2KJQPMW686NxH5t5VY8W2zZBNK4qjwxlW4g4jDD1DCChS=
+W2myMrb7W5cggW4y1fqL16sBZWW1ryx-64fH33BW1hBcS85ZhCk-W2PbK273XZcfjW8KyrQs4Jx=
+f29W1Z8t3X8kXyDlN9jrLJ8VjxGYVJ6LKk6BcwSGN87xLJsMYmVlW17S4FW1WkKk-W3rdRHZ7qb=
+D_23fhZ1" target=3D"_blank" rel=3D"noopener" style=3D"-webkit-text-size-adj=
+ust:100%; -ms-text-size-adjust:100%; color:#00a0dc; text-decoration:underli=
+ne" data-hs-link-id=3D"0">Plans</a></p></div></div>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D"social-wrapper =
+column" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; =
+mso-table-lspace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; =
+padding:0; font-family:'Roboto', Arial, sans-serif; font-size:15px; line-he=
+ight:1.5em; color:#221F20" align=3D"left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important">
+    <tbody><tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+                <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#ffffff" class=3D" columnContentTable" bgcolor=
+=3D"#ffffff"><tbody><tr><td align=3D"left" valign=3D"top" class=3D"columnCo=
+ntent widget-span widget-type-custom_widget" style=3D"-webkit-text-size-adj=
+ust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace=
+:0pt; padding-top:20px; padding-right:20px; padding-bottom:20px; padding-le=
+ft:20px; text-align:left; padding:0; font-family:'Roboto', Arial, sans-seri=
+f; font-size:15px; line-height:1.5em; color:#221F20; padding:30px" data-wid=
+get-type=3D"custom_widget">
+<div class=3D"layout-widget-wrapper">
+<div id=3D"hs_cos_wrapper_module_1596182227578419" class=3D"hs_cos_wrapper =
+hs_cos_wrapper_widget hs_cos_wrapper_type_module" style=3D"color: inherit; =
+font-size: inherit; line-height: inherit;" data-hs-cos-general-type=3D"widg=
+et" data-hs-cos-type=3D"module"><table class=3D"social-icon-wrapper" role=
+=3D"presentation" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"100%" bgcolor=3D"#ffffff" style=3D"-webkit-text-size-adjust:100%; -ms-text=
+-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-colla=
+pse:collapse !important">
+  <tbody>
+    <tr>
+      <td align=3D"center" valign=3D"middle" class=3D"social-icon-inner mob=
+ilePaddingLR20" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjus=
+t:100%; mso-table-lspace:0pt; mso-table-rspace:0pt">
+        <table align=3D"center" width=3D"300" cellpadding=3D"0" cellspacing=
+=3D"0" border=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-a=
+djust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:col=
+lapse !important">
+          <tbody>
+            <tr>
+              <td align=3D"center" valign=3D"middle" class=3D"social-icon" =
+style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tabl=
+e-lspace:0pt; mso-table-rspace:0pt; padding:0px 15px 0px 15px">
+                <a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2=
+N623g1-LPzfW78L4Hk4jjZPzN5r_RRf3p_97V1-WJV7CgQ8yVTm6Xn30T-DZW16rPHZ45nqhZW1=
+FCK3d86fnYFW4t-vnx24WnD_W7KH-cb2CW8PQW50BjYw1NJRjhW6SW3-653k6sFW3V2ycf6QFhh=
+FW76Ky-k87r2vkW47JbhY443KtrW7dFv2K4ZgdV4W1ZjzP65BnR3yN6v67QSCY8n0W9520cm1q2=
+hy9W6wspKw3K9Y60W67TZwz1DvjqkW4NwX2C5qX-ryW1sH9xJ8fWcd3W91xHNv6LQqd9W4V4yhs=
+69FzC4W1KG0JD3Gv8bXW4sWn-05v80pjW8pynRD5zt-nQW2bznBL8GGCmH35D11" target=3D"=
+_blank" border=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"0=
+">
+                  <img src=3D"https://f.hubspotusercontent00.net/hub/716285=
+6/hubfs/Data_Axle_July2020_Theme/Images/icon_fb.png?width=3D90&amp;height=
+=3D90&amp;upscale=3Dtrue&amp;name=3Dicon_fb.png" alt=3D"Facebook" height=3D=
+"45" width=3D"45" border=3D"0" style=3D"vertical-align:bottom; -ms-interpol=
+ation-mode:bicubic; max-width:100%; width:45px" srcset=3D"https://f.hubspot=
+usercontent00.net/hub/7162856/hubfs/Data_Axle_July2020_Theme/Images/icon_fb=
+.png?upscale=3Dtrue&amp;width=3D90&amp;height=3D90&amp;upscale=3Dtrue&amp;n=
+ame=3Dicon_fb.png 45w, https://f.hubspotusercontent00.net/hub/7162856/hubfs=
+/Data_Axle_July2020_Theme/Images/icon_fb.png?upscale=3Dtrue&amp;width=3D180=
+&amp;height=3D180&amp;upscale=3Dtrue&amp;name=3Dicon_fb.png 90w" sizes=3D"(=
+max-width: 45px) 100vw, 45px"></a>
+              </td>
+              <td align=3D"center" valign=3D"middle" class=3D"social-icon" =
+style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tabl=
+e-lspace:0pt; mso-table-rspace:0pt; padding:0px 15px 0px 15px">
+                <a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2=
+N623g1-LPzfW78L4Hk4jjZPzN5r_RRf3p_97V1-WJV7CgYwjW6cKNTN540HGbW4mVb2j7bgbwQW=
+7wM1163Ys6y6W7VH57v56Q3LHN21czD4JPr9cW6Z9s0b2G8F8lW1T01Gt8bD8BwW8f8Dfq90wrt=
+mW2-wNTm4XJ0llW9jmtmP5KklcrW7pkfjf2zY4WcW1Nq2PZ7F-LkpW283yxn76370cW3QFb8s5v=
+Tv5jW7Z-M5m5p_JdyVlZ9vs8Bcc7TW7pmyFs2_MYGGW8LK0r76f5VDyVxKfH_7zXKVZW1Z-4rJ1=
+_H9Z7W4XfvCN73N0yKW8228XY1QZWjsW46-C7D7fGl9wW5-ft_84_jpy_3qqT1" target=3D"_=
+blank" border=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-a=
+djust:100%; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"0"=
+>
+                  <img src=3D"https://f.hubspotusercontent00.net/hub/716285=
+6/hubfs/Data_Axle_July2020_Theme/Images/icon_in.png?width=3D90&amp;height=
+=3D90&amp;upscale=3Dtrue&amp;name=3Dicon_in.png" alt=3D"Linkedin" height=3D=
+"45" width=3D"45" border=3D"0" style=3D"vertical-align:bottom; -ms-interpol=
+ation-mode:bicubic; max-width:100%; width:45px" srcset=3D"https://f.hubspot=
+usercontent00.net/hub/7162856/hubfs/Data_Axle_July2020_Theme/Images/icon_in=
+.png?upscale=3Dtrue&amp;width=3D90&amp;height=3D90&amp;upscale=3Dtrue&amp;n=
+ame=3Dicon_in.png 45w, https://f.hubspotusercontent00.net/hub/7162856/hubfs=
+/Data_Axle_July2020_Theme/Images/icon_in.png?upscale=3Dtrue&amp;width=3D180=
+&amp;height=3D180&amp;upscale=3Dtrue&amp;name=3Dicon_in.png 90w" sizes=3D"(=
+max-width: 45px) 100vw, 45px"></a>
+              </td>
+              <td align=3D"center" valign=3D"middle" class=3D"social-icon" =
+style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tabl=
+e-lspace:0pt; mso-table-rspace:0pt; padding:0px 15px 0px 15px">
+                <a href=3D"https://send.data-axle.com/e2t/tc/VXjkd75227_ZW2=
+N623g1-LPzfW78L4Hk4jjZPzN5r_RQZ3p_8SV1-WJV7CgzMpW6-nt8j8CDFtcW5D77VS4YYm8cW=
+5qQ02X2g9B9hW8Y7XVN7CYg0nN8QlmM7tjk_WW64LLbP5K5DwCW12t5pp8d8p1-W7b-KWW6BSqn=
+zW18YV3F4_3z5jVBvtgP3MJSymV8TCL165WrmxW10JVnj4tsk8LW8klcch5hz-3FW2pp5NJ4T12=
+ZFW5TFLB_5DB2B-W1K8BpQ3NWtbCW55cFK-43TgG_VbCkCr2VnLFhVx-sJL5WgnS3W47Hdw53Lj=
+XvYW3VpC1F8HWBw4W1dND8288Ffg7373_1" target=3D"_blank" border=3D"0" style=3D=
+"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; color:#00a0dc; t=
+ext-decoration:underline" data-hs-link-id=3D"0">
+                  <img src=3D"https://f.hubspotusercontent00.net/hub/716285=
+6/hubfs/Data_Axle_July2020_Theme/Images/icon_tw.png?width=3D90&amp;height=
+=3D90&amp;upscale=3Dtrue&amp;name=3Dicon_tw.png" alt=3D"Twitter" height=3D"=
+45" width=3D"45" border=3D"0" style=3D"vertical-align:bottom; -ms-interpola=
+tion-mode:bicubic; max-width:100%; width:45px" srcset=3D"https://f.hubspotu=
+sercontent00.net/hub/7162856/hubfs/Data_Axle_July2020_Theme/Images/icon_tw.=
+png?upscale=3Dtrue&amp;width=3D90&amp;height=3D90&amp;upscale=3Dtrue&amp;na=
+me=3Dicon_tw.png 45w, https://f.hubspotusercontent00.net/hub/7162856/hubfs/=
+Data_Axle_July2020_Theme/Images/icon_tw.png?upscale=3Dtrue&amp;width=3D180&=
+amp;height=3D180&amp;upscale=3Dtrue&amp;name=3Dicon_tw.png 90w" sizes=3D"(m=
+ax-width: 45px) 100vw, 45px"></a>
+              </td>
+              <td align=3D"center" valign=3D"middle" class=3D"social-icon" =
+style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-tabl=
+e-lspace:0pt; mso-table-rspace:0pt; padding:0px 15px 0px 15px">
+                <a href=3D"mailto:customerservice@credit.net" target=3D"_bl=
+ank" border=3D"0" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adj=
+ust:100%; color:#00a0dc; text-decoration:underline" data-hs-link-id=3D"2">
+                  <img src=3D"https://f.hubspotusercontent00.net/hub/716285=
+6/hubfs/Automated%20email%20programs/ContactUs.png?width=3D90&amp;height=3D=
+90&amp;upscale=3Dtrue&amp;name=3DContactUs.png" alt=3D"Email" height=3D"45"=
+ width=3D"45" border=3D"0" style=3D"vertical-align:bottom; -ms-interpolatio=
+n-mode:bicubic; max-width:100%; width:45px" srcset=3D"https://f.hubspotuser=
+content00.net/hub/7162856/hubfs/Automated%20email%20programs/ContactUs.png?=
+upscale=3Dtrue&amp;width=3D90&amp;height=3D90&amp;upscale=3Dtrue&amp;name=
+=3DContactUs.png 45w, https://f.hubspotusercontent00.net/hub/7162856/hubfs/=
+Automated%20email%20programs/ContactUs.png?upscale=3Dtrue&amp;width=3D180&a=
+mp;height=3D180&amp;upscale=3Dtrue&amp;name=3DContactUs.png 90w" sizes=3D"(=
+max-width: 45px) 100vw, 45px"></a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div><!--end layout-widget-wrapper -->
+</td></tr></tbody></table><!--end widget-table -->
+       </td>
+               </tr>
+        </tbody></table>
+       </td>
+   </tr>
+</tbody></table>
+</td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top" class=3D"bodyContent" width=3D"100%" cols=
+pan=3D"12" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100=
+%; mso-table-lspace:0pt; mso-table-rspace:0pt; color:#221f20; font-family:s=
+ans-serif; font-size:15px; line-height:150%; text-align:left">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" clas=
+s=3D"templateColumnWrapper" style=3D"-webkit-text-size-adjust:100%; -ms-tex=
+t-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-coll=
+apse:collapse !important">
+            <tbody><tr>
+<td valign=3D"top" colspan=3D"12" width=3D"100.0%" class=3D" column" style=
+=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt; width:100.0%; text-align:left; padding:0; fo=
+nt-family:'Roboto', Arial, sans-serif; font-size:15px; line-height:1.5em; c=
+olor:#221F20" align=3D"left">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-ls=
+pace:0pt; mso-table-rspace:0pt; border-collapse:separate !important; border=
+-spacing:0; background-color:#221F20" class=3D"footer-info columnContentTab=
+le" bgcolor=3D"#221F20"><tbody><tr><td align=3D"left" valign=3D"top" class=
+=3D"columnContent widget-span widget-type-email_can_spam" style=3D"-webkit-=
+text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso=
+-table-rspace:0pt; padding-top:20px; padding-right:20px; padding-bottom:20p=
+x; padding-left:20px; text-align:left; padding:0; font-family:'Roboto', Ari=
+al, sans-serif; font-size:15px; line-height:1.5em; color:#221F20; padding:5=
+0px 30px 70px; color:#ffffff" data-widget-type=3D"email_can_spam">
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; font-family:'Roboto', Arial, sans-serif; margin:0; font-weig=
+ht:400; text-align:center; font-size:12px; line-height:16px; color:#221f20;=
+ padding:0 0 15px" align=3D"center"><span style=3D"color: #ffffff;">Copyrig=
+ht =C2=A9 =E2=80=8C2020 =E2=80=8CData Axle </span><br><span style=3D"color:=
+ #ffffff;">=E2=80=8CData Axle &nbsp;=E2=80=8C13155 Noel Rd #1750 &nbsp;=E2=
+=80=8C &nbsp;=E2=80=8CDallas &nbsp;=E2=80=8CTX &nbsp;=E2=80=8C75240 &nbsp;=
+=E2=80=8C</span><br><span style=3D"color: #ffffff;"></span></p>
+<p style=3D"margin-bottom: 1em; -webkit-text-size-adjust:100%; -ms-text-siz=
+e-adjust:100%; font-family:'Roboto', Arial, sans-serif; margin:0; font-weig=
+ht:400; text-align:center; font-size:12px; line-height:16px; color:#221f20;=
+ padding:0" align=3D"center"><span style=3D"color: #ffffff;"><a href=3D"htt=
+ps://send.data-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RR=
+y3p_9rV1-WJV7CgL5kW7vnYTQ3GkJNFW3Qksnt71Q7J0W8-bSPt6yqDLsW73QVSJ3FsBdvW8Xv6=
+4T3mcclkW1r-4pt6FPhRJW24hR7v565lq1W28tlDp8BzxhpW6pjsgV6D9gdMW7Pq0Md75QJPgW3=
+ZkXPB8sb66pV5JRkH70c5VlVY4BfX24cjW_W29ZycB1Zxsp2W53lBv531ylXjW1H-GRP8PrcwhW=
+20hxkR60NSCHW5x70wm5f0y63W3N1kgz5WBP-bVtyWTV7cdqNzVnmWp81jT3jlW8xLB0G16s_NB=
+W588Qrc5jHKN0W1BW44D56VVpGW3lfX7x6BBSHnW175Ttf7Z73pD3j9k1" target=3D"_blank=
+" rel=3D"noopener" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-ad=
+just:100%; text-decoration:underline; color:#ffffff" data-hs-link-id=3D"3">=
+Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D"https://send.data-axl=
+e.com/hs/manage-preferences/unsubscribe-all?d=3DVnchfl74hNZ4VFjGKF3T3l53W3Z=
+Vc6K43YfrpW43T2NL4MccCgW17f7hv79_h3BW8d-Z6c5l4cshW5G8J6q8SmYfzV28P2t5yPkJxM=
+GKd_P20N5BW1gdVK95xTjCnW76tb3426d17_4xwPl1&amp;v=3D3&amp;utm_campaign=3DCre=
+dit%20-%20Active%20Customers&amp;utm_source=3Dhs_email&amp;utm_medium=3Dema=
+il&amp;utm_content=3D99728884&amp;_hsenc=3Dp2ANqtz--uLlc795qBRjVVn7N1PpoxVv=
+s4QW_QflVeUGKXvuu5LBeahXbQPWCcQ4RL9eBOkayEP3rhKMyAmshflH_XKd2Cc8TF4g&amp;_h=
+smi=3D99728884" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjus=
+t:100%; text-decoration:underline; color:#ffffff" data-hs-link-id=3D"0" tar=
+get=3D"_blank">Unsubscribe</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href=3D"https://s=
+end.data-axle.com/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RRy3p_9r=
+V1-WJV7CgCNvW3S7bS67rPbsYW465PjX2ZbY3SW2Yl-8010tr1rVMc2G58s0lB_W4PFNpg4zS3k=
+RW3qb3bf6mWzNRW4H6nXX6Wzg3GW9hptTB3490_HW5GWjX36m_zlDN5cPmYYT-2Q9W88DVCN3Br=
+pfdW8pBMLQ8870mBN15LTp0-wyT4W6tKK385hF3wtW53GydR20Wrg0W1jhygs225lMTW91Y9DC7=
+TRlx9VZD1Lm8XqN2kW1rbfBh2kP0NJW51Kl686WJF27W3WkNyF29yRDWW2LJM_180HmgCW8_cWk=
+S7tCwfvW5MxS8D37wDsZW4FwtvQ3bYc3lN8qM_TgGCv4P3hCq1" target=3D"_blank" rel=
+=3D"noopener" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-adjust:=
+100%; text-decoration:underline; color:#ffffff" data-hs-link-id=3D"4">Forwa=
+rd</a>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href=3D"https://send.data-axle.com=
+/e2t/tc/VXjkd75227_ZW2N623g1-LPzfW78L4Hk4jjZPzN5r_RQG5nxGLV3Zsc37CgK9JW7sYK=
+pD7G9BJcW5b6Drk1Ly69NW8WxVBd1zhdxQW2NHbGL3cFZcXVlhXvZ76k_-CW6Bp3Sy61v4xdW2r=
+tJHJ6nSwS6W1nktZQ30l8w1W3V3GRB5r84BLW98kYBN3pxTZBW5d2Lwz6WXMr2W3Mqxp787HsJ7=
+W2g6CRy7V013JW6PC-pQ9cxhtMVY-1WD3Qf-LYW3jkCSb2q0Bp8W5cDVyl176JVqN2cKPpgM4Tx=
+5W3Nw7Qj2pqqXgVlpYqD1tVzmBVW5j7W7cTggQW1ttNw-67Hq1KVVsgN-8p_jXTW3_q2np7dLjz=
+vW72c5ZV7MVPLPN85F7HPt1XsgW7xMn855gZ7f4W2CfSnv1syfTQW8tPhGv4ZkV-3W1h_htB8dF=
+qqcW2KlX7380mpvDW6J8VPX2599-lW4vzVql7TTP5rW7LT4RQ38q6QYW1Q0RLG1-LZHqW7B_L1C=
+8nxxH73pxs1" rel=3D"noopener" style=3D"-webkit-text-size-adjust:100%; -ms-t=
+ext-size-adjust:100%; color:#221f20; text-decoration:underline" data-hs-lin=
+k-id=3D"1" target=3D"_blank"><span style=3D"color: #ffffff;">Web View</span=
+></a></p>
+</td></tr></tbody></table><!--end widget-table -->
+   </td>
+           </tr>
+    </tbody></table>
+   </td>
+</tr>
+<!--end body wrapper -->
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Wrapper -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align=3D"center" valign=3D"top" style=3D"-w=
+ebkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0p=
+t; mso-table-rspace:0pt">
+                                <!-- Begin Template Footer -->
+                                <div class=3D"footer-container-wrapper">
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" id=3D"footerTable" style=3D"-webkit-text-size-adjust:100%; -ms-text-size-=
+adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:co=
+llapse !important; background-color:#f0f4f8; color:#999999; font-family:san=
+s-serif; font-size:12px; line-height:120%; padding-top:20px; padding-right:=
+20px; padding-bottom:20px; padding-left:20px; text-align:center" bgcolor=3D=
+"#f0f4f8" align=3D"center">
+                                    <!--end footer wrapper -->
+                                    <tbody><tr>
+                                        <td style=3D"-webkit-text-size-adju=
+st:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:=
+0pt"></td>
+                                    </tr>
+                                </tbody></table>
+                                <!-- End Template Footer -->
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    <!-- End Template Container -->
+                </td>
+            </tr>
+        </tbody></table>
+   =20
+<!-- end coded_template: id:37403159989 path:generated_layouts/37403159988.=
+html -->
+<img src=3D"https://send.data-axle.com/e2t/to/VXjkd75227_ZW2N623g1-LPzfW78L=
+4Hk4jjZPzf5r_Rz_22" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D=
+"display:none!important;min-height:1px!important;width:1px!important;border=
+-width:0!important;margin-top:0!important;margin-bottom:0!important;margin-=
+right:0!important;margin-left:0!important;padding-top:0!important;padding-b=
+ottom:0!important;padding-right:0!important;padding-left:0!important"></bod=
+y></html>
+------=_Part_1156210_1117409931.1605209000600--
+

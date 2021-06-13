@@ -1,0 +1,608 @@
+Return-Path: <bounce-208_HTML-129974309-297717-1370143-747@bounce.e.lowesforpros.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id kJYjHzAHwV/8iAoAi5QuQQ
+	(envelope-from <bounce-208_HTML-129974309-297717-1370143-747@bounce.e.lowesforpros.com>)
+	for <chris@alednow.com>; Fri, 27 Nov 2020 08:03:28 -0600
+Return-path: <bounce-208_HTML-129974309-297717-1370143-747@bounce.e.lowesforpros.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Fri, 27 Nov 2020 08:03:28 -0600
+Received: from mta.e.lowesforpros.com ([68.232.206.85]:39647)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounce-208_HTML-129974309-297717-1370143-747@bounce.e.lowesforpros.com>)
+	id 1kieLQ-002vGJ-B7
+	for chris@alednow.com; Fri, 27 Nov 2020 08:03:28 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=e.lowesforpros.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:
+ X-CSA-Complaints:Message-ID:Content-Type; i=lowes@e.lowesforpros.com;
+ bh=XJtP/oj+4CJdAhr5dHzCfjPT9ejxxXNz56DrRzwfWzo=;
+ b=oBVHPIvp3FDaTNFzUA3FBE6k94E2amu1q/tAKo9yEUjxe854CsFyNcVRUE3RAjhC0v8V/gqKSXpB
+   Jpp9hzQfZ63Q1F1gNliTGjBs12L2LBv/8fiUHX6OMtibN30n8Fb1M5JZvHFCiJjOFhB7B94y8sJ0
+   sLrH0UcHmb5A7UCD2gc=
+Received: by mta.e.lowesforpros.com id ho43io2fmd4m for <chris@alednow.com>; Fri, 27 Nov 2020 14:03:13 +0000 (envelope-from <bounce-208_HTML-129974309-297717-1370143-747@bounce.e.lowesforpros.com>)
+From: "Lowe's For Pros" <lowes@e.lowesforpros.com>
+To: <chris@alednow.com>
+Subject: PROvember gets better with the Season of Savings.
+Date: Fri, 27 Nov 2020 08:03:13 -0600
+List-Unsubscribe: <mailto:leave-fd5116707d0b5c392848-fe2315727c6d0379761479-febe16797263057a-fe9c15737264057976-ff5d137472@leave.e.lowesforpros.com>
+MIME-Version: 1.0
+Reply-To: "Lowe's For Pros" <reply-febe16797263057a-208_HTML-129974309-1370143-747@e.lowesforpros.com>
+List-ID: <1059618.xt.local>
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SFMC-Stack: 4
+x-job: 1370143_297717
+Message-ID: <c0b6c87b-fb0d-4447-a41e-34a4a714a56d@las1s04mta948.xt.local>
+Content-Type: multipart/alternative;
+	boundary="cYFA7fzWKtBj=_?:"
+
+This is a multi-part message in MIME format.
+
+--cYFA7fzWKtBj=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+View Web Version: 
+https://view.e.lowesforpros.com/?qs=56bd8869cbe4b7b39dfc329d88e8cefc1658093ba9cdcf64738dee978be54c7c6848a2de5db1006f6904431ded718903c54caf0bf4ae800e55008ffac44ca3a6
+
+Unfortunately, your email client cannot display HTML or your 
+settings are turned off. To view this email, please copy and 
+paste the link above into your browser.
+
+======================================================================
+
+This Newsletter is intended for: chris@alednow.com 
+
+Click here to unsubscribe.
+https://click.e.lowesforpros.com/?qs=da04c6a730605394572d33fb696722fd12e3bb137eb59c2bf5b32e2db4e426a4dea4054b497e9ead1b7ae2c81553356a235e2b5e60f9f53686164a35701d44b9
+
+You can also contact us here.
+https://click.e.lowesforpros.com/?qs=da04c6a7306053945ec293aab29d81bbeb071f9ab42607b6b2c132ff684d02857b79fc47a96bac489a16b02710f9e5cd7ead51fa984e47ae
+
+Lowe's Companies, Inc.
+1000 Lowe's Blvd. Mooresville, NC 28117. 
+
+View our Privacy Statement.
+https://click.e.lowesforpros.com/?qs=da04c6a730605394402d99b01e19b7bec10df6931faa6e8be5d4ffa94edf7a601f0f9d5194cc3800c8f3f62587f9f03d0c6e71c61802e7ea
+
+(C) 2020 Lowe's. Lowe's, Gable Mansard Design, and Never Stop Improving are registered trademarks of LF, LLC.
+
+--cYFA7fzWKtBj=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:v="urn:schemas-microsoft-com:vml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+    <meta name="x-apple-disable-message-reformatting" />
+    <!--[if !mso]><!-->
+    <style type="text/css">
+      @font-face{
+        font-family:'DIN Next';
+        src:local('DIN Next'), local('DIN Next'), url('https://www.lowescdn.com/scaffold/1.4.4/fonts/din/din-next.woff') format('woff');
+      }
+      @font-face{
+        font-family:'DIN Next Bold';
+        src:local('DIN Next Bold'), local('DIN Next Bold'), url('https://www.lowescdn.com/scaffold/1.2.0/fonts/din/din-next-bold.woff') format('woff');
+      }
+      @font-face{
+        font-family:'DIN Next Black';
+        src:local('DIN Next Black'), local('DIN Next Black'), url('https://www.lowescdn.com/scaffold/1.2.0/fonts/din/din-next-black.woff') format('woff');
+      }
+    </style>
+    <!--<![endif]-->
+    <style type="text/css">
+      v\:* {
+        behavior: url(#default#VML);
+        display: inline-block;
+      }
+      .ReadMsgBody{
+        width: 100%;
+      }
+      /* Forces Hotmail to display emails at full width */
+      .ExternalClass {
+        width: 100%;
+      }
+      /*Hotmail table centering fix*/
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {
+        line-height: 100%;
+      }
+      /* Forces Hotmail to display normal line spacing*/
+      .ExternalClass * {
+        line-height: 100%}
+      p {
+        margin: 1em 0;
+      }
+      /*Yahoo paragraph fix*/
+      table td {
+        border-collapse: collapse;
+      }
+      /*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+      /*This resolves the issue when iphone puts links on dates, etc.*/
+      .appleLinks a {
+        color: #000001;
+        text-decoration: none;
+      }
+      .appleLinksBlack a {
+        color: #000001;
+        text-decoration: none;
+        line-height: 100%;
+      }
+      .appleLinksGray a {
+        color: #888888;
+        text-decoration: none;
+      }
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+      @-ms-viewport{
+        width: device-width;
+      }
+      a.mobileshow, .mobilehide {
+        display: none;
+        color: #fff;
+        /*for Gmail */
+      }
+      /* Media query triggers alternate styles when the file is displayed on a device with a maximum width lower than the assigned pixel dimension. The default max width setting for max-width should be 480px to trigger on mobile devices. */
+      @media only screen and (min-device-width : 451px) and (max-width: 736px) {
+        html,body {
+          width: 100%;
+          overflow-x: hidden;
+        }
+        body[yahoo] .container {
+          width:100% !important;
+        }
+        body[yahoo] .photo {
+          width:100% !important;
+          height:auto !important;
+        }
+        body[yahoo] .tablet-hidden {
+          display:none !important;
+        }
+        body[yahoo] .drop {
+          width:100% !important;
+          display:block !important;
+        }
+        body[yahoo] .drop-social {
+          width:100% !important;
+          display:block !important;
+          text-align:center !important;
+          padding:0px !important;
+        }
+        body[yahoo] .center {
+          text-align:center !important;
+        }
+        body[yahoo] .center50 {
+          width:50% !important;
+          padding-right:10px !important;
+          padding-left:10px !important;
+        }
+        body[yahoo] .drop-center {
+          width:100% !important;
+          display:block !important;
+          text-align:center !important;
+        }
+        body[yahoo] .Full100 {
+          width:100% !important;
+          height:auto!important;
+          line-height:normal!important;
+        }
+        body[yahoo] .Full80 {
+          width:80% !important;
+          height:auto!important;
+          line-height:normal!important;
+          text-align: center!important;
+          padding-right:10px !important;
+          padding-left:10px !important;
+        }
+        body[yahoo] .Full50 {
+          width:50% !important;
+          height:auto!important;
+          line-height:normal!important;
+          text-align: center!important;
+        }
+        body[yahoo] .Full30 {
+          width:30% !important;
+          height:auto!important;
+          line-height:normal!important;
+          text-align: center!important;
+        }
+        body[yahoo] .PHTmobileText {
+          font-size: 100% !important;
+          text-align: left!important;
+        }
+        body[yahoo] .VAWPmobileText {
+          font-size: 100% !important;
+          text-align: right!important;
+        }
+        body[yahoo] .sub_nav {
+          display: table-cell !important;
+          width: auto !important;
+          height: auto !important;
+          float: none !important;
+          overflow: auto !important;
+          line-height:normal !important;
+          font-size:15px !important;
+          background-color: #f2f2f2 !important;
+        }
+        body[yahoo] .sub_nav_bottom {
+          border-bottom:2px solid #ffffff;
+          display: table-cell !important;
+          width: auto !important;
+          height: auto !important;
+          float: none !important;
+          overflow: auto !important;
+          line-height:normal !important;
+          font-size:15px !important;
+        }
+        body[yahoo] .sub_nav_top {
+          display: table-cell !important;
+          width: auto !important;
+          height: auto !important;
+          float: none !important;
+          overflow: auto !important;
+          font-size:18px !important;
+          line-height:30px !important;
+        }
+        body[yahoo] .tablet-only {
+          display: block !important;
+          max-height: none !important;
+        }
+      }
+      @media only screen and (max-width: 450px) {
+        /* Resets the width of the body content. Called container simply because it's the bucket the rest of the content sits inside. */
+        body[yahoo] .container1 {
+          width:100% !important;
+          max-width:100% !important;
+        }
+        body[yahoo] .Full80 {
+          width:80% !important;
+          max-width:80% !important;
+          height:auto!important;
+          line-height:normal!important;
+          text-align: center!important;
+          padding-right:10px !important;
+          padding-left:10px !important;
+        }
+        body[yahoo] .PHTmobileText {
+          font-size: 100% !important;
+          text-align: left!important;
+        }
+        body[yahoo] .VAWPmobileText {
+          font-size: 100% !important;
+          text-align: right!important;
+        }
+        body[yahoo] .mobile-hidden {
+          display:none !important;
+        }
+        body[yahoo] .mobile-photo {
+          width:100% !important;
+          height:auto !important;
+        }
+        body[yahoo] .no-padding {
+          padding:0px !important;
+        }
+        body[yahoo] .mobile-only {
+          display: block !important;
+          max-height: none !important;
+        }
+        body[yahoo] .mobile-padding {
+          padding-right:15px !important;
+        }
+        body[yahoo] .mobile-padding2 {
+          padding-left:15px !important;
+        }
+      }
+      /*Liveclicker responsive video styles*/
+      /*Android devices*/
+      @media only screen and (max-device-width: 480px) {
+        div.lc-video{
+          width:100%!important;
+          height:auto!important;
+        }
+      }
+      /* iPhone 5 - Portrait */
+      @media only screen and (device-width: 320px) {
+        div.lc-video {
+          width: 320px;
+          min-width: 320px;
+          height: 180px;
+        }
+      }
+      /* iPhone 6 - Portrait */
+      @media only screen and (device-width: 375px) {
+        div.lc-video {
+          width: 375px;
+          min-width: 375px;
+          height: 211px;
+        }
+      }
+      /* iPhone 6+ - Portrait */
+      @media only screen and (device-width: 414px) {
+        div.lc-video {
+          width: 414px;
+          min-width: 414px;
+          height: 233px;
+        }
+      }
+      /* iPhone 5 - Landscape */
+      @media only screen and (width: 568px) {
+        div.lc-video {
+          width: 568px;
+          min-width: 586px;
+          height: 320px;
+        }
+      }
+      /* iPhone 6 - Landscape */
+      @media only screen and (width: 667px) {
+        div.lc-video {
+          width: 600px;
+          min-width: 600px;
+          height: 338px;
+        }
+      }
+      /* iPhone 6+ - Landscape */
+      @media only screen and (width: 736px) {
+        div.lc-video {
+          width: 600px;
+          min-width: 600px;
+          height: 338px;
+        }
+      }
+      /*Liveclicker responsive livereveal styles*/
+      @media only screen and (max-width: 480px) {
+        .liveclicker-dimensions, .liveclicker-livereveal>a>img, .liveclicker-livereveal-fallback>img {
+          display: inline-block;
+          min-width: 50%;
+          max-width: 100%;
+          width: calc(480px * 480 — 100% * 480);
+        }
+      }
+      /*LiveTimer responsive style*/
+      @media (max-width:540px){
+        .img_mob img{
+          width:100%!important;
+          height:auto !important;
+        }
+      }
+      /*fix for responsive image*/
+    </style>
+    <title>Lowe's For Pros Email
+    </title>
+    
+  </head>
+  <body bgcolor="#ffffff" style="margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;" yahoo="fix">
+    <img src="https://click.e.lowesforpros.com/open.aspx?ffcb10-febe16797263057a-fe2e1770706604747d1270-fe9c15737264057976-ff6516707d-fe2315727c6d0379761479-ff5d137472&d=40117" width="1" height="1">
+      <!-- Table used to center email -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+        <tr>
+          <td align="center">
+            <div align="center">
+              <!-- Table used to set width of email -->
+              <table width="600" class="container" border="0" align="center" cellpadding="0" cellspacing="0" style="font-family:Arial, Helvetica, sans-serif">
+                <tr>
+                  <td>
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+					
+						<tr>
+							<td align="left" bgcolor="#ffffff" class="Full50 PHTmobileText" style="-webkit-text-size-adjust:none; vertical-align:top; font-family:Helvetica, Arial, sans-serif; font-size:12px; color:#666666; font-weight:normal; line-height: 14px; padding-left:10px; padding-top:10px; padding-bottom:10px; text-align:left;" valign="top" width="60%">
+								<a  href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3e2815009b65b99804347efa8b27d18d071fe9bae56de3e264d41b651bad17995db11b646de894ae0c0d0ba33c42e2a4982240bdb4b558c32" style="text-decoration:none; color:#666666;" target="_blank">Take advantage of Pro-grade savings on trusted brands while they last.</a></td><td align="right" class="Full50 VAWPmobileText" style="-webkit-text-size-adjust:none; vertical-align:top; font-family:Helvetica, Arial, sans-serif; font-size:12px; line-height: 14px; color: #888888; padding-top:10px; padding-bottom:10px; padding-right:10px;" width="40%">
+								<!---->View email as a <a href="https://view.e.lowesforpros.com/?qs=56bd8869cbe4b7b39dfc329d88e8cefc1658093ba9cdcf64738dee978be54c7c6848a2de5db1006f6904431ded718903c54caf0bf4ae800e55008ffac44ca3a6" style="color:#044090; text-decoration:none; font-weight:700; line-height:100%; mso-line-height:exactly;" target="_blank" title="View email as a webpage">webpage</a>.<!----></td></tr></table></td></tr><tr>
+			<td bgcolor="#012169">
+				<table bgcolor="#012169" border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+					
+						<tr>
+							<td bgcolor="#012169" height="25" style="padding-top: 21px;">
+								<table bgcolor="#012169" border="0" cellpadding="0" cellspacing="0" width="100%">
+									
+										<tr>
+											<td bgcolor="#012169" width="30">
+												<img alt="" border="0" class="mobile-hidden" height="68" src="https://image.e.lowes.com/lib/fe9515707364027471/m/37/spacer_20140709.gif" style="display:block" width="30"></td><td bgcolor="#012169" height="68" valign="bottom" width="242">
+												<a  href="https://click.e.lowesforpros.com/?qs=ef44984da56392b313da6817766de3d9abe60579bad05f04eebe186f4d3cb93fc322980de03891c310209e262cf1fa6bc72d4e61ab4aa343adbe4fd41f5f9fb3"><img alt="Lowe's Pro" border="0" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/8a7e3627-b3d2-48fe-b770-26fe03cfd3c7.png" style="display:block; color: #ffffff; font-family:Helvetica, Arial, sans-serif; font-size: 20px;" width="242"></a></td><td bgcolor="#012169" width="183">
+												<img alt="" border="0" class="mobile-hidden" height="58" src="https://image.e.lowes.com/lib/fe9515707364027471/m/37/spacer_20140709.gif" style="display:block" width="181"></td><td bgcolor="#012169" valign="bottom" width="96">
+												<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b30aaa767647cd5e8804b3c0171b4f5026561b8b9200519473ac7bc7e5c54bd952f2817376987f7d2f261e9a432c8337c6c41fbf68d7a119a6" title="My Account"><img alt="My Account" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/fe4b0d05-df40-471d-b8e8-77e8ec2552cc.png" style="display: block; padding: 0px; width: 100%; text-align: center; height: auto;" width="96"></a></td><td bgcolor="#012169" width="51">
+												<img alt="" border="0" class="mobile-hidden" height="58" src="https://image.e.lowes.com/lib/fe9515707364027471/m/37/spacer_20140709.gif" style="display:block" width="51"></td></tr></table></td></tr></table></td></tr><tr>
+			<td align="center" bgcolor="#012169" height="7" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; mso-line-height-rule:exactly; font-size: 0; padding-top: 16px;">
+				<img alt="" border="0" class="photo" data-assetid="24398" height="7" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/fd5f49d9-22ed-4aa7-9783-3127421a75f3.jpg" style="display: block; height: 7px; width: 600px; padding: 0px; text-align: center;" width="600"></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#012169" class="container" align="center">
+ <tr>
+     <td>
+      <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+       <tr>
+        <td width="20%" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color:#ffffff; padding-top: 10px; padding-bottom:10px;"><strong><a href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3147bdc8df2d74f0ad721882f845609956f526e49b49ac6305f482b449e500d028584b0e16a086da929adc58336c4d5da6d4470bbc1fc6e06" target="_blank"  style="text-decoration: none; color: #ffffff;">Bathroom</a></strong></td>
+        <td width="20%" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color:#ffffff;padding-top: 10px; padding-bottom:10px;"><strong><a href="https://click.e.lowesforpros.com/?qs=ef44984da56392b35ae78628b920d1d8e3b59c8a68f7f494e7d1bf24410521a3463bdd5a7432de400ebed7743e8f7d6b27bee04bf57d242170fee16563f5ad1a" target="_blank"  style="text-decoration: none; color: #ffffff;">Lighting</a></strong></td>
+        <td width="20%" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color:#ffffff;padding-top: 10px; padding-bottom:10px;"><strong><a href="https://click.e.lowesforpros.com/?qs=ef44984da56392b30594ff7ba228b31e2ee43a9a5b07614f4357bb3c9be292e76dd5dfbd8c8d954bb17a2bd265e7b9d11c78486ce0d9494e724630ce98893adb" target="_blank"  style="text-decoration: none; color: #ffffff;">Hardware</a></strong></td>
+        <td width="20%" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color:#ffffff;padding-top: 10px; padding-bottom:10px;"><strong><a href="https://click.e.lowesforpros.com/?qs=ef44984da56392b34f9eb1e9bc603a7bcfe08355bab3c5f1500a9247b3056a50de8c62edbe9686b506a5e519758c8a9c563381af3e7535df4913c9d2117ed6db" target="_blank"  style="text-decoration: none; color: #ffffff;">Tools</a></strong></td>
+        <td width="20%" align="center" valign="middle" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color:#ffffff;padding-top: 10px; padding-bottom:10px;"><strong><a href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3dce49c00a404e4c9df543a9a4e1580470b56e85ea285b3cd26ccca423d7fa85dbe574725a7d019283b234069b958ce5fc334b58345f82729" target="_blank"  style="text-decoration: none; color: #ffffff;">Flooring</a></strong></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+</table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3d77656c100743a55721e6be379aba22ce562592f9f97808ee9229c08121cbd7cc770ebf19fcdf662106ac7ca9f134cfa90f9f1411e0c3acb" title=""><img alt="Lowe's PROvember Season of Savings Event. Offers End 12/2." data-assetid="30172" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/50866a04-e79d-4188-b8c1-49a59f7db471.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3ad7fa87309d4fa8d75390fcbdd532bf6cb3030ce8df97c4230dbb4f7d57b77401a6ca541c66f496387c983c6aec675aff8a75820922b7207" title=""><img alt="Save big on appliance special values." data-assetid="30174" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/20c1ae59-0732-49b8-9406-c0fc3f367148.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3d5c245ee85124e2e2665e70750f2f5495d6f0477cf5f440bd8e980c0bef68710885b931041b8b69b7e81d1550601f3fcaf9ca84a7c68b8c5" title=""><img alt="Up to 30% off select lighting and ceiling fans." data-assetid="30170" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/fc784080-3e24-46fc-a02d-e196e7774679.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b330230c2ec27a3d1687b6e511f18e23cd9f62676afa75c41440a0fc71dd4130664fc0d28bf98fa4068ce83858f3960c6d36b7776a4b4ccda4" title=""><img alt="Up to 50% off select smart home holiday offers." data-assetid="30171" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/04f80603-d72f-4286-9133-e48250de512a.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3176d5ef378f359e823e12eb2e96c21ba01bdb03e6ced20359db2cca71678cfee2b099ca897bcb3f36a5a89c0842f357e53844126ddaa021e" title=""><img alt="Up to 40% off select tools and accessories." data-assetid="30173" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/b89b2f8c-b1ac-40bc-88df-7212237a6eac.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3938eb848cd32d39b1402f3c6348fb72e837161e463c48d071a243f4913818a6a994ab2ef8d8a8ace1f67ab75b1e17eba436440637426bb5d" title=""><img alt="Order online and choose store pickup." data-assetid="30168" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/8b87157e-e5fa-4d0c-9212-8f9b135b2d69.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="border: 0px solid transparent; background-color: transparent; min-width: 100%; " class="stylingblock-content-wrapper"><tr><td style="padding: 0px; " class="stylingblock-content-wrapper camarker-inner"><table border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td>
+				<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=ef44984da56392b32f42072685392cf9608d266bf8663394d4cc2e65c7deaae4b1d07c0c83c94fb60b0a2e3e22ffd783efe1c03f9429efecad5edbb194d3a322" title=""><img alt="Cyber Steals: One-Day Only, Online Only." data-assetid="30169" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/3d5fe43c-dbba-4dbb-a0eb-faadfe7864a5.jpg" style="display: block; padding: 0px; text-align: center; height: auto; width: 100%;" width="600"></a></td></tr></table></td></tr></table>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    <table cellpadding="0" cellspacing="0" width="100%" role="presentation" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table align="center" bgcolor="#012169" border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+	
+		<tr>
+			<td bgcolor="#012169" style="padding-top: 24px;">
+				<table bgcolor="#012169" border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+					
+						<tr>
+							<td bgcolor="#012169" style="padding-left: 19px;">
+							</td><td class="no-padding">
+								<table border="0" cellpadding="0" cellspacing="0" class="container" width="402">
+									
+										<tr>
+											<td align="center" bgcolor="#012169" height="18">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" width="402">
+													
+														<tr>
+															<td rowspan="2" style="padding-right:10px;">
+																<img alt="" border="0" data-assetid="24082" height="117" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/8/412f21ae-f995-4022-a0d9-45f5a5263bd9.jpg" style="display: block; color: #FFFFFF; padding: 0px; text-align: center; height: 117px; width: 94px;" width="94"></td><td style="padding-bottom: 10px;" valign="top">
+																<img alt="You have a dedicated Pro Team in store to help with your business needs." border="0" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/cac65ff0-d816-491b-b69f-8cf94c592439.png" style="display: block; color: #ffffff; width: 302px;" width="302"></td></tr><tr>
+															<td valign="top">
+																<table align="center" border="0" cellpadding="0" cellspacing="0" width="302">
+																	
+																		<tr>
+																			<td style="padding-left: 47px;">
+																				<!-- START BUTTON --><table width="100%">
+																					
+																						<tr>
+																							<td>
+																								<table align="left" border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+																									
+																										<tr>
+																											<td align="left" bgcolor="#F7CE3E">
+																												<table border="0" cellpadding="0" cellspacing="0" style="margin:0 auto;">
+																													
+																														<tr>
+																															<td align="center" bgcolor="#F7CE3E" width="150">
+																																<a  href="https://click.e.lowesforpros.com/?qs=ef44984da56392b3164d4decb83918689c7af5e392c5330f1e4f4324c20bd81ffbedf87edb47ac8cdbfae91bda507d49e6b3138d0f7ae384e8bd215e428aaeba" style="padding-top: 13px; padding-bottom: 13px; width:120px; display: block; text-decoration: none; text-align: center; font-size:14px; font-weight:bold; font-family: Helvetica, Arial, sans-serif; color: #012169; background: #F7CE3E; background-color: #F7CE3E; border: 1px solid #F7CE3E; line-height:14px;" title="START HERE">START HERE</a></td></tr></table></td></tr></table></td></tr></table><!-- END BUTTON --></td></tr></table></td></tr></table></td></tr><tr>
+											<td align="center" height="2" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; mso-line-height-rule:exactly; font-size: 0; padding-top: 18px; padding-bottom: 18px;">
+												<img alt="" border="0" class="photo" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/349d7b4c-aa2b-4001-bb42-012732388936.jpg" style="display:block;" width="562"></td></tr><tr>
+											<td align="center" bgcolor="#012169" style="padding-bottom:5px;">
+												<img alt="Lowe's Is a Proud Partner of the following associations" border="0" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/ca8d74dd-df20-43f9-943d-cfe7f2d37a45.png" style="display:block; width: 390px; padding-bottom: 6px; color: #ffffff;" width="390"></td></tr><tr>
+											<td align="center" height="12">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" width="360">
+													
+														<tr>
+															<td align="center" bgcolor="#012169" style="padding-right: 20px;" valign="bottom">
+																<a   href="https://click.e.lowesforpros.com/?qs=da04c6a730605394f1922df3fa68e82dcd3994633d113d25bc5c4621cea858b3478973738c28412f5ab88a2ee3ab5c6353118a12acf5e8b77d0130fdcc91bb8b" style="color: #ffffff;" title="NAHB"><img alt="NAHB" border="0" height="30" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/f3bd04f7-1282-4faf-892b-2b204999207f.png" style="display: block; padding: 0px; text-align: center; height: 30px; color: #ffffff;"></a></td><td align="center" bgcolor="#012169" style="padding-left: 20px; padding-right: 23px;" valign="bottom">
+																<a   href="https://click.e.lowesforpros.com/?qs=da04c6a730605394033a425d87fc9b4bf613145826b8645172268866d472df0cde58e4ccaafa8e1bdbd69e43e758e0fc7d970de89cb80200c9097f7762028393" style="color: #ffffff;" title="NAA"><img alt="NAA" border="0" height="20" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/f711c265-90d0-4674-856e-4904406279f6.png" style="display: block; padding: 0px; text-align: center; height: 20px; color: #ffffff;"></a></td><td align="center" bgcolor="#012169" valign="bottom">
+																<a   data-linkto="https://" href="https://click.e.lowesforpros.com/?qs=da04c6a730605394ed0b0ea3de661e9a9784c4c7f86766d2c62513df9effe7f2ab6a41664a5ebd910821743996870eba6f565d7a803aabc5e64266783d320d4f" style="color: #ffffff;" title="AAHOA"><img alt="AAHOA" border="0" height="30" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/7/6149f48a-6ee1-409e-b62f-36207c6e0283.png" style="display: block; padding: 0px; text-align: center; height: 30px; color: #ffffff;"></a></td></tr></table></td></tr><tr>
+											<td align="center" height="2" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; mso-line-height-rule:exactly; font-size: 0; padding-top: 18px; padding-bottom: 18px;">
+												<img alt="" border="0" class="photo" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/349d7b4c-aa2b-4001-bb42-012732388936.jpg" style="display:block;" width="562"></td></tr><tr>
+											<td align="left" height="12">
+												<table border="0" cellpadding="0" cellspacing="0" class="drop">
+													
+														<tr>
+															<td bgcolor="#012169" height="12" width="126">
+																<a  href="https://click.e.lowesforpros.com/?qs=da04c6a730605394f7618fb596cecb2477e39b075256cdbd373885308b0bf9c3e21320f2c5aeb286f973d3807a65dc1fe79e5cfe9fdc6dcf7aeb0432df9e39fb" style="color: #ffffff;" title="MANAGE SUBSCRIPTIONS"><img alt="MANAGE SUBSCRIPTIONS" border="0" height="12" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/156e3088-cbdb-4903-92b5-b5b4f2dfa789.png" style="display:block; color: #ffffff;" width="126"></a></td><td align="center" bgcolor="#012169" height="12" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: bold; padding-left:7px; padding-right:7px;" width="13">
+																|</td><td bgcolor="#012169" height="12" width="71">
+																<a  href="https://click.e.lowesforpros.com/?qs=da04c6a730605394e70562aad2554c42bd617dcb6801eecb987382f3ca600f100ffe973ab6b483596702afa479584f3173f3257949200d1d291646c0d5387e2c" style="color: #ffffff;" title="UNSUBSCRIBE"><img alt="UNSUBSCRIBE" border="0" height="12" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/b9b44b16-b13f-4928-a1d9-1fc16349391f.png" style="display:block; color: #ffffff;" width="71"></a></td><td align="center" bgcolor="#012169" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: bold; padding-left:7px; padding-right:7px;" width="13">
+																|</td><td bgcolor="#012169" height="12" width="63">
+																<a  href="https://click.e.lowesforpros.com/?qs=da04c6a73060539408aa1a52b6afe453ff0314ff2a6b7adfb4b66dffab65f524faeb2083aec181fb5a959cd17d38d171f9e5d45666c3123a5a15b95583ceb4ed" style="color: #ffffff;" title="CONTACT US"><img alt="CONTACT US" border="0" height="12" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/36883ae0-3344-4fce-a22e-11a57472d39f.png" style="display:block; color: #ffffff;" width="63"></a></td><td align="center" bgcolor="#012169" height="12" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; font-weight: bold; padding-left:7px; padding-right:7px;" width="13">
+																|</td><td bgcolor="#012169" height="12" width="84">
+																<a  href="https://click.e.lowesforpros.com/?qs=da04c6a73060539421e3a7c2b2d08c1325abb5d1cfa745273ab949a43ce4645852b4fdc9b36173d9b4baedec3340e844f9da04b1b43364105ee0b7cdad93a6cf" style="color: #ffffff;" title="FIND YOUR TEAM"><img alt="FIND YOUR TEAM" border="0" height="12" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/6ee08524-eaf4-4c25-aca0-c7554d7a7922.png" style="display:block; color: #ffffff;" width="84"></a></td></tr></table></td></tr><tr>
+											<td align="left" bgcolor="#012169" height="77" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; padding-top: 16px; padding-bottom: 16px;" valign="top">
+												<table border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+													
+														<tr>
+															<td align="left" bgcolor="#012169" height="77" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px;" valign="top">
+																This email is intended for <a href="#" style="color:#ffffff; font-weight:bold; text-decoration:none;">chris@alednow.com</a>.<br>
+																<br>
+																View our <a  href="https://click.e.lowesforpros.com/?qs=da04c6a730605394b5d32a5b7f4574194a9ac3fe4052f6f372a1479ac20a7308a5e7e6277820b0340e8592b63b89939faa23095833de104847e275ebc3a62666" style="color:#ffffff; font-weight:bold; text-decoration:none;" target="_blank" title="Privacy Statement">Privacy Statement</a>.<br>
+																<br>
+																Lowe's Companies, Inc. 1000 Lowe's Blvd. Mooresville, NC 28117.<br>
+																<br>
+																&copy; 2020 Lowe's. Lowe's, Gable Mansard Design are registered trademarks of LF, LLC.</td></tr></table></td></tr><tr>
+											<td align="left" bgcolor="#012169" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px; padding-bottom:12px;" valign="top">
+												<table border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+													
+														<tr>
+															<td align="left" bgcolor="#012169" style="color:#ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 12px;" valign="top">
+																<!--Legal Copy Goes Here-->While supplies last. Selection varies by location.</td></tr></table></td></tr><tr>
+											<td class="container" height="14" style="padding-bottom:34px;" width="100%">
+												<table border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+													
+														<tr>
+															<td class="Full50" height="24" style="font-size: 0px; line-height: 0px;" width="394">
+																<table border="0" cellpadding="0" cellspacing="0" class="container" height="24" width="100%">
+																	
+																		<tr>
+																			<td>
+																				<table border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+																					
+																						<tr>
+																							<td bgcolor="#012169" height="2" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; mso-line-height-rule:exactly; font-size: 0; padding-top: 18px; padding-bottom: 18px;">
+																								<img alt="" border="0" class="photo" height="2" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/4cc47add-0ecf-4674-a26e-f35e361a7908.jpg" style="display:block" width="394"></td></tr></table></td></tr></table></td><td bgcolor="#012169" class="Full50" style="padding-left: 5px;" width="199">
+																<table bgcolor="#012169" border="0" cellpadding="0" cellspacing="0" class="container" width="100%">
+																	
+																		<tr>
+																			<td bgcolor="#012169">
+																				<a  href="https://click.e.lowesforpros.com/?qs=da04c6a7306053943183d77e2c8319cc8530e256f760c47f7e88b2e0883284002a406b177c05810c4a519c303092683078663e173f7bba42" style="color: #ffffff;" title="SMS"><img alt="SMS" border="0" height="19" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/6/254a4506-67a1-4b8a-9d15-7417d9ff0e26.png" style="display: block; color: #ffffff;" width="36"></a></td><td bgcolor="#012169">
+																				<a  href="https://click.e.lowesforpros.com/?qs=da04c6a73060539459bc0e32e6e6476fe80d0d37baea5ad1dd706c6e346f1bd21b319db5d86b530954ca30a68d0ac468739605326281e8fe" style="color: #ffffff;" title="Facebook"><img alt="Facebook" border="0" height="24" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/41800ac3-6758-4058-9bbf-891d770f98e8.png" style="display: block; color: #ffffff;" width="31"></a></td><td bgcolor="012169">
+																				<a  href="https://click.e.lowesforpros.com/?qs=da04c6a73060539450911275f92b555981a3c3a24c3c243fa26fe3f6ad6e89548d7db5c885f4df87d9f622600786bcea698b7e0afda72fb6" style="color: #ffffff;" title="Twitter"><img alt="Twitter" border="0" height="24" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/0484c6dd-3cbb-4551-907a-a0a313f97a0b.png" style="display: block; color: #ffffff;" width="32"></a></td><td bgcolor="#012169">
+																				<a  href="https://click.e.lowesforpros.com/?qs=da04c6a7306053948268ffe61e8e1df6d0af7ffd6bc52644fac5c08694cffa34b6f2859352ccc3c7a07fa99da7f4066c52564ead8f135b83" style="color: #ffffff;" title="LinkedIn"><img alt="LinkedIn" border="0" height="24" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/54d929fb-4edd-4179-8c96-7559df0afc74.png" style="display: block; color: #ffffff;" width="29"></a></td><td bgcolor="#012169">
+																				<a  href="https://click.e.lowesforpros.com/?qs=da04c6a730605394b9897b44792d0b1764fde804a4145ea1113bd7dbf7701ffae61df91300bd6ca42ba2cef4cf4338d68becaa7912d391c0" style="color: #ffffff;" title="YouTube"><img alt="YouTube" border="0" height="24" src="https://image.e.lowesforpros.com/lib/fe9c15737264057976/m/3/016d5724-99b8-446d-8017-09f6fc34a740.png" style="display: block; color: #ffffff;" width="29"></a></td></tr></table></td></tr></table></td></tr></table></td><td bgcolor="#012169" style="padding-right: 19px;">
+							</td></tr></table></td></tr></table></td></tr></table>
+                    
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+        </tr>
+      </table>
+      <img src="https://pixel.inbox.exacttarget.com/pixel.gif?r=3cee957cf4045be5bdd97f3d45b56bc1d2d850ec" width="1" height="1" />
+      <img src='https://beacon.krxd.net/1x1_usermatch.gif?partner=LYMUCbth_sfmc_sha256&partner_uid=eedbfda7973f0f4505dc987bd6ec7e9ab0c56ba10ad37f2f5836d9cb1dc61b9e' width=0 height=0 style='display:none' />
+      <img src='https://beacon.krxd.net/1x1_usermatch.gif?partner=LYMUCbth_sfmc_subid&partner_uid=129974309' width=0 height=0 style='display:none' />
+      <img src='https://beacon.krxd.net/1x1_ad_impression.gif?confid=r3dodf9im&advertiserid=1370143&campaignid=Promo&placementid=20201127' width=0 height=0 style='display:none' />
+      </body>
+    </html>
+
+--cYFA7fzWKtBj=_?:--
+

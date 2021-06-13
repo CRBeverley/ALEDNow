@@ -1,0 +1,959 @@
+Return-Path: <bounce-673352-1672-45538-Chris=ALEDNow.com@s5.csa2.acemsa5.com>
+Delivered-To: Chris@ALEDNow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id UHEHD/uyLWBptg8Ai5QuQQ
+	(envelope-from <bounce-673352-1672-45538-Chris=ALEDNow.com@s5.csa2.acemsa5.com>)
+	for <Chris@ALEDNow.com>; Wed, 17 Feb 2021 18:21:15 -0600
+Return-path: <bounce-673352-1672-45538-Chris=ALEDNow.com@s5.csa2.acemsa5.com>
+Envelope-to: Chris@ALEDNow.com
+Delivery-date: Wed, 17 Feb 2021 18:21:15 -0600
+Received: from s5.csa2.acemsa5.com ([52.128.40.103]:34531)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounce-673352-1672-45538-Chris=ALEDNow.com@s5.csa2.acemsa5.com>)
+	id 1lCX4F-000Am6-0s
+	for Chris@ALEDNow.com; Wed, 17 Feb 2021 18:21:15 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=dk; d=cityelectricsupply.com;
+ h=To:From:Subject:Date:MIME-Version:Content-Type:Content-Transfer-Encoding:
+ List-Unsubscribe:Message-ID; i=marketing@cityelectricsupply.com;
+ bh=JXxJcWV8uz7XZcCSqHlBYTilQP7WSTWVIHMQ6KMk0eQ=;
+ b=s7Eu65oN2SB4SVTYjPcoDrejXCI4IxvZ+aS/WeoSIPEvrhZ8WQt3kudfbOXwV09Bo7bdtzXyREN/
+   m9rH9flg4bSM6t8Hwsl8X+tsK9vUx4siDS6rI540RiJcT/2n7Wtkub8PvXzRr30h2qgT2+iGPMD+
+   QSBD5MSgnveVvHzlYK8=
+Received: by s5.csa2.acemsa5.com id h5mpeq2p4do5 for <Chris@ALEDNow.com>; Thu, 18 Feb 2021 00:21:01 +0000 (envelope-from <bounce-673352-1672-45538-Chris=ALEDNow.com@s5.csa2.acemsa5.com>)
+To: "Christopher Beverley" <Chris@ALEDNow.com>
+From: "City Electric Supply" <marketing@cityelectricsupply.com>
+Subject: Bestselling PPE available now!
+Date: Wed, 17 Feb 2021 18:05:59 -0600
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift-1554274253602daf68423783.38656769_=_"
+Content-Transfer-Encoding: 7bit
+X-mid: Q2hyaXNAQUxFRE5vdy5jb20gLCBjMTY3MiAsIG0xNzc0ICwgczIzNTk3
+Feedback-ID: 673352:activecampaign
+X-250ok-CID: 673352-1672
+List-Unsubscribe: <mailto:unsubscribe-da59356207ecc2adef73afc569ab029c-1672-0891bffbc6df917995fffa1803545674@s5.csa2.acemsa5.com>,
+ <https://campaign.cityelectricsupply.com/box.php?nl=3&c=1672&m=1774&s=0891bffbc6df917995fffa1803545674&funcml=unsub2&luha=1>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Message-ID: <20210218002101.1320.195178226.swift@campaign.cityelectricsupply.com>
+
+
+--_=_swift-1554274253602daf68423783.38656769_=_
+Content-Type: text/plain; charset=utf-8
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjUxNCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11184
+
+Heating
+
+| 
+
+Work Lights
+
+| 
+
+Top Sellers
+
+| 
+
+Cable
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjUxMSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11187
+
+Shop Cleaning & Disinfectants 
+
+Better disinfecting power. Better results. 
+
+Emist Cordless Backpack
+Disinfectant Sprayer 
+
+$4,940.89 
+
+SHOP NOW ▶
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ4OCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11189
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ5MCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11190
+
+F4P Antibacterial
+Disinfectant Spray 
+
+$5.35 
+
+SHOP NOW ▶
+
+Razor Last One-Step
+Disinfectant 
+
+$41.91 
+
+SHOP NOW ▶
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ5MSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11191
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ4OSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11192
+
+Emist Cordless Handheld
+Electrostatic Sprayer 
+
+$1,765.09 
+
+◀ SHOP NOW
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjUwNyUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11193
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjUwMSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11194
+
+https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjUwOCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=&a=66325752&account=cityelectricsupply%2Eactivehosted%2Ecom&email=%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=0891bffbc6df917995fffa1803545674&i=1672A1774A3A11195
+
+ 
+
+Visit Our Website
+ 
+| Email Us  | 866.634.9853
+
+Terms and Conditions 
+
+City Electric Supply strives to offer low prices on a wide variety of
+products. Given nationwide supply variations and unforeseen
+circumstances, prices and product availability are subject to change
+without notice. City Electric Supply reserves the right to cancel an
+order containing pricing or availability errors and will continue to
+work with the customer to find the materials they need. Products offered
+under a specific promotion are only available while supplies last.
+_________________
+
+Sent to Chris@ALEDNow.com
+
+Unsubscribe:
+https://campaign.cityelectricsupply.com/proc.php?nl=3&amp;c=1672&amp;m=1774&amp;s=0891bffbc6df917995fffa1803545674&amp;act=unsub
+
+City Electric Supply, 400 S. Record Street., Suite 400, Dallas, Texas 75202, United States
+--_=_swift-1554274253602daf68423783.38656769_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html><html>=0A
+
+<head>
+   <meta charset=3D"utf-8"> <!-- utf-8 works for most cases -->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width"> <!-- Forcing =
+initial-scale shouldn't be necessary -->
+    <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"> <!-- Use th=
+e latest (edge) version of IE rendering engine -->
+    <meta name=3D"x-apple-disable-message-reformatting">  <!-- Disable auto=
+-scale in iOS 10 Mail entirely -->
+    <meta name=3D"format-detection" content=3D"telephone=3Dno,address=3Dno,=
+email=3Dno,date=3Dno,url=3Dno"> <!-- Tell iOS not to automatically link cer=
+tain text strings. -->
+    <meta name=3D"color-scheme" content=3D"light">
+    <meta name=3D"supported-color-schemes" content=3D"light">
+     <!-- The title tag shows in email notifications, like Android 4.4. -->
+
+ <style type=3D"text/css">
+       =20
+         @font-face {
+      font-family: "Swiss";
+   =20
+      src: url('http://assets.cityelectricsupplymarketing.com/uploads/share=
+d/Fonts/Swiss721-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+      font-weight: 100;
+    }
+   =20
+     @font-face {
+      font-family: "Swiss";
+   =20
+      src: url('http://assets.cityelectricsupplymarketing.com/uploads/share=
+d/Fonts/Swiss721-Heavy.ttf') format('truetype'); /* Safari, Android, iOS */
+      font-weight: 800;
+    }
+       =20
+            :root {
+          color-scheme: light;
+          supported-color-schemes: light;
+        }
+        {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+         /* What it does: Stops email clients resizing small text. */
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+
+        /* What it does: Centers email on Android 4.4 */
+        div[style*=3D"margin: 16px 0"] {
+            margin: 0 !important;
+        }
+        /* What it does: forces Samsung Android mail clients to use the ent=
+ire viewport */
+        #MessageViewBody, #MessageWebViewDiv{
+            width: 100% !important;
+        }
+
+        /* What it does: Stops Outlook from adding extra spacing to tables.=
+ */
+        table,
+        td {
+            mso-table-lspace: 0pt !important;
+            mso-table-rspace: 0pt !important;
+        }
+
+        /* What it does: Fixes webkit padding issue. */
+        table {
+            border-spacing: 0 !important;
+            border-collapse: collapse !important;
+            table-layout: fixed !important;
+            margin: 0 auto !important;
+        }
+
+        /* What it does: Uses a better rendering method when resizing image=
+s in IE. */
+        img {
+            -ms-interpolation-mode:bicubic;
+        }
+
+        /* What it does: Prevents Windows 10 Mail from underlining links de=
+spite inline CSS. Styles for underlined links should be inline. */
+       =20
+        /* What it does: A work-around for email clients meddling in trigge=
+red links. */
+        a[x-apple-data-detectors],  /* iOS */
+        .unstyle-auto-detected-links a,
+        .aBn {
+            border: 0 !important;
+            cursor: default !important;
+            color: inherit !important;
+            text-decoration: none !important;
+            font-size: inherit !important;
+            font-family: inherit !important;
+            font-weight: inherit !important;
+            line-height: inherit !important;
+        }
+
+        /* What it does: Prevents Gmail from changing the text color in con=
+versation threads. */
+        .im {
+            color: inherit !important;
+        }
+
+        /* What it does: Prevents Gmail from displaying a download button o=
+n large, non-linked images. */
+        .a6S {
+            display: none !important;
+            opacity: 0.01 !important;
+        }
+        /* If the above doesn't work, add a .g-img class to any image in qu=
+estion. */
+        img.g-img + div {
+            display: none !important;
+        }
+
+        /* What it does: Removes right gutter in Gmail iOS app: https://git=
+hub.com/TedGoas/Cerberus/issues/89  */
+        /* Create one of these media queries for each additional viewport s=
+ize you'd like to fix */
+
+        /* iPhone 4, 4S, 5, 5S, 5C, and 5SE */
+        @media only screen and (min-device-width: 320px) and (max-device-wi=
+dth: 374px) {
+            u ~ div .email-container {
+                min-width: 320px !important;
+            }
+        }
+        /* iPhone 6, 6S, 7, 8, and X */
+        @media only screen and (min-device-width: 375px) and (max-device-wi=
+dth: 413px) {
+            u ~ div .email-container {
+                min-width: 375px !important;
+            }
+        }
+        /* iPhone 6+, 7+, and 8+ */
+        @media only screen and (min-device-width: 414px) {
+            u ~ div .email-container {
+                min-width: 414px !important;
+            }
+        }
+       =20
+    body {margin: 0; padding: 0; width:"100%"; font-family: 'Arial', sans-s=
+erif; text-align: center; display: block;}
+    img {width: 100% !important; height: auto;margin: 0!important; padding:=
+ 0!important; display: block!important;}
+
+    table {
+        border-collapse: collapse;
+        border-spacing:0;
+    }
+    th, td, tr {
+        padding: 0;
+        border-spacing:0;
+    }
+   =20
+    .button {
+     border: none;
+     width:160px;
+     font-size: 16px;
+     text-align:center;
+     font-weight:bold;
+     background: #1B4E92;
+     color: white;
+     padding: 10px 20px 10px 20px;
+     display: inline-block;
+     margin: 0px;
+     font-family: Helvetica, Arial, sans-serif;
+     -webkit-border-radius: 100px;
+     -moz-border-radius: 100px;
+     border-radius: 100px;
+     text-decoration: none;
+     }
+  =20
+</style>
+
+</head>
+<body align=3D"center" bgcolor=3D"#FAFAFA" style=3D"padding:0; margin:0; al=
+ign:center;">=09=09<div style=3D"display:none; padding:0; height:1px; font-=
+size:1px; background-color:inherit !important; color:inherit !important; li=
+ne-height:1px; mso-hide:all;">=0A=09=09=09FREE Fish Tape on $200 orders!=0A=
+=09=09</div>=0A
+  <table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellspacing=3D"0=
+" cellpadding=3D"0" margin=3D"0" width=3D"600" style=3D"max-width:600px!imp=
+ortant; background-image:('http://assets.cityelectricsupplymarketing.com/up=
+loads/shared/Email%20Assets/2020/08_August/Customers/Aug_FP/Summer/whitebg.=
+png'); margin-left: auto; margin-right:auto;border-collapse: collapse; disp=
+lay:block;">
+    <tr>
+        <td align=3D"center">
+            <table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-width:600;">
+                <tr>
+                    <td align=3D"center" style=3D"padding-top:0px;">     =
+=20
+                        <table align=3D"center" border=3D"0" bgcolor=3D"#ff=
+ffff" width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=
+=3D"0" style=3D"max-width:600px!important;">
+                            <tr>
+                                <td style=3D"padding:10px;">
+                                </td>=0A
+                            </tr>=0A
+                            <tr>
+                                <td align=3D"center" style=3D"text-align:ce=
+nter; display:block;">
+                                  <table align=3D"center" style=3D"max-widt=
+h:80px;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0">
+                                      <tr>
+                                        <td align=3D"center">
+                                          <a href=3D"https://campaign.citye=
+lectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY=
+2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVh=
+cnktMjAyMSUyRjUxNCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=
+=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1P=
+lMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A17=
+74A3A11184" style=3D"text-decoration: none;">
+                                            <img src=3D"http://assets.citye=
+lectricsupplymarketing.com/uploads/shared/ces/logo.png" width=3D"80" align=
+=3D"center" style=3D"width:100%; border:0;  text-decoration:none; outline:n=
+one; display:block">
+                                          </a>
+                                        </td>=0A
+                                    </tr>=0A
+                                  </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                            <tr>
+                                <td align=3D"center" style=3D"display:block=
+; padding:20px 0px 20px 0px;">
+                                    <table align=3D"center" style=3D"text-a=
+lign:center;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0"=
+>
+                                        <tr>
+                                            <td align=3D"center" style=3D"t=
+ext-decoration:none; color:black;">
+                                              <a href=3D"https://campaign.c=
+ityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d=
+3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtSmFu=
+dWFyeS0yMDIxJTJGNDY3JTJGQ2hyaXMlNDBBTEVETm93LmNvbSUyRg=3D=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11185" style=3D"text-decoration: none; color: #000; font-weight:=
+800; text-align: center;">
+                                                  Heating
+                                              </a>
+                                            </td>=0A
+                                            <td align=3D"center" style=3D"p=
+adding: 0px 15px 0px 15px; text-decoration:none; color:black;">
+                                              |
+                                            </td>=0A
+                                            <td align=3D"center" style=3D"t=
+ext-decoration:none; color:black;">
+                                              <a href=3D"https://campaign.c=
+ityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d=
+3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVi=
+cnVhcnktMjAyMSUyRjUxMCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&acc=
+ount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67=
+NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D167=
+2A1774A3A11186" style=3D"text-decoration: none; color: #000; font-weight:80=
+0; text-align: center;">
+                                                Work Lights
+                                              </a>
+                                            </td>=0A
+                                            <td align=3D"center" style=3D"p=
+adding: 0px 15px 0px 15px; text-decoration:none; color:black;">
+                                              |
+                                            </td>=0A
+                                            <td align=3D"center" style=3D"t=
+ext-decoration:none; color:black;">
+                                              <a href=3D"https://campaign.c=
+ityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d=
+3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVi=
+cnVhcnktMjAyMSUyRjUxMSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&acc=
+ount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67=
+NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D167=
+2A1774A3A11187" style=3D"text-decoration: none; color: #000; font-weight:80=
+0; text-align: center;">
+                                                Top Sellers
+                                              </a>
+                                            </td>=0A
+                                            <td align=3D"center" style=3D"p=
+adding: 0px 15px 0px 15px; text-decoration:none; color:black;">
+                                              |
+                                            </td>=0A
+                                            <td align=3D"center" style=3D"t=
+ext-decoration:none; color:black;">
+                                              <a href=3D"https://campaign.c=
+ityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d=
+3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVi=
+cnVhcnktMjAyMSUyRjUxMiUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&acc=
+ount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67=
+NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D167=
+2A1774A3A11188" style=3D"text-decoration: none; border: 0; color: #000; fon=
+t-weight:800; text-align: center;">
+                                                Cable
+                                              </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A   =20
+                </tr>=0A
+                <tr>
+                    <td align=3D"center">
+                        <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" margin=3D"0" align=3D"center">
+                            <tr>
+                                <td align=3D"center" style=3D"max-width:600=
+px; width: 100%; height: auto;" >
+                                    <img src=3D"http://assets.cityelectrics=
+upplymarketing.com/uploads/shared/Email%20Assets/2020/06_June/Customer/Rect=
+angle@2x.png" width=3D"600" align=3D"center" style=3D"display:block;">
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td>
+                        <table width=3D"600" align=3D"center" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-width:600;">
+                            <tr>
+                                <td align=3D"center" style=3D"max-width:600=
+; width: 100%; height: auto; text-align:center;">
+                                    <a href=3D"https://campaign.cityelectri=
+csupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWV=
+sZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMj=
+AyMSUyRjUxMSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=3Dcit=
+yelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2B=
+OWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A1774A3A1=
+1187">
+                                        <img src=3D"http://assets.cityelect=
+ricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_February/Custo=
+mers/FP/3/Header.png" width=3D"600" align=3D"center" border=3D"0" style=3D"=
+border:0; text-decoration:none; outline:none; display:block;">
+                                    </a>
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+               =20
+                <tr>
+                    <td align=3D"center" style=3D"font-family: 'Helvetica',=
+ 'Arial'; text-align:center; font-size: 27px; font-weight:900; color:black;=
+ padding: 60px 0px 5px 0px;">
+                        Shop Cleaning & Disinfectants
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td align=3D"center" style=3D"font-family: 'Helvetica',=
+ 'Arial'; text-align:center; font-size: 22px; font-weight:100; color:black;=
+ padding: 0px 0px 0px 0px;">
+                        Better disinfecting power. Better results.
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td bgcolor=3D"white" style=3D"padding: 50px 50px 30px =
+50px;">
+                        <table bgcolor=3D"white" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" margin=3D"0" align=3D"center" style=3D"max-width:6=
+00px!important; text-align:left;">
+                            <tr>
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 0px 0px 0px;">
+                                    <table bgcolor=3D"white" cellspacing=3D=
+"0" cellpadding=3D"0" margin=3D"0" border=3D"0" align=3D"center">
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:18px; font-family:'Helvetica', 'Arial'; text-align:=
+right; padding:0px 0px 3px 0px; font-weight:900;">
+                                               Emist Cordless Backpack<br>D=
+isinfectant Sprayer
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"p=
+adding:2px;">
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+right; padding:0px 0px 10px 0px; font-weight:100;">
+                                                $4,940.89
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#D90028; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+right; padding:0px 0px 0px 0px; font-weight:900;">
+                                                <a style=3D"color:#D90028; =
+text-decoration: none;" href=3D"https://campaign.cityelectricsupply.com/Pro=
+d/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcG=
+x5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ4OCUyR=
+kNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=3Dcityelectricsupply=
+%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6=
+gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A1774A3A11189">
+                                                    SHOP NOW  =E2=96=B6
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 0px 0px 40px;">
+                                    <table width=3D"140" align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-w=
+idth:140;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"m=
+ax-width:140; width: 100%; height: auto; text-align:center;">
+                                                <a href=3D"https://campaign=
+.cityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ=
+3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRm=
+VicnVhcnktMjAyMSUyRjQ4OCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11189">
+                                                    <img src=3D"http://asse=
+ts.cityelectricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_Fe=
+bruary/Customers/FP/3/1.png" width=3D"140" align=3D"center" border=3D"0" st=
+yle=3D"border:0; text-decoration:none; outline:none; display:block;">
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                 <tr>
+                    <td bgcolor=3D"white" style=3D"padding: 0px 50px 30px 5=
+0px;">
+                        <table bgcolor=3D"white" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" margin=3D"0" align=3D"center" style=3D"max-width:6=
+00px!important; text-align:left;">
+                            <tr>
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 40px 0px 0px;">
+                                    <table width=3D"140" align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-w=
+idth:140;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"m=
+ax-width:140; width: 100%; height: auto; text-align:center;">
+                                                <a href=3D"https://campaign=
+.cityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ=
+3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRm=
+VicnVhcnktMjAyMSUyRjQ5MCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11190">
+                                                    <img src=3D"http://asse=
+ts.cityelectricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_Fe=
+bruary/Customers/FP/3/3.png" width=3D"140" align=3D"center" border=3D"0" st=
+yle=3D"border:0; text-decoration:none; outline:none; display:block;">
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 0px 0px 0px;">
+                                    <table bgcolor=3D"white" cellspacing=3D=
+"0" cellpadding=3D"0" margin=3D"0" border=3D"0" align=3D"center">
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:18px; font-family:'Helvetica', 'Arial'; text-align:=
+left; padding:0px 0px 3px 0px; font-weight:900;">
+                                                F4P Antibacterial<br>Disinf=
+ectant Spray
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"p=
+adding:2px;">
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+left; padding:0px 0px 10px 0px; font-weight:100;">
+                                                $5.35
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#D90028; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+left; padding:0px 0px 0px 0px; font-weight:900;">
+                                                <a style=3D"color:#D90028; =
+text-decoration: none;" href=3D"https://campaign.cityelectricsupply.com/Pro=
+d/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcG=
+x5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ5MCUyR=
+kNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=3Dcityelectricsupply=
+%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6=
+gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A1774A3A11190">
+                                                    SHOP NOW  =E2=96=B6
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                 <tr>
+                    <td bgcolor=3D"white" style=3D"padding: 0px 50px 30px 5=
+0px;">
+                        <table bgcolor=3D"white" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" margin=3D"0" align=3D"center" style=3D"max-width:6=
+00px!important; text-align:left;">
+                            <tr>
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 0px 0px 0px;">
+                                    <table bgcolor=3D"white" cellspacing=3D=
+"0" cellpadding=3D"0" margin=3D"0" border=3D"0" align=3D"center">
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:18px; font-family:'Helvetica', 'Arial'; text-align:=
+right; padding:0px 0px 3px 0px; font-weight:900;">
+                                                Razor Last One-Step<br>Disi=
+nfectant
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"p=
+adding:2px;">
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+right; padding:0px 0px 10px 0px; font-weight:100;">
+                                                $41.91
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#D90028; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+right; padding:0px 0px 0px 0px; font-weight:900;">
+                                                <a style=3D"color:#D90028; =
+text-decoration: none;" href=3D"https://campaign.cityelectricsupply.com/Pro=
+d/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcG=
+x5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ5MSUyR=
+kNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=3Dcityelectricsupply=
+%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6=
+gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A1774A3A11191">
+                                                    SHOP NOW  =E2=96=B6
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 0px 0px 40px;">
+                                    <table width=3D"140" align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-w=
+idth:140;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"m=
+ax-width:140; width: 100%; height: auto; text-align:center;">
+                                                <a href=3D"https://campaign=
+.cityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ=
+3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRm=
+VicnVhcnktMjAyMSUyRjQ5MSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11191">
+                                                    <img src=3D"http://asse=
+ts.cityelectricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_Fe=
+bruary/Customers/FP/3/5.png" width=3D"140" align=3D"center" border=3D"0" st=
+yle=3D"border:0; text-decoration:none; outline:none; display:block;">
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td bgcolor=3D"white" style=3D"padding: 0px 50px 30px 5=
+0px;">
+                        <table bgcolor=3D"white" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" margin=3D"0" align=3D"center" style=3D"max-width:6=
+00px!important; text-align:left;">
+                            <tr>
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 40px 0px 0px;">
+                                    <table width=3D"140" align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-w=
+idth:140;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"m=
+ax-width:140; width: 100%; height: auto; text-align:center;">
+                                                <a href=3D"https://campaign=
+.cityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ=
+3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRm=
+VicnVhcnktMjAyMSUyRjQ4OSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11192">
+                                                    <img src=3D"http://asse=
+ts.cityelectricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_Fe=
+bruary/Customers/FP/YMAL/2.png" width=3D"140" align=3D"center" border=3D"0"=
+ style=3D"border:0; text-decoration:none; outline:none; display:block;">
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                                <td bgcolor=3D"white" style=3D"padding: 0px=
+ 0px 0px 0px;">
+                                    <table bgcolor=3D"white" cellspacing=3D=
+"0" cellpadding=3D"0" margin=3D"0" border=3D"0" align=3D"center">
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:18px; font-family:'Helvetica', 'Arial'; text-align:=
+left; padding:0px 0px 3px 0px; font-weight:900;">
+                                                Emist Cordless Handheld<br>=
+Electrostatic Sprayer
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"p=
+adding:2px;">
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#393939; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+left; padding:0px 0px 10px 0px; font-weight:100;">
+                                                $1,765.09
+                                            </td>=0A
+                                        </tr>=0A
+                                        <tr>
+                                            <td align=3D"center" style=3D"c=
+olor:#D90028; font-size:16px; font-family:'Helvetica', 'Arial'; text-align:=
+left; padding:0px 0px 0px 0px; font-weight:900;">
+                                                <a style=3D"color:#D90028; =
+text-decoration: none;" href=3D"https://campaign.cityelectricsupply.com/Pro=
+d/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcG=
+x5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjQ4OSUyR=
+kNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=3Dcityelectricsupply=
+%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6=
+gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A1774A3A11192">
+                                                    =E2=97=80 SHOP NOW
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td style=3D"padding: 0px 0px 0px 0px;">
+                        <table width=3D"600" align=3D"center" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-width:600;">
+                            <tr>
+                                <td align=3D"center" style=3D"max-width:600=
+; width: 100%; height: auto; text-align:center;">
+                                    <a href=3D"https://campaign.cityelectri=
+csupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWV=
+sZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMj=
+AyMSUyRjUwNyUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&account=3Dcit=
+yelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2B=
+OWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1672A1774A3A1=
+1193">
+                                        <img src=3D"http://assets.cityelect=
+ricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_February/Custo=
+mers/FP/2/Fish_Tape.gif" width=3D"600" align=3D"center" border=3D"0" style=
+=3D"border:0; text-decoration:none; outline:none; display:block;">
+                                    </a>
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td align=3D"center" style=3D"padding: 10px 0px 10px 0p=
+x;">
+                        <table align=3D"center" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" margin=3D"0">
+                            <tr>
+                                <td style=3D"padding: 0px 5px 0px 0px;">
+                                    <table width=3D"280" align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-w=
+idth:280;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"m=
+ax-width:280; width: 100%; height: auto; text-align:center;">
+                                                <a href=3D"https://campaign=
+.cityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ=
+3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRm=
+VicnVhcnktMjAyMSUyRjUwMSUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11194">
+                                                    <img src=3D"http://asse=
+ts.cityelectricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_Fe=
+bruary/Customers/FP/1/Heated_Gear.png" width=3D"280" align=3D"center" borde=
+r=3D"0" style=3D"border:0; text-decoration:none; outline:none; display:bloc=
+k;">
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                                <td style=3D"padding: 0px 0px 0px 5px;">
+                                    <table width=3D"280" align=3D"center" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" margin=3D"0" style=3D"max-w=
+idth:280;">
+                                        <tr>
+                                            <td align=3D"center" style=3D"m=
+ax-width:280; width: 100%; height: auto; text-align:center;">
+                                                <a href=3D"https://campaign=
+.cityelectricsupply.com/Prod/link-tracker?redirectUrl=3DaHR0cHMlM0ElMkYlMkZ=
+3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmVhdHVyZWQtUHJvZHVjdHMtRm=
+VicnVhcnktMjAyMSUyRjUwOCUyRkNocmlzJTQwQUxFRE5vdy5jb20lMkY=3D&a=3D66325752&a=
+ccount=3Dcityelectricsupply%2Eactivehosted%2Ecom&email=3D%2F9hNIeECdM0rf9BJ=
+67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917995fffa1803545674&i=3D1=
+672A1774A3A11195">
+                                                    <img src=3D"http://asse=
+ts.cityelectricsupplymarketing.com/uploads/shared/Email%20Assets/2021/02_Fe=
+bruary/Customers/FP/1/Ladders.png" width=3D"280" align=3D"center" border=3D=
+"0" style=3D"border:0; text-decoration:none; outline:none; display:block;">
+                                                </a>
+                                            </td>=0A
+                                        </tr>=0A
+                                    </table>=0A
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+                                <tr>
+                    <td style=3D"padding:10px;">
+                    </td>=0A
+                </tr>=0A
+                <tr>
+                    <td style=3D"background-color: #FAFAFA;" align=3D"cente=
+r">
+                        <table border=3D"0" width=3D"600" bgcolor=3D"#FAFAF=
+A" border=3D"0" align=3D"center" cellspacing=3D"0" cellpadding=3D"0" margin=
+=3D"0" style=3D"max-width:600px!important; text-align:left;">
+                            <tr>
+                                <td align=3D"center" style=3D"padding:40px =
+15px 20px 15px;" >
+                                    <p style=3D"color: black; font-size: 12=
+px; text-align: center!important;">
+                                        <a align=3D"center" target=3D"_blan=
+k" style=3D"font-size: 12px; color: black; text-align: center!important;" h=
+ref=3D"https://campaign.cityelectricsupply.com/Prod/link-tracker?redirectUr=
+l=3DaHR0cHMlM0ElMkYlMkZ3d3cuY2l0eWVsZWN0cmljc3VwcGx5LmNvbSUyRlByb21vJTJGRmV=
+hdHVyZWQtUHJvZHVjdHMtRmVicnVhcnktMjAyMSUyRjUxMyUyRkNocmlzJTQwQUxFRE5vdy5jb2=
+0lMkY=3D&a=3D66325752&account=3Dcityelectricsupply%2Eactivehosted%2Ecom&ema=
+il=3D%2F9hNIeECdM0rf9BJ67NQ1PlMy%2BOWWuyaZunZiCXh6gI%3D&s=3D0891bffbc6df917=
+995fffa1803545674&i=3D1672A1774A3A11196">Visit Our Website</a>&nbsp; | <a t=
+arget=3D"_blank" align=3D"center" style=3D"font-size: 12px; color: black; t=
+ext-align: center!important;" href=3D"mailto:cesosupport@cityelectricsupply=
+.com">Email Us</a> | <a target=3D"_blank" align=3D"center" style=3D" font-s=
+ize: 12px; color: black; text-align: center!important;" href=3D"tel:866.634=
+.9853">866.634.9853</a>
+                                    </p>=0A
+                                </td>=0A
+                            </tr>=0A
+                            <tr>
+                                <td align=3D"center" width=3D"600" style=3D=
+"color:#434244; font-size:10px; padding:0px 40px 4px 40px; font-weight:bold=
+; text-align:left;">
+                                    Terms and Conditions
+                                </td>=0A
+                            </tr>=0A
+                            <tr>
+                                <td align=3D"center" width=3D"600" style=3D=
+"color:#434244; line-height:12px; font-size:10px; padding:0px 40px 40px 40p=
+x; text-align:left">
+                                    City Electric Supply strives to offer l=
+ow prices on a wide variety of products. Given nationwide supply variations=
+ and unforeseen circumstances, prices and product availability are subject =
+to change without notice. City Electric Supply reserves the right to cancel=
+ an order containing pricing or availability errors and will continue to wo=
+rk with the customer to find the materials they need. Products offered unde=
+r a specific promotion are only available while supplies last.
+                                </td>=0A
+                            </tr>=0A
+                        </table>=0A
+                    </td>=0A
+                </tr>=0A
+            </table>=0A
+        </td>=0A
+    </tr>=0A
+</table>=0A=20
+<img src=3D"https://campaign.cityelectricsupply.com/Prod/link-tracker?nl=3D=
+3&c=3D1672&m=3D1774&s=3D0891bffbc6df917995fffa1803545674&l=3Dopen&account=
+=3Dcityelectricsupply.activehosted.com" border=3D"0" width=3D"1" height=3D"=
+1" style=3D"display:block;width:1px!important;min-width:1px!important;max-w=
+idth:1px!important;height:1px!important;border:0;overflow:hidden;" /><br />=
+<div id=3D"ac-footer" style=3D"clear:both;background-color:inherit;backgrou=
+nd:inherit;min-width:100%;mso-table-lspace:0pt;mso-table-rspace:0pt;padding=
+:20px;color:#000000;font-size:11px;font-family:arial,helvetica,sans-serif;l=
+ine-height:140%;line-height:1.4;text-align:center;box-sizing:border-box;">=
+=0A=09<center>=0A=09=09Sent to: <span style=3D"font-size:11px;font-family:a=
+rial,helvetica,sans-serif;font-weight:normal;text-decoration:none;outline:n=
+one;">Chris@ALEDNow.com</span>=0A=09=09<br>=0A=09=09<br>=0A=09=09<a href=3D=
+"https://campaign.cityelectricsupply.com/proc.php?nl=3D3&c=3D1672&m=3D1774&=
+s=3D0891bffbc6df917995fffa1803545674&act=3Dunsub" style=3D"font-size:11px;f=
+ont-family:arial,helvetica,sans-serif;font-weight:bold;text-decoration:unde=
+rline;"><span style=3D"font-weight:bold;text-decoration:underline;">Unsubsc=
+ribe</span></a>=0A=09=09<br>=0A=09=09<br> City Electric Supply, 400 S. Reco=
+rd Street., Suite 400, Dallas, Texas 75202, United States=0A=09</center>=0A=
+</div>=0A<br clear=3D"all" /></body>
+=0A</html>
+--_=_swift-1554274253602daf68423783.38656769_=_--
+

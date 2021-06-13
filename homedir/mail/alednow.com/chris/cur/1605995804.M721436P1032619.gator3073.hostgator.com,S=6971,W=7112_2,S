@@ -1,0 +1,141 @@
+Return-Path: <bounces+12253253-2244-chris=alednow.com@em6374.starlink.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id 2N3iKhyNuV+rwQ8Ai5QuQQ
+	(envelope-from <bounces+12253253-2244-chris=alednow.com@em6374.starlink.com>)
+	for <chris@alednow.com>; Sat, 21 Nov 2020 15:56:44 -0600
+Return-path: <bounces+12253253-2244-chris=alednow.com@em6374.starlink.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Sat, 21 Nov 2020 15:56:44 -0600
+Received: from o1.ptr6968.spacex.com ([167.89.70.193]:59324)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounces+12253253-2244-chris=alednow.com@em6374.starlink.com>)
+	id 1kgas8-004M4Z-KZ
+	for chris@alednow.com; Sat, 21 Nov 2020 15:56:44 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=starlink.com;
+	h=content-type:from:mime-version:subject:to;
+	s=s1; bh=gu6eZhlIPLNydrrI5lMPR+7w9rrPaMYciam50FYcx7E=;
+	b=PGvxCn4pdPx6zsEqh7nOjg4w4kx0B8ZyDEXevtqdE7G4b/TY+UkcRpsawfP07Dm6dkQz
+	4GGInxu5U16v5XgAbKRdnMhFIcckNCVeNf8lncLBI15ooZBLlW4e+95gKOEnaLxwSH4TmI
+	Aiz8D42ESL2BFkaXG4OxqjNx6uADphjTc=
+Received: by filterdrecv-p3mdw1-5f8d7bb6d9-4l96m with SMTP id filterdrecv-p3mdw1-5f8d7bb6d9-4l96m-20-5FB98D11-1C
+        2020-11-21 21:56:33.466718729 +0000 UTC m=+437137.558277318
+Received: from MTIyNTMyNTM (unknown)
+	by ismtpd0005p1las1.sendgrid.net (SG)
+	with HTTP
+	id jQ8UG7BgTfG8sCHO52JJ2w
+	Sat, 21 Nov 2020 21:56:33.395 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=bb01ed227e5a8f157c7e4a85092c1d26fda45d3274c31dc6d8520c7da864
+Date: Sat, 21 Nov 2020 21:56:33 +0000 (UTC)
+From: Starlink <no-reply@starlink.com>
+Mime-Version: 1.0
+Message-ID: <jQ8UG7BgTfG8sCHO52JJ2w@ismtpd0005p1las1.sendgrid.net>
+Subject: Starlink Email Subscription Confirmation
+X-SG-EID: 
+ =?us-ascii?Q?YptbeGsdKa7MQiNmz+2hND4Z+9qHWKI957SvcuwqWx434+LwpxqDuQ4MFiPiXU?=
+ =?us-ascii?Q?9gwPW5m=2FaCRfc24CpMEomoeUBBGJU8VK4yCUYhk?=
+ =?us-ascii?Q?BHeri8KerS3CnaUIJ=2FcgfG6MXoK+dh4Z0WO8LI9?=
+ =?us-ascii?Q?5+ekVc2TG5JgXXrXEboRtmgqDYSzhH=2FjzTDTBGE?=
+ =?us-ascii?Q?eM4hB9rqg+m4PQd3u6=2FPO0vQ+3PuK=2FmcUqIZIjD?=
+ =?us-ascii?Q?8sknIROE+xjj=2FifAF=2FHdRMo8Sytn37gReITZrg?=
+X-SG-ID: 
+ =?us-ascii?Q?N2C25iY2uzGMFz6rgvQsb8raWjw0ZPf1VmjsCkspi=2FKHgAsE=2FCUk5eZaRe5Ltr?=
+ =?us-ascii?Q?cbGIv9Ipbxt6JvKRkcY97=2FeyL6Gb0tQ8Y8et3CV?=
+ =?us-ascii?Q?nQdOWaz5pWPNQlZFftxzsYVcxVF8FJHKY8bSRF5?=
+ =?us-ascii?Q?NhfgbLo7VrM4jJRDdSkrmqrkJGz46dpMLvrobjN?=
+ =?us-ascii?Q?=2FgPyCgs6LmrF7w+DokbqP0YwzeeezlFhKNg=3D=3D?=
+To: chris@alednow.com
+X-Entity-ID: VfTLiP8gmKn7AGBXys63Lw==
+
+--bb01ed227e5a8f157c7e4a85092c1d26fda45d3274c31dc6d8520c7da864
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=us-ascii
+Mime-Version: 1.0
+
+Thank you for your interest in Starlink! Starlink is designed to deliver hi=
+gh speed broadband internet to locations where access has been unreliable, =
+expensive, or completely unavailable.
+
+Starlink is designed to deliver high speed broadband internet to locations =
+where access has been unreliable, expensive, or completely unavailable.
+
+Our Starlink team will notify you via email when service becomes available =
+in your area, and keep you aware of general Starlink news and progress.
+
+Thank you for your support and your continued interest in Starlink!
+
+Space Exploration Technologies Corp | 1 Rocket Road, Hawthorne, CA 90250 | =
+UNSUBSCRIBE ( https://starlink.com/unsubscribe/?code=3D12dac8fc-dc5c-4f91-b=
+fcd-e50f226232b0 )
+--bb01ed227e5a8f157c7e4a85092c1d26fda45d3274c31dc6d8520c7da864
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=us-ascii
+Mime-Version: 1.0
+
+
+  <html>
+    <head>
+      <title></title>
+    </head>
+    <body>
+        <span class=3D"preheader" style=3D"color: transparent; display: non=
+e; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; ms=
+o-hide: all; visibility: hidden; width: 0;">Thank you for your interest in =
+Starlink! Starlink is designed to deliver high speed broadband internet to =
+locations where access has been unreliable, expensive, or completely unavai=
+lable.</span>
+        <div class=3D"center" style=3D"font-size:6px; line-height:10px; pad=
+ding:5px 10px 0 10px; text-align:center; background:#ffffff;" valign=3D"top=
+" align=3D"center">
+          <img class=3D"max-width" border=3D"0" style=3D"margin: 30px auto;=
+ text-align: center;" width=3Dauto alt=3D"Starlink Logo" data-proportionall=
+y-constrained=3D"true" data-responsive=3D"false" src=3D"http://cdn.mcauto-i=
+mages-production.sendgrid.net/5b4c34d8653d4b16/6931bc49-60e1-479e-8601-1d10=
+8401d7f3/612x101.png" height=3D"25">
+      =20
+       =20
+            <div style=3D"max-width: 600px; margin: 0 auto; font: 16px/25px=
+ Helvetica, sans-serif; text-align: left; padding: x 20px">=20
+        =20
+                <p>Starlink is designed to deliver high speed broadband int=
+ernet to locations where access has been unreliable, expensive, or complete=
+ly unavailable.</p>
+                =20
+                <p>Our Starlink team will notify you via email when service=
+ becomes available in your  area, and keep you aware of general Starlink ne=
+ws and progress.</p>
+               =20
+                <p>Thank you for your support and your continued interest i=
+n Starlink!</p>
+           =20
+                <div data-role=3D"module-unsubscribe" class=3D"module" role=
+=3D"module" data-type=3D"unsubscribe" style=3D"color:#000000; padding: 15px=
+ 16px 16px 16px; text-align:Center; text-decoration:none;" data-muid=3D"4e8=
+38cf3-9892-4a6d-94d6-170e474d21e5">
+               =20
+                    <div class=3D"center">
+                      <div style=3D"font-size:12px; color:#505050; font-fam=
+ily:sans-serif; text-decoration:none;">Space Exploration Technologies Corp =
+| 1 Rocket Road, Hawthorne, CA 90250 | <a style=3D"font-size:12px; color:#5=
+05050; font-family:sans-serif;text-decoration:none;"  class=3D"Unsubscribe-=
+-unsubscribeLink" href=3D"https://starlink.com/unsubscribe/?code=3D12dac8fc=
+-dc5c-4f91-bfcd-e50f226232b0" target=3D"_blank">UNSUBSCRIBE</a>
+                      </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <img src=3D"https://u12253253.ct.sendgrid.net/wf/open?upn=3D-2BPPYzd87q=
+q10IXJQDD0DU3qnpWU5qSEHcqK-2BMN8yONvYHboTZX7MqXAQ4qMg8GRmJqpXgK0DzazIw8qYq4=
+KASMeeRFBWfUR3Nvca1fPqoHGNMYJzBK-2BJysUTBiqM3kL3d8NYT7uhVaG5smlaxNdMejIR93J=
+GF8X8roDfE8imZb0iTAF9AtMrJRc0QfP1uTVkXo7OVtNrbsVV-2BQPJPId-2FTdcrxKeQr7SLmQ=
+2n5n0Y4c4-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"heigh=
+t:1px !important;width:1px !important;border-width:0 !important;margin-top:=
+0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-le=
+ft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddin=
+g-right:0 !important;padding-left:0 !important;"/></body>
+  </html>
+
+--bb01ed227e5a8f157c7e4a85092c1d26fda45d3274c31dc6d8520c7da864--

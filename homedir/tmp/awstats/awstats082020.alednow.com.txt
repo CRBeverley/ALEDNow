@@ -1,0 +1,445 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202008 will be lost/reset.
+# Last config file used to build this data file was /home4/owner/tmp/awstats/awstats.alednow.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2685                
+POS_VISITOR 8111                
+POS_DAY 11356               
+POS_DOMAIN 3449                
+POS_LOGIN 3907                
+POS_ROBOT 4062                
+POS_WORMS 4596                
+POS_EMAILSENDER 4727                
+POS_EMAILRECEIVER 4870                
+POS_SESSION 12126               
+POS_SIDER 12284               
+POS_FILETYPES 5005                
+POS_DOWNLOADS 5150                
+POS_OS 5198                
+POS_BROWSER 5428                
+POS_SCREENSIZE 6434                
+POS_UNKNOWNREFERER 6508                
+POS_UNKNOWNREFERERBROWSER 6794                
+POS_ORIGIN 6954                
+POS_SEREFERRALS 7091                
+POS_PAGEREFS 7265                
+POS_SEARCHWORDS 7443                
+POS_KEYWORDS 7604                
+POS_MISC 2349                
+POS_ERRORS 7672                
+POS_CLUSTER 3763                
+POS_SIDER_404 7802                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200901043539 72 15001 11281000982057
+FirstTime 20200801192245
+LastTime 20200831201048
+LastUpdate 20200901091236 72 0 71 0 0
+TotalVisits 116                 
+TotalUnique 80                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 80                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 11207 96 102 922711
+1 1 3 1510749 73 83 65486
+2 4 4 100313 25 25 50966
+3 3 5 856864 46 56 87064
+4 8 8 85792 56 70 83972
+5 6 6 119646 49 58 172950
+6 2 2 22414 42 66 889996
+7 6 8 849631 26 35 97503
+8 10 10 126646 93 104 146062
+9 4 4 70611 43 54 821015
+10 10 10 149060 236 249 125530
+11 7 7 207914 64 69 60482
+12 10 10 167555 74 87 122812
+13 3 3 70611 15 17 76848
+14 2 2 40909 73 81 74213
+15 5 5 130015 48 55 105228
+16 3 3 22414 72 78 73075
+17 4 4 44828 43 52 117721
+18 8 8 187683 64 65 66845
+19 39 71 40492393 159 192 32125829
+20 7 8 2271753 22 34 286213
+21 4 4 63323 45 57 48127
+22 4 4 100313 22 25 91176
+23 8 8 143356 84 90 984803
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+us 98 135 45815326
+ru 10 10 286663
+ca 8 8 187683
+gb 8 10 949889
+cn 7 7 96944
+lt 4 4 40964
+se 4 4 44828
+eu 3 3 89106
+cz 3 3 89106
+in 3 3 52116
+fr 2 2 21118
+de 2 2 59404
+hu 2 2 22414
+nl 1 1 29702
+cl 1 1 27116
+sc 1 1 11207
+au 1 1 11207
+il 1 1 11207
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+spider 112 32268567 20200831201054 0
+bingbot/ 68 156610 20200831212006 49
+bot[\s_+:,\.\;\/\\-] 52 830544 20200831203825 1
+Googlebot/ 46 3437704 20200827051327 14
+unknown 9 513 20200829104218 9
+YandexBot/ 8 41975 20200830053518 4
+no_user_agent 7 207914 20200831221050 0
+(firefox/)([0-9]\.|[0-1][0]\.) 3 33621 20200829210751 0
+[\s_+:,\.\;\/\\-]bot 2 29759 20200809002546 1
+curl 1 29702 20200806220844 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 143 2981888 0 0
+css 16 2019458 0 0
+Unknown 16 250017 0 0
+js 23 42594637 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 13
+win7 74 43
+win10 54 51
+macosx10 3 3
+linux 20 17
+Unknown 25 23
+macosx 1 1
+macosx12 1 1
+macosx8 1 1
+win8.1 5 5
+linuxandroid 4 4
+macosx11 1 1
+ios_iphone 1 1
+winxp 8 8
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 48
+chrome58.0.3029.110 1 1
+safari13.1.2 1 1
+chrome79.0 5 5
+chrome84.0.4147.89 2 2
+chrome74.0.3729.131 2 1
+chrome61.0.3163.100 2 2
+chrome53.0.2785.104 4 4
+chrome83.0.4103.116 1 1
+firefox47.0 1 1
+msie11.0 1 1
+chrome78.0.3904.108 18 18
+firefox28.0 6 6
+opera9.27 1 1
+firefox48.0 1 1
+firefox79.0 1 1
+chrome79.0.3945.130 3 3
+chrome48.0.2564.97 1 1
+chrome76.0.3809.71 3 1
+chrome5.0.375.99 1 1
+chrome45.0.2454.94 1 1
+mozilla 17 14
+firefox61.0 2 2
+chrome75.0.3770.100 1 1
+Unknown 15 15
+chrome73.0.3683.90 3 3
+chrome79.0.3945.88 1 1
+netscape5.0 1 1
+msie7.0 2 2
+chrome76.0.3809.132 5 5
+chrome63.0.3239.132 1 1
+firefox57.0 3 3
+chrome80.0.3987.132 1 1
+chrome62.0.3202.94 1 1
+chrome26.0.1410.65 1 1
+chrome74.0.3729.169 5 5
+firefox59.0 1 1
+msie8.0 2 2
+chrome39.0.2171.95 1 1
+msie9.0 62 31
+firefox58.0 2 2
+chrome80.0.3987.122 1 1
+opera54.0.2952.51 1 1
+chrome81.0.4044.92 3 1
+chrome47.0.2526.111 2 2
+firefox54.0 1 1
+msie6.0 5 5
+chrome67.0.3396.87 1 1
+chrome72.0.3626.121 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+\ 20200829035009
+User-Agent\ 20200825193443
+Mozilla/5.0_zgrab/0.x 20200806203511
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200806190919
+Opera/9.27 20200814230500
+Go-http-client/1.1 20200829104220
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+\ 20200829035009
+User-Agent\ 20200825193443
+Go-http-client/1.1 20200829104220
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 115 116
+From1 2 2
+From2 32 63
+From3 2 2
+From4 8 15
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+www_google_com 31 62
+bing 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://brandnewblogs.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+amazon 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+amazon 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+500 767 510055
+409 65 5395
+406 601 135826
+403 63 8442
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 0
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 80
+184.154.139.23 7 14 5258732 20200826192713
+167.114.158.57 6 6 165269 20200806190233
+184.154.139.26 6 12 9104456 20200829192109
+184.154.36.170 6 12 7093281 20200827192612
+184.154.139.14 6 12 7093281 20200831201048
+52.152.138.147 6 6 67242 20200807105616
+69.160.160.57 5 7 838424 20200824072517
+18.234.16.132 5 5 56035 20200822205103
+185.130.184.207 4 4 118808 20200824111728
+184.154.139.15 4 8 8751204 20200830192324
+88.119.171.198 4 4 40964 20200828042733
+107.173.7.251 3 3 31836 20200830235316
+13.72.69.248 3 3 89106 20200818051844
+13.82.196.232 3 3 89106 20200803121522
+178.62.236.42 3 3 89106 20200827151836
+3.129.11.137 3 3 89106 20200805024140
+128.199.152.0 3 3 89106 20200817110024
+34.73.235.242 2 2 11207 20200824084436
+184.154.139.16 2 4 4375602 20200822192634
+206.41.172.2 2 2 20629 20200825202517
+104.197.160.61 2 2 22414 20200807122615
+35.222.218.248 2 2 22414 20200822081151
+23.245.154.87 2 2 20629 20200812055133
+35.227.114.65 2 2 11207 20200810165417
+34.68.189.98 2 2 22414 20200827003426
+157.245.90.36 1 1 11207 20200829123557
+54.190.188.253 1 3 1510749 20200803012804
+107.180.122.31 1 1 29702 20200814230500
+51.79.180.213 1 1 11207 20200829210508
+192.71.44.44 1 1 11207 20200829104220
+185.200.117.166 1 1 29702 20200814153027
+45.127.134.92 1 1 29702 20200816143248
+54.245.61.200 1 1 11207 20200826104145
+51.158.126.223 1 1 11207 20200805230822
+174.227.8.133 1 1 11207 20200813071216
+34.203.163.15 1 1 11207 20200803125641
+216.41.153.150 1 1 11207 20200816063738
+129.78.110.131 1 1 11207 20200806203511
+185.221.173.129 1 1 29702 20200808200528
+104.254.92.53 1 1 11207 20200812215437
+207.183.143.237 1 1 11207 20200825193443
+217.171.147.164 1 1 29702 20200829193755
+185.77.137.66 1 1 23780 20200817185503
+192.36.71.133 1 1 11207 20200812174129
+65.154.226.109 1 3 797460 20200803033301
+192.71.12.140 1 1 11207 20200808044319
+35.227.28.109 2 2 11207 20200830085255
+205.237.95.239 2 2 59404 20200817132540
+109.234.34.254 1 1 29702 20200819223916
+79.142.76.207 1 1 29702 20200807185713
+148.72.158.226 2 2 59404 20200804225122
+87.106.126.244 2 2 59404 20200803183322
+167.114.250.111 1 1 11207 20200814201304
+92.249.158.238 1 1 11207 20200815142443
+106.12.198.40 2 2 22414 20200828170529
+192.71.3.26 1 1 11207 20200818104955
+84.236.19.203 1 1 11207 20200808180845
+183.136.225.35 1 1 29702 20200830213634
+119.3.237.25 1 1 11207 20200807184111
+45.148.10.114 1 1 11207 20200818213737
+51.158.153.222 1 1 11207 20200806131609
+104.196.152.45 2 2 11207 20200824090900
+2.57.122.177 1 1 11207 20200818172406
+5.135.116.122 1 1 9911 20200807053114
+185.191.62.147 1 1 25267 20200817185503
+64.246.161.42 1 1 11207 20200818120212
+176.31.252.167 1 1 11207 20200828124009
+45.130.255.33 1 1 11207 20200822155253
+3.81.245.94 2 2 59404 20200829035009
+161.35.154.38 1 1 11207 20200805043222
+109.148.26.44 1 1 29702 20200806104119
+51.77.246.206 1 3 797460 20200806190919
+138.91.35.10 2 2 59404 20200819085749
+39.104.120.142 2 2 22414 20200829125647
+89.187.162.133 2 2 59404 20200815230338
+138.197.208.90 2 2 59404 20200821114242
+218.77.70.18 1 1 11207 20200813173929
+191.101.76.32 1 1 27116 20200817185504
+89.187.161.120 1 1 29702 20200817103013
+196.245.219.6 1 1 11207 20200818042751
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20200801 1 2 176626 1
+20200802 1 2 2187801 1
+20200803 9 14 2644552 6
+20200804 3 4 236030 2
+20200805 6 7 2299321 4
+20200806 14 17 1225092 7
+20200807 9 10 2294656 7
+20200808 4 5 2239917 4
+20200809 1 2 2187801 1
+20200810 3 4 187833 2
+20200811 1 2 2187801 1
+20200812 6 7 230876 5
+20200813 3 4 2210215 3
+20200814 4 5 247237 4
+20200815 4 5 2258412 3
+20200816 3 4 217535 3
+20200817 10 11 2442176 7
+20200818 11 12 2355356 9
+20200819 5 6 2288114 4
+20200820 1 2 2187801 1
+20200821 3 4 236030 2
+20200822 6 7 2243836 6
+20200823 1 2 176626 1
+20200824 14 17 1156272 6
+20200825 4 5 2219637 3
+20200826 4 5 228742 4
+20200827 5 6 2288114 3
+20200828 7 8 2251179 4
+20200829 8 9 292065 7
+20200830 7 8 2260546 4
+20200831 1 2 2187801 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 114
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 143 2981888 112 107
+/alednow%20contact 7 97644 1 6
+/alednow%20about%20us 5 77293 2 2
+/alednow%20services 4 75080 1 1
+END_SIDER

@@ -1,0 +1,1472 @@
+Return-Path: <Grainger@e.grainger.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id WLkHMpH7T1/yCQoAi5QuQQ
+	(envelope-from <Grainger@e.grainger.com>)
+	for <chris@alednow.com>; Wed, 02 Sep 2020 15:07:45 -0500
+Return-path: <Grainger@e.grainger.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Wed, 02 Sep 2020 15:07:45 -0500
+Received: from omp.e.grainger.com ([199.7.202.146]:56129)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <Grainger@e.grainger.com>)
+	id 1kDZ2n-002s7U-Lx
+	for chris@alednow.com; Wed, 02 Sep 2020 15:07:45 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=grainger; d=e.grainger.com;
+ h=MIME-Version:Content-Type:Content-Transfer-Encoding:Date:To:From:Reply-To:
+ Subject:List-Unsubscribe:Message-ID; i=Grainger@e.grainger.com;
+ bh=qG8fIglJzmrP2sa+qGKRjJzPMqPGv5rWIkjHTyLd3yk=;
+ b=QJ8cZDSBesBSjEx3fBvITLuczNXopqNKKUgM8P5t+izbP+C8fvMkOQK+6q8VQte3R42hzbyR8liM
+   z8+u93TdB45zKbh2JklTDI1x4gDKhybeMshFgRh0cshsq59TU6XmMYcgqsh9ynzEK2b6/tFkMmZ5
+   DkUzutafFBv8DQSbqFM=
+Received: by omp.e.grainger.com id h9vtoc2lr0oq for <chris@alednow.com>; Wed, 2 Sep 2020 13:07:34 -0700 (envelope-from <Grainger@e.grainger.com>)
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Date: Wed, 2 Sep 2020 13:07:34 -0700
+To: chris@alednow.com
+From: =?UTF-8?B?R3JhaW5nZXI=?= <Grainger@e.grainger.com>
+Reply-To: =?UTF-8?B?R3JhaW5nZXI=?= <customersupport@e.grainger.com>
+Subject: Take Control of Your Inventory
+Feedback-ID: 51224:10305946:oraclersys
+List-Unsubscribe: <mailto:unsubscribe-AQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4Gk@imh.rsys5.com?subject=List-Unsubscribe>, <https://e.grainger.com/pub/optout/UnsubscribeOneStepConfirmAction?YES=true&_ri_=X0Gzc2X%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4Gk&_ei_=EolaGGF4SNMvxFF7KucKuWPX4a97SFIpQ8wOqtP89cz9kObPW3Hm75rbHhR2wM71GmJAyGFWM0.>
+X-sgxh1: JojpkxHtLKghOQJhu
+X-rext: 6.interact5.Elp_AT7yxmN3K72JbMmFGCd-8XI0hnzu7BOiPVdYncXe5CxfuWEs
+X-cid: grainger.10889267
+X-ei: Evs5fSICj2fdBFvgDjklH1k
+Message-ID: <0.1.CF.EB.1D68164B278937E.0@omp.e.grainger.com>
+
+<=21DOCTYPE html PUBLIC =22-//W3C//DTD XHTML 1=2E0 Transitional//EN=22 =22h=
+ttp://www=2Ew3=2Eorg/TR/xhtml1/DTD/xhtml1-transitional=2Edtd=22>
+<html xmlns=3D=22http://www=2Ew3=2Eorg/1999/xhtml=22 xmlns:o=3D=22urn:schem=
+as-microsoft-com:office:office=22 xmlns:v=3D=22urn:schemas-microsoft-com:vm=
+l=22>
+<head><div itemscope=3D=22=22 itemtype=3D=22http://schema=2Eorg/Organizatio=
+n=22><meta content=3D=22Grainger=22 itemprop=3D=22name=22><meta content=3D=
+=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/grainger/conte=
+ntlibrary/coherentpath/images/49734438d755acdeb6461f91453a622e__grainger_40=
+0x400=2Ejpg=22 itemprop=3D=22logo=22></div>
+<title>GRAINGER</title>
+<meta content=3D=22text/html; charset=3Dutf-8=22 http-equiv=3D=22Content-Ty=
+pe=22>
+<meta content=3D=22IE=3Dedge=22 http-equiv=3D=22X-UA-Compatible=22>
+<meta content=3D=22width=3Ddevice-width, initial-scale=3D1=2E0 =22 name=3D=
+=22viewport=22>
+<meta content=3D=22telephone=3Dno=22 name=3D=22format-detection=22>
+<=21--=5Bif =21mso=5D><=21-->
+<link href=3D=22https://fonts=2Egoogleapis=2Ecom/css?family=3DRoboto+Conden=
+sed:300,400,700=22 rel=3D=22stylesheet=22>
+<=21--<=21=5Bendif=5D-->
+<style type=3D=22text/css=22>
+body =7B
+  margin: 0 =21important;
+  padding: 0 =21important;
+  -webkit-text-size-adjust: 100% =21important;
+  -ms-text-size-adjust: 100% =21important;
+  -webkit-font-smoothing: antialiased =21important;
+=7D
+img =7B
+  border: 0 =21important;
+  outline: none =21important;
+=7D
+p =7B
+  Margin: 0px =21important;
+  Padding: 0px =21important;
+=7D
+table =7B
+  border-collapse: collapse;
+  mso-table-lspace: 0px;
+  mso-table-rspace: 0px;
+=7D
+td, a, span =7B
+  border-collapse: collapse;
+  mso-line-height-rule: exactly;
+=7D
+=2EExternalClass * =7B
+  line-height: 100%;
+=7D
+=2Eem_defaultlink a =7B
+  color: inherit =21important;
+  text-decoration: none =21important;
+=7D
+a=5Bid=3D=22main_cta=22=5D:hover =7B
+background:=2398191A =21important;
+color:=23fff =21important;
+text-decoration:none =21important ;
+display:block;
+=7D
+a=5Bid=3D=22second_cta=22=5D:hover =7B
+background:=23000000 =21important;
+color:=23fff =21important;
+text-decoration:none =21important ;
+display:block;
+=7D
+=2Eslow-fade=7B transition: 0=2E3s =21important; =7D
+=2Eslow-fade:hover=7B transition: 0=2E3s =21important; opacity: 0=2E5 =21im=
+portant;
+=7D
+span=2EMsoHyperlink =7B
+  mso-style-priority: 99;
+  color: inherit;
+=7D
+span=2EMsoHyperlinkFollowed =7B
+  mso-style-priority: 99;
+  color: inherit;
+=7D
+input =7B
+  display: none =21important;
+=7D
+
+
+/* CSS for hiding content in desktop/webmail clients */
+=2Eimghide =7B 	max-height: 0px; font-size: 0; display: none; overflow:hidd=
+en;=7D
+
+/* Carousel */
+=40media screen and (-webkit-min-device-pixel-ratio:0)
+=7B
+body =7B
+  -webkit-animation: bugfix infinite 1s
+=7D
+ =40-webkit-keyframes bugfix =7B
+from, to =7B
+padding:0
+=7D
+=7D
+=23MessageViewBody =2Emc-carousel-fallback, body=2EMsgBody =2Emc-carousel-f=
+allback =7B
+  display: block
+=7D
+=23MessageViewBody =2Emc-carousel, body=2EMsgBody =2Emc-carousel =7B
+  display: none=21important
+=7D
+=2Emc-carousel =7B
+  display: block=21important;
+  max-height: none=21important;
+  position: relative
+=7D
+=2Emc-carousel-fallback =7B
+  display: none
+=7D
+=2Emc-carousel span =7B
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 1;
+  width: 100%
+=7D
+=2Emc-carousel span:nth-child(1) =7B
+  position: relative
+=7D
+=2Emc-carousel-frames img =7B
+  display: block=21important;
+  width: 100%=21important
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container, =2E=
+mc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container * =7B
+  -webkit-animation: none=21important
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container =2Em=
+c-carousel-frames =7B
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 500%=21important;
+  transition: left 1s
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container =2Em=
+c-carousel-frames span =7B
+  width: 20%
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container =2Em=
+c-carousel-frames span:nth-child(5) =7B
+  position: absolute;
+  top: 0;
+  left: 80%
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container =2Em=
+c-carousel-frames span:nth-child(4) =7B
+  position: absolute;
+  top: 0;
+  left: 60%
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container =2Em=
+c-carousel-frames span:nth-child(3) =7B
+  position: absolute;
+  top: 0;
+  left: 40%
+=7D
+=2Emc-carousel =2Emc-carousel-radio:checked=7E=2Emc-carousel-container =2Em=
+c-carousel-frames span:nth-child(2) =7B
+  position: absolute;
+  top: 0;
+  left: 20%
+=7D
+=2Emc-carousel =2Emc-carousel-check-support:checked=7E=2Emc-carousel-contai=
+ner =2Emc-carousel-nav-1 =7B
+  display: block
+=7D
+=2Emc-carousel-nav =7B
+  z-index: 100;
+  display: none;
+  width: 10%;
+  height: 100%;
+  position: absolute;
+  background-color: transparent;
+  top: 0;
+  cursor: pointer
+=7D
+=2Emc-carousel-nav i =7B
+  border: solid gray;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 10px;
+  margin: 20px
+=7D
+=2Emc-carousel =2Emc-carousel-radio-1:checked=7E=2Emc-carousel-container =
+=2Emc-carousel-controls =2Emc-carousel-nav-1, =2Emc-carousel =2Emc-carousel=
+-radio-2:checked=7E=2Emc-carousel-container =2Emc-carousel-controls =2Emc-c=
+arousel-nav-2, =2Emc-carousel =2Emc-carousel-radio-3:checked=7E=2Emc-carous=
+el-container =2Emc-carousel-controls =2Emc-carousel-nav-3, =2Emc-carousel =
+=2Emc-carousel-radio-4:checked=7E=2Emc-carousel-container =2Emc-carousel-co=
+ntrols =2Emc-carousel-nav-4, =2Emc-carousel =2Emc-carousel-radio-5:checked=
+=7E=2Emc-carousel-container =2Emc-carousel-controls =2Emc-carousel-nav-5 =7B
+  display: block
+=7D
+=2Emc-carousel-nav-left =7B
+  left: 0
+=7D
+=2Emc-carousel-nav-left i =7B
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg)
+=7D
+=2Emc-carousel-nav-right =7B
+  right: 0
+=7D
+=2Emc-carousel-nav-right i =7B
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg)
+=7D
+=2Emc-carousel =2Emc-carousel-radio-5:checked=7E=2Emc-carousel-container =
+=2Emc-carousel-frames =7B
+  left: -400%
+=7D
+=2Emc-carousel =2Emc-carousel-radio-4:checked=7E=2Emc-carousel-container =
+=2Emc-carousel-frames =7B
+  left: -300%
+=7D
+=2Emc-carousel =2Emc-carousel-radio-3:checked=7E=2Emc-carousel-container =
+=2Emc-carousel-frames =7B
+  left: -200%
+=7D
+=2Emc-carousel =2Emc-carousel-radio-2:checked=7E=2Emc-carousel-container =
+=2Emc-carousel-frames =7B
+  left: -100%
+=7D
+=2Emc-carousel =2Emc-carousel-radio-1:checked=7E=2Emc-carousel-container =
+=2Emc-carousel-frames =7B
+  left: 0
+=7D
+=2Emc-carousel-5 span =7B
+  -webkit-animation: mc-carousel-slide-anim-5 25s linear infinite
+=7D
+=2Emc-carousel-5 span:nth-child(5) =7B
+  -webkit-animation-delay: -6s
+=7D
+=2Emc-carousel-5 span:nth-child(4) =7B
+  -webkit-animation-delay: -11s
+=7D
+=2Emc-carousel-5 span:nth-child(3) =7B
+  -webkit-animation-delay: -16s
+=7D
+=2Emc-carousel-5 span:nth-child(2) =7B
+  -webkit-animation-delay: -21s
+=7D
+=2Emc-carousel-5 span:nth-child(1) =7B
+  -webkit-animation-delay: -26s
+=7D
+=40-webkit-keyframes mc-carousel-slide-anim-5 =7B
+0% =7B
+margin-left:100%
+=7D
+20%, 5% =7B
+margin-left:0
+=7D
+100%, 25% =7B
+margin-left:-100%
+=7D
+=7D
+=2Emc-carousel-4 span =7B
+  -webkit-animation: mc-carousel-slide-anim-4 20s linear infinite
+=7D
+=2Emc-carousel-4 span:nth-child(4) =7B
+  -webkit-animation-delay: -6s
+=7D
+=2Emc-carousel-4 span:nth-child(3) =7B
+  -webkit-animation-delay: -11s
+=7D
+=2Emc-carousel-4 span:nth-child(2) =7B
+  -webkit-animation-delay: -16s
+=7D
+=2Emc-carousel-4 span:nth-child(1) =7B
+  -webkit-animation-delay: -21s
+=7D
+=40-webkit-keyframes mc-carousel-slide-anim-4 =7B
+0% =7B
+margin-left:100%
+=7D
+25%, 5% =7B
+margin-left:0
+=7D
+100%, 30% =7B
+margin-left:-100%
+=7D
+=7D
+=2Emc-carousel-3 span =7B
+  -webkit-animation: mc-carousel-slide-anim-3 15s linear infinite
+=7D
+=2Emc-carousel-3 span:nth-child(3) =7B
+  -webkit-animation-delay: -6s
+=7D
+=2Emc-carousel-3 span:nth-child(2) =7B
+  -webkit-animation-delay: -11s
+=7D
+=2Emc-carousel-3 span:nth-child(1) =7B
+  -webkit-animation-delay: -16s
+=7D
+=40-webkit-keyframes mc-carousel-slide-anim-3 =7B
+0% =7B
+margin-left:100%
+=7D
+33=2E33333333%, 5% =7B
+margin-left:0
+=7D
+100%, 38=2E33333333% =7B
+margin-left:-100%
+=7D
+=7D
+=2Emc-carousel-2 span =7B
+  -webkit-animation: mc-carousel-slide-anim-2 10s linear infinite
+=7D
+=2Emc-carousel-2 span:nth-child(2) =7B
+  -webkit-animation-delay: -6s
+=7D
+=2Emc-carousel-2 span:nth-child(1) =7B
+  -webkit-animation-delay: -11s
+=7D
+=40-webkit-keyframes mc-carousel-slide-anim-2 =7B
+0% =7B
+margin-left:100%
+=7D
+5%, 50% =7B
+margin-left:0
+=7D
+100%, 55% =7B
+margin-left:-100%
+=7D
+=7D
+=7D /* End Carousel */
+
+ =40media only screen and (min-width:481px) and (max-width:549px) =7B
+   =2Eshowmenu=7B display:block =21important; width: auto =21important; ove=
+rflow: visible =21important; float: none =21important; max-height:inherit =
+=21important; max-width:inherit =21important; line-height: auto =21importan=
+t; margin-top:0px =21important; visibility:inherit =21important; border-bot=
+tom: 0px solid =23ffffff;=7D
+   *=5Bid=5D=23nav_menu =7B background-color: =232a333b; max-height: 0; ove=
+rflow: hidden; transition: max-height =2E25s linear; =7D
+   *=5Bid=5D=23nav_handle =7B background:url(https://static=2Ecdn=2Erespons=
+ys=2Enet/i5/responsysimages/content/grainger/menu_icon_sprite=2Epng) 0 0 no=
+-repeat; background-size:23px 36px =21important; cursor: pointer; display: =
+block =21important; width:23px =21important; height:18px =21important; -web=
+kit-tap-highlight-color: rgba(0, 0, 0, 0); =7D
+   *=5Bid=5D=23em_drop:checked + div table =23nav_handle =7B background:url=
+(https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/grainger=
+/menu_icon_sprite=2Epng) 0 -18px no-repeat; =7D
+   *=5Bid=5D=23em_drop:checked =7E =23nav_menu =7B display:block =21importa=
+nt; max-height: 270px =21important; =7D
+=2Eem_main_table =7B
+  width: 100% =21important;
+=7D
+=2Eem_wrapper =7B
+  width: 100% =21important;
+=7D
+=2Eem_wrapper2 =7B
+  width: 100% =21important;
+  display: block =21important;
+  text-align: center =21important;
+  line-height: 50px =21important;
+  font-size: 20px =21important;
+  border-bottom: 1px solid =23ffffff;
+=7D
+=2Eem_wrapper3 =7B
+  width: 100% =21important;
+  display: block =21important;
+  text-align: center =21important;
+  font-size: 20px =21important;
+=7D
+=2Eem_side =7B
+  width: 10px =21important;
+=7D
+=2Eem_hide =7B
+  width: 100% =21important;
+  height: auto =21important;
+=7D
+=2Eem_img =7B
+  width: 100% =21important;
+  height: auto =21important;
+=7D
+=2Eem_center =7B
+  text-align: center =21important;
+=7D
+=2Eem_h20 =7B
+  height: 20px =21important;
+  font-size: 0px =21important;
+  line-height: 0px =21important;
+=7D
+=2Eem_pad =7B
+  padding-top: 20px =21important;
+=7D
+=2Eem_aside =7B
+  padding: 0 10px =21important;
+=7D
+=2Eem_topbom =7B
+  padding: 20px 0px =21important;
+=7D
+div=5Bclass=3Dem_hide_desktop=5D =7B
+  display: table =21important;
+  float: none =21important;
+  width: 100% =21important;
+  overflow: visible =21important;
+  height: auto =21important;
+=7D
+=2Eem_f60 =7B
+  font-size: 70px =21important;
+  line-height: 72px =21important;
+=7D
+=2Eem_h40 =7B
+  height: 40px =21important;
+=7D
+=2Eem_h30 =7B
+  height: 30px =21important;
+=7D
+=2Eem_br =7B
+  display: block =21important;
+  padding: 0 0 5px 0 =21important;
+=7D
+=2Eem_hide1 =7B
+  display: none =21important;
+=7D
+=2Eem_max375 =7B
+  max-width: 375px =21important;
+=7D
+=7D
+=40media screen and (max-width: 480px) =7B
+  =2Eshowmenu=7B display:block =21important; width: auto =21important; over=
+flow: visible =21important; float: none =21important; max-height:inherit =
+=21important; max-width:inherit =21important; line-height: auto =21importan=
+t; margin-top:0px =21important; visibility:inherit =21important; border-bot=
+tom: 1px solid =23ffffff;=7D
+  *=5Bid=5D=23nav_menu =7B background-color: =232a333b; max-height: 0; over=
+flow: hidden; transition: max-height =2E25s linear; =7D
+  *=5Bid=5D=23nav_handle =7B background:url(https://static=2Ecdn=2Eresponsy=
+s=2Enet/i5/responsysimages/content/grainger/menu_icon_sprite=2Epng) 0 0 no-=
+repeat; background-size:23px 36px =21important; cursor: pointer; display: b=
+lock =21important; width:23px =21important; height:18px =21important; -webk=
+it-tap-highlight-color: rgba(0, 0, 0, 0); =7D
+  *=5Bid=5D=23em_drop:checked + div table =23nav_handle =7B background:url(=
+https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/content/grainger/=
+menu_icon_sprite=2Epng) 0 -18px no-repeat; =7D
+  *=5Bid=5D=23em_drop:checked =7E =23nav_menu =7B display:block =21importan=
+t; max-height: 250px =21important; =7D
+
+=2Ehide-m =7B
+    float: left =21important;
+    display: none =21important;
+    width: 0 =21important;
+    height: 0 =21important;
+    overflow: hidden =21important;
+=7D
+
+=2Eblk-banner a =7B
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%=21important;
+    height: 123px=21important;
+    background-size: auto 123px;
+=7D
+
+=2Eem_main_table =7B
+  width: 100% =21important;
+=7D
+=2Eem_wrapper =7B
+  width: 100% =21important;
+=7D
+=2Eem_wrapper2 =7B
+  width: 100% =21important;
+  display: block =21important;
+  text-align: center =21important;
+  line-height: 50px =21important;
+  border-bottom: 1px solid =23ffffff;
+  font-size: 20px =21important;
+=7D
+=2Eem_wrapper3 =7B
+  width: 100% =21important;
+  display: block =21important;
+  text-align: center =21important;
+  line-height: 40px =21important;
+  font-size: 20px =21important;
+=7D
+=2Eem_side =7B
+  width: 10px =21important;
+=7D
+=2Eem_hide =7B
+  display: none =21important;
+=7D
+=2Eem_img =7B
+  width: 100% =21important;
+  height: auto =21important;
+=7D
+=2Eem_center =7B
+  text-align: center =21important;
+=7D
+=2Eem_h20 =7B
+  height: 20px =21important;
+  font-size: 0px =21important;
+  line-height: 0px =21important;
+=7D
+=2Eem_pad =7B
+  padding-top: 20px =21important;
+=7D
+=2Eem_aside =7B
+  padding: 0 10px =21important;
+=7D
+u + =2Eem_body =2Eem_full_wrap =7B
+  width: 100% =21important;
+  width: 100vw =21important;
+=7D
+=2Eem_topbom =7B
+  padding: 20px 0px =21important;
+=7D
+div=5Bclass=3Dem_hide_desktop=5D =7B
+  display: table =21important;
+  float: none =21important;
+  width: 100% =21important;
+  overflow: visible =21important;
+  height: auto =21important;
+=7D
+=2Eem_f60 =7B
+  font-size: 55px =21important;
+  line-height: 58px =21important;
+=7D
+=2Eem_h40 =7B
+  height: 40px =21important;
+=7D
+=2Eem_h30 =7B
+  height: 30px =21important;
+=7D
+=2Eem_br =7B
+  display: block =21important;
+  padding: 0 0 5px 0 =21important;
+=7D
+=2Eem_hide1 =7B
+  display: none =21important;
+=7D
+=2Eem_font12 =7B
+  font-size: 10px =21important;
+  line-height: 14px =21important;
+=7D
+=2Eem_max375 =7B
+  max-width: 375px =21important;
+=7D
+
+     =2Eimghide =7B max-height: none =21important; font-size: 12px =21impor=
+tant; display: block =21important; =7D
+  *=5Bclass=5D=2Ewidth414 =7Bwidth:414px =21important;=7D
+  *=5Bclass=5D=2EheightAuto =7Bheight:auto =21important;=7D
+
+  /*Carousel */
+  =2Emc-carousel =7B
+  width: 100%=21important=7D /* End Carousel */
+=7D
+
+=40media screen and (max-width: 414px) =7B
+=2Eimghide414 =7B max-height: none =21important; font-size: 12px =21importa=
+nt; display: block =21important; =7D
+
+/*=2Eem_hide414 =7B
+  display: none =21important;
+=7D*/
+=2Eem_br414 =7B
+  display: block =21important;
+  padding: 0 0 5px 0 =21important;
+=7D
+
+  /*Carousel */
+  =2Emc-carousel =7B
+  width: 100%=21important=7D /* End Carousel */
+
+=7D</style>
+<=21--=5Bif gte mso 9=5D><xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml><=21=5Bendif=5D-->
+</head>
+<body bgcolor=3D=22=23ffffff=22 class=3D=22em_body=22 style=3D=22margin:0px=
+; padding:0px;=22><table cellpadding=3D=220=22 cellspacing=3D=220=22 style=
+=3D=22border: 0px; padding: 0px; margin: 0px; position: absolute; display: =
+none; float: left=22>
+<tr>
+<td height=3D=221=22 style=3D=22font-size: 1px; line-height: 1px; padding: =
+0px;=22>
+<img src=3D=22https://e=2Egrainger=2Ecom/pub/as?_ri_=3DX0Gzc2X%3DAQpglLjHJl=
+YQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXHkMX%3Dw&_ei_=
+=3DEolaGGF4SNMvxFF7KucKuWPX4a97SFIpQ8wOqtP89cz9kObPW3Hm75rbHhR2wM71GmJAyGFW=
+M0=2E=22></img>
+<img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https://ib=
+=2Eadnxs=2Ecom/getuid?https://a=2Eadrsp=2Enet/dsp/ci/2/Ec9evhe4abfduEBfX-ND=
+TqQOcGmZ3-_dmNjhNw3MTAtl9DJ3XwQfq9IOpjl2gbdFEpupgErn6wo/%24UID=22></img>
+</td>
+</tr>
+</table>
+
+
+ =20
+<=21-- BEGIN Adding an open tracking pixel at the top of an email -->
+
+<=21-- END adding an open tracking pixel at the top of an email -->
+  <=21-- /HeaderTracking Pixels -->
+<table bgcolor=3D=22=23ffffff=22 border=3D=220=22 cellpadding=3D=220=22 cel=
+lspacing=3D=220=22 class=3D=22em_full_wrap=22 width=3D=22100%=22>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+<table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspac=
+ing=3D=220=22 class=3D=22em_main_table=22 style=3D=22width:550px; table-lay=
+out:fixed;=22 width=3D=22550=22>
+<=21-- CP PERSONALIZATION STARTS -->
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+  <=21-- PREHEADER : BEGIN -->
+  <table width=3D=22550=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 align=3D=22center=22 style=3D=22width:550px;=22
+    class=3D=22em_wrapper=22>
+    <tr>
+      <td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=23000000=22=
+ style=3D=22padding:0 10px;=22>
+        <table width=3D=22530=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 align=3D=22center=22 style=3D=22width:530px;=22
+          class=3D=22em_wrapper=22>
+          <=21-- PREHEADER SECTION -->
+          <tr>
+            <td align=3D=22center=22 valign=3D=22top=22 class=3D=22em_hide=
+=22 style=3D=22padding:4px 0;=22>
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 align=3D=22center=22>
+                <tr>
+                  <td align=3D=22center=22 valign=3D=22top=22
+                    style=3D=22font-family:Arial, sans-serif; font-size:11p=
+x; line-height:14px; color:=23ffffff;=22>
+                    <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX=
+0Gzc2X%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfM=
+m4GkVXtpKX%3DSWTBUBBC&_ei_=3DEngf6tB8GC53tp9SYhLnCF2pXig_u7ZgYGl44rYMxv2Fj3=
+q-F-Brmpc2FKa5ddfiLOObUUyK6y8i96UvcTo41qhcJ_rkEwWFAxy_ym637q_tlpMxVE9dN73uk=
+9hvqvwIFgyJPCPBQv5a_4dv-RnCxl8CUn0FL0JNWcFUCft7Nm1--RNLBJAYeKjRSg0gtIq9wexp=
+2zCVGeGc8CubOHIysOXbk9UxXV2awWvgXBNP82D4-MOHpXvobOl0s8czJPbbgRf4jxbPFQLx2Wb=
+kRZfRhKJ4-ws_Af_QEZcezCR89EcpdY92Z7UiK6MB9sJSnyD_Db_Db-bGzMJTwIL2Z36fwTJgvE=
+E2HCEaTDw2vnZMKrLhS5uTzTniv9hqF8tXx_Mpejjpxu0QLPSapRBWvp9-cloN6dGp7XbMGv-HA=
+Ky7YfFCCcAQJ3e192OBA8mlgP81iZ1s8DJjRGL8o3G6EnG7OjcEYZQ9IEWkZIj65ml4CnOiJCTh=
+YkdUBIsvvsFDigdOmEPAIswYJC_o2nWGLZys9bwSwXiApn35-51_LXg6uXX7-dnObkqsoesffX2=
+_ab4w1X_TvimlgRb7ea3puTMGMOSU_bmaaxf-fiVG7bOd4qlCeg=2E&_di_=3Dihkphkugfvtmn=
+d1948otq42vhak65dhdt641ioi36bnvqujsqaig=22
+                      style=3D=22font-family:Arial, sans-serif; font-size:1=
+1px; line-height:14px; color:=23ffffff;=22>Inventory solutions that leave y=
+ou more time to invest back into your business=2E</a>
+                  </td>
+                  <td width=3D=223=22 style=3D=22font-size:0px; line-height=
+:0px; width:3px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5=
+/responsysimages/grainger/contentlibrary/coherentpath/images/f2229e22cda170=
+c551671e5853235fe1__spacer=2Egif=22 width=3D=221=22 height=3D=221=22 alt=3D=
+=22=22 border=3D=220=22 style=3D=22display:block;=22 /></td>
+                  <td align=3D=22center=22 valign=3D=22top=22>
+                    <table border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 align=3D=22center=22>
+                      <tr>
+                        <td height=3D=224=22 style=3D=22font-size:0px; line=
+-height:0px; height:4px;=22><img src=3D=22https://static=2Ecdn=2Eresponsys=
+=2Enet/i5/responsysimages/grainger/contentlibrary/coherentpath/images/f2229=
+e22cda170c551671e5853235fe1__spacer=2Egif=22 width=3D=221=22 height=3D=221=
+=22 alt=3D=22=22 border=3D=220=22 style=3D=22display:block;=22 /></td>
+                      </tr>
+                      <tr>
+                        <td align=3D=22center=22 valign=3D=22top=22 style=
+=3D=22font-size:0px; line-height:0px;=22><img src=3D=22https://static=2Ecdn=
+=2Eresponsys=2Enet/i5/responsysimages/grainger/contentlibrary/coherentpath/=
+images/16de3d648acb52c68af86d3f89b4198f__arrow=2Epng=22 width=3D=224=22 hei=
+ght=3D=227=22 alt=3D=22=22 border=3D=220=22 style=3D=22display:block;=22 />=
+</td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <=21-- //PREHEADER SECTION -->
+          <=21-- HEADER SECTION -->
+          <tr>
+            <td align=3D=22center=22 valign=3D=22top=22 class=3D=22em_topbo=
+m=22 style=3D=22padding:30px 0 22px 0;=22>
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 align=3D=22center=22>
+                <tr>
+                  <td align=3D=22center=22 valign=3D=22top=22>
+                    <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX=
+0Gzc2X%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfM=
+m4GkVXtpKX%3DSWTBUBBD&_ei_=3DEsypayr5V50ZE500xc47S4F3n6dUKH-CF54D9mBWSYqZ2b=
+E-TQBMEYPovb5YwxblAbtTHZRTQCymCxmvB66mF9dHB3Un1eAlfUpWLm68KquSAi0I-ffBNhSns=
+5eCI4ZtFzR83zPptKOb43D1e98zhC9LuJgJW-m0UA6pxElPAQIl5w2VaEyk6MYhqI1riS3_pXL6=
+xrh_BxiAsXinDEF8_DJ516dfmROj1dIJAWvCSxZTD1Uy7IdSMXjD262iX_o7Y_DxcjQ09LRCxUk=
+orWiwm9ydCrXswEwCg5iZ0jZwt3rgC4NqDrBWEWSMzqZjXbfjUwJMDm0aHcL0UUPtH2OvxF3s38=
+OiFS4JkO0pIoOKgWS5CXyiMoyM-Mo2X0__gEagPA7BtFGX6L4UPMNPbnDqYHR90Ld-myRvHH9Xx=
+d1a4sVbYYxvKsn3AvNV6IuhgZ8MR9Zpd4UP8PXCPMPGbh-Ym9l3y873ory_NbbcPA9s4SbX_KF4=
+k5bhZ6TmGvnXIMHCL2d7ZQm7mfFfeLoIJ4GLQOhyEPZXXLZiDQ1tJynzhJl1sG118X3prx8d2yq=
+qBp8LupCJSJuS-Hj2EfDY=2E&_di_=3D95es71b19ic93d75h5uatk8te9aki3stanoftmdurti=
+lhhun20j0=22 style=3D=22text-decoration:none;=22>
+                      <img src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/=
+i5/responsysimages/grainger/contentlibrary/coherentpath/images/b3d06eecb984=
+133101ba73d574ae27c0__logo_img=2Epng=22 width=3D=22200=22 height=3D=2246=22=
+ alt=3D=22GRAINGER=22 border=3D=220=22 style=3D=22display:block; font-famil=
+y:Arial, sans-serif; font-size:16px; line-height:20px; color:=23ffffff; fon=
+t-weight:bold; max-width:200px;=22 />
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <=21-- //HEADER SECTION -->
+        </table>
+      </td>
+    </tr>
+  </table>
+  <=21-- PREHEADER : END -->
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+              <=21-- HEADER NAV : BEGIN -->
+  <table width=3D=22550=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 align=3D=22center=22 style=3D=22width:550px;=22
+    class=3D=22em_wrapper=22>
+    <tr>
+      <td align=3D=22center=22 valign=3D=22top=22>
+        <table align=3D=22center=22 width=3D=22550=22 border=3D=220=22 cell=
+spacing=3D=220=22 cellpadding=3D=220=22 class=3D=22em_main_table=22
+          style=3D=22width:550px; table-layout:fixed;=22>
+          <tr>
+            <td align=3D=22center=22 valign=3D=22top=22>
+              <table width=3D=22550=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22 align=3D=22center=22
+                style=3D=22table-layout:fixed;=22 class=3D=22em_wrapper=22>
+                <=21-- NAVIGATION MENU -->
+
+  <table width=3D=22550=22 border=3D=220=22 cellspacing=3D=220=22 cellpaddi=
+ng=3D=220=22 align=3D=22center=22 style=3D=22table-layout:fixed;=22 class=
+=3D=22em_wrapper=22 bgcolor=3D=22=232a333b=22>
+    <tbody>
+      <tr>
+        <td align=3D=22center=22 valign=3D=22middle=22>
+          <=21--=5Bif =21mso=5D><=21-->
+          <form><input
+           id=3D=22em_drop=22
+           type=3D=22checkbox=22
+           style=3D=22display:none =21important; float:left; overflow:hidde=
+n; width:0; max-height:0; line-height:0;=22
+          >
+            <div class=3D=22showmenu=22 style=3D=22display:none; float:left=
+; overflow:hidden; width:0; max-height:0; line-height:0;=22>
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 align=3D=22center=22 style=3D=22margin: 0 auto;=22>
+                <tr>
+                  <td align=3D=22center=22 valign=3D=22middle=22 height=3D=
+=2250=22><label for=3D=22em_drop=22 id=3D=22nav_handle=22></label></td>
+                  <td width=3D=2210=22 style=3D=22width:10px;=22>&nbsp;</td>
+                  <td align=3D=22center=22 valign=3D=22middle=22 height=3D=
+=2250=22 style=3D=22font-family: 'Roboto Condensed', Arial, sans-serif; fon=
+t-size:20px; font-weight:bold; color:=23ffffff;=22><label for=3D=22em_drop=
+=22>MENU</label></td>
+                </tr>
+              </table>
+            </div>
+            <=21--<=21=5Bendif=5D-->
+            <div id=3D=22nav_menu=22 style=3D=22margin-left:0px; margin-rig=
+ht:0px; z-index:50;=22>
+
+              <=21--=5Bif gte mso 9=5D><table width=3D=22550=22 border=3D=
+=220=22 cellspacing=3D=220=22 cellpadding=3D=220=22 align=3D=22left=22 clas=
+s=3D=22em_wrapper=22><tr><td height=3D=2250=22 valign=3D=22middle=22 align=
+=3D=22center=22 width=3D=22120=22><=21=5Bendif=5D-->
+              <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVX=
+tpKX%3DSWTBUWSR&_ei_=3DEoQW0aWF2hShldUJz0olWLroUovd70kfGS4slD8ZwofAkxbTuZ49=
+4Y5nU_iWd2JjVqvmZwWAqsU29QFIqOYJvyIhTyR__BVX0SvshvpSW-_gomwdjOxlFjis6TpUEOr=
+KOyC7HlpAgFRO0wtm_B03tztq08_qW4sMut4Iybqp-SEySbBKXlqvlF-vXkj5OuTGNJvuMExiCK=
+fJocdAU7-eF2DVzKsqdaizRAn4QgTNtyKvC9rUO14luCe8CgfkqfhE8qj-1znMMhXDUrJ-hcVrR=
+PNa7l6Rj9dcVnnscHFhf1wA9T4VrBEOIZE-4zX0AVRd0oYzP5br-kL8SnAca5PiUD7C0ki87Oz-=
+QALI6joXzufXz-nb2ZMvdiEXNRd6P079GEAchpWYJjiq6Lg8C2fX04ZXlqgt5eYHUlT5ZCd1Uel=
+H8veOqSmHxm0Duvu0h9Q7fF4HXgTpvY5P9uVKDQdw4H__ikcwMGEgvM_PCf1dtfDqMZIi-vPF14=
+_hXty82k1thXzhYbNsaXY4eDxgKcsYif0U32t9kc7ZrTFJLAxQlVIZj6Qs6uj5vcc6xInvVW1S4=
+2Q=2E&_di_=3D2gc7pcl0kluv78hjkcg4bsg9359go1hbnn4sar3k5vh59j1uodt0=22 class=
+=3D=22em_wrapper2=22
+                style=3D=22font-family:'Roboto Condensed', Arial, sans-seri=
+f; font-size:12px; color:=23ffffff; font-weight:bold; text-decoration:none;=
+ line-height:50px; width:120px; float:left; display:inline-block;=22><span =
+class=3D=22em_hide=22>&nbsp;</span>MY
+                ACCOUNT</a>
+              <=21--=5Bif gte mso 9=5D></td><td height=3D=2250=22 valign=3D=
+=22middle=22 align=3D=22center=22 width=3D=22130=22><=21=5Bendif=5D-->
+              <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVX=
+tpKX%3DSWTBUWSY&_ei_=3DEoQW0aWF2hShldUJz0olWLrlM3XvSzO3cNqy37S2cdpFUb7Ix4Jx=
+4uQk6rwXc_h4z0goybJfg4DtpGAKiQPpK7emeUGs6E6CzTssq_9RbDhLwYnVL1IwF797WEjarOx=
+W0NNGBnUDrMDEKCMaSvCKixzjc4zw5jZj7uUY5NZ5rrWEHF-5e4XVa6RwffPCYkmN82W9DaaFLE=
+NHsTYMvmL5LKQGshesKwcKsxaFAWBLXvB6toEAmkDC0QFznIcEWZTphn-NVEsu9o98F54P7EsZo=
+muBbqsUrhVrKUrEtNZUo92X8gVryk6nZ4zL_3PJO_l4wsjwqc5v-0n_alCGUqP5k_M3h7JOK7TB=
+vzCR-hOfQ8itFhLxSjP7QPFxXUceSn6r1Ey5UZfbaSS7qA9WOi_RFQN3GCkeHthI4rO2pqpXvdp=
+jaHIXTJB5WFPiMZheDwltsrQWcYG5uXN_leA1KwdwkqbLUn-l8aNtCkhUJ9vdbvanrwYqMhaD8v=
+cBnxm1LNZqATh38YzUNdrEfWaHHNiE_b1dVX0K58xIsGCE6-5bU1LkNjRyevzf_XGJEfdq8gch1=
+g-oyM=2E&_di_=3Dvrl96er35t4oadben8tvgls0iucisvvno5qktq1ut79p68r4c1h0=22 cla=
+ss=3D=22em_wrapper2=22
+                style=3D=22font-family:'Roboto Condensed', Arial, sans-seri=
+f; font-size:12px; color:=23ffffff; font-weight:bold; text-decoration:none;=
+ line-height:50px; width:130px; float:left; display:inline-block;=22>ALL PR=
+ODUCTS</a>
+              <=21--=5Bif gte mso 9=5D></td><td height=3D=2250=22 valign=3D=
+=22middle=22 align=3D=22center=22 width=3D=22130=22><=21=5Bendif=5D-->
+              <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVX=
+tpKX%3DSWTBUWSD&_ei_=3DEoQW0aWF2hShldUJz0olWLqkd5lTsLFOmF-eMgUPBCXd_yp8ky8f=
+DAWTBg74UYfsdsa11ia1eOSWKwnDv-ppAWcuKaKIOXaZ88zJxf1h-SzdcAcQQBYV7LaTO7vfIeB=
+JPqmZa1DlM1-zAxj4m_jISGxKjV4E1pAgMbNlMKMx-blh4xpqe-UMKWJ1yJMIErJK-FnkQziFEq=
+JZ9hcGKrTnCTZFBZRPWdV7N6_k3utMpho_X3gIBD9Pwc-QfYVXLY87dsw_So2qgxU8GM1UohJxp=
+qmnSk7SLE01y5-mjcpgc3Y-1XCrLjzy-r42DdHq1o0C8dh3cy1qWkzkuTZOZWs2AjrNASHLeW2g=
+VoDS1uP2csS8Dvbf0ZY6QcRL8IKdxT3Fwh7t56pef2QnNE3XEoS-SKk79O1qwGWllUVpSy1qm1h=
+tXJi-0ichorz9fr_lzVaqXnwRmRAeUC7X-tMos5M9LQystL_TnYNH1u-V3y6GEOXYKpd3-j_7NA=
+u8ACe7yy00iZN78DsnlRebTg_mPTc2EnK7xbUvQgDWNRKAz7fxKWai04r52tpLE0ZW_7uaHLi2c=
+6XwMYo=2E&_di_=3Dn8lnes5o764vr9nj2gtqqaegqrlnsaq05njnmp1fadra7ar50eh0=22 cl=
+ass=3D=22em_wrapper2=22
+                style=3D=22font-family:'Roboto Condensed', Arial, sans-seri=
+f; font-size:12px; color:=23ffffff; font-weight:bold; text-decoration:none;=
+ line-height:50px; width:130px; float:left; display:inline-block;=22>ORDER =
+HISTORY</a>
+              <=21--=5Bif gte mso 9=5D></td><td height=3D=2250=22 valign=3D=
+=22middle=22 align=3D=22center=22 width=3D=22105=22><=21=5Bendif=5D-->
+              <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVX=
+tpKX%3DSWTBUWTU&_ei_=3DEoQW0aWF2hShldUJz0olWLozrWJiVgoYgGWOs5HCKH-2HiKoOvIZ=
+6wWqOU-6VrulRSGjKfcL2dTyh4e5glrY_OyoIiZCTZ7LyV0XdYYnegjfK2MzmWiLSzJeeX4RnDY=
+DGzy0RO9zxz8w1gfVP2IbvC0F_D_1kB38gBivSdRtKMghsviPpwGPGVaJRfsp9I7TyUHlOYSR9Z=
+9cWJwWwJJfpYfqvA74gflgq-Tj2Jbzfa3oklSwN6Fpz2p6sklXKKvcvFAdL-jyUg5eK71AvGxyA=
+mR3ZZENqMKQwAx6vzwzoEmeAM5BRmK3u9_v1Jb_osn8-0WLLWY3a3maTpWnL0fupO3o5HC1Cszm=
+6T84bRUsLxqKL6yMBHp9lGouvxm9-KXTVDkD99yjgcLJRtHXAAebsFMQu_cp_OfdhXi5AUQ5vYa=
+CsIq8AqPgSMUlL9vUDH0DbX9S8mSsLQlL--3Woa-7tFEeGRjfbzHHz42vBCcrgd-InnM5-XFI3t=
+bCJpmzxWH4bZNj9Tl5bG9aalpXf5il5D_SdpxhEIgKuFz1BSIYc4QkGXPOQEtdOnkrududVqHD=
+=2E&_di_=3Der54tbhoe5as1rh43p4osket204966k95pu7r0t818quadi6inm0=22 class=3D=
+=22em_wrapper2=22
+                style=3D=22font-family:'Roboto Condensed', Arial, sans-seri=
+f; font-size:12px; color:=23ffffff; font-weight:bold; text-decoration:none;=
+ line-height:50px; width:105px; float:left; display:inline-block;=22>HOT BU=
+YS</a>
+              <=21--=5Bif gte mso 9=5D></td><td height=3D=2250=22 valign=3D=
+=22middle=22 align=3D=22center=22><=21=5Bendif=5D-->
+              <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVX=
+tpKX%3DSWTBUWTW&_ei_=3DEoQW0aWF2hShldUJz0olWLoRUmw2ddUMsPwixqQLpX12KCC2i6cI=
+ILazoDr_mcGLT94nzeHpbj2HuScW6-tPO33-RNNEqmhY9YKKhTi07m7WzWtuZJhZ_Xa140-JZIF=
+RWAdFi_mm0bMjo1iXWSFA0LHok2KWYCVsUilAWH3OR8QqtiC_ehSwGA-AnZ7bA9CWFBCD8smfZB=
+TfI_zjk2h0zzaE_jUD1Ld1gknzmQMTUEAqixEp-9hjXBWWex-N1ePRPzk9tCqIuxBUu56bzgr6N=
+sMS6IsERmOaJPuKwxA1Olo78SyFmYv8JnIvoNBUpmN0y0lZ2k6KMaYMqoRy41cR3fI_L0tg-i4w=
+gJQeas19PgSBI3MzePugFWDIYSr-Mto4W0n4xirClS2Sxy55Pi6zW-JuIwsQfgCzJEIQdFhZWRG=
+bHClfkfyF1DIgmWPwM8diVqtzQ9NcfJgwRbRxtZPfd_3hiyv58hrD7bLH41oNwtM6FuO6RM8Dey=
+PSKTdN9wMjQi5s5ZNaeVYQNkSmIgUYEviB1-34K1bRm4KkcpfekNZ8uLIgj7O69domVbE5=2E&_=
+di_=3Dtk37opa4jt808eot2ft326vhl3oqq81tjiu5vpsauc53dfsddf90=22 class=3D=22em=
+_wrapper3=22
+                style=3D=22font-family:'Roboto Condensed', Arial, sans-seri=
+f; font-size:12px; color:=23ffffff; font-weight:bold; text-decoration:none;=
+ line-height:50px; float:left; display:inline-block; width:65px;=22>CART<sp=
+an
+                  class=3D=22em_hide=22>&nbsp;</span></a>
+              <=21--=5Bif gte mso 9=5D></td></tr></table><=21=5Bendif=5D-->
+
+            </div><input
+           type=3D=22hidden=22
+           name=3D=22__HIDDEN_FIELD_NAMES__=22
+           value=3D=22__HIDDEN_FIELD_NAMES__=22
+          >
+
+          </form>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <=21-- //NAVIGATION MENU -->
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <=21-- HEADER NAV : END -->
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+  <=21-- B01/B03 - Pos 0 : BEGIN -->
+  <table align=3D=22center=22 width=3D=22550=22 border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22 class=3D=22em_main_table=22
+    style=3D=22width:550px; table-layout:fixed;=22>
+   =20
+
+   =20
+
+    <=21-- B01 PRIMARY SECTION -->
+    <tr>
+      <td align=3D=22center=22 valign=3D=22top=22>
+        <table width=3D=22550=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 align=3D=22center=22 style=3D=22width:550px;=22
+          class=3D=22em_wrapper=22>
+          <tr>
+            <td align=3D=22center=22 valign=3D=22top=22>
+              <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X=
+%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVX=
+tpKX%3DSWTBUBDT&_ei_=3DEngf6tB8GC53tp9SYhLnCF2pXig_u7ZgYGl44rYMxv2F1jPF_IeZ=
+QJYeZPtp6717hrW8vHyqbdITTAqlRMsze47hXdxD19apy4z6bxCC5DBDdEkZIOoYim7oNYTxnYD=
+pU6JijpCRwA6VvYZHv_6Lk-f-7lNr8iNen4K0E5VW99cpv-iKAV1VZxzYarl9oElhKRXxPyvF8n=
+kozw7Zr9LZtNJiTzFUR7zNmv3Hj88906B0rYU9jzQRN229Pc6_8JO4FqbJmmjnJ6OPM_MK9DLGT=
+OGQIHfVmktK_w_wl4o5mI04MQj4b6xjYipooL_DGYZZq8mm1dCe0BP8woszaddTnvibUhHQB0lY=
+e2tFf_BNA3hc8HAMvAK1g96cgWZ1w05jHL7RakuoyfwfPhEbuYVWvDVNzsPIgPLH7vJRiC6VJ8a=
+sQxZmU-WiD_wT1tP3YhRmevIODbyWItx9_rN_HsRQbIIglvNEwuC0NeBh9dPzD_2o4ibYriwfsQ=
+3E2nDE-0QXxzJPpRu0VkB98e0zEaQKLIDTkT7bXnPmcQrXYjJr0YqBpKJCKfBjh2pt_iCD7Kye5=
+rCmnhgbD2_Alm1rjBnnUVYlTNRa4aBsUAFLZCIPp58Neau2=2E&_di_=3Dr1n5om0jmi38pl6em=
+rlu5nmjeueihbvgr0lq1uhrpis0ih3vjpk0=22 style=3D=22text-decoration:none;=22>
+                <img class=3D=22em_img=22 src=3D=22https://grainger-prod=2E=
+adobecqms=2Enet/content/dam/grainger/gus/en/public/digital-tactics/email/pr=
+ograms/w-bmem403-02-cp-tromo_eml_h1_b01_2=2Ejpg=22 width=3D=22550=22 height=
+=3D=22auto=22 alt=3D=22Buy and manage your critical inventory=22 border=3D=
+=220=22 style=3D=22display:block; font-family:Arial, sans-serif; font-size:=
+16px; line-height:20px; color:=23000000; max-width:550px;=22 />
+                </a>
+            </td>
+          </tr>
+          <tr>
+            <td align=3D=22center=22 valign=3D=22top=22 class=3D=22em_aside=
+=22 style=3D=22padding:0 30px;=22>
+              <table width=3D=22490=22 border=3D=220=22 cellspacing=3D=220=
+=22 cellpadding=3D=220=22 align=3D=22center=22
+                style=3D=22width:490px;=22 class=3D=22em_wrapper=22>
+                <tr>
+                  <td align=3D=22center=22 valign=3D=22top=22 class=3D=22em=
+_defaultlink=22
+                    style=3D=22font-family:Arial, sans-serif; font-size:20p=
+x; line-height:26px; color:=23000000; padding:14px 0 0 0;=22>
+                    A faster and easier way
+to buy and manage your
+critical inventory=2E</td>
+                </tr>
+                <tr>
+                  <td align=3D=22center=22 valign=3D=22top=22 class=3D=22em=
+_pad=22 style=3D=22padding:25px 0 0 0;=22>
+                    <table width=3D=22230=22 border=3D=220=22 cellspacing=
+=3D=220=22 cellpadding=3D=220=22 align=3D=22center=22
+                      style=3D=22width:230px;=22 bgcolor=3D=22=23be2122=22 =
+class=3D=22em_wrapper em_max375=22>
+                      <tr>
+                        <td align=3D=22center=22 valign=3D=22middle=22 heig=
+ht=3D=2255=22 class=3D=22em_defaultlink=22
+                          style=3D=22font-family: 'Roboto Condensed', Arial=
+, sans-serif; font-weight:bold; font-size:18px; color:=23ffffff; text-trans=
+form:uppercase; height:55px;=22>
+                          <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_r=
+i_=3DX0Gzc2X%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzc=
+LY8zfMm4GkVXtpKX%3DSWTBUBDT&_ei_=3DEngf6tB8GC53tp9SYhLnCF2pXig_u7ZgYGl44rYM=
+xv2F1jPF_IeZQJYeZPtp6717hrW8vHyqbdITTAqlRMsze47hXdxD19apy4z6bxCC5DBDdEkZIOo=
+Yim7oNYTxnYDpU6JijpCRwA6VvYZHv_6Lk-f-7lNr8iNen4K0E5VW99cpv-iKAV1VZxzYarl9oE=
+lhKRXxPyvF8nkozw7Zr9LZtNJiTzFUR7zNmv3Hj88906B0rYU9jzQRN229Pc6_8JO4FqbJmmjnJ=
+6OPM_MK9DLGTOGQIHfVmktK_w_wl4o5mI04MQj4b6xjYipooL_DGYZZq8mm1dCe0BP8woszaddT=
+nvibUhHQB0lYe2tFf_BNA3hc8HAMvAK1g96cgWZ1w05jHL7RakuoyfwfPhEbuYVWvDVNzsPIgPL=
+H7vJRiC6VJ8asQxZmU-WiD_wT1tP3YhRmevIODbyWItx9_rN_HsRQbIIglvNEwuC0NeBh9dPzD_=
+2o4ibYriwfsQ3E2nDE-0QXxzJPpRu0VkB98e0zEaQKLIDTkT7bXnPmcQrXYjJr0YqBpKJCKfBjh=
+2pt_iCD7Kye5rCmnhgbD2_Alm1rjBnnUVYlTNRa4aBsUAFLZCIPp58Neau2=2E&_di_=3Dr1n5o=
+m0jmi38pl6emrlu5nmjeueihbvgr0lq1uhrpis0ih3vjpk0=22
+                            style=3D=22text-decoration:none; color:=23fffff=
+f; display:block; line-height:55px;=22>Check It Out</a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td height=3D=2230=22 style=3D=22height:30px;=22 class=3D=
+=22em_h40=22>&nbsp;</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <=21-- //B01 PRIMARY SECTION -->
+   =20
+
+   =20
+  </table>
+  <=21-- B01/B03 - Pos 0 : END -->
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+ <=21-- F01 SOCIAL : BEGIN -->
+ <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22 class=3D=22em_main_table=22 style=3D=22width:550px; table-la=
+yout:fixed;=22 width=3D=22550=22>
+  <tr>
+   <td align=3D=22center=22 bgcolor=3D=22=232a333b=22 style=3D=22padding:25=
+px 10px;=22 valign=3D=22top=22>
+    <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cell=
+spacing=3D=220=22>
+     <tr>
+      <td align=3D=22center=22 valign=3D=22middle=22>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSCU&_ei_=3DEmbpnLAkjhvo9sXEF1kjazGerMOe47KoUzaVxUicugz-JO7Ke0KjrOqkFGd=
+rnYrkhBBzebOah-uKCX2kVrVNNzod5b_hdLFkmWPV9-rirNfiavGPHZV9QlbxReLhyaJjSNWSVn=
+zltDN0aKe4Ww1Ay2JdRFSahWbl6Zf0H31P_3RX1RoqmAfok46P0yqMHaCJ1wW5-Pjwqr7aNBfar=
+AMPwtLtm6MU2E5iclDcrVX0J2IEYVEIvRMubQmU_kw5lrK3AbT2pTt-i7ANoksdT_IFq_us47j2=
+pb9ob1Vp-W-Ye2z764JK7k-rRHyutxSrR4VfH70gtKH0TIU1e9E1ckQU3oUaaKZMWfFlBCtFvi6=
+O_RQe5kThV3BpcRGudPXwK7zE60SWhb4pwFtKPidvQLlQIJgsApTrqvXqPDnYQp4MvuLJOjYSfh=
+wQbRQzumVEJZpl2QzQ1S2nd7E8RdGoVIvk17SwyGsbWMXWoW2aluNV3rhGi6pnPaudFGYQwytPj=
+krf752PCHrC2XRoavv3b8pDgQmQo27n3n1S3jJwL7F8WnHdNsF2f77H-L63GQhS50=2E&_di_=
+=3Dem103vsabvicqrrvrubnvfp9ogp1qg06ct6k9cul46s39o2b1t3g=22 style=3D=22text-=
+decoration:none;=22>
+        <img alt=3D=22fb=22 border=3D=220=22 height=3D=2250=22 src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/grainger/contentlibr=
+ary/coherentpath/images/bbd24ec070059605a9645a5dfe160806__fb_img=2Epng=22 s=
+tyle=3D=22display:block; font-family:Arial, sans-serif; font-size:16px; lin=
+e-height:50px; color:=23ffffff; max-width:50px;=22 width=3D=2250=22/>
+       </a>
+      </td>
+      <td class=3D=22=22 style=3D=22width:20px;=22 width=3D=2220=22>
+      </td>
+      <td align=3D=22center=22 valign=3D=22middle=22>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSCW&_ei_=3DEiYr_7RJxQS452epJFrpb1I_vAXRWQQoTkwq28r1auL205ovYBOR02aHCnH=
+c-VwDDSZMnXJvPQ90vGAUfmzwuRiml1uGEAi4qpTJrRW-i-narE-lavHHuAYmgt19wV-u6pB-mT=
+yiQ9dguWq_pBZ326eus9iNdXwKt_CHxIlUqHTEbwMKCPXwtY0l1_dvIDpwdgQ5bSoWPPrUkW37g=
+mqMLx2B-06x25j8iRRX0yMG7_YMFVuK_urJB-N2KONdqR4k--JQ0kElhPVFsS_u9j24wSC-tFUV=
+bjWFmjCNZ4YktjZdr7KqpdCsEswxMDZWVpAZtdshHmzDW55YU4AUiEr0fIE_-7PgdR4YkrcPUSR=
+xHLuiLb3-bv1v6ZqxsM-W4dM-ZQ2h_1VFdoMXRdjATYDeUbPfgwoGzudqWZE5ENNILBFqbc7JDU=
+Fsj4BgPtmXcdpgYCtSBbM9I7LbCX16VlkNuDD4andemcnPyXzNJz7qQ7r2NLEr5WyEcVomIOi7h=
+fxSEUBWyZ_GJmE33QFprw0kZMZy1tnreJpmNi9BO5_rWbQJrCCvccPFNeN7GE67=2E&_di_=3D8=
+oobuthjifun9rr6mgm2tpjosk5ja351fbv8o1f96tqhlh1sl840=22 style=3D=22text-deco=
+ration:none;=22>
+        <img alt=3D=22tw=22 border=3D=220=22 height=3D=2250=22 src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/grainger/contentlibr=
+ary/coherentpath/images/d840fa0de3134ad5e4ce9d08362849f0__te_img=2Epng=22 s=
+tyle=3D=22display:block; font-family:Arial, sans-serif; font-size:16px; lin=
+e-height:50px; color:=23ffffff; max-width:50px;=22 width=3D=2250=22/>
+       </a>
+      </td>
+      <td class=3D=22=22 style=3D=22width:20px;=22 width=3D=2220=22>
+      </td>
+      <td align=3D=22center=22 valign=3D=22middle=22>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSCY&_ei_=3DEus7gVVViFLjTYegkCRgJ7zkAAhuxMlVpVME7w9eFRM9KZVIc37v6X99MNI=
+IkHu5SHmIN0JZUPbyqssFIelgawrEnU7pCB6rJt6-knKQV_WF0y8VMLV9OAQOVERY-hNv29IrB4=
+moqJiDfZu1MV7j3W44eOlb0NyJ_-hp9nNfPwxV50NQlymx0VdzyBqZzcRb1ujfOkSV1DbEhqhzG=
+SbNHwOX3hhFV7NmfXdHhCJXoUUWXS2oNoOxgauA3LahC3_5S_R63IgHp44y5njByaWpCuQTMIQn=
+-LvTigoLkOEXvn1M1kHqrGazGHUfNt2jguutYzN3cxMJ60zFdqkOGoHeSqDJWFbD-1fyVVAHxh3=
+M5NmrNodqndR8cs5l-S6e2-m22yMroj9S-6M-Ww0P84GLoW5711XBj7unn28Q_ddpj_1-xCm3zJ=
+Rz7bH_X02JQGmI1HdLdco0b3cge5yFLWc8ozd8uf5VHZhz7a-qUDkQ722uM0g_y53WUARwlKzBl=
+WY0jSJEPqo_lUjETfafd9vUkWln8LeeQzcBqzrwkCaIPDkIClfNhCQE2NAtisZU=2E&_di_=3D6=
+du584f7s3kuq3lj68phroe8cahrf3d13n1o8tigq0raifkct9mg=22 style=3D=22text-deco=
+ration:none;=22>
+        <img alt=3D=22yt=22 border=3D=220=22 height=3D=2250=22 src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/grainger/contentlibr=
+ary/coherentpath/images/2894a2e9b556f7db16ff117a20426ee1__yt_img=2Epng=22 s=
+tyle=3D=22display:block; font-family:Arial, sans-serif; font-size:16px; lin=
+e-height:50px; color:=23ffffff; max-width:50px;=22 width=3D=2250=22/>
+       </a>
+      </td>
+      <td class=3D=22=22 style=3D=22width:20px;=22 width=3D=2220=22>
+      </td>
+      <td align=3D=22center=22 valign=3D=22middle=22>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSCA&_ei_=3DEiuJhFsyv0swDGytSiIEtdzgjcN9lXpMIPexzSs6tv-3oMk6lOcw-93bVSf=
+nSONnTj9SZ-Yl4J2p0H21-8DO4IWkc50b3zHZJohObj0qEuMhOxiiBv62KXjiC-g9L1cAJF1ewo=
+G-g6TgjgCP39xO2VKhNqnLE3V5kweE4t4oc4_elJQCbP-AEqRfpHyoGgQuq75sOFxi2kA1TLQl0=
+cb7400_R8vUQMJaEXqqXPuShgUPfDnjiPEHQFxJHSedQhCcp6feIB16iDPymsmlDz71ZpWBpRfU=
+ysv64_8Eq1-g0ZyGH1BgYCn6-AqMqjCkhOJWrbcWJpvdGc9HIwPbhzeuOay7TGWurHN-uTLvTwk=
+cldUmyJqqrdvYgFWdtZQ7Cx5kVHZNcSlfYBlzMxRpizlOy6BtW-ujHMWX0yP735SR-xU8kNlArW=
+q4MUkJceGoP4FYvBrLLbye3mSkVwIIwrhISafKkVG-jArwiHEt_aNmSOW6N3_OYBzevENvtL4pj=
+SC1nQKIQKJVy_pTgmrgHziQ4EPvYU8ciuOz1gF6Kj_lc_RZUGLbOisPo9huAvgiAM=2E&_di_=
+=3Dt5up10fbs2a8kq4ul6svs71qj4tdamk6otu1s77ha4s3nq3blai0=22 style=3D=22text-=
+decoration:none;=22>
+        <img alt=3D=22in=22 border=3D=220=22 height=3D=2250=22 src=3D=22htt=
+ps://static=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/grainger/contentlibr=
+ary/coherentpath/images/7a31981414edae346169f26e55381b00__in_img=2Epng=22 s=
+tyle=3D=22display:block; font-family:Arial, sans-serif; font-size:16px; lin=
+e-height:50px; color:=23ffffff; max-width:50px;=22 width=3D=2250=22/>
+       </a>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+ <=21-- F01 SOCIAL : END -->
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+ <=21-- F02 APPS : BEGIN -->
+ <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22 class=3D=22em_main_table=22 style=3D=22width:550px; table-la=
+yout:fixed;=22 width=3D=22550=22>
+  <tr>
+   <td align=3D=22center=22 bgcolor=3D=22=23000000=22 style=3D=22padding:0 =
+10px;=22 valign=3D=22top=22>
+    <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cell=
+spacing=3D=220=22 class=3D=22em_wrapper=22 style=3D=22width:530px;=22 width=
+=3D=22530=22>
+     <tr>
+      <td align=3D=22center=22 class=3D=22em_defaultlink em_pad=22 style=3D=
+=22font-family: 'Roboto Condensed', Arial, sans-serif; font-size:16px; line=
+-height:20px; color:=23ffffff; font-weight:bold; text-transform:uppercase; =
+padding:32px 0 0 0;=22 valign=3D=22top=22>
+       Get our apps
+      </td>
+     </tr>
+     <tr>
+      <td align=3D=22center=22 style=3D=22padding:18px 0 0 0;=22 valign=3D=
+=22top=22>
+       <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 c=
+ellspacing=3D=220=22>
+        <tr>
+         <td align=3D=22center=22 valign=3D=22middle=22>
+          <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DA=
+QpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX=
+%3DSWTBRSCB&_ei_=3DEoJ6HDE0FM2kW6WBrRlQ3LrqJlD1bwmHiy4_n7zwnPATNykVlTr0vIsG=
+rq0ucUkMtN5sQQaKsJZ4n2qt0a1AtwYmTXOfeRbVa6WEFyf_RJD2QzB9BMhgKA-KLXJasegOZYg=
+zx2KwWuhFoVkdlgfKUrEvzEDXg6bXAkbuEfU5AF7XdP3sPi-O79lTdqt--YnhIJ7WqecKTrtjOP=
+aL7druKsVX7Hza6-WLZ9c4y-pbHaosLdtK_im4G4LBhMYoP3p8xzvEhID5nZ4H_Jqi4bZCFdwtR=
+hpwcNueaTHIRvKFR3iFsnaou25TTYZYlr6Re04OWZAD7vyKfAD5rl_h8pimDe7zTXNfO4mTfuBX=
+daBNzGTo2MfvoydSVahFa3IfNBU9GPatxt4vcuLPycprKst6e7U0DhjCl_Q5GXFsyqB9CkgRcEK=
+GQR-3pawWxr1FWp0FUBJgFs8stSiEd33JgqFkxc4ijfrQPJt6NJZMnms-yx1kuV9Cz2w6oPViVD=
+JPUSqe8X3WmCMghdl3nTIdxf7TU0fxiwF8qFVTIoPTPCbezojxnZI4WlVdruYrhUCF1_qHGKQ=
+=2E&_di_=3D4v8qe1a355pbm151g1e22k8n1j3s9daq4ooknt62v56fq8ts7i2g=22 style=3D=
+=22text-decoration:none;=22>
+           <img alt=3D=22Download on the App Store=22 border=3D=220=22 heig=
+ht=3D=2240=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysi=
+mages/grainger/contentlibrary/coherentpath/images/4f7fc20f486af787c06da1e6e=
+a2522fa__app_store=2Epng=22 style=3D=22display:block; font-family:Arial, sa=
+ns-serif; font-size:16px; line-height:20px; color:=23ffffff; max-width:120p=
+x;=22 width=3D=22120=22/>
+          </a>
+         </td>
+         <td style=3D=22width:20px;=22 width=3D=2220=22>
+         </td>
+         <td align=3D=22center=22 valign=3D=22middle=22>
+          <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DA=
+QpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX=
+%3DSWTBRSCC&_ei_=3DEqO7zaK4ud3uy7ssvrAQollxjJyjB2B-jatNP88lsMFTGcfySBiAdSbx=
+wWCABRDYQQtjl__sLIh8iyD2urdMdsVkt__ORh_dUNmwPGOE9S7kZPGBh-S2HFr0D7X7pTimSiL=
+q3kz4f4V0-Io7f8TYTl41aV_DwMkf00wv7sTIbdYCO4Hu_u_oJyz57RccP0PR1pR9eIlAaRv_Sb=
+uVHMM1-MFiJq8mxf5u9ubeVwS_1a6VRHQpGHVt3b1KtAC-nIHoKeEtAwbew6U8ivV0dK-wsIt5M=
+60RarkcakTNEpkA3lNpE0317QaeVBOzUjHBneN63dl7a-Q5VO6qIRQ68MJ8Cr2R4f9_P2aFJicS=
+1GPEShm7SsCyMVqWS-oBTiYOWga05dXI6Gm6MxZX0M6F4UIXmeN2snVHh509vpad8e5HWcq3zej=
+9O5FB-b402kYgQvzTFd5F21u18UMXKOOJ-5B4kzbcXnTvZkQBBEAiddAV1kK__TwLT1Of3tpdpK=
+_KPAnlEwPYikfXsUGRZGBbn95FMGSpTw8qkmmtQ2M6t-tqZyKN4aDnw8_wq_xIBxynH_6vNbrJI=
+w=2E&_di_=3Dpc7cs74r4huvar2n0495ub2m4rrbbpu9scmtc65k5spstq5jm02g=22 style=
+=3D=22text-decoration:none;=22>
+           <img alt=3D=22GET IT ON Google Play=22 border=3D=220=22 height=
+=3D=2240=22 src=3D=22https://static=2Ecdn=2Eresponsys=2Enet/i5/responsysima=
+ges/grainger/contentlibrary/coherentpath/images/ae887e87953340128df478d27b5=
+498e0__play_img=2Epng=22 style=3D=22display:block; font-family:Arial, sans-=
+serif; font-size:16px; line-height:20px; color:=23ffffff; max-width:135px;=
+=22 width=3D=22135=22/>
+          </a>
+         </td>
+        </tr>
+       </table>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+ </table>
+ <=21-- F02 APPS : END -->
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+  <=21-- DISCLAIMERS : BEGIN -->
+  <table align=3D=22center=22 width=3D=22550=22 border=3D=220=22 cellspacin=
+g=3D=220=22 cellpadding=3D=220=22 class=3D=22em_main_table=22
+    style=3D=22width:550px; table-layout:fixed;=22>
+    <tr>
+      <td align=3D=22center=22 valign=3D=22top=22 bgcolor=3D=22=23000000=22=
+ style=3D=22padding:0 10px;=22>
+        <table width=3D=22530=22 border=3D=220=22 cellspacing=3D=220=22 cel=
+lpadding=3D=220=22 align=3D=22center=22 style=3D=22width:530px;=22
+          class=3D=22em_wrapper=22>
+          <=21--added disclaimer-->
+          <tr>
+            <td align=3D=22left=22 valign=3D=22top=22 class=3D=22em_default=
+link em_pad=22
+              style=3D=22font-family:Arial, sans-serif; font-size:12px; lin=
+e-height:16px; color:=23ffffff; font-weight:bold; padding:38px 0 0 0;=22>
+              <table border=3D=220=22 cellspacing=3D=220=22 cellpadding=3D=
+=220=22 align=3D=22left=22>
+               =20
+                <tr>
+                  <td align=3D=22left=22 valign=3D=22middle=22>
+                   =20
+                  </td>
+                </tr>
+               =20
+              </table>
+            </td>
+          </tr>
+          <=21--added disclaimer-->
+        </table>
+      </td>
+    </tr>
+  </table>
+  <=21-- DISCLAIMERS : END -->
+            </td>
+</tr>
+<tr>
+<td align=3D=22center=22 valign=3D=22top=22>
+             =20
+ <=21-- UNSUBSCRIBE : BEGIN -->
+ <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cellspa=
+cing=3D=220=22 class=3D=22em_main_table=22 style=3D=22width:550px; table-la=
+yout:fixed;=22 width=3D=22550=22>
+  <tr>
+   <td align=3D=22center=22 bgcolor=3D=22=23000000=22 style=3D=22padding:0 =
+10px;=22 valign=3D=22top=22>
+    <table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 cell=
+spacing=3D=220=22 class=3D=22em_wrapper=22 style=3D=22width:530px;=22 width=
+=3D=22530=22>
+     <tr>
+      <td align=3D=22center=22 class=3D=22em_defaultlink em_pad=22 style=3D=
+=22font-family:Arial, sans-serif; font-size:12px; line-height:16px; color:=
+=23ffffff; font-weight:bold; padding:38px 0 0 0;=22 valign=3D=22top=22>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSCD&_ei_=3DEu8wyelesQKJ5JUoIa2BN1xLXJ3SQ1pT_6DYiWxeJ6M1wUVt6QxwRSn1i3j=
+cM782ARXVkl9qq2RdxEvtrQ8xZDAoAeCBsKDqKr6EwHh8lx-zOU2oJVUkHLogQLcbbnbb1s6I4R=
+HZZQ0uK7vwEHi5OuSN6TUzkYEOJKV5-RLcjCjHkzQnqySTFS3wD8vtGbATbBsM_YKKkgdcXvnSi=
+1zz2OQ3KIUvof1AUU3gt_YtdljzOEoIHihk1GtqlXiZZI8IioR-3kPbv17Spi3ON01HOiOhkaFs=
+YBoSWYFi1lxmqtwEaLXxWqYlaUaUqTLhF2poK9ypMgCnt9oWEpXKWsfSQORlBv9UXTsb3EmMec5=
+Uiv8pvfHYDFcmL-SEeJCjdzIowoSkltCVjrGpDH5hNgaTeTjYXXp_WZH5SYvgunCMUo6pbFDsJT=
+kGEjpXetEo6a0axUCfMIG_31dEsB0KTV7EV7zKuqHprn2Gf-Ut-yy_oAPPf2n0FhbY4m1H2tLD0=
+KD5TwoqwrSCFbdV3zLS00Q9RABSREkzjv7H46tO5lDyOQTz4vHjPUf4TQ8bXqDfkZVOFcJQfFQC=
+HEtkFyDuNmJtuKzGZb9C_nBWNcOEsyqx7qhyWj_Udg=2E&_di_=3Dkr4ivgs3qs2jldav0ga527=
+f1va6viktid01osu1niiss3ssaguo0=22 style=3D=22text-decoration:none; color:=
+=23ffffff; white-space:nowrap;=22>   =20
+        Web Version
+       </a>
+       =7C
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSDR&_ei_=3DEkm6MqwyIbcIsxM1z_rQgc1Mxb8ZsFhsO_pOL7pwd-ooqmVpJbq-OuI6daC=
+x5FkhOSM6MD2OLH7thN1HvcbO1f4zkbzSQiHfgP3_qm1HPbAy0uedlKDNK4i_RtOKC3E75MqAlJ=
+2a69gcNXQmzCNa69pTbK-cMfX1PFfh7u4LhBNgn_bdwpQ2F34CpBJYLmaqlEfwO7zAKaCDjlErH=
+3aUxLkUUf8ij_uDBjcksG_M0XhWc6x_Xgt0RMd9fLZWP17-EyAdyeAQA96YzD4qvkgQjAkeVY3_=
+s3LQmzy7naTp1emzVFnRNCgtoa-ZUiNOUoluPlyJY_AFS44das2CbWaEKAVe_OAkhN-IL--Cpkc=
+QH33GcHbOmJ9Ak1pxi4d5g8TcTEviBfqfg7OZ8KHeYzJfN12q0K31LGboniGhO7fxADaJvSjEVX=
+92j-KQveIFUIC4w1E3XrQXx2gFjTONC-DTYVpR4sFyd-yiWATrqZXSXOA-SWCMnvf3stjrfEfmM=
+fMeeQ9lOoQrlS7DDbvgbAgiHQb-_V8y-SBFLyxMLsbJr1QXUQQmsnFaUArpX1RAyu3DP6Iz=2E&=
+_di_=3Dvm44456m6c523j7bukpvsda381amp8u28ibrg8sjf2r5lqb1ape0=22 style=3D=22t=
+ext-decoration:none; color:=23ffffff; white-space:nowrap;=22>
+        My Account
+       </a>
+       <span class=3D=22em_br414=22>
+       </span>
+       <span class=3D=22em_hide414=22>
+        =7C
+       </span>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSDS&_ei_=3DEgwKK09676wEoVCKy_DVTYGaqMPM0sLhiF2QBY9MS1HRwUvi_3JkKZ3lvsP=
+r8FebMPWSONgScfBhg4cKUzlOvOAbs6NqMADeXsUvQdxuma0edPnq4bBJx5-ThxP6n9nrMX-gvT=
+eZoQNFZ5zeRdRx5pgtU671V7KKCZmYXL4JavMyWc5y_qVPnv5ejlwAVbFkAwCKItek58iytiP9E=
+cNBO6IUrqcqb2N6sQ9Ougp02T11usY0fKUV6sCTZpT-ZQWhLpEJERpMHS71VnSfG7JeEms4IHUg=
+BFGVf--XZ7SYaYZPjYMAIZ2JrigViS5FK5-Z2pqnCZglwosdhuQq2rhKdGVnKA92kCZM0hCH7ew=
+NO3uksrM3qV0QEcWJ6tg_bwW2xcKIbrahXHKyd4O0wfBLiFfEX2hztihJpPbrpvlT7nDrH6ijFg=
+Z-Ks62-SvV2JRzEmlXhPy_jwATfMn0cwoW3RYFkQyiJarTAM5ztrSHiClKH2P8rr_yIk5XYR8fG=
+3AgPy2v6bJ8bbNVRUalzkIHcW3H2c9kPqRvz4MQDdBFtFiSH8zNKbQDp_v2oCPAggEbOiQt=2E&=
+_di_=3Dmo36uqmb11spgivlf5g4htbr18e9n5nsg6gcnc455pualt5a1140=22 style=3D=22t=
+ext-decoration:none; color:=23ffffff; white-space:nowrap;=22>
+        Contact Us
+       </a>
+       =7C
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSDT&_ei_=3DEpXTmRA2Z3N2zclqpRA6DpwJ30dVHdIqKQhh6rwgay75RBj8zqASfysMYwd=
+ciQ_BgfbUF8Ro7lpe7P4smwp8IeA-LvfQadKTokmOhEjfQRNTg3uDJTxA9H8WGxXFXxLFJor6y_=
+svDqhivglcuSAN3pQF2eK85lIOjKG8UM93dr7Q0PeonSD0a1_3tYbeQPQMJXKmAkoAxh3_tbl4G=
+ffM6B7QczqtgENdVmlB-XXRUAx88gaK8A4ZbPg_Wl0fu5YjAJS4m208-skVEZJsMOyXJY1PMU92=
+k8sIKVPaVPMus2PvoBPuI6vuimi8d4jiVQfj113ugLTm0TP_ZBsaBQKt7yGOwknY3BH0Y5GWMuG=
+g6SK_slPm0HRMkLIKHlVh9wrlT2qHzk4MpQBAbG9tHnPVtY7wqzhOgdZKUpIFfhPGAyp42pgOj0=
+8I8u6Q0i93RUFnfQ-90U5aZxV1vvYxgq4m-pinhukJzj_Ctg_w-cJ-9yVfpoe9xrPEKLgO98LOe=
+wQhGNtq5sO21r7LtqMyuAcH-hk8ajfZ7hRoRiEsHHwY8nAG9nW_VUOYAZ698ojOMy3e-I6j0tI=
+=2E&_di_=3Dbl5nft5grariq41f3681jnod24ap99dkd5la81t27novedkns3d0=22 style=3D=
+=22text-decoration:none; color:=23ffffff; white-space:nowrap;=22>
+        Find A Branch
+       </a>
+       <span class=3D=22em_br=22>
+       </span>
+       <span class=3D=22em_hide1=22>
+        =7C
+       </span>
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/cc?_ri_=3DX0Gzc2X%3DAQpg=
+lLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfMm4GkVXtpKX%3D=
+SWTBRSDU&_ei_=3DEnKNaU5XwY8vquxMy2SmhAK2B8278xAECn_JHBSp3E6bY3pVDTgNKM2e-HB=
+Ku_JqZYeRvVUF4MMoeBuJxbqx9GV79fw12hco15lvZhzVSzLC_uCKofq61fp5WYufCxfBK38YuQ=
+JT6NpYGwWX2Vf4a1GJA-QZNMVSHxz_ZkP64toqMKa6rEZxVgdSkVPdh-AJCuioCfXbQ-QK8jKZ3=
+o6Cxqcsx3wwv9RoNdVEd50kfludp1ST0NJB6xDHLfRaZ3AZC2_kQ3jRIMUG76eFt62O3XkMAIJ_=
+3yPl-KuZkQkkdGTCLBLDke93kpujcqt1kJpLLKjyhxlG9GK_8GoEY-glcLUml6IzylknjyCWzdO=
+Dbv03w5IqKag-jh72L87ODuY8R_-RSgVKkbGkxDHgpMMQL5R2As0TSM4N-TIBwSYslZSlRVgyjk=
+OiikjWh5YnWbxz_u5S5nnxiR4Y1mppd_rO0-APQhONqNU5iHUpzBuORfM6vb2W4XlD3LkugACSc=
+kZT-eISRyKMaJ7XEiWR01cbWbt71Q1n3hdG6jGx6OenfgvS5sjC2wpFn-e52szXZp5KQIsMcTNk=
+4M=2E&_di_=3Demg4u8kghtpmikcg8m4s7k0q70lm9279dnn7minahjdi9rbkt79g=22 style=
+=3D=22text-decoration:none; color:=23ffffff; white-space:nowrap;=22>
+        Privacy Policy
+       </a>
+       =7C
+       <a href=3D=22https://e=2Egrainger=2Ecom/pub/sf/ResponseForm?_ri_=3DX=
+0Gzc2X%3DAQpglLjHJlYQGtiX62BPzfuvUdBTcIfuzgE8KqCzcbRogFmB7wpyzeK5gJzcLY8zfM=
+m4GkVXMtX%3DAQpglLjHJlYQGoNuzflLGEPmp813a4uqTIFHiBSGEdmIE1DwDgpIjNTLaiu5&_e=
+i_=3DEolaGGF4SNMvxFF7KucKuWPX4a97SFIpQ8wOqtP89cz9kObPW3Hm75rbHhR2wM71GmJAyG=
+FWM0&_di_=3Dv9rn0loh7fe4mna1rar2f2n8l9q8bp8kp1askctjlf0fj6gsg7mg=22 style=
+=3D=22text-decoration:none; color:=23ffffff; white-space:nowrap;=22>
+        <br/>
+        Manage=C2=A0My=C2=A0Email=C2=A0Preferences
+       </a>
+      </td>
+     </tr>
+     <tr>  =20
+      <td align=3D=22center=22 class=3D=22em_defaultlink=22 style=3D=22font=
+-family:Arial, sans-serif; font-size:12px; line-height:16px; color:=23fffff=
+f; padding:15px 0 0 0;=22 valign=3D=22top=22>
+       This email was sent to chris=40alednow=2Ecom=2E
+       <br/>
+       <br/>
+       =C2=A9 2020 W=2EW=2E Grainger, Inc=2E All rights reserved=2E
+       <br/>
+       <br/>
+       100 Grainger Parkway, Lake Forest, IL 60045-5201
+      </td>
+     </tr>
+     <tr>
+      <td height=3D=2240=22 style=3D=22height:40px;=22>
+      </td>
+     </tr>
+    </table>
+   </td>
+  </tr>
+  <tr>
+   <td class=3D=22em_hide=22 style=3D=22line-height:1px;min-width:550px;bac=
+kground-color:=23ffffff;=22>
+    <img alt=3D=22=22 border=3D=220=22 height=3D=221=22 src=3D=22https://st=
+atic=2Ecdn=2Eresponsys=2Enet/i5/responsysimages/grainger/contentlibrary/coh=
+erentpath/images/f2229e22cda170c551671e5853235fe1__spacer=2Egif=22 style=3D=
+=22max-height:1px; min-height:1px; display:block; width:550px; min-width:55=
+0px;=22 width=3D=22550=22/>
+   </td>
+  </tr>
+ </table>
+ <=21-- UNSUBSCRIBE : END -->
+            </td>
+</tr>
+<=21-- CP PERSONALIZATION END -->
+</table>
+<div class=3D=22em_hide=22 style=3D=22white-space: nowrap; display: none; f=
+ont-size:0px; line-height:0px; background-color:=23ffffff;=22>=C2=A0
+          =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =C2=A0 =
+=C2=A0 =C2=A0 =C2=A0 =C2=A0</div>
+<=21-- Coherent Path Pixel -->
+<img height=3D=221=22 src=3D=22https://coherentpath=2Elink/o/db4cbf9a-c51b-=
+46aa-8cf2-7f96e5ef1791?cp_tp=3Dv1=2EuHNEeArQnWAuGD4TGLFUUbaAtbnFakcrzEXArgd=
+JubPzORluGn2f7OSTdB4niCSbVktJ5PoNZ2xru-ALqSaJjdxICJb4h1a21PjKwzxQ6YNMTJYMvc=
+YTP0LCxCI-DxQWB4Z7uPUt8i7M4KbXf4LFoepM48NX_ChVuNTN5m8jq0AvDr4G9vIRby-7PNgJL=
+A1J5wwkjDZS42sFUeW6_kU4cvocBrD6qvhk5qyvIS_Id4uOpWj2-zpGtfStz9c=3D=22 width=
+=3D=221=22>
+<=21--TrackingPixels-->
+       =20
+
+
+
+
+<=21-- Start Adobe Tracking Pixel -->
+<img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https://gra=
+inger=2Edemdex=2Enet/event?c_campaign=3D20200902_Wednesday_active_coherentp=
+ath&c_timestamp=3D1599077254=22 style=3D=22height:0px =21important; width:0=
+px =21important; border: 0 =21important; margin: 0 =21important; padding: 0=
+ =21important; position:absolute; visibility:hidden;=22 />
+<img border=3D=220=22 width=3D=221=22 height=3D=221=22 src=3D=22https://dpm=
+=2Edemdex=2Enet/ibs:dpid=3D2377&dpuuid=3D52198268655=22 style=3D=22height:0=
+px =21important; width:0px =21important; border: 0 =21important; margin: 0 =
+=21important; padding: 0 =21important; position:absolute; visibility:hidden=
+;=22 />
+
+<=21-- End Adobe Tracking Pixel -->
+
+<=21-- Start MediaMath Pixel -->
+<img src=3D'https://pixel=2Emathtag=2Ecom/event/img?mt_id=3D834447&mt_adid=
+=3D134995&mt_excl=3D94e8c77734d7a4dda5e7efa18e36abf9acff9bfc&v1=3D20200902_=
+Wednesday_active_coherentpath&v2=3D&v3=3D&v4=3DI&v5=3D&v6=3D' width=3D'1' h=
+eight=3D'1' />
+<=21-- End MediaMath Pixel -->
+<=21-- Start RealTime Email Embed - Patents Pending -->
+<img src=3D=22https://em=2Erealtime=2Eemail/service/rte?kind=3Dlivedata&id=
+=3D1685695416&esp_uid=3D52198268655&dim0=3D52198268655=22 alt=3D=22=22/>
+<=21-- End RealTime Email Embed - Patents Pending -->
+<=21-- Start RealTime Email Embed - Patents Pending -->
+<img src=3D=22https://em=2Erealtime=2Eemail/service/rte?kind=3Dduration&acc=
+ount_id=3D7933&campaign_id=3D1384225329&dim0=3D52198268655=22 style=3D=22wi=
+dth:0px; height:0px;=22/>
+<=21-- End RealTime Email Embed - Patents Pending -->
+        <=21--End Tracking Pixels-->
+</td>
+</tr>
+</table><br>
+</body>
+</html>
+
+

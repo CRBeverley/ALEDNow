@@ -1,0 +1,2933 @@
+Return-Path: <bounce-6461_HTML-281891170-9552-100009226-73262@bounce.s10.mc.pd25.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id 6IIdCZ6gkV+C2A0Ai5QuQQ
+	(envelope-from <bounce-6461_HTML-281891170-9552-100009226-73262@bounce.s10.mc.pd25.com>)
+	for <chris@alednow.com>; Thu, 22 Oct 2020 10:09:18 -0500
+Return-path: <bounce-6461_HTML-281891170-9552-100009226-73262@bounce.s10.mc.pd25.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Thu, 22 Oct 2020 10:09:18 -0500
+Received: from fg34.mta.exacttarget.com ([13.111.54.34]:34802)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounce-6461_HTML-281891170-9552-100009226-73262@bounce.s10.mc.pd25.com>)
+	id 1kVcDN-003wM9-UJ
+	for chris@alednow.com; Thu, 22 Oct 2020 10:09:18 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=graybar.com;
+ h=Message-ID:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:
+ List-Unsubscribe:List-Unsubscribe-Post:List-ID:X-CSA-Complaints;
+ i=digital@graybar.com;
+ bh=W5fBlU9EgTA+Fh5cFm7Dh77Q2uPI5YqHsa8jCqmt8vM=;
+ b=iKzo5bHrdBfxEpYCfC/gM7C7jJVPxTdx1f4WooIQvX4z01+gPwAFEteN3QUwO3JImNFm0FrwTPwY
+   Cp2AC5+9V/8xnKgoRkDTR7GtDheY+RNLUhixXkVvpmdOwPwB6J7//Pb8q47sdxUbv4prphhQLEII
+   qfr4sQ/mGosWVh0gCPc=
+Received: by fg34.mta.exacttarget.com id hi6g9s2fmd4i for <chris@alednow.com>; Thu, 22 Oct 2020 15:09:07 +0000 (envelope-from <bounce-6461_HTML-281891170-9552-100009226-73262@bounce.s10.mc.pd25.com>)
+X-Virus-Scanned: amavisd-new at orionsmtp-144.s10.exacttarget.com
+Message-ID: <7bc9bf25-c080-4a97-bf76-4c4201ec559b@dfw1s10mta55.xt.local>
+Date: Thu, 22 Oct 2020 09:09:06 -0600
+Subject: The Light Side in the Fight Against Germs: Four Things To Know About
+ UV Disinfectant Systems and Other News From Graybar - October 2020
+From: Graybar <digital@graybar.com>
+Reply-To: feedback@graybar.com
+To: chris@alednow.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1603379248_5ecd5eb021a91bedb57d0325f8fcdfc6_=_"
+X-Source-Ref-Id: 849091263
+X-Report-Abuse-To: abuse@pd25.com
+X-Pardot-Route: 145:511471:849091263
+List-Unsubscribe: <https://go.graybar.com/listUnsubscribeHeader/u/511471/9ce81ad0487164551670c44a6567628dec70458de30dfb59b5e949ec4d27b2c6/849091263>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-ID: <100009226.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 100009226_9552
+
+--_=_swift_v4_1603379248_5ecd5eb021a91bedb57d0325f8fcdfc6_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+-------------------------------------------------------
+The Light Side in=
+ the Fight Against Germs: Four Things To Know About UV Disinfectant Systems=
+
+-------------------------------------------------------
+The current CO=
+VID-19 crisis has made it more important than ever to keep the spaces we sh=
+are clean. Many of your customers have likely put disinfection protocols in=
+to place that involve harsh chemicals and hours of costly work from cleanin=
+g crews. Contractors may be able to offer an additional option - Ultraviole=
+t (UV) light.
+Read More =C2=BB https://go.graybar.com/e/511471/3jmRFDc/3z=
+b5lb2/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k
+
+------=
+--------------------------------
+FEATURED NEWS
+------------------------=
+--------------
+
+EZ Patch Flat Pack - A Better Way to Patch with Legrand=
+
+The EZ Patch Flat Pack is a new take on patch cord packaging - eliminati=
+ng the hassle that is commonly found with individually bagged patch cords.=
+
+Learn More  =C2=BB  https://go.graybar.com/e/511471/2HnUgPQ/3zb5lb4/8490=
+91263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k
+
+The Next Generat=
+ion of Knockouts
+Greenlee is the industry leader in Knockouts for over 90=
+ years strong! The Next Gen Knockouts eliminate spacers, have alignment mar=
+king and are compatible with all Greenlee manual drivers and their battery-=
+hydraulic drivers.=C2=A0
+Learn more  =C2=BB  https://go.graybar.com/e/511=
+471/35hFuCQ/3zb5lb6/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u1=
+0k
+
+Stainless Steel Conduit Bodies and Covers Help Enhance Safety
+ABB=
+'s new style of stainless steel conduit bodies and covers are designed with=
+ laser etched markings which minimizes the surface areas where bacteria can=
+ hide during wash downs, making cleaning easier.
+Learn more  =C2=BB  http=
+s://go.graybar.com/e/511471/2FUzgjk/3zb5lb8/849091263?h=3Dt_5esp3F5ELNwFVng=
+IsiKtjTHz_a6CPB4W2sN68u10k
+
+Six Strategies to Future-Proof Your School =
+Wiring Network
+The physical infrastructure technology of schools is becom=
+ing outdated at a time when funding is limited. Panduit presents six ways s=
+chool districts are extending the lives of their existing technology infras=
+tructures and preparing for future needs.
+Learn More  =C2=BB  https://go.=
+graybar.com/e/511471/37qwihS/3zb5lbb/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjT=
+Hz_a6CPB4W2sN68u10k
+
+Faster Installs With Conduit Trapeze Support
+Stu=
+dies have shown a potential for up to 75% part reduction and up to 50% inst=
+allation time savings by using B-Line series conduit trapeze support. Check=
+ out the case study to learn more.
+Learn More  =C2=BB  https://go.graybar=
+.com/e/511471/37pmuVD/3zb5lbd/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CP=
+B4W2sN68u10k
+
+--------------------------------------
+EVENTS AND TRAIN=
+ING
+--------------------------------------
+Webinar: Optimizing Intellig=
+ent Building Infrastructure
+Join Graybar, Berk-Tek and Leviton for a webi=
+nar that will discuss the various elements that create an intelligent build=
+ing network and the benefits that are being realized by the implementation =
+of some of the newest technologies available.
+Watch On-Demand =C2=BB http=
+s://go.graybar.com/e/511471/34dfUzu/3zb5lbg/849091263?h=3Dt_5esp3F5ELNwFVng=
+IsiKtjTHz_a6CPB4W2sN68u10k
+
+Nov. 4, 2020 - Online Summit: Trends and Te=
+chnologies Impacting Business Today and Tomorrow=20
+Join Panduit from 10am-=
+12pm CST for their first online summit. Things have changed and we need to =
+adapt our technologies and business processes to be ready for what is NEXT.=
+=20
+Register =C2=BB https://go.graybar.com/e/511471/34fI24X/3zb5lbj/8490912=
+63?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09
+=C2=
+=A92020 Graybar Services, Inc.
+ All rights reserved | 34 N Meramec Ave, S=
+aint Louis, MO 63105-3844 USA
+-------------------------------------------=
+----------------------------------------------------------------------
+=
+
+IMPORTANT INFORMATION
+This e-mail was sent to: chris@alednow.com. You =
+are receiving this email because you provided your email address to Graybar=
+. To no longer receive promotional emails, or to manage your preferences, v=
+isit the Subscription Center
+https://go.graybar.com/emailPreference/epc/5=
+11471/qamaTjHLk0IXUPiTSN_4zt7VuroAXbB5cQq0fUcy1c4/9ce81ad0487164551670c44a6=
+567628dec70458de30dfb59b5e949ec4d27b2c6/849091263 . Your privacy is importa=
+nt to Graybar. For more information on how Graybar protects your privacy, s=
+teps you can take to protect your personal information and alerts on privac=
+y risks facing customers, view the Privacy Policy
+https://go.graybar.com/=
+e/511471/m-company-legal-privacy-policy/3zb5lbl/849091263?h=3Dt_5esp3F5ELNw=
+FVngIsiKtjTHz_a6CPB4W2sN68u10k
+Terms & Conditions -  https://go.graybar.c=
+om/e/511471/-standard-terms-and-conditions/3zb5lbn/849091263?h=3Dt_5esp3F5E=
+LNwFVngIsiKtjTHz_a6CPB4W2sN68u10k
+Terms of Sale - https://go.graybar.com/=
+e/511471/cm-company-legal-terms-of-sale/3zb5lbq/849091263?h=3Dt_5esp3F5ELNw=
+FVngIsiKtjTHz_a6CPB4W2sN68u10k
+
+View Web Version --> https://go.graybar=
+.com/webmail/511471/849091263/9ce81ad0487164551670c44a6567628dec70458de30df=
+b59b5e949ec4d27b2c6
+
+
+--_=_swift_v4_1603379248_5ecd5eb021a91bedb57d0325f8fcdfc6_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html>
+  <!--RegionStart[socialslot:"allcon=
+tent"]-->
+  <head><META NAME=3D"ROBOTS" CONTENT=3D"NOINDEX, NOFOLLOW"><ME=
+TA NAME=3D"referrer" CONTENT=3D"no-referrer">
+    <title>The Light Side i=
+n the Fight Against Germs: Four Things To Know About UV Disinfectant System=
+s and Other News From Graybar - October 2020</title>
+    <meta name=3D"vi=
+ewport" content=3D"width=3Ddevice-width, initial-scale=3D1, maximum-scale=
+=3D1, user-scalable=3D0">
+    <meta http-equiv=3D"Content-Type" content=
+=3D"text/html; charset=3DUTF-8">
+    <style type=3D"text/css">
+      Re=
+adMsgBody{
+        width: 100%;
+      }
+      .ExternalClass {
+    =
+    width: 100%;
+      }
+      .ExternalClass, .ExternalClass p, .Exter=
+nalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {=
+
+        line-height: 100%;
+      }
+      body {
+        -webkit-te=
+xt-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+        margin:=
+0 !important;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        margin: =
+0;
+      }
+      p {
+        margin: 0;
+      }
+      table td {=
+
+        border-collapse: collapse;
+      }
+      img {
+        out=
+line:0;
+      }
+      a img {
+        border:none;
+      }
+      =
+p {
+        margin:  0;
+      }
+      @-ms-viewport{
+        width:=
+ device-width;
+      }
+    </style>
+    <style type=3D"text/css">
+ =
+     @media only screen and (max-width: 480px) {
+        .container {
+ =
+         width:100% !important;
+        }
+        .footer {
+         =
+ width:auto !important;
+          margin-left:0;
+        }
+        .c=
+ontent-padding{
+          padding:0px !important;
+        }
+        .=
+mobile-hidden {
+          display:none !important;
+        }
+        =
+.logo {
+          display:block !important;
+          padding:0 !import=
+ant;
+        }
+        img {
+          width:100% !important;
+     =
+     max-width:100% !important;
+          height:auto !important;
+     =
+     max-height:auto !important;
+        }
+        .header img{
+     =
+     width:100% !important;
+          max-width:240px !important;
+     =
+     height:auto !important;
+          max-height:auto !important;
+    =
+    }
+        .photo img {
+          width:100% !important;
+         =
+ max-width:100% !important;
+          height:auto !important;
+        }=
+
+        .drop {
+          display:block !important;
+          width:=
+ 100% !important;
+          float:left;
+          clear:both;
+       =
+ }
+        .footerlogo {
+          display:block !important;
+        =
+  width: 100% !important;
+          padding-top: 15px;
+          float:=
+left;
+          clear:both;
+        }
+        .nav4, .nav5, .nav6 {=
+
+          display: none !important;
+        }
+        .tableBlock {=
+
+          width:100% !important;
+        }
+        .responsive-td {=
+
+          width:100% !important;
+          display:block !important;=
+
+          padding:0 !important;
+        }
+        .fluid, .fluid-cen=
+tered {
+          width: 100% !important;
+          max-width: 100% !im=
+portant;
+          height: auto !important;
+          margin-left: auto=
+ !important;
+          margin-right: auto !important;
+        }
+     =
+   .fluid-centered {
+          margin-left: auto !important;
+          =
+margin-right: auto !important;
+        }
+        /* MOBILE GLOBAL STYLE=
+S - DO NOT CHANGE */
+body, .tb_properties{font-family: Arial, Helvetica, =
+sans-serif !important; font-size: 16px !important; color: #666666 !importan=
+t; line-height: 1.5 !important; padding-top: 10px !important; padding-right=
+: 0px !important; padding-bottom: 0px !important; padding-left: 0px !import=
+ant; }.buttonstyles{font-family: Arial, Helvetica, sans-serif !important; f=
+ont-size: 14px !important; color: #FFFFFF !important; padding-top: 10px !im=
+portant; padding-right: 10px !important; padding-bottom: 10px !important; p=
+adding-left: 10px !important; }h1{font-family: Arial, Helvetica, sans-serif=
+ !important; font-size: 20px !important; color: #3399cc !important; line-he=
+ight: 1 !important; }h2{font-family: Arial, Helvetica, sans-serif !importan=
+t; font-size: 22px !important; color: #666666 !important; line-height: 1
+=
+ !important; }h3{font-family: Arial, Helvetica, sans-serif !important; font=
+-size: 18px !important; color: #666666 !important; line-height: 1 !importan=
+t; }a:not(.buttonstyles){line-height: 1 !important; }
+/* END OF MOBILE GL=
+OBAL STYLES - DO NOT CHANGE */
+      @media only screen and (max-width: 6=
+40px) {
+        .container {
+          width:100% !important;
+       =
+ }
+        .mobile-hidden {
+          display:none !important;
+      =
+  }
+        .logo {
+          display:block !important;
+          pad=
+ding:0 !important;
+        }
+        .photo img {
+          width:100=
+% !important;
+          height:auto !important;
+        }
+        .na=
+v5, .nav6 {
+          display: none !important;
+        }
+        .fl=
+uid, .fluid-centered {
+          width: 100% !important;
+          max-=
+width: 100% !important;
+          height: auto !important;
+          ma=
+rgin-left: auto !important;
+          margin-right: auto !important;
+  =
+      }
+        .fluid-centered {
+          margin-left: auto !importan=
+t;
+          margin-right: auto !important;
+        }
+      }
+    <=
+/style>
+    <!--[if mso]> <style type=3D"text/css"> /* Begin Outlook Font=
+ Fix */               body, table, td {                  font-family: trebu=
+chet ms, helvetica, sans-serif;                  font-size: 14px;          =
+        color: #606566;                  line-heigh: 1.5;               } /=
+* End Outlook Font Fix */ </style> <![endif]-->
+  </head>
+  <body bgcol=
+or=3D"#ffffff" text=3D"#606566" style=3D"background-color: #ffffff; font-fa=
+mily: trebuchet ms, helvetica, sans-serif; font-size: 14px; color: #606566;=
+ line-height: 1.5; font-weight: normal; font-style: normal; padding-top: 0;=
+ padding-right: 0; padding-bottom: 0; padding-left: 0;">
+<style type=3D"t=
+ext/css">div.preheader=20
+{ display: none !important; }
+</style>
+<div c=
+lass=3D"preheader" style=3D"font-size: 1px; display: none !important;">See =
+what=E2=80=99s new from our top manufacturers and how Graybar works to your=
+ advantage.</div>
+
+<table align=3D"center" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%">
+=09<tbody>
+=09=09<tr>
+=09=09</tr=
+>
+=09=09<tr>
+=09=09=09<td align=3D"center">
+=09=09=09<table align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"container=
+" width=3D"600">
+=09=09=09=09<tbody>
+=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09<td>
+=09=09=09=09=09=09<table bgcolor=3D"#FFFFFF" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"tb_properties border_style" style=3D"background=
+-color: #FFFFFF; font-size: 14px; font-family: trebuchet ms, helvetica, san=
+s-serif; line-height: 1.5; color: #606566;" width=3D"100%">
+=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=
+=09<td align=3D"center" valign=3D"top">
+=09=09=09=09=09=09=09=09=09<table=
+ align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%">
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"content_paddi=
+ng" style=3D"padding:0px;border:0px;">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d align=3D"left" class=3D"header" valign=3D"top">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"stylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper camark=
+er-inner" style=3D"padding: 20px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=3D"wi=
+dth: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tb=
+ody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadd=
+ing=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"respo=
+nsive-td" style=3D"width: 50%; padding-right: 3px;" valign=3D"top" width=3D=
+"44%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-cont=
+ent-wrapper" style=3D"min-width: 100%;" width=3D"70%">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inner" style=
+=3D"padding: 0px 0px 0px 10px;"><a href=3D"https://go.graybar.com/e/511471/=
+aign-MM-7498-nuture-newsletter/3zb5lbs/849091263?h=3Dt_5esp3F5ELNwFVngIsiKt=
+jTHz_a6CPB4W2sN68u10k" style=3D"border: none;" title=3D"Visit Graybar.com">=
+<img alt=3D"Visit Graybar.com" height=3D"54" src=3D"https://go.graybar.com/=
+comm_GB_logo?utm_source=3Dpardot?utm_medium=3Demail&amp;utm_content=3Dheade=
+r&amp;utm_campaign=3DMM-7498-nuture-newsletter" style=3D"width: 134px; padd=
+ing: 0px; height: 54px;" title=3D"Visit Graybar.com" width=3D"134"></a></td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=
+=3D"width: 50%; padding-left: 3px;" valign=3D"top" width=3D"56%">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" st=
+yle=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<td class=3D"stylingblock-content-wrapper camarker-inner" style=3D"padding:=
+ 10px 0px; text-align: right;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"color:#595959; font=
+-size:10px; font-family:arial,helvetica,sans-serif;"><a href=3D"https://go.=
+graybar.com/webmail/511471/849091263/9ce81ad0487164551670c44a6567628dec7045=
+8de30dfb59b5e949ec4d27b2c6" style=3D"color:#808080;text-decoration:underlin=
+e;" title=3D"View this email in your browser">View web version</a></div>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-cont=
+ent-wrapper camarker-inner">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: right; col=
+or:#808080; text-decoration:none; font-family: Arial, Helvetica, sans-serif=
+; font-size: 11px;"><a href=3D"https://go.graybar.com/e/511471/aign-MM-7498=
+-nuture-newsletter/3zb5lbv/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W=
+2sN68u10k" style=3D"text-decoration:none;color:#808080;" title=3D"Shop Loca=
+l - Find your local Graybar branch">Shop Local</a>&nbsp;&nbsp;|&nbsp;&nbsp;=
+<a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3=
+zb5lbx/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"=
+text-decoration:none;color:#808080;" title=3D"Shop Online in the Graybar We=
+b Store">Shop Online</a></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td align=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"slot-stylin=
+g" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td c=
+lass=3D"slot-styling camarker-inner" style=3D"padding: 0px;">
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100=
+%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d class=3D"stylingblock-content-wrapper camarker-inner">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: =
+100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper cam=
+arker-inner">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D""><a href=3D=
+"https://go.graybar.com/e/511471/ZGJaD-xlvzPigTehZntohq121nPi1o/3zb5lbz/849=
+091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k"><img alt=3D"Update =
+Your Preferences!" border=3D"0" height=3D"75" src=3D"https://go.graybar.com=
+/l/511471/2020-10-15/3z9z2nq/511471/1602787341G2GQMrJL/update.png" style=3D=
+"width: 600px; height: 75px; border-width: 0px; border-style: solid;" title=
+=3D"Four Things To Know About UV Disinfectant Systems" width=3D"600"></a></=
+td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"ce=
+nter" class=3D""><img alt=3D"Four Things To Know About UV Disinfectant Syst=
+ems" border=3D"0" height=3D"207" src=3D"https://go.graybar.com/l/511471/202=
+0-09-21/3z9crpn/511471/153293/main_600x207.png" style=3D"padding-top: 0px; =
+width: 600px; height: 207px; border-width: 0px; border-style: solid;" title=
+=3D"Four Things To Know About UV Disinfectant Systems" width=3D"600"></td>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-cont=
+ent-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapp=
+er camarker-inner" style=3D"padding:  20px 20px 10px 20px;">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div style=3D"font-size:=
+ 13px; font-family: arial,helvetica,sans-serif; text-align: justify; color:=
+ rgb(105, 105, 105); line-height: 20px;">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<div style=3D"text-align: left;"><span sty=
+le=3D"font-size:20px; color: #3399cc; line-height: 24px;"><strong>The Light=
+ Side in the Fight Against Germs: Four Things<br>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09To Know About UV Disinfectant Sys=
+tems</strong></span></div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d class=3D"stylingblock-content-wrapper camarker-inner" style=3D"padding:  =
+0px 20px 20px 20px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<div style=3D"font-size: 13px; font-family: arial,helvetica,san=
+s-serif; text-align: justify; color: rgb(105, 105, 105); line-height: 20px;=
+">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<div st=
+yle=3D"text-align: left;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<p style=3D"font-family: arial, helvetica, sans-serif; fo=
+nt-size: 14px; color: rgb(105, 105, 105); line-height: 20px;">The current C=
+OVID-19 crisis has made it more important than ever to keep the spaces we s=
+hare clean. Many of your customers have likely put disinfection protocols i=
+nto place that involve harsh chemicals and hours of costly work from cleani=
+ng crews. Contractors may be able to offer an additional option - Ultraviol=
+et (UV) light. <a href=3D"https://go.graybar.com/e/511471/re-Newsletter-utm=
+-content-hero/3zb5lc2/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68=
+u10k" style=3D"text-decoration:none;color:#3399cc;"><strong>Read More =
+=C2=BB</strong></a></p>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</div>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" v=
+align=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"slot-styling" style=3D"min-width: 10=
+0%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbo=
+dy>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-cont=
+ent-wrapper camarker-inner" pardot-data=3D"" style=3D"padding:  0px 5px ; b=
+ackground: rgb(51, 153, 204);"><span style=3D"line-height: 22px; font-size:=
+ 20px; font-style: normal; font-weight: bold; font-family: arial,helvetica,=
+sans-serif; color: #ffffff;">News and Promotions</span></td>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td class=3D"slot-styling camarker-inner" style=3D"padding: 20p=
+x;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpad=
+ding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=
+=3D"background-color: transparent; min-width: 100%;" width=3D"100%">
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D=
+"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"st=
+ylingblock-content-wrapper camarker-inner">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;" width=
+=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td class=3D"stylingblock-content-margin-cell" style=3D"p=
+adding: 5px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"styli=
+ngblock-content-wrapper" style=3D"border-left: 2px solid transparent; min-w=
+idth: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D=
+"stylingblock-content-wrapper camarker-inner" style=3D"padding: 0px;">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><!-- Begin Pro=
+mo 1 -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 5=
+0%; padding-right: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table=
+ cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper"=
+ style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inner" style=3D=
+"ppadding: 0px 0px 10px; ">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"right" class=3D""><!-- =
+begin image --><img alt=3D"EZ Patch Flat Pack" border=3D"0" height=3D"194" =
+src=3D"https://go.graybar.com/l/511471/2020-10-13/3z9x1t8/511471/1602609299=
+4Hhqq1Tb/ortronics_ez_patch.jpg" style=3D"width: 290px; height: 194px; bord=
+er-width: 0px; border-style: solid;" title=3D"Legrand Ortronics" width=3D"2=
+90"> <!-- end image --></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+r>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; padding-left: =
+5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: =
+100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D=
+"stylingblock-content-wrapper camarker-inner" style=3D"padding: 0px 0px 0px=
+ 10px; line-height: 18px; font-size:14px; font-family:arial,helvetica,sans-=
+serif; " valign=3D"top"><!-- begin text -->
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td style=3D" font-family: arial, helvetica, sans-serif; font-size=
+: 14px; color: #606566; line-height: 18px;" valign=3D"top" class=3D""><stro=
+ng>EZ Patch Flat Pack - A Better Way to Patch with Legrand</strong></td>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D=
+"padding-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sa=
+ns-serif; font-size: 14px; color: #606566; line-height: 18px; font-weight: =
+normal; font-style: normal; " class=3D"">The EZ Patch Flat Pack is a new ta=
+ke on patch cord packaging - eliminating the hassle that is commonly found =
+with individually bagged patch cords.</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: arial; color: #3=
+399cc; font-size: 14px;" class=3D""><a href=3D"https://go.graybar.com/e/511=
+471/v-DLMXiT72HSM-feature-youtu-be/3zb5lc4/849091263?h=3Dt_5esp3F5ELNwFVngI=
+siKtjTHz_a6CPB4W2sN68u10k" style=3D"border-bottom: 0px; text-decoration:non=
+e;color: #3399CC;" title=3D"Learn More"><strong>Learn More =C2=BB</strong><=
+/a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- end text --></td>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<!-- End Promo 1 --></td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+body>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+able>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;" wi=
+dth=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+body>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D=
+"stylingblock-content-wrapper camarker-inner">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;" wi=
+dth=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"stylingblock-content-margin-cell" style=
+=3D"padding: 5px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"stylingblock-content-wrapper" style=3D"border-left: 2px solid transparent;=
+ min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"stylingblock-content-wrapper camarker-inner" style=3D"padding: 10px =
+0px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=3D"wi=
+dth: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+><!-- Begin Promo 2 -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" st=
+yle=3D"width: 50%; padding-right: 5px;" valign=3D"top">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-c=
+ontent-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-=
+inner" style=3D"padding: 0px 0px 10px;">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" =
+class=3D""><!-- begin image --><img alt=3D"The Next Generation of Knockouts=
+" border=3D"0" height=3D"194" src=3D"https://go.graybar.com/l/511471/2020-1=
+0-13/3z9x34j/511471/1602615716Ba3Z4gep/greenlee_ko.jpg" style=3D"width: 290=
+px; height: 194px; border-width: 0px; border-style: solid;" title=3D"Greenl=
+ee" width=3D"290"> <!-- end image --></td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbod=
+y>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; pa=
+dding-left: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D=
+"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<td class=3D"responsive-td" style=3D"width: 50%; padding-left:0px;" valign=
+=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100=
+%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inner" style=
+=3D"padding: 0px 0px 0px 10px; line-height: 18px; font-size:14px; font-fami=
+ly:arial,helvetica,sans-serif; " valign=3D"top"><!-- begin text -->
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;" wi=
+dth=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width=
+: 50%; padding-left: 0px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"st=
+ylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content=
+-wrapper camarker-inner" style=3D"padding: 0px 0px 0px 0px; line-height: 18=
+px; font-size:14px; font-family:arial,helvetica,sans-serif; " valign=3D"top=
+"><!-- begin text -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tb=
+ody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td style=3D" font-family: arial, helvetica, sans-serif; =
+font-size: 14px; color: #606566; line-height: 18px;" valign=3D"top" class=
+=3D""><strong>The Next Generation of Knockouts</strong></td>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"paddi=
+ng-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-ser=
+if; font-size: 14px; color: #606566; line-height: 18px; font-weight: normal=
+; font-style: normal; " class=3D"">Greenlee is the industry leader in Knock=
+outs for over 90 years strong! The Next Gen Knockouts eliminate spacers, ha=
+ve alignment marking and are compatible with all Greenlee manual drivers an=
+d their battery-hydraulic drivers.&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: arial; =
+color: #3399cc; font-size: 14px;" class=3D""><a href=3D"https://go.graybar.=
+com/e/511471/v-JiH45GuwbPc-feature-youtu-be/3zb5lc6/849091263?h=3Dt_5esp3F5=
+ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"  border-bottom: 0px ;text-dec=
+oration:none;color: #3399CC;" title=3D"Learn More"><strong>Learn More =
+=C2=BB</strong></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- end text --></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tabl=
+e>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+able>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end text --></td>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- End Promo =
+2 --></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"styli=
+ngblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-c=
+ontent-wrapper camarker-inner">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"stylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+r>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"stylingblock-content-margin-cell" style=3D"padding: 5px 0px=
+;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content=
+-wrapper" style=3D"border-left: 2px solid transparent; min-width: 100%;" wi=
+dth=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-c=
+ontent-wrapper camarker-inner" style=3D"padding: 0px 0px 0px;">
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ta=
+ble cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><!-- Begin Promo 3 -->=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width=
+: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; paddi=
+ng-right: 5px; padding-bottom: 15px;" valign=3D"top">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-cont=
+ent-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inn=
+er" style=3D"padding: 0px 0px 0px 0px; ">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" =
+class=3D""><!-- begin image --><img alt=3D"Stainless Steel Conduit Bodies a=
+nd Covers Help Enhance Safety" border=3D"0" height=3D"194" src=3D"https://g=
+o.graybar.com/l/511471/2020-10-15/3z9z2dv/511471/1602786111jqrb2m1F/t_b_fit=
+ting.jpg" style=3D"width: 290px; height: 194px; border-width: 0px; border-s=
+tyle: solid;" title=3D"ABB" width=3D"290"> <!-- end image --></td>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td"=
+ style=3D"width: 50%; padding-left: 5px;" valign=3D"top">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-c=
+ontent-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-=
+inner" style=3D"padding: 0px 0px 0px 10px; line-height: 18px; font-size:14p=
+x; font-family:arial,helvetica,sans-serif; " valign=3D"top"><!-- begin text=
+ -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr valign=3D"top"=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td st=
+yle=3D"font-family: arial, helvetica, sans-serif; font-size: 14px; color: #=
+606566; line-height: 18px; font-weight: normal; font-style: normal; " class=
+=3D""><strong>Stainless Steel Conduit Bodies and Covers Help Enhance Safety=
+</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td style=3D"padding-top: 10px; padding-bottom: 10px; font-family: ar=
+ial, helvetica, sans-serif; font-size: 14px; color: #606566; line-height: 1=
+8px; font-weight: normal; font-style: normal; " class=3D"">ABB's new style =
+of stainless steel conduit bodies and covers are designed with laser etched=
+ markings which minimizes the surface areas where bacteria can hide during =
+wash downs, making cleaning easier.</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: arial; color: #3=
+399cc; font-size: 14px;" class=3D""><a href=3D"https://go.graybar.com/e/511=
+471/watch-v-8n8qZ38jT-s/3zb5lc8/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6=
+CPB4W2sN68u10k" style=3D"border-bottom: 0px; text-decoration:none;color: #3=
+399CC;" title=3D"Learn More"><strong>Learn More =C2=BB</strong></a></td>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- end text --></td>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end text --></td>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<!-- End Promo 3 --</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<td class=3D"stylingblock-content-wrapper camarker-inner" style=3D"padding:=
+ 10px 0px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=
+=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td><!-- Begin Promo 4 -->
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspac=
+ing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; padding-=
+right: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: =
+100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapp=
+er camarker-inner" style=3D"padding: 0px 0px 10px;">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D""><!-- begin im=
+age --><a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsl=
+etter/3zb5lcb/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k"><i=
+mg alt=3D"Six Strategies to Future-Proof Your School Wiring Network" border=
+=3D"0" height=3D"194" src=3D"https://go.graybar.com/l/511471/2020-10-13/3z9=
+x2cb/511471/1602609970sMVJ2ovE/panduit_school.jpg" style=3D"width: 290px; h=
+eight: 194px; border-width: 0px; border-style: solid;" title=3D"Panduit" wi=
+dth=3D"290"></a> <!-- end image --></td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+able>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; padding-=
+left: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100=
+%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper =
+camarker-inner" style=3D"padding: 0px 0px 0px 10px; line-height: 18px; font=
+-size:14px; font-family:arial,helvetica,sans-serif; " valign=3D"top"><!-- b=
+egin text -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;"=
+ width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"styli=
+ngblock-content-wrapper camarker-inner" style=3D"padding: 0px 0px 0px 0px; =
+line-height: 18px; font-size:14px; font-family:arial,helvetica,sans-serif; =
+" valign=3D"top"><!-- begin text -->
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<td style=3D" font-family: arial, helvetica, sans-serif; font-size: 14px; c=
+olor: #606566; line-height: 18px;" valign=3D"top" class=3D""><strong>Six St=
+rategies to Future-Proof Your School Wiring Network</strong></td>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"paddi=
+ng-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-ser=
+if; font-size: 14px; color: #606566; line-height: 18px; font-weight: normal=
+; font-style: normal; " class=3D"">The physical infrastructure technology o=
+f schools is becoming outdated at a time when funding is limited. Panduit p=
+resents six ways school districts are extending the lives of their existing=
+ technology infrastructures and preparing for future needs.</td>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-=
+family: arial; color: #3399cc; font-size: 14px;" class=3D""><a href=3D"http=
+s://go.graybar.com/e/511471/-plus-panduit-whitepaper-1-pdf/3zb5lcd/84909126=
+3?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"border-bottom: =
+0px; text-decoration:none;color: #3399CC;" title=3D"Learn More"><strong>Lea=
+rn More =C2=BB</strong></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end text -=
+-></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<!-- end text --></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- End Promo 4 --><=
+/td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingbloc=
+k-content-wrapper camarker-inner" style=3D"padding: 10px 0px 0px;">
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table=
+ cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td><!-- Begin Promo 3 -->
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 5=
+0%; padding-right: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D=
+"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; padding: 0p=
+x 0px 0px 10px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-widt=
+h: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D=
+"width: 50%; padding-left: 0px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+able>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<!-- End Promo 3 --></td>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inner" style=3D=
+"padding: 0px 0px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td><!-- Begin Promo 4 -->
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D=
+"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"respo=
+nsive-td" style=3D"width: 50%; padding-right: 5px;" valign=3D"top">
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"st=
+ylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapp=
+er camarker-inner" style=3D"padding: 0px 0px 10px;">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=
+=3D"center" class=3D""><!-- begin image --><img alt=3D"Faster Installs With=
+ Conduit Trapeze Support" border=3D"0" height=3D"194" src=3D"https://go.gra=
+ybar.com/l/511471/2020-10-13/3z9x2z2/511471/1602615381vL5igfAS/eaton_trap.j=
+pg" style=3D"width: 290px; height: 194px; border-width: 0px; border-style: =
+solid;" title=3D"Eaton" width=3D"290"> <!-- end image --></td>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" st=
+yle=3D"width: 50%; padding-left: 5px;" valign=3D"top">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-cont=
+ent-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inn=
+er" style=3D"padding: 0px 0px 0px 10px; line-height: 18px; font-size:14px; =
+font-family:arial,helvetica,sans-serif; " valign=3D"top"><!-- begin text --=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr valign=3D"top">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D" font-family: arial,=
+ helvetica, sans-serif; font-size: 14px; color: #606566; line-height: 18px;=
+" valign=3D"top" class=3D""><strong>Faster Installs With Conduit Trapeze Su=
+pport</strong></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<td style=3D"padding-top: 10px; padding-bottom: 10px; font-fami=
+ly: arial, helvetica, sans-serif; font-size: 14px; color: #606566; line-hei=
+ght: 18px; font-weight: normal; font-style: normal; " class=3D"">Studies ha=
+ve shown a potential for up to 75% part reduction and up to 50% installatio=
+n time savings by using B-Line series conduit trapeze support. Check out th=
+e case study to learn more.</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td style=3D"font-family: arial; color: #3399cc; fo=
+nt-size: 14px;" class=3D""><a href=3D"https://go.graybar.com/e/511471/hange=
+s-his-trapeze-habits-html/3zb5lcg/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_=
+a6CPB4W2sN68u10k" style=3D"  border-bottom: 0px ;text-decoration:none;color=
+: #3399CC;" title=3D"Read Case Study"><strong>Read Case Study =C2=BB</stron=
+g></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tabl=
+e>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end text --></td>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<!-- End Promo 4 --></td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valig=
+n=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"slot-styling" style=3D" min-width: 100%;=
+" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content=
+-wrapper camarker-inner" style=3D" padding:  0px 5px 0px 5px; background-co=
+lor: #3399cc;"><span style=3D"line-height: 22px; font-size: 20px; font-styl=
+e: normal; font-weight: bold; font-family: arial,helvetica,sans-serif; colo=
+r: #ffffff;">Events and Training</span></td>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td c=
+lass=3D"slot-styling camarker-inner" style=3D"padding:  15px 20px 20px 20px=
+; border-top: 1px solid #C9C9C9; ">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"styli=
+ngblock-content-wrapper" style=3D"background-color: transparent; min-width:=
+ 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"stylingblock-content-wrapper camarker-inner" pardot-data=3D=
+"" style=3D"color: rgb(105, 105, 105);  font-family: arial, helvetica, sans=
+-serif; font-size: 14px; line-height: 19px;">Be sure to check out our&nbsp;=
+<a data-auth=3D"NotApplicable" href=3D"https://go.graybar.com/e/511471/aign=
+-MM-7498-nuture-newsletter/3zb5lcj/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz=
+_a6CPB4W2sN68u10k" rel=3D"noopener noreferrer" style=3D"text-decoration:non=
+e;color:#3399cc;" target=3D"_blank" title=3D"View all Graybar Insights webi=
+nars">Graybar Insights webinars</a><a data-auth=3D"NotApplicable" href=3D"h=
+ttps://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3zb5lcl/84909=
+1263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" rel=3D"noopener noref=
+errer" style=3D"text-decoration:none;color:#3399cc;" target=3D"_blank" titl=
+e=3D"View all upcoming Graybar events">&nbsp;<span style=3D"color:#999999;"=
+>and</span> other
+Graybar events</a>&nbsp;to learn more about the latest =
+technology and products from our top manufacturers.</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"st=
+ylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingbloc=
+k-content-wrapper camarker-inner">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=
+=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%"=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbod=
+y>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"stylingblock-content-margin-cell" style=3D"padding: 5px 0px=
+;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content=
+-wrapper" style=3D"border-left: 2px solid transparent; min-width: 100%;" wi=
+dth=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-c=
+ontent-wrapper camarker-inner" style=3D"padding: 10px 0px 0px;">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><!-- Begin Promo 1 -=
+->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=3D"wi=
+dth: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; pa=
+dding-right: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=
+=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"stylingblock-content-wrapper camarker-inner" style=3D"paddi=
+ng: 0px 0px 10px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"99%">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"center" class=3D""><!-- begin im=
+age --><a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsl=
+etter/3zb5lcn/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k"><i=
+mg alt=3D"Graybar Insights Webinar" border=3D"0" height=3D"194" src=3D"http=
+s://go.graybar.com/l/511471/2020-10-13/3z9x2jn/511471/1602610393De52GkkA/in=
+tel_building.jpg" style=3D"width: 290px; height: 194px; border-width: 0px; =
+border-style: solid;" title=3D"Graybar Insights Webinar" width=3D"290"></a>=
+ <!-- end image --></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td class=3D"responsive-td" style=3D"width: 50%; padding-left: 5px;" =
+valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"min-width: 100%;"=
+ width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"styli=
+ngblock-content-wrapper camarker-inner" style=3D"padding: 0px 0px 0px 10px;=
+ line-height: 18px; font-size:14px; font-family:arial,helvetica,sans-serif;=
+ " valign=3D"top"><!-- begin text -->
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td style=3D" font-family: arial, helvetica, sans-serif; font-size: 14px=
+; color: #606566; line-height: 18px;" valign=3D"top" class=3D""><strong>Web=
+inar: </strong>Optimizing Intelligent Building Infrastructure</td>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"paddi=
+ng-top: 10px; padding-bottom: 10px; font-family: arial, helvetica, sans-ser=
+if; font-size: 14px; color: #606566; line-height: 18px; font-weight: normal=
+; font-style: normal; " class=3D"">Join Graybar, Berk-Tek and Leviton for a=
+ webinar that will discuss the various elements that create an intelligent =
+building network and the benefits that are being realized by the implementa=
+tion of some of the newest technologies available.</td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: a=
+rial; color: #3399cc; font-size: 14px;" class=3D""><a href=3D"https://go.gr=
+aybar.com/e/511471/541679AB210-partnerref-nurture/3zb5lcq/849091263?h=3Dt_5=
+esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"border-bottom: 0px;text-=
+decoration:none;color: #3399CC;" title=3D"Watch On-Demand"><strong>Watch On=
+-Demand =C2=BB</strong></a></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end text -=
+-></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- End Promo 1 -->
+
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content=
+-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=
+=3D"stylingblock-content-wrapper camarker-inner">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content=
+-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td class=3D"stylingblock-content-margin-cell" style=3D"p=
+adding: 5px 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=3D"borde=
+r-left: 2px solid transparent; min-width: 100%;" width=3D"100%">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"styli=
+ngblock-content-wrapper camarker-inner" style=3D"padding: 10px 0px 0px;">=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=3D"0" cells=
+pacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td><!-- Begin Promo =
+1 -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadd=
+ing=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 50%; paddi=
+ng-right: 5px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"st=
+ylingblock-content-wrapper" style=3D"min-width: 100%;" width=3D"100%">
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"stylingblock-content-wrapper camarker-inner" style=3D"padding: 0px 0=
+px 10px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" width=3D"99%">
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td align=3D"center" class=3D""><!-- begin image --><a href=
+=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3zb5lcn/=
+849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k"><img alt=3D"Pand=
+uit Event" border=3D"0" height=3D"194" src=3D"https://go.graybar.com/l/5114=
+71/2020-10-15/3z9yy92/511471/1602781766BKP7GMoc/pan_what_new.jpg" style=3D"=
+width: 290px; height: 194px; border-width: 0px; border-style: solid;" title=
+=3D"Panduit Event" width=3D"290"></a> <!-- end image --></td>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+body>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"responsive-td" style=3D"width: 50%; padding-left: 5px;" valign=3D"to=
+p">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" st=
+yle=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingblock-content-wr=
+apper camarker-inner" style=3D"padding: 0px 0px 0px 10px; line-height: 18px=
+; font-size:14px; font-family:arial,helvetica,sans-serif; " valign=3D"top">=
+<!-- begin text -->
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr valign=3D"top">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D" font-fa=
+mily: arial, helvetica, sans-serif; font-size: 14px; color: #606566; line-h=
+eight: 18px;" valign=3D"top" class=3D""><strong>Nov. 4, 2020<br>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Onl=
+ine Summit: </strong>Trends and Technologies Impacting Business Today and T=
+omorrow&nbsp;</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"padding-top: 10px; p=
+adding-bottom: 10px; font-family: arial, helvetica, sans-serif; font-size: =
+14px; color: #606566; line-height: 18px; font-weight: normal; font-style: n=
+ormal; " class=3D"">Join Panduit from 10am-12pm CST for their first online =
+summit. Things have changed and we need to adapt our technologies and busin=
+ess processes to be ready for what is NEXT.&nbsp;</td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td style=3D"font-family: arial; color: #3399cc; font-size: 14px;" class=
+=3D""><a href=3D"https://go.graybar.com/e/511471/AA0Q00EQ10Ssg0000W0w10I/3z=
+b5lcs/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"b=
+order-bottom: 0px;text-decoration:none;color: #3399CC;" title=3D"Register">=
+<strong>Register =C2=BB</strong></a></td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end tex=
+t --></td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<!-- End Promo 1 --></td>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+body>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+d>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</t=
+able>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td alig=
+n=3D"left" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"slot-styling" =
+style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"slot-styling camarker-inner" style=3D"pad=
+ding: 0px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content=
+-wrapper" style=3D"background-color: #e6e6e6; min-width: 100%;" width=3D"10=
+0%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+body>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inner" style=3D=
+"padding: 10px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" style=3D"width=
+: 100%;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width: 100%;">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width=
+: 33%; padding-right: 4px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=
+=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingbloc=
+k-content-wrapper camarker-inner" style=3D"padding: 10px; font-family: aria=
+l; font-size: 13px; line-height: 20px;"><span style=3D"font-size: 13px; col=
+or: #666666; font-family: arial,helvetica,sans-serif; line-height: 17px;"><=
+b><a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter=
+/3zb5lcv/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=
+=3D"color:#666666;text-decoration:none;" title=3D"Visit the Graybar online =
+store">ONLINE STORE</a></b></span><br>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<span sty=
+le=3D"font-size: 12px; color: #6666666; font-family: arial,helvetica,sans-s=
+erif; line-height: 20px;"><a href=3D"https://go.graybar.com/e/511471/aign-M=
+M-7498-nuture-newsletter/3zb5lcx/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a=
+6CPB4W2sN68u10k" style=3D"text-decoration:none;color:#666666;" title=3D"Sig=
+n up to buy online">Sign Up</a><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"h=
+ttps://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3zb5lcv/84909=
+1263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"text-decorat=
+ion:none;color:#666666;" title=3D"Log in to your store account">My Account<=
+/a><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://go.graybar.com/e/511=
+471/aign-MM-7498-nuture-newsletter/3zb5lcz/849091263?h=3Dt_5esp3F5ELNwFVngI=
+siKtjTHz_a6CPB4W2sN68u10k" style=3D"color:#666666;text-decoration:none;" ti=
+tle=3D"Get help with your online orders">Orders Help</a><br>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-=
+newsletter/3zb5ld2/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10=
+k" style=3D"color:#666666;text-decoration:none;" title=3D"visit the store F=
+AQ section">Store Help/FAQs</a></span></td>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"width: 33%; pa=
+dding-right: 2px; padding-left: 2px;" valign=3D"top">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<ta=
+ble cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapp=
+er" style=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"st=
+ylingblock-content-wrapper camarker-inner" style=3D"padding: 10px; line-hei=
+ght: 20px"><span style=3D"font-size: 13px; color: #666666; font-family: ari=
+al, helvetica, sans-serif; line-height: 20px;"><b>LEARN MORE</b></span><br>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<span style=3D"font-size: 12px; color: rgb(255, =
+255, 255); font-family: arial, helvetica, sans-serif; line-height: 20px;"><=
+a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3z=
+b5ld4/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"c=
+olor:#666666;text-decoration:none;" title=3D"Find your local Graybar branch=
+">Branch Locations</a><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://go=
+.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3zb5ld6/849091263?h=3D=
+t_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"color:#666666;text-de=
+coration:none;" title=3D"View all news &amp; promotions">News &amp; Promoti=
+ons</a><br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"https://go.graybar.com/e/=
+511471/aign-MM-7498-nuture-newsletter/3zb5ld8/849091263?h=3Dt_5esp3F5ELNwFV=
+ngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"color:#666666;text-decoration:none;"=
+ title=3D"See all upcoming industry events">Events</a><br>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-=
+newsletter/3zb5ldb/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10=
+k" style=3D"color:#666666;text-decoration:none;" title=3D"Visit the main Gr=
+aybar resources website">Graybar Services</a></span></td>
+=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"responsive-td" style=3D"wi=
+dth: 33%; padding-left: 4px;" valign=3D"top">
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table cellp=
+adding=3D"0" cellspacing=3D"0" class=3D"stylingblock-content-wrapper" style=
+=3D"min-width: 100%;" width=3D"100%">
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"stylingbloc=
+k-content-wrapper camarker-inner" style=3D"padding: 10px; line-height: 20px=
+ "><span style=3D"font-size: 13px; color: #666666; font-family: arial, helv=
+etica, sans-serif;"><b>CONTACT US</b></span><br>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<span style=3D"font-size: 12px; color: #666666; font-family: arial, helveti=
+ca, sans-serif; line-height: 20px;"><a href=3D"mailto:graybarsupport@grayba=
+r.com" style=3D"color: #666666; text-decoration: none;" title=3D"Email our =
+support team">graybarsupport@graybar.com</a><br>
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<a href=3D"tel:+1-855-347-2839" style=3D"color: #666666; text-decoration: n=
+one;" title=3D"Call Us">855-347-2839</a><br>
+=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Mon=
+-Fri 6am-10pm CST<br>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Sat-Sun 8am-5pm CST</span><=
+/td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</td>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table cellpadding=3D"0" cellspacing=3D"0" class=3D"stylingblock-cont=
+ent-wrapper" style=3D"background-color: #ffffff; min-width: 100%;" width=3D=
+"100%">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"stylingblock-content-wrapper camarker-inner" st=
+yle=3D"padding: 10px 20px;">
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<div style=3D"color: rgb(103, 103, 103); line=
+-height: 15px; font-family: arial; font-size: 10px;">
+=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>IMPORTANT INFORMAT=
+ION</p>
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<p>This e-mail was sent to: chris@alednow.com.&nbsp;You are rec=
+eiving this email because you provided your email address to Graybar. To no=
+ longer receive promotional emails, or to manage your preferences, visit th=
+e <a href=3D"https://go.graybar.com/emailPreference/epc/511471/qamaTjHLk0IX=
+UPiTSN_4zt7VuroAXbB5cQq0fUcy1c4/9ce81ad0487164551670c44a6567628dec70458de30=
+dfb59b5e949ec4d27b2c6/849091263" style=3D" color: #676767;" title=3D"Subscr=
+iption Center">Subscription Center</a>.</p>
+
+=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>Your privacy is importan=
+t to Graybar. For more information on how Graybar protects your privacy, st=
+eps you can take to protect your personal information and alerts on privacy=
+ risks facing customers, view the <a href=3D"https://go.graybar.com/e/51147=
+1/aign-MM-7498-nuture-newsletter/3zb5ldd/849091263?h=3Dt_5esp3F5ELNwFVngIsi=
+KtjTHz_a6CPB4W2sN68u10k" style=3D"text-decoration:underline;color:#676767;"=
+ title=3D"View our privacy policy">Privacy Policy</a>.</p>
+
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>=C2=A9202=
+0&nbsp;<a href=3D"https://go.graybar.com/e/511471/2020-10-22/3zb5ldg/849091=
+263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"color:#676767=
+;text-decoration:none;" title=3D"Graybar">Graybar Services, Inc.</a> All ri=
+ghts reserved | 34 N Meramec Ave, Saint Louis, MO 63105-3844 USA</p>
+
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<p>=
+<a href=3D"https://go.graybar.com/e/511471/aign-MM-7498-nuture-newsletter/3=
+zb5ldj/849091263?h=3Dt_5esp3F5ELNwFVngIsiKtjTHz_a6CPB4W2sN68u10k" style=3D"=
+text-decoration:underline;color:#676767;" title=3D"View site terms and cond=
+itions">Terms &amp; Conditions</a> | <a href=3D"https://go.graybar.com/e/51=
+1471/aign-MM-7498-nuture-newsletter/3zb5ldl/849091263?h=3Dt_5esp3F5ELNwFVng=
+IsiKtjTHz_a6CPB4W2sN68u10k" style=3D"text-decoration:underline;color:#67676=
+7;" title=3D"View site terms of sale">Terms of Sale</a> | <a href=3D"https:=
+//go.graybar.com/webmail/511471/849091263/9ce81ad0487164551670c44a6567628de=
+c70458de30dfb59b5e949ec4d27b2c6" style=3D"color:#676767;text-decoration:und=
+erline;" title=3D"View web version">View Web Version</a></p>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</div>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=
+
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbod=
+y>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tbody>
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>
+=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>
+=09=09=09=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09=09=09=09</tbody>
+=09=09=09=09=09=09=09=09=09</table>
+=09=09=09=09=
+=09=09=09=09=09</td>
+=09=09=09=09=09=09=09=09</tr>
+=09=09=09=09=09=09=
+=09</tbody>
+=09=09=09=09=09=09</table>
+=09=09=09=09=09=09</td>
+=09=09=
+=09=09=09</tr>
+=09=09=09=09</tbody>
+=09=09=09</table>
+=09=09=09</td>=
+
+=09=09</tr>
+=09</tbody>
+</table>
+<img alt=3D"" src=3D"https://go.g=
+raybar.com/r/511471/1/849091263/open/1" /><style data-ignore-inlining>@medi=
+a (prefers-color-scheme: dark) { #_t::before {content:url('https://y0y7im8l=
+.emltrk.com/v2/y0y7im8l?rd&d=3D[UNIQUE]');}} @media (prefers-color-scheme: =
+light) { #_t::before {content:url('https://y0y7im8l.emltrk.com/v2/y0y7im8l?=
+rl&d=3D[UNIQUE]');}} @media print{ #_t {background-image:url('https://y0y7i=
+m8l.emltrk.com/v2/y0y7im8l?p&d=3D[UNIQUE]');}} div.OutlookMessageHeader {ba=
+ckground-image:url('https://y0y7im8l.emltrk.com/v2/y0y7im8l?f&d=3D[UNIQUE]'=
+)} table.moz-email-headers-table {background-image:url('https://y0y7im8l.em=
+ltrk.com/v2/y0y7im8l?f&d=3D[UNIQUE]')} blockquote #_t {background-image:url=
+('https://y0y7im8l.emltrk.com/v2/y0y7im8l?f&d=3D[UNIQUE]')} #MailContainerB=
+ody #_t {background-image:url('https://y0y7im8l.emltrk.com/v2/y0y7im8l?f&d=
+=3D[UNIQUE]')}</style><div id=3D"_t"></div>
+<img src=3D"https://y0y7im8l.=
+emltrk.com/v2/y0y7im8l?d=3D[UNIQUE]" width=3D"1" height=3D"1" border=3D"0" =
+alt=3D"" /></body>
+  <!--RegionEnd[socialslot:"allcontent"]-->
+</html>=
+
+
+=09 =20
+
+--_=_swift_v4_1603379248_5ecd5eb021a91bedb57d0325f8fcdfc6_=_--
+
+

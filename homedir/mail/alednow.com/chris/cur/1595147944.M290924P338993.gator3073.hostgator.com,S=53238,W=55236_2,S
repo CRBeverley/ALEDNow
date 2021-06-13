@@ -1,0 +1,1998 @@
+Return-Path: <bounce-98_HTML-149144742-62643-95467-241@bounce.notifications.intuit.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id YI87EagGFF8xLAUAi5QuQQ
+	(envelope-from <bounce-98_HTML-149144742-62643-95467-241@bounce.notifications.intuit.com>)
+	for <chris@alednow.com>; Sun, 19 Jul 2020 03:39:04 -0500
+Return-path: <bounce-98_HTML-149144742-62643-95467-241@bounce.notifications.intuit.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Sun, 19 Jul 2020 03:39:04 -0500
+Received: from mta.notifications.intuit.com ([66.231.95.18]:45124)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounce-98_HTML-149144742-62643-95467-241@bounce.notifications.intuit.com>)
+	id 1jx4qe-001TKY-7C
+	for chris@alednow.com; Sun, 19 Jul 2020 03:39:04 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=notifications.intuit.com;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:List-ID:X-CSA-Complaints:
+ Message-ID:Content-Type; i=intuit@notifications.intuit.com;
+ bh=1ETllEXiaz6uE+CQ2CpQU+v3ZLaNHA0BjLGi46KvVmU=;
+ b=u6g61ges7hZWUA4a9XBhSuJ1B4epK0Ui2pgTyEdHIczeqpOB5AI2w0gAfCeAzBoi53coc5YK83FT
+   K46kEw1X9GoVHExjgJ1QXgDuuiTk+maSq0/zNAX57bpGiup04f+fXx1sFrxV3TJsYAoiUqX7QT2I
+   dW6vu7J0ABUdax9DQTg=
+Received: by mta.notifications.intuit.com id h2g3ai2fmd4a for <chris@alednow.com>; Sun, 19 Jul 2020 08:38:51 +0000 (envelope-from <bounce-98_HTML-149144742-62643-95467-241@bounce.notifications.intuit.com>)
+From: "Intuit QuickBooks Team" <intuit@notifications.intuit.com>
+To: <chris@alednow.com>
+Subject: Your QuickBooks subscription was canceled
+Date: Sun, 19 Jul 2020 02:38:50 -0600
+MIME-Version: 1.0
+Reply-To: "Intuit No Reply" <reply-fefa1272736007-98_HTML-149144742-95467-241@notifications.intuit.com>
+List-ID: <78002.xt.local>
+X-CSA-Complaints: whitelist-complaints@eco.de
+X-SFMC-Stack: 4
+x-job: 95467_62643
+Message-ID: <846a7fb7-44d0-4768-9e94-252c8c7a2c66@las1s04mta1008.xt.local>
+Content-Type: multipart/alternative;
+	boundary="ddEImefULGRS=_?:"
+
+This is a multi-part message in MIME format.
+
+--ddEImefULGRS=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+
+
+
+ 
+
+ 
+body {
+   -webkit-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
+   margin: 0 !important;
+   padding: 0 !important;
+   background-color: #F4F5F8;
+   font-family: Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif !important; 
+   color: #393A3D; 
+   font-size: 15px; 
+   line-height: 20px;
+   mso-font-alt: Arial, Helvetica, sans-serif !important;
+   text-align: left;
+  }
+  h1 {
+   color: #393A3D;
+   
+   font-size: 32px;
+   font-weight: normal;
+   line-height: 36px;
+   margin: 20px 20px 40px;
+  }
+  h2 {
+   font-size: 24px;
+   font-weight: normal;
+   line-height: 32px;
+  }
+  h3 {
+   font-size: 19px;
+   font-weight: normal;
+   line-height: 24px;
+  }
+  p {
+   font-size: 15px;
+   font-weight: normal;
+   line-height: 20px;
+   margin: 1em 0;
+  }
+  table td {
+   border-collapse: collapse;
+  }
+  a {
+   color: #0077C5;
+   mso-font-alt: Arial, Helvetica, sans-serif !important;
+  }
+  img {
+   outline: none;
+  }
+  a img {
+   border: none;
+  }
+  @-ms-viewport {
+   width:device-width;
+  }
+  .applelinks a {
+   color: #B9B9B9;
+   text-decoration: none;
+  }
+  .applelinksBlack a {color:#393A3D; text-decoration: none;}
+  .applelinksFooter a {color:#505050; text-decoration: none;}
+  .hide1 {
+   display: none;
+  }
+  #detailRow, #detailBtn {
+   display: none;
+   line-height: 0;
+   mso-hide: all;
+  }
+  #detailBtn td {
+   padding: 0px !important;
+   moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   background-color: transparent !important;
+  }
+  .address a {
+   color: #B9B9B9;
+   text-decoration: none;
+  }
+  /* iOS BLUE LINKS */
+ 
+a[x-apple-data-detectors] {
+ 
+color: inherit !important;
+ 
+text-decoration: none !important;
+ 
+font-size: inherit !important;
+ 
+font-family: inherit !important;
+ 
+font-weight: inherit !important;
+ 
+line-height: inherit !important;
+  }
+  /* selectors for mobile */
+  @media only screen and (max-width:480px) {
+  
+   h1 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+    margin: 0 8px 20px 0 !important;
+   }
+   h2 {
+    font-size: 19px !important;
+    line-height: 24px !important;
+    margin: 8px 8px 20px 0 !important;
+   }
+   h3 {
+    font-size: 15px !important;
+    font-weight: normal !important;
+    line-height: 20px !important;
+   }
+   p {
+    font-size: 15px !important;
+    font-weight: normal !important;
+    line-height: 20px !important;
+    margin: 1em 0 !important;
+   }
+ 
+*[class].block {
+    display: block !important;
+   }
+   *[class].block_wrap {
+    display: block !important;
+   }
+   #detailRow, #detailBtn {
+    display: block !important;
+    max-height: inherit !important;
+    line-height: normal !important;
+   }
+   #detailBtn a {
+    line-height: 20px !important;
+    font-size: 15px !important;
+   }
+   #detailBtn td {
+    height: auto !important;
+    padding: 5px !important;
+    moz-border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    background-color: #375FBC !important;
+   }
+
+   *[class].showme {
+    display: block;
+    display: block !important;
+   }
+   *[class].center {
+    text-align: center !important;
+   }
+   *[class].left {
+    text-align: left !important;
+   }
+   *[class].fleft {
+    float: left !important;
+   }
+   *[class].fright {
+    float: right !important;
+   }
+   *[class].fnone {
+    float: none !important;
+   }
+   *[class].valign-top {
+    vertical-align: top !important;
+   }
+   *[class].center-block {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+ 
+}
+ 
+*[class].tbborder {
+    border-right: none !important;
+    border-left: none !important;
+    border-top: 1px solid #333333 !important;
+    border-bottom: 1px solid #333333 !important;
+    widows: 300px !important
+   }
+   *[class].noborder {
+    border-right: none !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+   }
+ 
+*[class].bold {
+    font-weight: bold !important;
+   }
+   *[class].italic {
+    font-style: italic !important;
+   }
+   *[class].bold-italic {
+    font-weight: bold !important;
+    font-style: italic !important;
+   }
+   *[class].small-caps {
+    font-variant: small-caps !important;
+   }
+ 
+*[class].padding-top-sm {
+    padding-top: 8px !important;
+   }
+   *[class].padding-top-med {
+    padding-top: 20px !important;
+   }
+   *[class].padding-top-lg {
+    padding-top: 40px !important;
+   }
+   *[class].padding-top-xl {
+    padding-top: 60px !important;
+   }
+ 
+*[class].padding-bottom-sm {
+    padding-bottom: 8px !important;
+   }
+   *[class].padding-bottom-med {
+    padding-bottom: 20px !important;
+   }
+   *[class].padding-bottom-lg {
+    padding-bottom: 40px !important;
+   }
+   *[class].padding-bottom-xl {
+    padding-bottom: 60px !important;
+   }
+ 
+*[class].padding-left-sm {
+    padding-left: 8px !important;
+   }
+   *[class].padding-left-med {
+    padding-left: 20px !important;
+   }
+   *[class].padding-left-lg {
+    padding-left: 40px !important;
+   }
+   *[class].padding-left-xl {
+    padding-left: 60px !important;
+   }
+ 
+*[class].padding-right-sm {
+    padding-right: 8px !important;
+   }
+   *[class].padding-right-med {
+    padding-right: 20px !important;
+   }
+   *[class].padding-right-lg {
+    padding-right: 40px !important;
+   }
+   *[class].padding-right-xl {
+    padding-right: 60px !important;
+   }
+ 
+*[class].nopadding {
+    padding: 0 !important;
+   }
+   *[class].no-padding-top {
+    padding-top: 0 !important;
+   }
+   *[class].no-padding-bottom {
+    padding-bottom: 0 !important;
+   }
+   *[class].no-padding-left {
+    padding-left: 0 !important;
+   }
+   *[class].no-padding-right {
+    padding-right: 0 !important;
+   }
+ 
+*[class].nomargin {
+    margin: 0 !important;
+   }
+   *[class].margin-top-sm {
+    margin-top: 8px !important;
+   }
+   *[class].margin-top-med {
+    margin-top: 20px !important;
+   }
+   *[class].margin-top-lg {
+    margin-top: 40px !important;
+   }
+   *[class].margin-top-xl {
+    margin-top: 60px !important;
+   }
+ 
+*[class].margin-bottom-sm {
+    margin-bottom: 8px !important;
+   }
+   *[class].margin-bottom-med {
+    margin-bottom: 20px !important;
+   }
+   *[class].margin-bottom-lg {
+    margin-bottom: 40px !important;
+   }
+   *[class].margin-bottom-xl {
+    margin-bottom: 60px !important;
+   }
+ 
+*[class].margin-left-sm {
+    margin-left: 8px !important;
+   }
+   *[class].margin-left-med {
+    margin-left: 20px !important;
+   }
+   *[class].margin-left-lg {
+    margin-left: 40px !important;
+   }
+   *[class].margin-left-xl {
+    margin-left: 60px !important;
+   }
+ 
+*[class].margin-right-sm {
+    margin-right: 8px !important;
+   }
+   *[class].margin-right-med {
+    margin-right: 20px !important;
+   }
+   *[class].margin-right-lg {
+    margin-right: 40px !important;
+   }
+   *[class].margin-right-xl {
+    margin-right: 60px !important;
+   }
+ 
+*[class].no-margin-top {
+    margin-top: 0 !important;
+   }
+   *[class].no-margin-bottom {
+    margin-bottom: 0 !important;
+   }
+   *[class].no-margin-left {
+    margin-left: 0 !important;
+   }
+   *[class].no-margin-right {
+    margin-right: 0 !important;
+   }
+ 
+/*widths*/
+   *[class].width8 {
+    width: 8px !important;
+   }
+   *[class].width10 {
+    width: 10px !important;
+   }
+   *[class].width24 {
+    width: 24px !important;
+   }
+   *[class].width106 {
+    width: 106px !important;
+   }
+   *[class].width108 {
+    width: 108px !important;
+   }
+   *[class].width156 {
+    width: 156px !important;
+   }
+   *[class].width160 {
+    width: 160px !important;
+   }
+   *[class].width215 {
+    width: 215px !important;
+   }
+   *[class].width250 {
+    width: 250px !important;
+   }
+   *[class].width268 {
+    width: 268px !important;
+   }
+   *[class].width288 {
+    width:288px !important;
+    min-width:250px !important;
+   }
+   *[class].width298 {
+    width: 298px !important;
+   }
+   *[class].width300 {
+    width: 300px !important;
+   }
+   *[class].width308 {
+    width: 308px !important;
+   }
+   *[class].width310 {
+    width: 310px !important;
+   }
+   *[class].width318 {
+    width: 318px !important;
+   }
+   *[class].width320 {
+    width: 320px !important;
+   }
+   *[class].width49 {
+    width: 49% !important;
+   }
+   *[class].width-100-pct {
+    width: 100% !important;
+   }
+   /*heights*/
+   *[class].height15 {
+    height: 15px !important;
+   }
+   *[class].height54 {
+    height: 54px !important;
+   }
+   *[class].height87 {
+    height: 87px !important;
+   }
+   *[class].height92 {
+    height: 92px !important;
+   }
+   *[class].height94 {
+    height: 94px !important;
+   }
+   /*margins*/
+   *[class].marginl5 {
+    margin-left: 5px !important;
+   }
+   *[class].marginl10 {
+    margin-left: 10px !important;
+   }
+   *[class].marginr10 {
+    margin-right: 10px !important;
+   }
+   *[class].marginl103 {
+    margin-left: 103px !important;
+   }
+   /*padding*/
+   *[class].paddingb0 {
+    padding-bottom: 0px !important;
+   }
+   *[class].paddingb10 {
+    padding-bottom: 10px !important;
+   }
+   *[class].paddingb20 {
+    padding-bottom: 20px !important;
+   }
+   *[class].paddingt10 {
+    padding-top: 10px !important;
+   }
+   *[class].paddingt20 {
+    padding-top: 20px !important;
+   }
+   *[class].paddingr10 {
+    padding-right: 10px !important;
+   }
+   *[class].paddingr65 {
+    padding-right: 65px !important;
+   }
+   *[class].paddingr8 {
+    padding-right: 8px !important;
+   }
+   *[class].paddingr0 {
+    padding-right: 0px !important;
+   }
+   *[class].paddingl10 {
+    padding-left: 10px !important;
+   }
+   *[class].paddingl20 {
+    padding-left: 20px !important;
+   }
+   *[class].paddingl42 {
+    padding-left: 42px !important;
+   }
+   *[class].paddingl72 {
+    padding-left: 72px !important;
+   }
+   *[class].paddingl78 {
+    padding-left: 78px !important;
+   }
+   *[class].paddingl103 {
+    padding-left: 103px !important;
+   }
+   *[class].paddingl0 {
+    padding-left: 0px !important;
+   }
+   *[class].paddingl5 {
+    padding-left: 5px !important;
+   }
+   *[class].paddingt5 {
+    padding-top: 5px !important;
+   }
+   *[class].paddingb5 {
+    padding-bottom: 5px !important;
+   }
+   *[class].paddinglr40 {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+   }
+   *[class].paddinglr10 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+   }
+ 
+/* Font classes based on attribute in typography branding DE
+ 
+Sizes are for mobile i.e. .hero-banner = H1FontSizeMobile */
+   *[class].hero-banner {
+    font-size: 24px !important;
+    line-height: 32px !important;
+   }
+   *[class].subheader {
+    font-size: 19px !important;
+    line-height: 24px !important;
+   }
+   *[class].body-copy1 {
+    font-size: 19px !important;
+    line-height: 24px !important;
+   }
+   *[class].body-copy2 {
+    font-size: 15px !important;
+    line-height: 20px !important;
+   }
+   *[class].body-copy3 {
+    font-size: 12px !important;
+    line-height: 16px !important;
+   }
+ 
+/*fonts*/
+   *[class].font44 {
+    font-size: 44px !important;
+    line-height: 48px !important;
+   }
+   *[class].font32 {
+    font-size: 32px !important;
+    line-height: 36px !important;
+   }
+   *[class].font24 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+   }
+   *[class].font19 {
+    font-size: 19px !important;
+    line-height: 24px !important;
+   }
+   *[class].font15 {
+    font-size: 15px !important;
+    line-height: 20px !important;
+   }   
+   *[class].font12 {
+    font-size: 12px !important;
+    line-height: 16px !important;
+   }
+   /* button font sizes - do not change line-height */
+   *[class].button-font44 {
+    font-size: 44px !important;
+   }
+   *[class].button-font32 {
+    font-size: 32px !important;
+   }
+   *[class].button-font24 {
+    font-size: 24px !important;
+   }
+   *[class].button-font19 {
+    font-size: 19px !important;
+   }
+   *[class].button-font15 {
+    font-size: 15px !important;
+   }   
+   *[class].button-font12 {
+    font-size: 12px !important;
+   }
+ 
+*[class].font13 {
+    font-size: 13px !important;
+   }
+   *[class].font14 {
+    font-size: 14px !important;
+   }
+   *[class].font16 {
+    font-size: 16px !important;
+   }
+   *[class].font18 {
+    font-size: 18px !important;
+   }
+   *[class].font20 {
+    font-size: 20px !important;
+   }
+   /*images-this image needs to be hosted and the path of the image needs to be updated*/
+   *[class].lh22 {
+    line-height: 22px !important;
+   }
+   *[class].secondary3:after {
+    content: "Where does this show up?Lorem ipsum.";
+   }
+   /*float*/
+   *[class].flr {
+    float: left !important;
+   }
+   /*PixelPops added this */
+   img {
+    max-width: 100%;
+    height: auto;
+   }
+   td.text {
+    font-size: 100%;
+   }
+   *[class].textc {
+    margin-left: 29px !important;
+    border: none !important;
+   }
+   *[class].widthChange284 {
+    width: 275px !important;
+   }
+   *[class].padding_15 {
+    padding: 15px !important;
+   }
+   *[class].width298_fix {
+    width: 207px !important;
+   }
+   *[class].align_fix {
+    padding-left: 29px !important;
+   }
+   *[class].padding_66 {
+    padding-left: 52px !important;
+   }
+   body[yahoo] .container {
+    width: 320px !important;
+    height: auto !important;
+   }
+   body[yahoo] .full-width {
+    width: 100% !important;
+    height: auto !important;
+   }
+   body[yahoo] .width-300 {
+    width: 300px !important;
+    height: auto !important;
+   }
+   body[yahoo] .width-33pct {
+    width: 33% !important;
+    height: auto !important;
+   }
+   body[yahoo] .hideme {
+    display:none !important;
+    margin:0
+   }
+   *.hideme{display:none !important;}
+   body[yahoo] .showme {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    width: auto !important;
+    max-height: inherit !important;
+    height: auto !important;
+   }
+   body[yahoo] .drop {
+    width: 100% !important;
+    float: left !important;
+   }
+   body[yahoo] .drop-no-resize {
+    display: block !important;
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   }
+   body[yahoo] .border-box {
+    box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    -webkit-box-sizing: border-box !important;
+    -ms-box-sizing: border-box !important;
+   }
+   body[yahoo] .remove-padding {
+    padding: 0px !important;
+   }
+   body[yahoo] .padding-10-sides {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+   }
+   body[yahoo] .padding-15-sides {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+   }
+   body[yahoo] .center {
+    text-align: center !important;
+   }
+   body[yahoo] img.center {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   }
+   body[yahoo] table.center {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   }
+   body[yahoo] img {
+    max-width: 100% !important;
+   }
+   /*Styles specific to Header */
+   body[yahoo] .logo-padding {
+    width: 195px !important;
+    padding-left: 10px !important;
+    padding-right: 20px !important;
+   }
+   body[yahoo] .logo-resize {
+    width: 165px !important;
+    height: auto !important;
+   }
+   body[yahoo] .icons-resize {
+    width: 125px !important;
+    height: auto !important;
+   }
+   body[yahoo] .icons-padding {
+    padding: 5px 0px 5px 0px !important;
+   }
+   body[yahoo] .width-50 {
+    width: 50px !important;
+   }
+   body[yahoo] .width-75 {
+    width: 75px !important;
+   }
+  }
+ 
+ 
+
+
+https://quickbooks.intuit.com/ 
+
+
+
+
+ 
+
+    
+ 
+
+
+ 
+
+ 
+Subscription canceled  
+
+ 
+Christopher Beverley, your subscription was canceled at your request.
+ 
+Subscription canceled:
+ 
+ 
+QuickBooks Self-Employed
+ 
+
+
+    
+    
+    Cancellation date: 07/19/2020
+
+    
+ 
+
+  
+    If you change your mind, it's easy to resubscribe.
+ 
+
+ 
+   
+
+
+ 
+ 
+  
+
+  
+ 
+Resubscribe
+ 
+https://selfemployed.intuit.com/login
+ 
+
+ 
+
+ 
+
+ 
+  
+
+ 
+ 
+ 
+  
+  
+
+  
+ 
+ 
+
+ 
+Account details
+ 
+
+  
+ 
+ 
+
+ 
+   Subscription canceled: 
+   All active subscriptions
+  
+
+  
+Subscription canceled:
+  
+  
+  QuickBooks Self-Employed
+
+    
+ 
+Company ID ending: 
+  
+  
+  8829
+ 
+Company name:
+ 
+Christopher Beverley
+ 
+Billing address:
+ 
+234 SW Honeycomb Ct
+
+  
+  
+ 
+
+
+
+ 
+
+    
+    
+ 
+
+https://quickbooks.intuit.com/learn-support/ 
+Questions or concerns?
+https://quickbooks.intuit.com/learn-support/ 
+Visit customer support. 
+ 
+
+
+
+ 
+ 
+
+
+  
+
+
+ 
+Check before you click!
+ 
+TurboTax will never ask you for personal information in an email.
+ 
+When you click a link, the address should always contain "intuit.com/".
+ 
+Don't reply to this email. It was automatically generated.
+ 
+https://www.intuit.com 
+
+
+
+
+ 
+
+ 
+
+  
+https://view.notifications.intuit.com/?qs=5c55b033bcf7d23c5d18c846f8a47e6a62fc5c3a5c25ea00e9d1bccad788fdf07d2d4b55e8a4ae306be241158b548935f7b9e342c7e3c41b 
+View on web.  
+
+ You have received this business communication as part of our efforts to fulfill your request or service your account. You will receive this and other business communications from us even if you have opted out of marketing messages. All dates and times are Pacific Standard Time (PST).
+
+ Read Intuit's 
+https://www.intuit.com/legal/ 
+Legal notice . 
+https://security.intuit.com/index.php 
+Security  - 
+https://security.intuit.com/privacy 
+Privacy statement  - 
+https://qbo.intuit.com/Terms_Of_Service.html 
+Terms of Service © 2020 Intuit Inc. All rights reserved.
+https://www.intuit.com/legal/trademark/ 
+Trademarks . Intuit Inc. 2800 E. Commerce Center Place, Tucson, AZ 85706
+
+
+ETC_oBill_Cancellation_100_QuickBooks Online_en_US_US_USD
+
+
+bbffcf34-5f57-4ee9-ab4f-705203ca1e02
+
+
+
+
+ 
+
+
+--ddEImefULGRS=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Intuit(R) Correspondence</title>
+  <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><!-- OBR-44708 - Start oBill-Migration changes -->
+
+
+ 
+<!-- OBR-44708 - End Changes --> 
+ </td></tr></table>
+  <!--<link href="https://turbotax.intuit.com/handlebars/common_3.0.576.1/common/bower_components/avenir/Avenir.css" rel="stylesheet" type="text" /> -->
+  <style type="text/css">
+  
+  body {
+   -webkit-text-size-adjust: 100%;
+   -ms-text-size-adjust: 100%;
+   margin: 0 !important;
+   padding: 0 !important;
+   background-color: #F4F5F8;
+   font-family: Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif !important; 
+   color: #393A3D; 
+   font-size: 15px; 
+   line-height: 20px;
+   mso-font-alt: Arial, Helvetica, sans-serif !important;
+   text-align: left;
+  }
+  h1 {
+   color: #393A3D;
+   
+   font-size: 32px;
+   font-weight: normal;
+   line-height: 36px;
+   margin: 20px 20px 40px;
+  }
+  h2 {
+   font-size: 24px;
+   font-weight: normal;
+   line-height: 32px;
+  }
+  h3 {
+   font-size: 19px;
+   font-weight: normal;
+   line-height: 24px;
+  }
+  p {
+   font-size: 15px;
+   font-weight: normal;
+   line-height: 20px;
+   margin: 1em 0;
+  }
+  table td {
+   border-collapse: collapse;
+  }
+  a {
+   color: #0077C5;
+   mso-font-alt: Arial, Helvetica, sans-serif !important;
+  }
+  img {
+   outline: none;
+  }
+  a img {
+   border: none;
+  }
+  @-ms-viewport {
+   width:device-width;
+  }
+  .applelinks a {
+   color: #B9B9B9;
+   text-decoration: none;
+  }
+  .applelinksBlack a {color:#393A3D; text-decoration: none;}
+  .applelinksFooter a {color:#505050; text-decoration: none;}
+  .hide1 {
+   display: none;
+  }
+  #detailRow, #detailBtn {
+   display: none;
+   line-height: 0;
+   mso-hide: all;
+  }
+  #detailBtn td {
+   padding: 0px !important;
+   moz-border-radius: 15px;
+   -webkit-border-radius: 15px;
+   background-color: transparent !important;
+  }
+  .address a {
+   color: #B9B9B9;
+   text-decoration: none;
+  }
+  /* iOS BLUE LINKS */
+        a[x-apple-data-detectors] {
+         color: inherit !important;
+          text-decoration: none !important;
+          font-size: inherit !important;
+          font-family: inherit !important;
+           font-weight: inherit !important;
+           line-height: inherit !important;
+  }
+  /* selectors for mobile */
+  @media only screen and (max-width:480px) {
+  
+   h1 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+    margin: 0 8px 20px 0 !important;
+   }
+   h2 {
+    font-size: 19px !important;
+    line-height: 24px !important;
+    margin: 8px 8px 20px 0 !important;
+   }
+   h3 {
+    font-size: 15px !important;
+    font-weight: normal !important;
+    line-height: 20px !important;
+   }
+   p {
+    font-size: 15px !important;
+    font-weight: normal !important;
+    line-height: 20px !important;
+    margin: 1em 0 !important;
+   }
+   
+   *[class].block {
+    display: block !important;
+   }
+   *[class].block_wrap {
+    display: block !important;
+   }
+   #detailRow, #detailBtn {
+    display: block !important;
+    max-height: inherit !important;
+    line-height: normal !important;
+   }
+   #detailBtn a {
+    line-height: 20px !important;
+    font-size: 15px !important;
+   }
+   #detailBtn td {
+    height: auto !important;
+    padding: 5px !important;
+    moz-border-radius: 15px !important;
+    -webkit-border-radius: 15px !important;
+    background-color: #375FBC !important;
+   }
+
+   *[class].showme {
+    display: block;
+    display: block !important;
+   }
+   *[class].center {
+    text-align: center !important;
+   }
+   *[class].left {
+    text-align: left !important;
+   }
+   *[class].fleft {
+    float: left !important;
+   }
+   *[class].fright {
+    float: right !important;
+   }
+   *[class].fnone {
+    float: none !important;
+   }
+   *[class].valign-top {
+    vertical-align: top !important;
+   }
+   *[class].center-block {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;    
+   }   
+   
+   *[class].tbborder {
+    border-right: none !important;
+    border-left: none !important;
+    border-top: 1px solid #333333 !important;
+    border-bottom: 1px solid #333333 !important;
+    widows: 300px !important
+   }
+   *[class].noborder {
+    border-right: none !important;
+    border-left: none !important;
+    border-top: none !important;
+    border-bottom: none !important;
+   }
+   
+   *[class].bold {
+    font-weight: bold !important;
+   }
+   *[class].italic {
+    font-style: italic !important;
+   }
+   *[class].bold-italic {
+    font-weight: bold !important;
+    font-style: italic !important;
+   }
+   *[class].small-caps {
+    font-variant: small-caps !important;
+   }
+   
+   *[class].padding-top-sm {
+    padding-top: 8px !important;
+   }
+   *[class].padding-top-med {
+    padding-top: 20px !important;
+   }
+   *[class].padding-top-lg {
+    padding-top: 40px !important;
+   }
+   *[class].padding-top-xl {
+    padding-top: 60px !important;
+   }
+   
+   *[class].padding-bottom-sm {
+    padding-bottom: 8px !important;
+   }
+   *[class].padding-bottom-med {
+    padding-bottom: 20px !important;
+   }
+   *[class].padding-bottom-lg {
+    padding-bottom: 40px !important;
+   }
+   *[class].padding-bottom-xl {
+    padding-bottom: 60px !important;
+   }
+   
+   *[class].padding-left-sm {
+    padding-left: 8px !important;
+   }
+   *[class].padding-left-med {
+    padding-left: 20px !important;
+   }
+   *[class].padding-left-lg {
+    padding-left: 40px !important;
+   }
+   *[class].padding-left-xl {
+    padding-left: 60px !important;
+   }
+   
+   *[class].padding-right-sm {
+    padding-right: 8px !important;
+   }
+   *[class].padding-right-med {
+    padding-right: 20px !important;
+   }
+   *[class].padding-right-lg {
+    padding-right: 40px !important;
+   }
+   *[class].padding-right-xl {
+    padding-right: 60px !important;
+   }
+   
+   *[class].nopadding {
+    padding: 0 !important;
+   }
+   *[class].no-padding-top {
+    padding-top: 0 !important;
+   }
+   *[class].no-padding-bottom {
+    padding-bottom: 0 !important;
+   }
+   *[class].no-padding-left {
+    padding-left: 0 !important;
+   }
+   *[class].no-padding-right {
+    padding-right: 0 !important;
+   }
+   
+   *[class].nomargin {
+    margin: 0 !important;
+   }
+   *[class].margin-top-sm {
+    margin-top: 8px !important;
+   }
+   *[class].margin-top-med {
+    margin-top: 20px !important;
+   }
+   *[class].margin-top-lg {
+    margin-top: 40px !important;
+   }
+   *[class].margin-top-xl {
+    margin-top: 60px !important;
+   }
+   
+   *[class].margin-bottom-sm {
+    margin-bottom: 8px !important;
+   }
+   *[class].margin-bottom-med {
+    margin-bottom: 20px !important;
+   }
+   *[class].margin-bottom-lg {
+    margin-bottom: 40px !important;
+   }
+   *[class].margin-bottom-xl {
+    margin-bottom: 60px !important;
+   }
+   
+   *[class].margin-left-sm {
+    margin-left: 8px !important;
+   }
+   *[class].margin-left-med {
+    margin-left: 20px !important;
+   }
+   *[class].margin-left-lg {
+    margin-left: 40px !important;
+   }
+   *[class].margin-left-xl {
+    margin-left: 60px !important;
+   }
+   
+   *[class].margin-right-sm {
+    margin-right: 8px !important;
+   }
+   *[class].margin-right-med {
+    margin-right: 20px !important;
+   }
+   *[class].margin-right-lg {
+    margin-right: 40px !important;
+   }
+   *[class].margin-right-xl {
+    margin-right: 60px !important;
+   }
+   
+   *[class].no-margin-top {
+    margin-top: 0 !important;
+   }
+   *[class].no-margin-bottom {
+    margin-bottom: 0 !important;
+   }
+   *[class].no-margin-left {
+    margin-left: 0 !important;
+   }
+   *[class].no-margin-right {
+    margin-right: 0 !important;
+   }
+   
+   /*widths*/
+   *[class].width8 {
+    width: 8px !important;
+   }
+   *[class].width10 {
+    width: 10px !important;
+   }
+   *[class].width24 {
+    width: 24px !important;
+   }
+   *[class].width106 {
+    width: 106px !important;
+   }
+   *[class].width108 {
+    width: 108px !important;
+   }
+   *[class].width156 {
+    width: 156px !important;
+   }
+   *[class].width160 {
+    width: 160px !important;
+   }
+   *[class].width215 {
+    width: 215px !important;
+   }
+   *[class].width250 {
+    width: 250px !important;
+   }
+   *[class].width268 {
+    width: 268px !important;
+   }
+   *[class].width288 {
+    width:288px !important;
+    min-width:250px !important;
+   }
+   *[class].width298 {
+    width: 298px !important;
+   }
+   *[class].width300 {
+    width: 300px !important;
+   }
+   *[class].width308 {
+    width: 308px !important;
+   }
+   *[class].width310 {
+    width: 310px !important;
+   }
+   *[class].width318 {
+    width: 318px !important;
+   }
+   *[class].width320 {
+    width: 320px !important;
+   }
+   *[class].width49 {
+    width: 49% !important;
+   }
+   *[class].width-100-pct {
+    width: 100% !important;
+   }
+   /*heights*/
+   *[class].height15 {
+    height: 15px !important;
+   }
+   *[class].height54 {
+    height: 54px !important;
+   }
+   *[class].height87 {
+    height: 87px !important;
+   }
+   *[class].height92 {
+    height: 92px !important;
+   }
+   *[class].height94 {
+    height: 94px !important;
+   }
+   /*margins*/
+   *[class].marginl5 {
+    margin-left: 5px !important;
+   }
+   *[class].marginl10 {
+    margin-left: 10px !important;
+   }
+   *[class].marginr10 {
+    margin-right: 10px !important;
+   }
+   *[class].marginl103 {
+    margin-left: 103px !important;
+   }
+   /*padding*/
+   *[class].paddingb0 {
+    padding-bottom: 0px !important;
+   }
+   *[class].paddingb10 {
+    padding-bottom: 10px !important;
+   }
+   *[class].paddingb20 {
+    padding-bottom: 20px !important;
+   }
+   *[class].paddingt10 {
+    padding-top: 10px !important;
+   }
+   *[class].paddingt20 {
+    padding-top: 20px !important;
+   }
+   *[class].paddingr10 {
+    padding-right: 10px !important;
+   }
+   *[class].paddingr65 {
+    padding-right: 65px !important;
+   }
+   *[class].paddingr8 {
+    padding-right: 8px !important;
+   }
+   *[class].paddingr0 {
+    padding-right: 0px !important;
+   }
+   *[class].paddingl10 {
+    padding-left: 10px !important;
+   }
+   *[class].paddingl20 {
+    padding-left: 20px !important;
+   }
+   *[class].paddingl42 {
+    padding-left: 42px !important;
+   }
+   *[class].paddingl72 {
+    padding-left: 72px !important;
+   }
+   *[class].paddingl78 {
+    padding-left: 78px !important;
+   }
+   *[class].paddingl103 {
+    padding-left: 103px !important;
+   }
+   *[class].paddingl0 {
+    padding-left: 0px !important;
+   }
+   *[class].paddingl5 {
+    padding-left: 5px !important;
+   }
+   *[class].paddingt5 {
+    padding-top: 5px !important;
+   }
+   *[class].paddingb5 {
+    padding-bottom: 5px !important;
+   }
+   *[class].paddinglr40 {
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+   }
+   *[class].paddinglr10 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+   }
+   
+   /* Font classes based on attribute in typography branding DE 
+      Sizes are for mobile i.e. .hero-banner = H1FontSizeMobile */
+   *[class].hero-banner {
+    font-size: 24px !important;
+    line-height: 32px !important;
+   }
+   *[class].subheader {
+    font-size: 19px !important;
+    line-height: 24px !important;
+   }
+   *[class].body-copy1 {
+    font-size: 19px !important;
+    line-height: 24px !important;
+   }
+   *[class].body-copy2 {
+    font-size: 15px !important;
+    line-height: 20px !important;
+   }
+   *[class].body-copy3 {
+    font-size: 12px !important;
+    line-height: 16px !important;
+   }
+   
+   /*fonts*/
+   *[class].font44 {
+    font-size: 44px !important;
+    line-height: 48px !important;
+   }
+   *[class].font32 {
+    font-size: 32px !important;
+    line-height: 36px !important;
+   }
+   *[class].font24 {
+    font-size: 24px !important;
+    line-height: 32px !important;
+   }
+   *[class].font19 {
+    font-size: 19px !important;
+    line-height: 24px !important;
+   }
+   *[class].font15 {
+    font-size: 15px !important;
+    line-height: 20px !important;
+   }   
+   *[class].font12 {
+    font-size: 12px !important;
+    line-height: 16px !important;
+   }
+   /* button font sizes - do not change line-height */
+   *[class].button-font44 {
+    font-size: 44px !important;
+   }
+   *[class].button-font32 {
+    font-size: 32px !important;
+   }
+   *[class].button-font24 {
+    font-size: 24px !important;
+   }
+   *[class].button-font19 {
+    font-size: 19px !important;
+   }
+   *[class].button-font15 {
+    font-size: 15px !important;
+   }   
+   *[class].button-font12 {
+    font-size: 12px !important;
+   } 
+   
+   *[class].font13 {
+    font-size: 13px !important;
+   }
+   *[class].font14 {
+    font-size: 14px !important;
+   }
+   *[class].font16 {
+    font-size: 16px !important;
+   }
+   *[class].font18 {
+    font-size: 18px !important;
+   }
+   *[class].font20 {
+    font-size: 20px !important;
+   }
+   /*images-this image needs to be hosted and the path of the image needs to be updated*/
+   *[class].lh22 {
+    line-height: 22px !important;
+   }
+   *[class].secondary3:after {
+    content: "Where does this show up?Lorem ipsum.";
+   }
+   /*float*/
+   *[class].flr {
+    float: left !important;
+   }
+   /*PixelPops added this */
+   img {
+    max-width: 100%;
+    height: auto;
+   }
+   td.text {
+    font-size: 100%;
+   }
+   *[class].textc {
+    margin-left: 29px !important;
+    border: none !important;
+   }
+   *[class].widthChange284 {
+    width: 275px !important;
+   }
+   *[class].padding_15 {
+    padding: 15px !important;
+   }
+   *[class].width298_fix {
+    width: 207px !important;
+   }
+   *[class].align_fix {
+    padding-left: 29px !important;
+   }
+   *[class].padding_66 {
+    padding-left: 52px !important;
+   }
+   body[yahoo] .container {
+    width: 320px !important;
+    height: auto !important;
+   }
+   body[yahoo] .full-width {
+    width: 100% !important;
+    height: auto !important;
+   }
+   body[yahoo] .width-300 {
+    width: 300px !important;
+    height: auto !important;
+   }
+   body[yahoo] .width-33pct {
+    width: 33% !important;
+    height: auto !important;
+   }
+   body[yahoo] .hideme {
+    display:none !important;
+    margin:0
+   }
+   *.hideme{display:none !important;}
+   body[yahoo] .showme {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: visible !important;
+    width: auto !important;
+    max-height: inherit !important;
+    height: auto !important;
+   }
+   body[yahoo] .drop {
+    width: 100% !important;
+    float: left !important;
+   }
+   body[yahoo] .drop-no-resize {
+    display: block !important;
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   }
+   body[yahoo] .border-box {
+    box-sizing: border-box !important;
+    -moz-box-sizing: border-box !important;
+    -webkit-box-sizing: border-box !important;
+    -ms-box-sizing: border-box !important;
+   }
+   body[yahoo] .remove-padding {
+    padding: 0px !important;
+   }
+   body[yahoo] .padding-10-sides {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+   }
+   body[yahoo] .padding-15-sides {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+   }
+   body[yahoo] .center {
+    text-align: center !important;
+   }
+   body[yahoo] img.center {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   }
+   body[yahoo] table.center {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+   }
+   body[yahoo] img {
+    max-width: 100% !important;
+   }
+   /*Styles specific to Header */
+   body[yahoo] .logo-padding {
+    width: 195px !important;
+    padding-left: 10px !important;
+    padding-right: 20px !important;
+   }
+   body[yahoo] .logo-resize {
+    width: 165px !important;
+    height: auto !important;
+   }
+   body[yahoo] .icons-resize {
+    width: 125px !important;
+    height: auto !important;
+   }
+   body[yahoo] .icons-padding {
+    padding: 5px 0px 5px 0px !important;
+   }
+   body[yahoo] .width-50 {
+    width: 50px !important;
+   }
+   body[yahoo] .width-75 {
+    width: 75px !important;
+   }
+  }
+  </style>
+  <!--[if mso]>     <style type="text/css">      body, div, h1, h2, h3, h4, table, table tr, table td, td, ul, ol, li, a, p, span {      font-family: Arial, Helvetica, sans-serif !important; text-align: left;      }      .body-text {      font-family: Arial, Helvetica, sans-serif !important;      }     </style>    <!--[endif]-->
+ </head>
+ <body style="margin:0px; padding:0px; font-family: Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #393A3D; font-size: 15px; line-height: 20px" yahoo="fix"><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;"></div>
+  <div style="background-color: #F4F5F8; width: 100%;">
+   <div role="banner">
+   <table border="0" cellpadding="0" cellspacing="0" width="600" class="width300" align="center">
+    <tr>
+     <td class="" align="center" bgcolor="#F4F5F8" style="background-color: #F4F5F8;">
+     <!-- wrapper for logo & sign in button -->
+      
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300" style="border-bottom: 4px solid #2CA01C;">
+       <tr>
+        <td class="" style="text-align: left">
+         <!-- Header Zone 1 -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"> 
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="55" align="left" class="padding-bottom-sm"><a href="https://click.notifications.intuit.com/?qs=a0ba6be53c7ed535a776266215d0fedc16721c171ab6e586ad66cf5fb57d1cb1068df6e3f1deb7d5b2c8628a06796f6924436ffe5cc3d3b5"  style="color:#ffffff; text-decoration:none;">
+  <img height="45" border="0" class="paddingt10" src="http://image.notifications.intuit.com/lib/fef01d75716203/i/1/567d3ab3-d.gif" alt="QuickBooks logo" style="display:block; border:0;" /></a>
+ </td>
+   
+  </tr>
+</table>
+
+
+</td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+   </div>
+   <div role="main">
+   <table border="0" cellpadding="0" cellspacing="0" width="600" class="width300" align="center">
+    <tr>
+     <td bgcolor="#FFFFFF" class="" align="center" style="background-color: #FFFFFF;">
+     <!-- wrapper for Hero - Zone 2 & 3 -->
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300">
+       <tr>
+        <td class="padding-left-sm padding-right-sm" style="text-align: left; padding: 20px">
+         <!-- Zone 3 Message Intent and Summary -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+
+
+<table width="100%" cellspacing="0" cellpadding="0" border="0">  
+    <tr>  
+        <td colspan="2" style="padding-top: 20px;" class="padding-top-sm">  
+<table cellspacing="0" cellpadding="0" border="0">  
+                <tr><td style="vertical-align: top; padding-right: 8px;">  
+                    <img src="http://image.notifications.intuit.com/lib/fef01d75716203/i/1/bae1e435-5.gif" alt="Alert icon">  
+                </td>  
+                <td style="vertical-align: middle">  
+  
+                    <h1 class="font24" style="font-family: 'Geogrotesque Medium', Tahoma, 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 0 0 20px 0; font-size: 24px; line-height: 32px; font-weight: normal;">Subscription canceled</h1>  
+</td>  
+            </tr></table>  
+  
+        </td>  
+    </tr>  
+</table>  
+<table width="100%" cellspacing="0" cellpadding="0" border="0">  
+    <tr>  
+        <td style="vertical-align: top">  
+            <table class="width-100-pct" width="260" cellspacing="0" cellpadding="0" border="0" align="left">  
+                <tr>  
+                    <td>  
+                        <h2 style="font-family: Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif; margin: 8px 0; font-size: 19px; line-height: 24px;">Christopher Beverley, your subscription was canceled at your request.</h2>  
+                    </td>  
+                </tr>  
+            </table>  
+            <!--[if gte mso 9]>                               </td>                   <td style="vertical-align: top">   <[endif]-->      
+            <table class="width-100-pct" width="260" cellspacing="0" cellpadding="0" border="0" align="right">  
+                <tr>  
+                    <td>  
+                        <table>  
+                            <tr>  
+                                <td style="padding: 20px; color: #393A3D; border: 1px solid #393A3D; background-color: #ECEEF1;">  
+<strong>Subscription canceled:
+ </strong> 
+    
+    QuickBooks Self-Employed    
+    <br>
+    
+    
+    <strong>Cancellation date:</strong> <span class="applelinksBlack">07/19/2020</span><br>
+    
+                                </td>  
+                            </tr>  
+                        </table>  
+                    </td>  
+                </tr>  
+            </table>  
+        </td>  
+    </tr>  
+</table>  
+</td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    <tr>
+     <td bgcolor="#FFFFFF" align="center" style="background-color: #FFFFFF;">
+     <!-- wrapper for Zone 4 -->
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300">
+       <tr>
+        <td class="padding-left-sm padding-right-sm" style="text-align: left; padding: 20px">
+         <!-- Zone 4 Next Steps CTA -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" align="left"> 
+<tr> 
+<td>
+    
+    If you change your mind, it's easy to resubscribe.<br><br>
+        
+      
+   
+
+
+ 
+ 
+  </td></tr></table>
+  
+<table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+  <tr> 
+    <td align="center"> 
+      <table cellspacing="0" cellpadding="0" border="0" align="center"> 
+        <tr> 
+          <td style="-webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px;" bgcolor="#FF6A00" align="center"> 
+               
+              <a href="https://click.notifications.intuit.com/?qs=99e016da13330ba615d6170334a4cace352ef9b367c0c683a988c7cf10d7a4657cdd328af82a7740ee211b1a22841c40c3847571e23569f2"  target="_blank" class="font19 padding-top-sm padding-bottom-sm" style="font-size:19px; color: #ffffff; text-decoration: none; text-decoration: none;  padding: 12px 18px; border: 0px solid; display: inline-block; background-color:#FF6A00; border-radius:8px;">
+     Resubscribe
+     </a>  
+  
+            </td> 
+        </tr> 
+      </table> 
+    </td> 
+  </tr> 
+</table> 
+  
+<br>
+<!-- QBSE check -->
+
+<!-- End QBSE check -->
+
+
+
+<!-- Start Conditional what happens next -->
+<!-- Not shown for AddOn Only -->
+<!-- ** Shown for Direct Debit Payment Failure : previously not shown until June 2018 update ** -->
+
+  
+
+ 
+ 
+
+<!-- GDPR info for UK only (not ROE) */ -->
+  
+  <!-- End GDPR info */ -->
+
+  
+ 
+ 
+</td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    
+    <tr>
+     <td bgcolor="#FFFFFF" align="center" style="background-color: #FFFFFF;">
+     <!-- wrapper for Zone 5 -->
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300">
+       <tr>
+        <td class="padding-left-sm padding-right-sm" style="text-align: left; padding: 20px">
+         <!-- Zone 5 Transaction Details -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><h2 style="text-align:left; font-size: 24px; color: #2CA01C; line-height: 32px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" class="left paddingb0 font24">Account details</h2>
+  <table width="100%" border="0">
+    <tr>
+  <td class="font15" style="font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="50%" valign="top" align="left"><strong>
+Subscription canceled:
+ </strong> </td>
+  <td class="font15" style="font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="50%" valign="top" align="left">
+  QuickBooks Self-Employed<br>
+    
+  </td>
+ </tr>
+ 
+  
+  
+ 
+ <tr>
+  <td class="font15" style="font-weight:bold; font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="50%" valign="top" align="left">Company ID ending: 
+  </td>
+  <td class="font15" style="font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="50%" valign="top" align="left">
+  8829
+  </td>
+ </tr>
+  <tr>
+  <td class="font15" style="font-weight:bold; font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="50%" valign="top" align="left">
+  Company name:
+  </td>
+  <td class="font15" style="font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif; word-break: break-all;" width="50%" valign="top" align="left">
+  Christopher Beverley
+  </td>
+ </tr>
+ 
+ <tr>
+  <td class="font15" style="font-weight:bold; font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif;" width="50%" valign="top" align="left">
+  Billing address:
+  </td>
+  <td class="font15" style="font-size:15px; line-height: 20px; font-family:Avenir, 'Helvetica Neue', Helvetica, Arial, sans-serif; word-break: break-all;" width="50%" valign="top" align="left">
+  <span class="applelinksBlack">234 SW Honeycomb Ct</span><br>
+  
+  
+  </span></span></td>
+ </tr>
+</table>
+
+
+</td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    
+   </table>
+   </div>
+   <div role="complementary">
+   <table border="0" cellpadding="0" cellspacing="0" width="600" class="width300" align="center">
+    
+    <tr>
+     <td bgcolor="#FFFFFF" align="center" style="background-color: #FFFFFF;">
+     <!-- wrapper for Zone 7 -->
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300">
+       <tr>
+        <td class="padding-left-sm padding-right-sm" style="text-align: left; padding: 20px">
+         <!-- Zone 7 Customer Support -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+ <tr>
+  <td valign="top" align="center">
+   <table cellspacing="0" cellpadding="0" align="center">
+    <tr>
+     <td style="padding-right: 8px" width="30%" valign="middle" align="center">
+      <a href="https://click.notifications.intuit.com/?qs=a0ba6be53c7ed535b5db117e8d90e72a397793e2567b68b39a53b22c27026cd5c3901a74a158dfcbf23ae6b33c86bb52424c7b8232739778" ><img src="http://image.notifications.intuit.com/lib/fef01d75716203/i/1/1099e59f-0.gif" alt="Help icon" valign="middle" align="middle"></a>
+     </td>
+     <td style="text-align: left; vertical-align: top" width="60%">
+      <h3 class="font15" style="font-size: 19px; color: #2CA01C; margin-bottom: 8px;">Questions or concerns?</h3>
+      <a href="https://click.notifications.intuit.com/?qs=a0ba6be53c7ed535b5db117e8d90e72a397793e2567b68b39a53b22c27026cd5c3901a74a158dfcbf23ae6b33c86bb52424c7b8232739778"  style="color: #0077C5;">Visit customer support.</a>
+       
+
+
+
+       
+     </td>
+    </tr>
+   </table>
+  </td>
+  </tr>
+    
+</table></td></tr></table></td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+    
+    
+    <tr>
+     <td bgcolor="#FFFFFF" align="center" style="background-color: #FFFFFF;">
+     <!-- wrapper for Footer -->
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300">
+       <tr>
+        <td class="padding-left-sm padding-right-sm" style="text-align: left; padding: 20px">
+         <!-- Zone 8 Footer -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center" style="vertical-align: top; text-align: center;">
+      <table width="503" valign="top" class="width-100-pct" border="0" cellpadding="0" cellspacing="0" align="center">
+       <tr>
+          <td align="center" valign="top">
+            <a href="https://click.notifications.intuit.com/?qs=a0ba6be53c7ed5350330f3dfce4e497eed7c8c0d7a5dfcc10448ddc2f543d7101f2d5e772dee81f611d324032658190658db02ff31c16a93"  style="color:#ffffff; text-decoration:none;"><img width="503" src="https://image.notifications.intuit.com/lib/fef01d75716203/m/1/fd85ae2c-cce8-4249-a828-27b4822df73e.png" alt="Brand logos"></a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</td></tr></table></td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </tr>
+   </table>
+   </div>
+   <div role="contentinfo">
+   <table border="0" cellpadding="0" cellspacing="0" width="600" class="width300" align="center">
+    <tr>
+     <td bgcolor="#F4F5F8" align="center" style="background-color: #F4F5F8;">
+     
+     <!-- wrapper for Footer End -->
+      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" class="width300">
+       <tr>
+        <td class="padding-left-sm padding-right-sm" style="text-align: left; padding: 20px">
+         <!-- Zone 8 Footer End -->
+         <table cellpadding="0" cellspacing="0" width="100%" style="min-width: 100%; " class="stylingblock-content-wrapper"><tr><td class="stylingblock-content-wrapper camarker-inner"><table style="min-width: 100%; " class="stylingblock-content-wrapper" width="100%" cellspacing="0" cellpadding="0"><tr><td class="stylingblock-content-wrapper camarker-inner"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td class="" style="color: #393A3D; font-size: 12px; line-height: 16px" align="left">
+    <a class="hideme" href="https://view.notifications.intuit.com/?qs=5c55b033bcf7d23c5d18c846f8a47e6a62fc5c3a5c25ea00e9d1bccad788fdf07d2d4b55e8a4ae306be241158b548935f7b9e342c7e3c41b" alias="View on web." style="font: 12px Arial, Helvetica, sans-serif; line-height:19px; color:#0098cd;">View on web.</a> <br /> <br /> You have received this business communication as part of our efforts to fulfill your request or service your account. You will receive this and other business communications from us even if you have opted out of marketing messages. All dates and times are Pacific Standard Time (PST).<br /> <br /> Read Intuit's <a href="https://www.intuit.com/legal/" target="_blank" alias="Legal notice - en_US - 100 - https://www.intuit.com/legal/" style="font: 12px Arial, Helvetica, sans-serif; line-height:19px; color:#0098cd;">Legal notice</a>. <br/><br/>
+<a href="https://security.intuit.com/index.php" target="_blank" alias="Security - en_US - 100 - https://security.intuit.com/index.php" style="font: 12px Arial, Helvetica, sans-serif; line-height:19px; color:#0098cd;">Security</a> - <a href="https://security.intuit.com/privacy" target="_blank" alias="Privacy statement - en_US - 100 - https://security.intuit.com/privacy" style="font: 12px Arial, Helvetica, sans-serif; line-height:19px; color:#0098cd;">Privacy statement</a> - <a href="	https://qbo.intuit.com/Terms_Of_Service.html" target="_blank" alias="Privacy statement - en_US - 100 - 	https://qbo.intuit.com/Terms_Of_Service.html" style="font: 12px Arial, Helvetica, sans-serif; line-height:19px; color:#0098cd;">Terms of Service</a><br/><br/><span class="applelinksBlack">© 2020 Intuit Inc. All rights reserved.</span> 
+<a href="https://www.intuit.com/legal/trademark/" target="_blank" alias="Trademarks - en_US - 100 - https://www.intuit.com/legal/trademark/" style="font: 12px Arial, Helvetica, sans-serif; line-height:19px; color:#0098cd;">Trademarks</a>. <br/><span class="applelinksBlack">Intuit Inc. <span class="applelinksBlack">2800 E. Commerce Center Place, Tucson, AZ 85706</span></span> <Br /> <br /><br>
+   <span style="color: #F4F5F8; font-size: 10px;">ETC_oBill_Cancellation_100_QuickBooks Online_en_US_US_USD
+
+<br>bbffcf34-5f57-4ee9-ab4f-705203ca1e02
+<br></span>
+  </td>
+ </tr>
+</table></td></tr></table></td></tr></table></td>
+       </tr>
+      </table>
+     </td>
+    </td></tr>
+   </table>
+   </div>
+   <img src="https://click.notifications.intuit.com/open.aspx?ffcb10-fefa1272736007-fe271574726c0579721173-fef01d75716203-ff8e1d78-fe2b15747c650079721072-ff68167474" width="1" height="1">
+  </custom></div>
+ </body>
+</html>
+
+--ddEImefULGRS=_?:--
+

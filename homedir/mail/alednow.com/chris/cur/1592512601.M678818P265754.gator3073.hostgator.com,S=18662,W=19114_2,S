@@ -1,0 +1,452 @@
+Return-Path: <billpay@cesbillpay.com>
+Delivered-To: Chris@ALEDNow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id GJ9XKFnQ614aDgQAi5QuQQ
+	(envelope-from <billpay@cesbillpay.com>)
+	for <Chris@ALEDNow.com>; Thu, 18 Jun 2020 15:36:41 -0500
+Return-path: <billpay@cesbillpay.com>
+Envelope-to: Chris@ALEDNow.com
+Delivery-date: Thu, 18 Jun 2020 15:36:41 -0500
+Received: from mail-eopbgr760137.outbound.protection.outlook.com ([40.107.76.137]:26779 helo=NAM02-CY1-obe.outbound.protection.outlook.com)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <billpay@cesbillpay.com>)
+	id 1jm1H7-0018lC-Hh
+	for Chris@ALEDNow.com; Thu, 18 Jun 2020 15:36:41 -0500
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=KFw7CyW4POkiRWBTA44yw5sexd33SnFW/ZvhiOt6tHiU1jbanZ8DPU/8DjeQ62hFPznf7XLBZEE26EdvHNdnFMeiJLmV7GHK8cM6pGMbqg9teae+CGZUtxBIv1Joc0hbqVg+3IFpaYjQmish+crSWpgDNJ6l7ypCpJDBt4xtTRmTUAK6z5AH1A0JpylC2y3/HbJfWhDm4kPEK2XTCmchEAI9QlreR6BDLGfWjGcOdDkMzUiXieAUe3JE0JPfYqeT+mF3mIHgfvSAYkx9QM43lLsBjXuN82bKqRqRqowYf5mY40VeoQmQJCZAf/YbdnnEXplis33J91U2pnHEj+ub0A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=n4BudDx3iiXEMvKNJMKY20MiiQ2cAe3zIbDvLqL4K9g=;
+ b=g1PZnqMM/LpZw8NHjcxqi+B/1Yq9p//iOIKTpqFRxV2gnNorDtUz0zMkFNXq/ZBpSXpDlHDYJIciF9Z0yXtyyFc7bjePA8tlH9n/gDltLZ3fCfiaZSJgRjQ4v0p6y+fEazz/Xd7xniXXl2I0zpQAOwcrN8Q/pQbAOduIM7xoUTWMKSTmse8awEtNXwFHezDFUTntym4j4EK4Bd3RU5IxTsPZVcf+jmfAPnsjiueIeY+kjgBQTj+yDwrabDLgsY0nKORa93mTCioibKPobzIz1DZiHc6YUgt78u2z/Fq61pVd1MOmtLV+ruB7grsRa6McHRCaCbS+54+cyIr4oJo2aA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=cesbillpay.com; dmarc=pass action=none
+ header.from=cesbillpay.com; dkim=pass header.d=cesbillpay.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=NETORG676616.onmicrosoft.com; s=selector2-NETORG676616-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=n4BudDx3iiXEMvKNJMKY20MiiQ2cAe3zIbDvLqL4K9g=;
+ b=L59SK32xjdAltgfyXuCUBhQXWHWER7muhpTmZnTklOp5wb/WEMJLHVQBPKU3CkEgygi7a5sTq8Ram7ViVOIqNANudzvneIKNQM1awpv/0c/2l1jISlJgI3U1RP2tY0g+Ym/VrSWI4n+zaFwJVo9Ms95xj7RKPgpncY6Q6qIARzI=
+Authentication-Results: ALEDNow.com; dkim=none (message not signed)
+ header.d=none;ALEDNow.com; dmarc=none action=none header.from=cesbillpay.com;
+Received: from MN2PR12MB4535.namprd12.prod.outlook.com (2603:10b6:208:267::20)
+ by MN2PR12MB3837.namprd12.prod.outlook.com (2603:10b6:208:166::30) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3109.22; Thu, 18 Jun
+ 2020 20:36:28 +0000
+Received: from MN2PR12MB4535.namprd12.prod.outlook.com
+ ([fe80::e83f:f608:75de:554d]) by MN2PR12MB4535.namprd12.prod.outlook.com
+ ([fe80::e83f:f608:75de:554d%5]) with mapi id 15.20.3109.021; Thu, 18 Jun 2020
+ 20:36:28 +0000
+From: BillPay@cesbillpay.com
+To: Chris@ALEDNow.com
+Date: 18 Jun 2020 16:36:15 -0400
+Subject: CES Online - Web Contact Request Confirmation
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-ClientProxiedBy: MN2PR05CA0019.namprd05.prod.outlook.com
+ (2603:10b6:208:c0::32) To MN2PR12MB4535.namprd12.prod.outlook.com
+ (2603:10b6:208:267::20)
+Message-ID:
+ <MN2PR12MB4535544E6AD112BE5E25E4A0C09B0@MN2PR12MB4535.namprd12.prod.outlook.com>
+MIME-Version: 1.0
+X-MS-Exchange-MessageSentRepresentingType: 1
+Received: from 681641-web3 (104.130.58.215) by MN2PR05CA0019.namprd05.prod.outlook.com (2603:10b6:208:c0::32) with Microsoft SMTP Server (version=TLS1_0, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA) id 15.20.3109.10 via Frontend Transport; Thu, 18 Jun 2020 20:36:28 +0000
+X-Originating-IP: [104.130.58.215]
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: dfea3cec-c26e-4a2e-a191-08d813c746e5
+X-MS-TrafficTypeDiagnostic: MN2PR12MB3837:
+X-Microsoft-Antispam-PRVS:
+	<MN2PR12MB38374C9195B87A850D363A69C09B0@MN2PR12MB3837.namprd12.prod.outlook.com>
+X-MS-Oob-TLC-OOBClassifiers: OLM:10000;
+X-Forefront-PRVS: 0438F90F17
+X-MS-Exchange-SenderADCheck: 1
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info:
+	rWSfhiAG61/6+Qo5jECJHjFMVOKL96j2/D8bq83jef9iuSNTGv4U4ZyFEa/Of4UiBX0CCaLgF5JQwTmqqL+RpQ3EG56pDOEdAXEYHoBsJqjxOZKsGLOPV1Q3nYK9eTHEPBGAf/5cyIR//mZZdM1eYrzBs+IEUvs4OY0n1SbaB170DazqVvHWEk1LQFBhAkBhFbrh1DlPsxvfyeYuyHWsyOAwm7NAiAfp5/OayRWZ6QQSbbxIIVAhZA9WBGjDbrYw8Etks3+d66jqiag8OJJMoc8wTq++BQWZXpOPoE69uX71Wrpco59ww7EDOp3AH6N+Yf45stPBJXGnSRguGeZhAbmN0i9SGQUCUxXW+XSbUlEr7ONAtl3F4jpqlpbMWgDY50HC+jHMyQutAn+lkztfnQ==
+X-Forefront-Antispam-Report:
+	CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN2PR12MB4535.namprd12.prod.outlook.com;PTR:;CAT:NONE;SFTY:;SFS:(346002)(366004)(376002)(396003)(136003)(39850400004)(83380400001)(4744005)(478600001)(19630485002)(9686003)(52116002)(5660300002)(6666004)(66946007)(19627405001)(66556008)(316002)(86362001)(66476007)(52536014)(6496006)(6486002)(186003)(16526019)(26005)(8676002)(2906002)(33656002)(8936002)(6916009)(956004)(166002);DIR:OUT;SFP:1102;
+X-MS-Exchange-AntiSpam-MessageData:
+	HjyaJVh4FQIRl6yu5U3enFIe2RqRFoCmK8N5q576NP1zX/OZoFeYxC7gfj1Iy8NbKxfdenGoirjPZ3XhBdkISDvJuxXjHd6lEDUys4NDfPSPjymFj5K9q2b2ZGqawdz+cml7frqh27tmZuUy6prONadUHQU5BAXbjlPFQlTvT9a7Tg4ltO1+DvTU27AevDcSXtVCsQqDqmPK9gHLJ+uzDzXlOD8hiulCzdcBfe2+ErFXMdAP23yFkfW1YtcdDtXYGGdDgYttp1lQPhHQ3QAcKk+UDiE7zcVAN8R6WSPyybyv65AFM/EApT3BV8TmvXzSFvcZL67ItOMXgI2pLas0zf8DwqS+WThnRK52o+V1DQigD+WKb0o46ZD9UlP8gSHdy/4ofx/AqswjK8/IJNpCLXXqOg00zG42zG653j2X60UVSdd3hZtXKKCQUv12mtPta1Z82WayLX3L1dbjYAXV6jo3vMR4HS0WMou6Y4lM9I8RfUoeDP3WhVVPPTGZR5+w
+X-OriginatorOrg: cesbillpay.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: dfea3cec-c26e-4a2e-a191-08d813c746e5
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 18 Jun 2020 20:36:28.2585
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: f465bec7-5b59-4428-9216-2a3d58ddf174
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: 6ThZid81i3vD2Vbec0mhV3OOv7tdqlhvYdLRPdB7AYGlx5Fkgp5ThC6gSCeTzneSX7wpnIzrsDCZvBoxe8vLNQ==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR12MB3837
+
+<!-- HTML Block 01 : BEGIN --><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 =
+Transitional //EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd=
+"><html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+		<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+		<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+	=09
+		<title>City Electric Supply</title>
+	=09
+		<!-- CSS Reset -->
+		<style type=3D"text/css">
+			html, body {
+			margin: 0 !important;
+			padding: 0 !important;
+			height: 100% !important;
+			width: 100% !important;
+			}
+		=09
+			/* Outlook 07-13 Visited Link Color Fix */
+			span.MsoHyperlink {
+				mso-style-priority: 99;
+				color: inherit;
+			}
+	=09
+			span.MsoHyperlinkFollowed {
+				mso-style-priority: 99;
+				color: inherit;
+			}
+=09
+			/* Stops email clients resizing small text. */
+			* {
+				-ms-text-size-adjust: 100%;
+				-webkit-text-size-adjust: 100%;
+			}
+=09
+			/* Forces Outlook.com to display emails full width. */
+			.ExternalClass {
+				width: 100%;
+			}
+=09
+			/* Centers email on Android 4.4 */
+			div[style*=3D'margin: 16px 0'] {
+				margin: 0 !important;
+			}
+=09
+			/* Stops Outlook from adding extra spacing to tables. */
+			table, td {
+				mso-table-lspace: 0pt !important;
+				mso-table-rspace: 0pt !important;
+			}
+=09
+			/* Fixes webkit padding issue. Fix for Yahoo mail table alignment bug. A=
+pplies table-layout to the first 2 tables then removes for anything nested =
+deeper. */
+			table {
+				border-spacing: 0 !important;
+				border-collapse: collapse !important;
+				table-layout: fixed !important;
+				margin: 0 auto !important;
+			}
+=09
+			table table table {
+				table-layout: auto;
+			}
+=09
+			/* Uses a better rendering method when resizing images in IE. */
+			img {
+				-ms-interpolation-mode: bicubic;
+			}
+=09
+			/* Overrides styles added when Yahoo's auto-senses a link. */
+			.yshortcuts a {
+				border-bottom: none !important;
+			}
+=09
+			/* Work-around for iOS meddling in triggered links. */
+			a[x-apple-data-detectors] {
+				color: inherit !important;
+			}
+		</style>
+	=09
+		<!-- Progressive Enhancements -->
+		<style type=3D"text/css">
+		=09
+			/* Hover styles for buttons */
+			.button-td,  .button-a {
+				transition: all 100ms ease-in;
+			}
+	=09
+			.button-td:hover,  .button-a:hover {
+				background: #B30426 !important;
+				border-color: #B30426 !important;
+			}
+	=09
+			/* Media Queries */
+			@media screen and (max-width: 600px) {
+				.email-container {
+					width: 100% !important;
+				}
+			=09
+				/* Forces elements to resize to the full width of their container. Usef=
+ul for resizing images beyond their max-width. */
+				.fluid,  .fluid-centered {
+					max-width: 100% !important;
+					height: auto !important;
+					margin-left: auto !important;
+					margin-right: auto !important;
+				}
+			=09
+				/* And center justify these ones. */
+				.fluid-centered {
+					margin-left: auto !important;
+					margin-right: auto !important;
+				}
+
+				/* Forces table cells into full-width rows. */
+				.stack-column,  .stack-column-center {
+					display: block !important;
+					width: 100% !important;
+					max-width: 100% !important;
+					direction: ltr !important;
+				}
+			=09
+				/* And center justify these ones. */
+				.stack-column-center {
+					text-align: center !important;
+				}
+
+			=09
+				/* Generic utility class for centering. Useful for images, buttons, and=
+ nested tables. */
+				.center-on-narrow {
+					text-align: center !important;
+					display: block !important;
+					margin-left: auto !important;
+					margin-right: auto !important;
+					float: none !important;
+				}
+			=09
+				table.center-on-narrow {
+					display: inline-block !important;
+				}
+			}
+		=09
+			.headertext {
+				padding: 20px 0;
+				text-align: center;
+				background: #333333;
+				text-transform: uppercase;
+				font-family: 'Arial';
+				letter-spacing: .7em;
+				color: #fff;
+				font-weight: bold;
+				border-bottom: solid 8px #C60C30;
+				font-size: 1em;
+			}
+		=09
+			@media only screen and (max-width: 600px) {
+				.headertext {
+					font-size: .8em;
+				}
+			}
+		</style>
+	</head>
+=09
+	<body bgcolor=3D"#e0e0e0" width=3D"100%" style=3D"margin: 0; padding: 10px=
+ 0" yahoo=3D"yahoo">
+		<br>
+	=09
+		<table bgcolor=3D"#e0e0e0" cellpadding=3D"0" cellspacing=3D"0" border=3D"=
+0" height=3D"100%" width=3D"100%" style=3D"border-collapse:collapse;">
+			<tr>
+				<td>
+					<center style=3D"width: 100%;">
+					=09
+						<!-- Visually Hidden Preheader Text : START -->
+						<div style=3D"display:none;font-size:1px;line-height:1px;max-height:0=
+px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: Arial;=
+">City Electric Supply</div>
+					=09
+						<!-- Visually Hidden Preheader Text : END -->
+					=09
+						<!-- Email Header : BEGIN -->
+						<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cent=
+er" bgcolor=3D"#ffffff" width=3D"600" class=3D"email-container">
+							<tr>
+								<td>
+									<a href=3D"https://cityelectricsupply.com/" target=3D"_blank" styl=
+e=3D"text-decoration: none;"> <img src=3D"https://cityelectricsupply.com/im=
+ages/email/CES_header.png" width=3D"600" height=3D"84"> </a>
+								</td>
+							</tr>
+						</table>
+					=09
+						<!-- Email Header : END -->
+					=09
+						<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cent=
+er" bgcolor=3D"#ffffff" width=3D"600" class=3D"email-container">
+						=09
+<!-- HTML Block 01 : END -->
+
+<!-- HTML Block 02 : BEGIN -->
+<!-- Email Body : BEGIN -->
+<tr>
+	<td align=3D"center" style=3D"padding: 1em 2em; font-family: Arial; font-s=
+ize: .8em; color: #383838;">
+		<h1 style=3D"font-size: 2.5em;">Web Contact Request Confirmation</h1>
+
+		<p style=3D"font-size: 1.3em; padding: 0 1em;">A City Electric Supply emp=
+loyee will be reaching out=20
+		to you shortly as you have requested through the contact us button. We ap=
+preciate your patience.=20
+		For any immediate assistance, please call your local branch. Their number=
+ can be found online at=20
+		our <a style=3D"text-decoration: none;color: #C60C30;" href=3D"https://ww=
+w.cityelectricsupply.com/branchlocator">Branch Locator</a>, or via the <a s=
+tyle=3D"text-decoration: none;color: #C60C30;" href=3D"https://www.cityelec=
+tricsupply.com/PayBill//home/mobileapp">CES Mobile App.</a> </p>
+
+		<p style=3D"font-size: 1.3em; padding: 0 1em;">Thank you,<br><b>City Elec=
+tric Supply</b></p>
+	</td>
+</tr>
+<!-- Email Body : END -->
+<!-- HTML Block 02 : END -->
+					=09
+					=09
+					=09
+					=09
+					=09
+<!-- HTML Block 03 : BEGIN -->
+							<!-- Email FOOTER : BEGIN -->
+							<tr>
+								<td>
+									<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"c=
+enter" bgcolor=3D"#ffffff" width=3D"600" class=3D"email-container" style=3D=
+"font-family: Arial; font-size: .8em; color: #383838;">
+										<tr>
+											<td align=3D"center" style=3D"padding: 1.0em"><hr style=3D"displ=
+ay: block; height: 1px; border: 0; border-top: 1px solid #F2F2F2; margin: 1=
+em 1em;">
+												<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" height=
+=3D"100%" width=3D"100%">
+													<tr>
+														<td align=3D"center" style=3D"background: #F2F2F2; padding: 1=
+.0em;font-family: Arial; font-size: 1.3em;">
+															If you have any questions or concerns, please contact Custom=
+er Support <a style=3D"font-weight: 700; color: #333333; display:inline-blo=
+ck; text-decoration: none;" href=3D"tel:&#43;1-866-634-9853">866-634-9853</=
+a>. We are available between 6am to 5pm CST, weekdays.
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									=09
+										<tr>
+											<td align=3D"center" style=3D"padding: 1.0em">
+											  <a href=3D"https://cityelectricsupply.com/aboutus.aspx" target=
+=3D"_blank" style=3D"color: #333333; display:inline-block; text-decoration:=
+ none;"> About Us </a> &nbsp;|&nbsp;=20
+											  <a href=3D"https://cityelectricsupply.com/ContactUs.aspx" targ=
+et=3D"_blank" style=3D"color: #333333; display:inline-block; text-decoratio=
+n: none;"> Contact Us </a> &nbsp;|&nbsp;=20
+											  <a href=3D"https://cityelectricsupply.com/branchlocator.aspx" =
+target=3D"_blank" style=3D"color: #333333; display:inline-block; text-decor=
+ation: none;"> Find A Branch </a> &nbsp;|&nbsp;=20
+											  <a href=3D"https://cityelectricsupply.com/ContactUs.aspx" targ=
+et=3D"_blank" style=3D"color: #333333; display:inline-block; text-decoratio=
+n: none;"> Customer Service </a>
+											</td>
+										</tr>
+									=09
+										<tr>
+											<td align=3D"center" style=3D"padding: 2.0em">
+											  <span style=3D"font-weight: 700">Follow us: </span> <a href=3D=
+"https://www.facebook.com/cityelectricsupply" target=3D"_blank" style=3D"te=
+xt-decoration: none;"> <img src=3D"https://cityelectricsupply.com/images/em=
+ail/facebook-icon-footer.png" width=3D"19" height=3D"19" alt=3D"facebook"> =
+</a> <a href=3D"https://www.instagram.com/cityelectricusa/" target=3D"_blan=
+k" style=3D"text-decoration: none;"> <img src=3D"https://cityelectricsupply=
+.com/images/email/instagram-icon-footer.png" width=3D"19" height=3D"19" alt=
+=3D"Instagram"> </a> <a href=3D"https://www.linkedin.com/company/city-elect=
+ric-supply" target=3D"_blank" style=3D"text-decoration: none;"> <img src=3D=
+"https://cityelectricsupply.com/images/email/linkedin-icon-footer.png" widt=
+h=3D"19" height=3D"19" alt=3D"LinkedIn"> </a> <a href=3D"https://twitter.co=
+m/CityElectricUSA" target=3D"_blank" style=3D"text-decoration: none;"> <img=
+ src=3D"https://cityelectricsupply.com/images/email/twitter-icon-footer.png=
+" width=3D"19" height=3D"19" alt=3D"Twitter"> </a>
+											</td>
+										</tr>
+									=09
+										<tr>
+											<td align=3D"center">
+											  <p>Please do not reply to this email. To ensure you continue g=
+etting updates on your orders, add <span style=3D"text-decoration: none; co=
+lor: #C60C30;">BillPay@cesbillpay.com</span> to your address book.</p>
+											</td>
+										</tr>
+									=09
+										<tr>
+											<td align=3D"right" style=3D"padding: 1.0em;">
+												<p style=3D"font-family: Arial; font-size: 11px;">Reference: 6/=
+18/2020 3:35:13 PM-356143</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						=09
+							<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cen=
+ter" width=3D"600" class=3D"email-container" style=3D"background-color: #23=
+2323; border-top: solid 3px #c60c30; color: #FFF;">
+								<tr>
+									<td width=3D"50%" style=3D"font-family: Arial; color: #fff; font-s=
+ize: .7em; padding: 0 0 15pt 10pt;" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0">
+										<p style=3D"line-height: 18px;">
+											<strong>Contact Us:</strong><br>
+											<a style=3D"color: #FFE; display:inline-block; text-decoration: =
+none;" href=3D"tel:&#43;1-866-634-9853">866-634-9853</a><br>
+											<a style=3D"color: #FFE; display:inline-block; text-decoration: =
+none;" href=3D"www.cityelectricsupply.com" target=3D"_blank">www.CityElectr=
+icSupply.com</a>
+										</p>
+									</td>
+								=09
+									<td align=3D"right" cellspacing=3D"0" cellpadding=3D"0" border=3D"=
+0">
+										<a href=3D"www.cityelectricsupply.com" target=3D"_blank">
+											<img src=3D"https://cityelectricsupply.com/images/email/CES_foot=
+er-logo.png">
+										</a>
+									</td>
+								</tr>
+							=09
+								<tr>
+									<td colspan=3D"2">
+										<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"=
+center" width=3D"600">
+											<tr>
+												<td style=3D"font-family: Arial; color: #fff; font-size: .7em; =
+padding: 0 0 15pt 10pt;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+													This email was sent to <span style=3D"text-decoration: none !i=
+mportant; color: #fff;">Chris@ALEDNow.com</span>
+												</td>
+											=09
+												<td style=3D"font-family: Arial; color: #fff; font-size: .7em; =
+text-align: right; padding: 0 10px 15pt 10pt;">
+													 @2019 City Electric Supply. All rights reserved.
+												</td>
+											</tr>
+										</table>
+									</td>
+								</tr>
+							</table>
+							<!-- Email Footer : END -->
+					=09
+						</table>
+					</center>
+				</td>
+			</tr>
+		</table>
+		<br>
+	</body>
+</html>
+<!-- HTML Block 03 : END -->=09
+

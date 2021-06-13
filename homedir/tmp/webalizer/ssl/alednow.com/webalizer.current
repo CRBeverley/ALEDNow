@@ -1,0 +1,364 @@
+# Webalizer V2.23-08 Incremental Data - 06/13/2021 00:08:55
+2021 6 13 0 8 55
+108 73 63 6 4 19 2521834 92 73 0
+1 1 15 1 13
+9 6 87102 8 7 7
+7 6 93025 6 7 7
+6 2 23318 6 6 6
+11 6 75230 7 10 9
+5 3 34321 5 4 4
+5 2 23531 3 3 3
+11 9 109042 9 9 8
+7 5 228829 6 5 5
+6 5 56700 5 5 5
+16 11 848856 9 13 9
+20 15 889064 3 19 6
+4 3 52781 3 3 3
+1 0 35 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+3 1 700 2
+2 0 35 2
+1 1 0 1
+3 2 41878 3
+4 4 63323 4
+0 0 0 0
+0 0 0 0
+4 4 100313 4
+3 1 11294 2
+3 0 35 3
+0 0 0 0
+4 2 59404 4
+4 0 452 3
+5 0 1130 4
+2 1 226 2
+1 0 35 1
+0 0 0 0
+0 0 0 0
+1 1 0 1
+15 13 877857 14
+7 5 790961 5
+1 0 665 0
+40 33 517491 32
+5 5 56035 5
+0
+0
+0
+73
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+11
+0
+0
+0
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+11
+0
+0
+0
+0
+0
+# -urls- 
+/alednow services
+0 3 3688780380215587891 31272 0 0
+/viewer/viewer.js
+0 2 8243121641021532015 1499542 0 0
+/alednow about us
+0 3 24679 29733 0 0
+/viewer/viewer.css
+0 1 8818449809525798005 146924 0 0
+/
+0 61 3615884944489840640 776469 72 15
+/alednow contact
+0 3 3256774765985136640 28266 0 0
+# End Of Table - urls
+# -sites- (monthly)
+ec2-34-220-26-12.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622585280
+/
+ns513644.ip-192-99-18.net
+0 5 5 790735 1 1623355491
+/alednow contact
+ec2-54-213-213-112.us-west-2.compute.amazonaws.com
+0 2 2 22414 2 1623017941
+/
+ec2-52-10-47-221.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622934253
+/
+11.35.86.34.bc.googleusercontent.com
+0 1 1 29702 1 1623126218
+/
+ec2-3-11-9-194.eu-west-2.compute.amazonaws.com
+0 1 1 0 1 1623024810
+/
+23.162.77.34.bc.googleusercontent.com
+0 1 0 35 1 1622540556
+-
+2.162.77.34.bc.googleusercontent.com
+0 1 0 35 1 1623115134
+/
+92.118.160.57.netsystemsresearch.com
+0 1 1 29702 1 1623035262
+/
+ec2-35-166-214-66.us-west-2.compute.amazonaws.com
+0 2 1 11872 1 1623278773
+/
+9.130.96.34.bc.googleusercontent.com
+0 1 1 29702 1 1622619166
+/
+ec2-34-221-139-101.us-west-2.compute.amazonaws.com
+0 2 2 22414 1 1623364693
+/
+139.155.16.233
+0 1 0 52 0 0
+-
+139.155.54.119
+0 1 0 52 1 1623296665
+/
+64.225.61.33
+0 1 0 226 1 1622729850
+/
+212.192.241.169
+0 1 0 665 0 0
+-
+ec2-34-222-106-171.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622676304
+/
+ec2-35-165-180-31.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622585168
+/
+237.230.123.34.bc.googleusercontent.com
+0 1 1 11207 1 1623038924
+/
+ec2-18-237-150-65.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623363547
+/
+ec2-54-193-94-143.us-west-1.compute.amazonaws.com
+0 1 1 11207 1 1623225604
+/
+31.35.86.34.bc.googleusercontent.com
+0 1 1 29702 1 1622546750
+/
+ec2-54-69-59-181.us-west-2.compute.amazonaws.com
+0 2 1 11872 1 1623536443
+/
+ec2-54-213-103-21.us-west-2.compute.amazonaws.com
+0 1 0 665 0 0
+-
+ec2-52-41-73-220.us-west-2.compute.amazonaws.com
+0 2 1 11872 1 1622585199
+/
+ec2-34-217-64-96.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623363144
+/
+ip-54-36-148-252.a.ahrefs.com
+0 1 0 226 0 0
+-
+ec2-34-215-230-37.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623277410
+/
+ec2-34-219-156-138.us-west-2.compute.amazonaws.com
+0 5 3 34951 2 1623104509
+/
+167.71.253.32
+0 1 0 226 1 1622726268
+/
+ec2-34-223-6-141.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622585256
+/
+30.35.86.34.bc.googleusercontent.com
+0 1 0 35 1 1623542935
+/
+ec2-52-34-88-13.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622934202
+/
+19.162.77.34.bc.googleusercontent.com
+0 1 1 29702 1 1623496421
+/
+ec2-34-210-121-81.us-west-2.compute.amazonaws.com
+0 2 1 11872 1 1623104493
+/
+vmi524221.contaboserver.net
+0 1 1 11207 1 1623398132
+/
+192.78.126.124.broad.bjtelecom.net
+0 2 2 176626 1 1623190475
+/
+159.65.184.217
+0 1 0 226 1 1622728544
+/
+ec2-54-189-143-27.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623190831
+/
+ec2-54-245-176-112.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622678311
+/
+29.130.96.34.bc.googleusercontent.com
+0 1 1 29702 1 1622618929
+/
+139.155.30.159
+0 1 1 12124 1 1623296669
+/
+92.118.160.45.netsystemsresearch.com
+0 1 0 35 1 1622906980
+/
+85.9.148.146.bc.googleusercontent.com
+0 15 13 877857 1 1623440386
+/
+40.89.174.27
+0 1 0 665 0 0
+-
+ec2-54-201-170-245.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622844791
+/
+167.172.250.253
+0 1 0 226 1 1622727511
+/
+planetlab24.gino-research.net.in.tum.de
+0 12 4 0 12 1623412566
+/
+ec2-18-237-127-248.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622758086
+/
+191.101.174.143
+0 2 0 452 1 1623331090
+/
+ec2-35-162-172-220.us-west-2.compute.amazonaws.com
+0 2 2 22414 2 1623104386
+/
+ec2-54-203-194-17.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623277378
+/
+ec2-34-220-90-176.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623191349
+/
+ec2-52-39-219-109.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623536405
+/
+researchscan36.comsys.rwth-aachen.de
+0 2 2 22414 2 1623213639
+/
+ec2-54-190-41-204.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622936583
+/
+ec2-54-149-184-113.us-west-2.compute.amazonaws.com
+0 2 2 22414 1 1622845055
+/
+ec2-34-222-60-240.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623103965
+/
+26.162.77.34.bc.googleusercontent.com
+0 1 0 35 1 1622794565
+/
+22.130.96.34.bc.googleusercontent.com
+0 1 1 29702 1 1622792225
+/
+ec2-52-13-124-242.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1623103968
+/
+40.124.192.124
+0 2 0 452 1 1622983316
+/
+ec2-54-213-105-187.us-west-2.compute.amazonaws.com
+0 1 1 11207 1 1622758047
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+30.35.86.34.bc.googleusercontent.com
+0 1 0 35 1 1623542935
+/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 100
+www.google.com
+0 2
+http://autodiscover.alednow.com
+0 1
+https://www.google.com
+0 5
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:72.0) Gecko/20100101 Firefox/72.0
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+0 1
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 1
+Python/3.8 aiohttp/3.7.4.post0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; U; Android 9; zh-cn; RMX1901 Build/QKQ1.190918.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Ch
+0 2
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 1
+Mozilla/5.0 (compatible; ThinkBot/0.3.0; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_black
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 41
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 4
+Screaming Frog SEO Spider/14.3
+0 1
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 10
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.11; rv:52.0) Gecko/20100101 Firefox/52.0
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.146 Safari/537.36
+0 12
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+0 1
+Mozlila/5.0 (Linux; Android 7.0; SM-G892A Bulid/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.31
+0 2
+Mozilla/5.0 (X11; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

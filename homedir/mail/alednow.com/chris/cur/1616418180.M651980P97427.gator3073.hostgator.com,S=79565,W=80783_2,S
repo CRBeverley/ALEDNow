@@ -1,0 +1,1218 @@
+Return-Path: <suite42@xpressus.emarsys.us>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id 0GaYJoSVWGCTfAEAi5QuQQ
+	(envelope-from <suite42@xpressus.emarsys.us>)
+	for <chris@alednow.com>; Mon, 22 Mar 2021 08:03:00 -0500
+Return-path: <suite42@xpressus.emarsys.us>
+Envelope-to: chris@alednow.com
+Delivery-date: Mon, 22 Mar 2021 08:03:00 -0500
+Received: from mta-c2711b08.ip4.emarsys.us ([194.113.27.8]:9145)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <suite42@xpressus.emarsys.us>)
+	id 1lOKCy-000TNh-CH
+	for chris@alednow.com; Mon, 22 Mar 2021 08:03:00 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key4; d=email.tradingview.com;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:List-Unsubscribe-Post:
+ Content-Type:Message-ID:Date; i=hello@email.tradingview.com;
+ bh=m7zeBPBAmcwmboonnoFfJLPvYpTC+rr2/SoxtzBh0m4=;
+ b=AxEW9w2jgnginUdicSU980d40VBZb/Hf9D3R5L5mr5oJCW9HOd3B/T3W7clW8rhXoLbIhJwoOPUJ
+   j6ToHeroWEyxz4H50GzqNhMvHCcEoqLk0nJQyosWkw8RgCuXQ3+Yqlxjc72vyFCRMTJQwbtqU3EQ
+   QiMkU3G7s9Z1a6S4ZcU=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=emarsys.net;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:List-Unsubscribe-Post:
+ Content-Type:Message-ID:Date;
+ bh=m7zeBPBAmcwmboonnoFfJLPvYpTC+rr2/SoxtzBh0m4=;
+ b=Aq4EYxBr//8JxFtVHwM6X57Jh+ryFbORfCphtqgIUAvi4cj46VHOXZXObJFSrD64WLW4M4QvqeVH
+   7QvwpwK9Mh1LcddEuaLb5WfJugRLu2rwZRJKETiTnnPNX5jr4E+BIGck6TRkmhFU2DUvdvtdGdCB
+   AK1MAdK1G86wUzPryOA=
+To: chris@alednow.com
+Subject: NFTs + Artists + Charts
+X-Mailer: class SMTPMail
+From: "TradingView Weekly" <hello@email.tradingview.com>
+MIME-Version: 1.0
+List-Id: 836240495 <TradingView Weekly>
+X-EMarSys-Identify: 836240495_10028_379193
+X-EMarSys-Environment: suite42
+X-Report-Abuse: Please report abuse here: abuse-report@emarsys.com
+List-Unsubscribe: <mailto:list-unsubscribe+836240495_10028_379193_vB49VX0wEg@emarsys.net>, <https://list-unsubscribe.eservice.emarsys.net/api/unsubscribe/836240495_10028_379193_vB49VX0wEg>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative;
+ boundary="--=_---NextPart--=_-owPpcWNBpk"
+Message-ID: <0.0.5A.F4C.1D71F1BA8E397E6.0@mta-c2711b08.ip4.emarsys.us>
+Date: Mon, 22 Mar 2021 14:02:48 +0100
+
+
+----=_---NextPart--=_-owPpcWNBpk
+Content-Type: text/plain; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+Trending ideas from TradingView
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C
+TradingView
+
+TradingView ( https://tradingview.com/ ) TradingView
+
+TradingView ( https://tradingview.com/ ) Weekly Digest
+
+Logo
+
+The TradingView Weekly
+----------------------
+
+In this week=E2=80=99s email we discuss the rise of NFTs, 19th century
+chartists, and a trader who coded an open source script for Tick
+Charts available to everyone.
+
+Ideas From Our Community
+------------------------
+
+Chart (
+https://www.tradingview.com/chart/THETAUSDT/jIFwWQzb-Taking-profit-from-NFT=
+/
+)
+
+What Are NFTs? (
+https://www.tradingview.com/chart/THETAUSDT/jIFwWQzb-Taking-profit-from-NFT=
+/
+)
+-----------------------------------------------------------------
+
+=E2=80=9CDigital art is experiencing a renaissance. NFT stands for
+Non-Fungible Token. It=E2=80=99s a Certificate of Authenticity. Classic
+artwork is often sold at auction with receipts indicating the
+object's authenticity. NFT does the same thing, but for digital
+items.=E2=80=9D
+
+Author ( https://www.tradingview.com/u/ArshiaZojaji/ ) By ArshiaZojaji
+( https://www.tradingview.com/u/ArshiaZojaji/ )
+
+Open Idea (
+https://www.tradingview.com/chart/THETAUSDT/jIFwWQzb-Taking-profit-from-NFT=
+/
+)
+
+Chart (
+https://www.tradingview.com/chart/DJI/BlLg2BvD-Interest-rates-101-How-they-=
+influence-the-market/
+)
+
+Why Interest Rates Matter (
+https://www.tradingview.com/chart/DJI/BlLg2BvD-Interest-rates-101-How-they-=
+influence-the-market/
+)
+-----------------------------------------------------------------
+
+=E2=80=9CIf we want to make an investment, one important task for
+us is the analysis of transactions with present and future cash
+flows. Money has time value which means that individuals prefer a
+given sum of money the earlier it is received.=E2=80=9D
+
+Author ( https://www.tradingview.com/u/financialflagship/ ) By
+financialflagship ( https://www.tradingview.com/u/financialflagship/ )
+
+Open Idea (
+https://www.tradingview.com/chart/DJI/BlLg2BvD-Interest-rates-101-How-they-=
+influence-the-market/
+)
+
+Chart (
+https://www.tradingview.com/chart/ADAUSDT/7nETQN57-How-To-Read-a-Chart-Part=
+-III-Perspectives-on-Trends/
+)
+
+Chart History (
+https://www.tradingview.com/chart/ADAUSDT/7nETQN57-How-To-Read-a-Chart-Part=
+-III-Perspectives-on-Trends/
+)
+-----------------------------------------------------------------
+
+=E2=80=9CAs the saying goes: =E2=80=9Cthe trend is your friend=E2=80=9D. Bu=
+t where
+does it start and where does it end? The basis of all technical
+analysis goes back to Charles Dow in the late 19th century. Dow
+set up some simple rules to analyze markets and to follow
+trends.=E2=80=9D
+
+Author ( https://www.tradingview.com/u/constantine_trading/ ) By
+constantine_trading ( https://www.tradingview.com/u/constantine_trading/
+)
+
+Open Idea (
+https://www.tradingview.com/chart/ADAUSDT/7nETQN57-How-To-Read-a-Chart-Part=
+-III-Perspectives-on-Trends/
+)
+
+Upcoming Earnings (
+https://www.tradingview.com/markets/stocks-usa/earnings/ )
+-----------------------------------------------------------------
+
+Logo GAMESTOP CORPORATION (
+https://www.tradingview.com/symbols/NYSE-GME/ )
+
+EPS Estimate: 1.35
+
+Mar 23 ( https://www.tradingview.com/markets/stocks-usa/earnings/ )
+Logo ADOBE INC ( https://www.tradingview.com/symbols/NASDAQ-ADBE/ )
+
+EPS Estimate: 2.79
+
+Mar 23 ( https://www.tradingview.com/markets/stocks-usa/earnings/ )
+Logo GENERAL MILLS INC ( https://www.tradingview.com/symbols/NYSE-GIS/ )
+
+EPS Estimate: 0.84
+
+Mar 24 ( https://www.tradingview.com/markets/stocks-usa/earnings/ )
+Logo PETROCHINA CO (ADS) ( https://www.tradingview.com/symbols/NYSE-PTR/
+)
+
+EPS Estimate: 2.08
+
+Mar 25 ( https://www.tradingview.com/markets/stocks-usa/earnings/ )
+
+Economic Calendar (
+https://www.tradingview.com/markets/currencies/economic-calendar/ )
+-----------------------------------------------------------------
+
+Logo Existing Home Sales (
+https://www.tradingview.com/markets/currencies/economic-calendar/ )
+
+USA
+
+Mar 22, 09:00 ET (
+https://www.tradingview.com/markets/currencies/economic-calendar/ ) Logo
+CPI (Inflation), MM (
+https://www.tradingview.com/markets/currencies/economic-calendar/ )
+
+UK
+
+Mar 24, 02:00 ET (
+https://www.tradingview.com/markets/currencies/economic-calendar/ ) Logo
+GDP Final (
+https://www.tradingview.com/markets/currencies/economic-calendar/ )
+
+USA
+
+Mar 25, 07:30 ET (
+https://www.tradingview.com/markets/currencies/economic-calendar/ )
+
+Chart (
+https://www.tradingview.com/chart/BTCUSDT/8DzZqPA4-Correlation-of-Cryptocur=
+rencies/
+)
+
+Crypto Correlations (
+https://www.tradingview.com/chart/BTCUSDT/8DzZqPA4-Correlation-of-Cryptocur=
+rencies/
+)
+-----------------------------------------------------------------
+
+=E2=80=9CCorrelations measure the strength of a relationship
+between the movements of two variables and ranges from 0 to 1. In
+general, assets with a correlation above 0.5 are considered to
+have strong positive/negative correlations. Conversely, a
+close-to-zero correlation indicates no linear relationship.=E2=80=9D
+
+Author ( https://www.tradingview.com/u/Berzerk_invest/ ) By
+Berzerk_invest ( https://www.tradingview.com/u/Berzerk_invest/ )
+
+Open Idea (
+https://www.tradingview.com/chart/BTCUSDT/8DzZqPA4-Correlation-of-Cryptocur=
+rencies/
+)
+
+Script of the Week
+------------------
+
+Chart ( https://www.tradingview.com/script/ygNO2G1V-Tick-Chart/ )
+
+Tick Charts ( https://www.tradingview.com/script/ygNO2G1V-Tick-Chart/ )
+-----------------------------------------------------------------
+
+=E2=80=9CTick charts display price variation over a fixed number of
+price updates. They are not time-based like Renko or Point and
+Figure.=E2=80=9D
+
+Author ( https://www.tradingview.com/u/LonesomeTheBlue/ ) By
+LonesomeTheBlue ( https://www.tradingview.com/u/LonesomeTheBlue/ )
+
+Get Script ( https://www.tradingview.com/script/ygNO2G1V-Tick-Chart/ )
+
+Learn Something New
+-------------------
+
+Chart (
+https://www.tradingview.com/chart/AAPL/fULBd9An-How-To-Use-Our-New-Timeline=
+-Feature/
+)
+
+How To Use Timelines (Video) (
+https://www.tradingview.com/chart/AAPL/fULBd9An-How-To-Use-Our-New-Timeline=
+-Feature/
+)
+-----------------------------------------------------------------
+
+=E2=80=9CWe created Timelines to help people learn more about the
+companies and symbols they follow. Timelines are comprehensive
+guides that reveal the history, key events, and defining moments
+of a specific symbol.=E2=80=9D
+
+Author ( https://www.tradingview.com/u/TradingView/ ) By TradingView (
+https://www.tradingview.com/u/TradingView/ )
+
+Open Idea (
+https://www.tradingview.com/chart/AAPL/fULBd9An-How-To-Use-Our-New-Timeline=
+-Feature/
+)
+
+Thanks for reading,
+The TradingView Team
+
+33 Irving Place, New York,
+NY 10003
+
+Download on the App Store (
+https://itunes.apple.com/us/app/tradingview-trading-community-charts-and-qu=
+otes/id1205990992
+) Get it on Google Play (
+https://play.google.com/store/apps/details?id=3Dcom.tradingview.tradingview=
+app
+)
+
+TradingView on Facebook ( https://www.facebook.com/tradingview/ )
+TradingView on Youtube
+( https://www.youtube.com/channel/UCfOflihrkOKDQZ_ZKtF2VfQ )
+TradingView on LinkedIn ( https://www.linkedin.com/company/tradingview/
+) TradingView on
+Twitter ( https://twitter.com/tradingview/ )
+
+Want to be featured in this newsletter? Read our
+guidelines (
+https://www.tradingview.com/chart/DJI/RWetgY5b-How-to-Be-Featured-on-Tradin=
+gView/
+) and submit your profile in the comments.
+
+This email was sent to chris@alednow.com ( chris@alednow.com ) because
+on 2021-03-17, you signed up at TradingView.com (
+https://tradingview.com/ ). If you don't want to receive this
+type of emails anymore, you can unsubscribe (
+https://tradingview.com/accounts/subscriptions/?k=3DeyJpZCI6IDE4NjE2NDQ3LCA=
+iZW1haWwiOiAiY2hyaXNAYWxlZG5vdy5jb20ifQ.mkGpVzGwFRoS1Yz_wniF9b2oNQ6jJQFr9gJ=
+r7AaXD4M
+) at any time.
+
+DISCLAIMER: All posts and descriptions in this email
+are ideas of individual authors for educational and entertainment
+purpose and may not reflect the opinions of TradingView. None of
+the ideas posted are investment advice. TradingView is not a
+broker, or an introducing broker, and we do not encourage anyone
+to perform trades on live accounts.
+
+----=_---NextPart--=_-owPpcWNBpk
+Content-Type: text/html; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+<!DOCTYPE html> <html> <head> <title>NFTs + Artists + Charts</title> <meta =
+http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" /> <meta=
+ name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"> <me=
+ta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge" /> <meta name=3D"co=
+lor-scheme" content=3D"light dark"> <meta name=3D"supported-color-schemes" =
+content=3D"light dark"> <style type=3D"text/css"> body, table, td, a { -web=
+kit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } table, td { mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt; } img { -ms-interpolation-mode: bi=
+cubic; } img { border: 0; height: auto; line-height: 100%; outline: none; t=
+ext-decoration: none; } table { border-collapse: collapse !important; } bod=
+y { height: 100% !important; margin: 0 !important; padding: 0 !important; w=
+idth: 100% !important; -webkit-font-smoothing: antialiased; -moz-osx-font-s=
+moothing: grayscale; } a[x-apple-data-detectors] { color: inherit !importan=
+t; text-decoration: none !important; font-size: inherit !important; font-fa=
+mily: inherit !important; font-weight: inherit !important; line-height: inh=
+erit !important; } .hided { display: none !important; } @media screen and (=
+max-width:600px) { .columnWrapper { max-width: 100% !important; width: 100%=
+ !important; } .full { width: 100% !important; display: block; } .hidem { d=
+isplay: none !important; } .showem { display: block!important; } .hr { bord=
+er-top: 1px solid #e0e3eb; } .left { text-align: left !important; } .center=
+ { text-align: center !important; } h1.dynamic { font-size: 32px !important=
+; line-height: 40px !important; } h3.dynamic { font-size: 24px !important; =
+line-height: 30px !important; } p.dynamic { font-size: 16px !important; lin=
+e-height: 24px !important; } img.mobile1 { width: 109px !important; height:=
+ 36px !important; } img.mobile2 { width: 122px !important; height: 36px !im=
+portant; } img.mobile3 { width: 300px !important; height: 300px !important;=
+ } td.padding1 { padding-left: 10px !important; } td.padding2 { padding-lef=
+t: 10px !important; padding-right: 10px !important; } td.padding3 { padding=
+: 0px 16px !important; } td.align1 { text-align: left !important; } } div[s=
+tyle*=3D"margin: 16px 0;"] { margin: 0 !important; }  :root { color-scheme:=
+ light dark; supported-color-schemes: light dark; }  [data-ogsc] .dark-img =
+{ display: block !important; width: auto !important; overflow: visible !imp=
+ortant; float: none !important; max-height: inherit !important; max-width: =
+inherit !important; line-height: auto !important; margin-top: 0px !importan=
+t; visibility: inherit !important; }  [data-ogsc] .light-img { display: non=
+e; display: none !important; }  [data-ogsc] .darkmode0 { background-color: =
+#1f212d !important; }  [data-ogsc] .darkmode1 { background-color: #141622 !=
+important; }  [data-ogsc] .darkmode2 { background-color: #1f212d !important=
+; }  [data-ogsc] h1, [data-ogsc] h2, [data-ogsc] h3, [data-ogsc] p, [data-o=
+gsc] span, [data-ogsc] a, [data-ogsc] b { color: #ffffff !important; }  [da=
+ta-ogsc] .link { color: #91ADD4 !important; } @media (prefers-color-scheme:=
+ dark) {  .dark-img { display: block !important; width: auto !important; ov=
+erflow: visible !important; float: none !important; max-height: inherit !im=
+portant; max-width: inherit !important; line-height: auto !important; margi=
+n-top: 0px !important; visibility: inherit !important; }  .light-img { disp=
+lay: none; display: none !important; }  .darkmode0 { background-color: #1f2=
+12d !important; }  .darkmode1 { background-color: #141622 !important; }  .d=
+arkmode2 { background-color: #1f212d !important; }  h1, h2, h3, p, span, a,=
+ b { color: #ffffff !important; }  .link { color: #d1d4dc !important; } } <=
+/style> </head><body bgcolor=3D"#ffffff" class=3D"darkmode0" style=3D" marg=
+in: 0px !important; padding: 0 !important; background-color: #ffffff; "> <d=
+iv style=3D" display: none; font-size: 1px; color: #fefefe; line-height: 1p=
+x; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; max-height: 0=
+px; max-width: 0px; opacity: 0; overflow: hidden; ">Trending ideas from Tra=
+dingView</div> <div style=3D"display:none;max-height:0px;overflow:hidden;">=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;</div> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wid=
+th=3D"100%"> <tr> <td align=3D"center"> <!--[if (gte mso 9)|(IE)]> <table a=
+lign=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"6=
+00"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![endif]--> <=
+table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"max-width: 600px;"> <tr> <td colspan=3D"3" height=3D"30" style=3D"font-=
+size:30px; line-height:30px;">&nbsp;</td> </tr> <tr> <td width=3D"44" align=
+=3D"left" valign=3D"middle" style=3D"padding-top: 5px; padding-bottom: 5px;=
+" class=3D"padding1"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3D=
+vB49VX0wEg_379193_10028_1_1&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2=
+Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"> <img class=3D"light-img" alt=
+=3D"TradingView" src=3D"https://suite42.emarsys.net/custloads/836240495/wee=
+kly/tv-icon.png" width=3D"44" height=3D"25" style=3D"width: 44px; max-width=
+: 44px; min-width: 44px; font-family: 'Trebuchet MS', Helvetica, Arial, san=
+s-serif; color: #131722; font-size: 18px;" border=3D"0"> <!-- The following=
+ Dark Mode logo image is hidden with MSO conditional code and inline CSS, b=
+ut will be revealed once Dark Mode is triggered --> <!--[if !mso]> <! --> <=
+span class=3D"dark-img" style=3D"display:none; overflow:hidden; width:0px; =
+max-height:0px; max-width:0px; line-height:0px; visibility:hidden;"> <img a=
+lt=3D"TradingView" src=3D"https://suite42.emarsys.net/custloads/836240495/w=
+eekly/tv-icon-white.png" width=3D"44" height=3D"25" style=3D"width: 44px; m=
+ax-width: 44px; min-width: 44px; font-family: 'Trebuchet MS', Helvetica, Ar=
+ial, sans-serif; color: #131722; font-size: 18px;" border=3D"0"> </span> <!=
+--<![endif]--> </a> </td> <td align=3D"left" valign=3D"bottom" style=3D"pad=
+ding: 5px 10px 5px 10px;" class=3D"hidem"> <a href=3D"https://suite42.emars=
+ys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_2&ems_l=3D11065&d=3DV2Vla2x5=
+%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"> <img cla=
+ss=3D"light-img" alt=3D"TradingView" src=3D"https://suite42.emarsys.net/cus=
+tloads/836240495/weekly/tv-title.png" width=3D"112" height=3D"20" style=3D"=
+width: 112px; max-width: 112px; min-width: 112px; font-family: 'Trebuchet M=
+S', Helvetica, Arial, sans-serif; color: #131722; font-size: 18px;" border=
+=3D"0"> <!-- The following Dark Mode logo image is hidden with MSO conditio=
+nal code and inline CSS, but will be revealed once Dark Mode is triggered -=
+-> <!--[if !mso]> <! --> <span class=3D"dark-img" style=3D"display:none; ov=
+erflow:hidden; width:0px; max-height:0px; max-width:0px; line-height:0px; v=
+isibility:hidden;"> <img alt=3D"TradingView" src=3D"https://suite42.emarsys=
+.net/custloads/836240495/weekly/tv-title-white.png" width=3D"112" height=3D=
+"20" style=3D"width: 112px; max-width: 112px; min-width: 112px; font-family=
+: 'Trebuchet MS', Helvetica, Arial, sans-serif; color: #131722; font-size: =
+18px;" border=3D"0"> </span> <!--<![endif]--> </a> </td> <td align=3D"right=
+" valign=3D"middle" style=3D"padding-top: 5px; padding-bottom: 5px;" class=
+=3D"padding2"> <p style=3D" margin: 0px; padding: 0px; font-family: 'Trebuc=
+het MS', Helvetica, Arial, sans-serif; font-size: 18px; line-height: 18px; =
+color: #131722; "> Weekly Digest </p> </td> </tr> <tr> <td colspan=3D"3" he=
+ight=3D"18" style=3D"font-size:18px; line-height:18px;">&nbsp;</td> </tr> <=
+/table> <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]--> </td> =
+</tr> </table> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%"> <tr> <td align=3D"center" style=3D"padding: 0px 10px 0px 10px;"=
+> <!--[if (gte mso 9)|(IE)]> <table align=3D"center" border=3D"0" cellspaci=
+ng=3D"0" cellpadding=3D"0" width=3D"600"> <tr> <td align=3D"center" valign=
+=3D"top" width=3D"600"> <![endif]--> <table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%" style=3D"max-width: 600px;"> <tr> <td alig=
+n=3D"center" valign=3D"top" style=3D"text-align: center;"> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%"> <tr> <td height=3D"=
+40" style=3D"font-size:30px; line-height:30px;">&nbsp;</td> </tr> <tr> <td =
+valign=3D"top" align=3D"center" style=3D"text-align: center; padding: 0px 0=
+px;"> <img src=3D"https://suite42.emarsys.net/custloads/836240495/weekly/tv=
+-image-weekly-icon.png" style=3D"-ms-interpolation-mode: bicubic; height: a=
+uto; max-width: 120px; width: 100%;" width=3D"120" alt=3D"Logo" border=3D"0=
+"> </td> </tr> <tr> <td height=3D"24" style=3D"font-size:24px; line-height:=
+24px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"center" style=3D"=
+text-align: center; padding: 0px;"> <h3 class=3D"dynamic" style=3D" margin:=
+ 0px 0px 16px 0px; padding: 0px; font-family: 'Trebuchet MS', Helvetica, Ar=
+ial, sans-serif; font-size: 36px; line-height: 44px; color: #131722; text-a=
+lign: center !important; "> The TradingView Weekly </h3> <p class=3D"dynami=
+c" style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet MS', Helvet=
+ica, Arial, sans-serif; font-size: 18px; line-height: 28px; color: #131722;=
+ text-align: left !important; "> In this week=E2=80=99s email we discuss th=
+e rise of NFTs, 19th century chartists, and a trader who coded an open sour=
+ce script for Tick Charts available to everyone. </p> </td> </tr> </table> =
+</td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![end=
+if]--> </td> </tr> </table> <table border=3D"0" cellpadding=3D"0" cellspaci=
+ng=3D"0" width=3D"100%"> <tr> <td height=3D"48" style=3D"font-size:30px; li=
+ne-height:30px;">&nbsp;</td> </tr> </table><table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td align=3D"center" style=3D=
+"padding:0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <table align=3D"ce=
+nter" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"> <tr> =
+<td align=3D"center" valign=3D"top" width=3D"600"> <![endif]--> <table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"max-wi=
+dth: 600px;"> <tr> <td align=3D"center" valign=3D"top" style=3D"text-align:=
+ center;"> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"100%"> <tr> <td valign=3D"top" align=3D"center" style=3D"text-align: cente=
+r; padding: 0px 32px;"> <h3 class=3D"dynamic" style=3D" margin: 0px; paddin=
+g: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-siz=
+e: 24px; line-height: 32px; color: #131722; text-align: center !important; =
+"> Ideas From Our Community </h3> </td> </tr> </table> </td> </tr> </table>=
+ <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]--> </td> </tr> <=
+/table> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%"> <tr> <td height=3D"24" style=3D"font-size:24px; line-height:24px;">&nb=
+sp;</td> </tr> </table> <table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%"> <tr> <td align=3D"center" style=3D"padding: 0px 10px=
+ 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <table align=3D"center" border=3D"0=
+" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"> <tr> <td align=3D"cent=
+er" valign=3D"top" width=3D"600"> <![endif]--> <table border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"width: 100%; max-width:=
+ 600px;"> <tr> <td align=3D"left" valign=3D"top" style=3D"text-align: left;=
+ border: 1px solid #e0e3eb; border-radius: 6px; box-shadow: 0px 2px 7px rgb=
+a(0,0,0,0.05); overflow: hidden; display: block;" class=3D"darkmode1"> <tab=
+le cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td valign=3D"t=
+op" align=3D"center" style=3D"text-align: center; padding: 0px;"> <a href=
+=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_3&e=
+ms_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" ta=
+rget=3D"_blank"><img src=3D"https://s3.tradingview.com/j/jIFwWQzb_big.png" =
+style=3D"-ms-interpolation-mode: bicubic; height: auto; max-width: 600px; w=
+idth: 100%; font-family: Helvetica, Arial, sans-serif; color: #414141; font=
+-size: 18px; border-radius: 6px 6px 0px 0px;" width=3D"600" border=3D"0" al=
+t=3D"Chart"></a> </td> </tr> <tr> <td height=3D"32" style=3D"font-size:24px=
+; line-height:24px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"lef=
+t" style=3D"text-align: left; padding: 0px 40px;" class=3D"padding3"> <h3 c=
+lass=3D"dynamic" style=3D" margin: 0px 0px 16px 0px; padding: 0px; font-fam=
+ily: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 24px; line-he=
+ight: 32px; color: #131722; text-align: left !important; "> <a style=3D"col=
+or:#131722;text-decoration:none;" href=3D"https://suite42.emarsys.net/u/nrd=
+.php?p=3DvB49VX0wEg_379193_10028_1_4&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ=
+1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">What Are NFTs?</a> </=
+h3> </td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align:=
+ left; padding: 0px 40px;" class=3D"padding3"> <p style=3D" margin: 0px; pa=
+dding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font=
+-size: 16px; line-height: 24px; color: #131722; text-align: left !important=
+; "> =E2=80=9CDigital art is experiencing a renaissance. NFT stands for Non=
+-Fungible Token. It=E2=80=99s a Certificate of Authenticity. Classic artwor=
+k is often sold at auction with receipts indicating the object's authentici=
+ty. NFT does the same thing, but for digital items.=E2=80=9D </p> </td> </t=
+r> <tr> <td height=3D"32" style=3D"font-size:24px; line-height:24px;">&nbsp=
+;</td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align: le=
+ft; padding: 0px 40px;" class=3D"padding3"> <table border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0" width=3D"100%"> <tr> <td> <table cellpadding=3D"0"=
+ cellspacing=3D"0"> <tr> <td width=3D"54"> <a href=3D"https://suite42.emars=
+ys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_5&ems_l=3D11065&d=3DV2Vla2x5=
+%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"> <img sty=
+le=3D"border-radius: 3px;" src=3D"https://s3.tradingview.com/userpics/87087=
+04-QU9c_mid.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"Author"> </=
+a> </td> <td> <p class=3D"textm" style=3D" margin: 0px; padding: 0px; font-=
+family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 14px; line=
+-height: 21px; color: #131722; text-align: left !important; "> <a style=3D"=
+color: #131722; text-decoration: none;" href=3D"https://suite42.emarsys.net=
+/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_6&ems_l=3D11065&d=3DV2Vla2x5%7CVHJ=
+hZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">By ArshiaZojaji=
+</a> </p> </td> </tr> </table> </td> <td align=3D"right"> <table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=3D"center" style=3D"=
+border-radius: 3px;" bgcolor=3D"#2196f3"><a href=3D"https://suite42.emarsys=
+.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_7&ems_l=3D11065&d=3DV2Vla2x5%7=
+CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank" style=3D"fo=
+nt-size: 14px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; c=
+olor: #ffffff; font-weight: normal; text-decoration: none; padding: 10px 15=
+px; border-radius: 3px; border: 1px solid #2196f3; display: inline-block;">=
+Open Idea</a></td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td=
+ height=3D"40" style=3D"font-size:30px; line-height:30px;">&nbsp;</td> </tr=
+> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr> </ta=
+ble> <![endif]--> </td> </tr> </table> <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"40" style=3D"font-si=
+ze:24px; line-height:24px;">&nbsp;</td> </tr> </table><table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td align=3D"center=
+" style=3D"padding: 0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <table =
+align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"=
+600"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![endif]--> =
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"width: 100%; max-width: 600px;"> <tr> <td align=3D"left" valign=3D"top=
+" style=3D"text-align: left; border: 1px solid #e0e3eb; border-radius: 6px;=
+ box-shadow: 0px 2px 7px rgba(0,0,0,0.05); overflow: hidden; display: block=
+;" class=3D"darkmode1"> <table cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%"> <tr> <td valign=3D"top" align=3D"center" style=3D"text-align: cente=
+r; padding: 0px;"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB4=
+9VX0wEg_379193_10028_1_8&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla=
+2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D"https://s3.tradingvie=
+w.com/b/BlLg2BvD_big.png" style=3D"-ms-interpolation-mode: bicubic; height:=
+ auto; max-width: 600px; width: 100%; font-family: Helvetica, Arial, sans-s=
+erif; color: #414141; font-size: 18px; border-radius: 6px 6px 0px 0px;" wid=
+th=3D"600" border=3D"0" alt=3D"Chart"></a> </td> </tr> <tr> <td height=3D"3=
+2" style=3D"font-size:24px; line-height:24px;">&nbsp;</td> </tr> <tr> <td v=
+align=3D"top" align=3D"left" style=3D"text-align: left; padding: 0px 40px;"=
+ class=3D"padding3"> <h3 class=3D"dynamic" style=3D" margin: 0px 0px 16px 0=
+px; padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif=
+; font-size: 24px; line-height: 32px; color: #131722; text-align: left !imp=
+ortant; "> <a style=3D"color:#131722;text-decoration:none;" href=3D"https:/=
+/suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_9&ems_l=3D1106=
+5&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_bl=
+ank">Why Interest Rates Matter</a> </h3> </td> </tr> <tr> <td valign=3D"top=
+" align=3D"left" style=3D"text-align: left; padding: 0px 40px;" class=3D"pa=
+dding3"> <p style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet MS=
+', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; color:=
+ #131722; text-align: left !important; "> =E2=80=9CIf we want to make an in=
+vestment, one important task for us is the analysis of transactions with pr=
+esent and future cash flows. Money has time value which means that individu=
+als prefer a given sum of money the earlier it is received.=E2=80=9D </p> <=
+/td> </tr> <tr> <td height=3D"32" style=3D"font-size:24px; line-height:24px=
+;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-a=
+lign: left; padding: 0px 40px;" class=3D"padding3"> <table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"100%"> <tr> <td> <table cellpaddi=
+ng=3D"0" cellspacing=3D"0"> <tr> <td width=3D"54"> <a href=3D"https://suite=
+42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_10&ems_l=3D11065&d=
+=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank=
+"><img style=3D"border-radius: 3px;" src=3D"https://s3.tradingview.com/user=
+pics/12259564-sHhX_mid.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"=
+Author"></a> </td> <td> <p class=3D"textm" style=3D" margin: 0px; padding: =
+0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: =
+14px; line-height: 21px; color: #131722; text-align: left !important; "> <a=
+ style=3D"color: #131722; text-decoration: none;" href=3D"https://suite42.e=
+marsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_11&ems_l=3D11065&d=3DV2V=
+la2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">By f=
+inancialflagship</a> </p> </td> </tr> </table> </td> <td align=3D"right"> <=
+table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=3D"c=
+enter" style=3D"border-radius: 3px;" bgcolor=3D"#2196f3"> <a href=3D"https:=
+//suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_12&ems_l=3D11=
+065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_=
+blank" style=3D"font-size: 14px; font-family: 'Trebuchet MS', Helvetica, Ar=
+ial, sans-serif; color: #ffffff; font-weight: normal; text-decoration: none=
+; padding: 10px 15px; border-radius: 3px; border: 1px solid #2196f3; displa=
+y: inline-block;">Open Idea</a> </td> </tr> </table> </td> </tr> </table> <=
+/td> </tr> <tr> <td height=3D"40" style=3D"font-size:30px; line-height:30px=
+;">&nbsp;</td> </tr> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)=
+]> </td> </tr> </table> <![endif]--> </td> </tr> </table> <table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"4=
+8" style=3D"font-size:30px; line-height:30px;">&nbsp;</td> </tr> </table><t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> =
+<td align=3D"center" style=3D"padding: 0px 10px 0px 10px;"> <!--[if (gte ms=
+o 9)|(IE)]> <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" width=3D"600"> <tr> <td align=3D"center" valign=3D"top" width=3D"=
+600"> <![endif]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%" style=3D"width: 100%; max-width: 600px;"> <tr> <td align=3D"=
+left" valign=3D"top" style=3D"text-align: left; border: 1px solid #e0e3eb; =
+border-radius: 6px; box-shadow: 0px 2px 7px rgba(0,0,0,0.05); overflow: hid=
+den; display: block;" class=3D"darkmode1"> <table cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%"> <tr> <td valign=3D"top" align=3D"center" style=
+=3D"text-align: center; padding: 0px;"> <a href=3D"https://suite42.emarsys.=
+net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_13&ems_l=3D11065&d=3DV2Vla2x5%7=
+CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D=
+"https://s3.tradingview.com/7/7nETQN57_big.png" style=3D"-ms-interpolation-=
+mode: bicubic; height: auto; max-width: 600px; width: 100%; font-family: He=
+lvetica, Arial, sans-serif; color: #414141; font-size: 18px; border-radius:=
+ 6px 6px 0px 0px;" width=3D"600" border=3D"0" alt=3D"Chart"></a> </td> </tr=
+> <tr> <td height=3D"32" style=3D"font-size:24px; line-height:24px;">&nbsp;=
+</td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align: lef=
+t; padding: 0px 40px;" class=3D"padding3"> <h3 class=3D"dynamic" style=3D" =
+margin: 0px 0px 16px 0px; padding: 0px; font-family: 'Trebuchet MS', Helvet=
+ica, Arial, sans-serif; font-size: 24px; line-height: 32px; color: #131722;=
+ text-align: left !important; "> <a style=3D"color:#131722;text-decoration:=
+none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_=
+10028_1_14&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEV=
+OJTI5%7C" target=3D"_blank">Chart History</a> </h3> </td> </tr> <tr> <td va=
+lign=3D"top" align=3D"left" style=3D"text-align: left; padding: 0px 40px;" =
+class=3D"padding3"> <p style=3D" margin: 0px; padding: 0px; font-family: 'T=
+rebuchet MS', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 2=
+4px; color: #131722; text-align: left !important; "> =E2=80=9CAs the saying=
+ goes: =E2=80=9Cthe trend is your friend=E2=80=9D. But where does it start =
+and where does it end? The basis of all technical analysis goes back to Cha=
+rles Dow in the late 19th century. Dow set up some simple rules to analyze =
+markets and to follow trends.=E2=80=9D </p> </td> </tr> <tr> <td height=3D"=
+32" style=3D"font-size:24px; line-height:24px;">&nbsp;</td> </tr> <tr> <td =
+valign=3D"top" align=3D"left" style=3D"text-align: left; padding: 0px 40px;=
+" class=3D"padding3"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspacing=3D"0"> <t=
+r> <td width=3D"54"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3Dv=
+B49VX0wEg_379193_10028_1_15&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2=
+Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img style=3D"border-radius: 3=
+px;" src=3D"https://i.imgur.com/MQ5Qqwo.png" width=3D"38" height=3D"38" bor=
+der=3D"0" alt=3D"Author"></a> </td> <td> <p class=3D"textm" style=3D" margi=
+n: 0px; padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-s=
+erif; font-size: 14px; line-height: 21px; color: #131722; text-align: left =
+!important; "> <a style=3D"color: #131722; text-decoration: none;" href=3D"=
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_16&ems_=
+l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" targe=
+t=3D"_blank">By constantine_trading</a> </p> </td> </tr> </table> </td> <td=
+ align=3D"right"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> =
+<tr> <td align=3D"center" style=3D"border-radius: 3px;" bgcolor=3D"#2196f3"=
+> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10=
+028_1_17&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJ=
+TI5%7C" target=3D"_blank" style=3D"font-size: 14px; font-family: 'Trebuchet=
+ MS', Helvetica, Arial, sans-serif; color: #ffffff; font-weight: normal; te=
+xt-decoration: none; padding: 10px 15px; border-radius: 3px; border: 1px so=
+lid #2196f3; display: inline-block;">Open Idea</a> </td> </tr> </table> </t=
+d> </tr> </table> </td> </tr> <tr> <td height=3D"40" style=3D"font-size:30p=
+x; line-height:30px;">&nbsp;</td> </tr> </table> </td> </tr> </table> <!--[=
+if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]--> </td> </tr> </table=
+> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <=
+tr> <td height=3D"48" style=3D"font-size:30px; line-height:30px;">&nbsp;</t=
+d> </tr> </table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%"> <tr> <td align=3D"center" style=3D"padding: 0px 10px 0px 10px=
+;"> <!--[if (gte mso 9)|(IE)]> <table align=3D"center" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"600"> <tr> <td align=3D"center" valig=
+n=3D"top" width=3D"600"> <![endif]--> <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%" style=3D"width: 100%; max-width: 600px;">=
+ <tr> <td align=3D"left" valign=3D"top" style=3D"text-align: left; border: =
+1px solid #e0e3eb; border-radius: 6px; box-shadow: 0px 2px 7px rgba(0,0,0,0=
+.05); overflow: hidden; display: block;" class=3D"darkmode1"> <table cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"32" style=
+=3D"font-size:24px;line-height:24px;">&nbsp;</td> </tr> <tr> <td valign=3D"=
+top" align=3D"left" style=3D"text-align:left;padding:0px 40px;" class=3D"pa=
+dding3"> <h3 class=3D"dynamic" style=3D"margin:0px 0px 24px 0px;padding:0px=
+;font-family:'Trebuchet MS', Helvetica, Arial, sans-serif;font-size:24px;li=
+ne-height:32px;color:#131722;text-align:left !important;"> <a style=3D"colo=
+r:#131722;text-decoration:none;" href=3D"https://suite42.emarsys.net/u/nrd.=
+php?p=3DvB49VX0wEg_379193_10028_1_18&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ=
+1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">Upcoming Earnings</a>=
+ </h3> </td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-ali=
+gn:left;padding:0px 40px;" class=3D"padding3"> <table border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"100%"> <tr> <td> <table cellpadding=3D=
+"0" cellspacing=3D"0"> <tr> <td width=3D"54"><img style=3D"border-radius: 1=
+9px;" src=3D"https://s3-symbol-logo.tradingview.com/gamestop--96.png" width=
+=3D"38" height=3D"38" border=3D"0" alt=3D"Logo"></td> <td> <p class=3D"text=
+m" style=3D"margin:0px;padding:0px;font-family:'Trebuchet MS', Helvetica, A=
+rial, sans-serif;font-size:16px;line-height:21px;color:#131722;text-align:l=
+eft !important;"> <a style=3D"color:#131722;text-decoration:none;" href=3D"=
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_19&ems_=
+l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" targe=
+t=3D"_blank">GAMESTOP CORPORATION</a> </p> <p class=3D"textm" style=3D"marg=
+in:0px;padding:0px;font-family:'Trebuchet MS', Helvetica, Arial, sans-serif=
+;font-size:13px;line-height:18px;color:#131722;text-align:left !important;"=
+> <i>EPS Estimate: 1.35</i> </p> </td> </tr> </table> </td> <td align=3D"ri=
+ght"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td ali=
+gn=3D"center" style=3D"border-radius:3px;"> <a href=3D"https://suite42.emar=
+sys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_20&ems_l=3D11065&d=3DV2Vla2=
+x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank" style=
+=3D"font-size:14px;font-family:'Trebuchet MS', Helvetica, Arial, sans-serif=
+;color:#2196f3;font-weight:normal;text-decoration:none;padding:10px 15px;bo=
+rder-radius:3px;border:1px solid #2196f3;display:inline-block;">Mar 23</a> =
+</td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td height=3D"18=
+" style=3D"font-size:12px;line-height:12px;">&nbsp;</td> </tr> <tr> <td val=
+ign=3D"top" align=3D"left" style=3D"text-align:left;padding:0px 40px;" clas=
+s=3D"padding3"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspacing=3D"0"> <tr> <td=
+ width=3D"54"><img style=3D"border-radius: 19px;" src=3D"https://i.postimg.=
+cc/rsjxgDkR/ADOBE-big.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"L=
+ogo"></td> <td> <p class=3D"textm" style=3D"margin:0px;padding:0px;font-fam=
+ily:'Trebuchet MS', Helvetica, Arial, sans-serif;font-size:16px;line-height=
+:21px;color:#131722;text-align:left !important;"> <a style=3D"color:#131722=
+;text-decoration:none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3Dv=
+B49VX0wEg_379193_10028_1_21&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2=
+Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">ADOBE INC</a> </p> <p class=3D=
+"textm" style=3D"margin:0px;padding:0px;font-family:'Trebuchet MS', Helveti=
+ca, Arial, sans-serif;font-size:13px;line-height:18px;color:#131722;text-al=
+ign:left !important;"> <i>EPS Estimate: 2.79</i> </p> </td> </tr> </table> =
+</td> <td align=3D"right"> <table border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"> <tr> <td align=3D"center" style=3D"border-radius:3px;"> <a href=3D=
+"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_22&ems=
+_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" targ=
+et=3D"_blank" style=3D"font-size:14px;font-family:'Trebuchet MS', Helvetica=
+, Arial, sans-serif;color:#2196f3;font-weight:normal;text-decoration:none;p=
+adding:10px 15px;border-radius:3px;border:1px solid #2196f3;display:inline-=
+block;">Mar 23</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> <t=
+r> <td height=3D"18" style=3D"font-size:12px;line-height:12px;">&nbsp;</td>=
+ </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align:left;padd=
+ing:0px 40px;" class=3D"padding3"> <table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspac=
+ing=3D"0"> <tr> <td width=3D"54"><img style=3D"border-radius: 19px;" src=3D=
+"https://i.postimg.cc/Y0CGtgjr/GENERAL-MILLS-big.png" width=3D"38" height=
+=3D"38" border=3D"0" alt=3D"Logo"></td> <td> <p class=3D"textm" style=3D"ma=
+rgin:0px;padding:0px;font-family:'Trebuchet MS', Helvetica, Arial, sans-ser=
+if;font-size:16px;line-height:21px;color:#131722;text-align:left !important=
+;"> <a style=3D"color:#131722;text-decoration:none;" href=3D"https://suite4=
+2.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_23&ems_l=3D11065&d=3D=
+V2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">G=
+ENERAL MILLS INC</a> </p> <p class=3D"textm" style=3D"margin:0px;padding:0p=
+x;font-family:'Trebuchet MS', Helvetica, Arial, sans-serif;font-size:13px;l=
+ine-height:18px;color:#131722;text-align:left !important;"> <i>EPS Estimate=
+: 0.84</i> </p> </td> </tr> </table> </td> <td align=3D"right"> <table bord=
+er=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=3D"center" sty=
+le=3D"border-radius:3px;"> <a href=3D"https://suite42.emarsys.net/u/nrd.php=
+?p=3DvB49VX0wEg_379193_10028_1_24&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1Zp=
+ZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank" style=3D"font-size:14px;=
+font-family:'Trebuchet MS', Helvetica, Arial, sans-serif;color:#2196f3;font=
+-weight:normal;text-decoration:none;padding:10px 15px;border-radius:3px;bor=
+der:1px solid #2196f3;display:inline-block;">Mar 24</a> </td> </tr> </table=
+> </td> </tr> </table> </td> </tr> <tr> <td height=3D"18" style=3D"font-siz=
+e:12px;line-height:12px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=
+=3D"left" style=3D"text-align:left;padding:0px 40px;" class=3D"padding3"> <=
+table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> <tr>=
+ <td> <table cellpadding=3D"0" cellspacing=3D"0"> <tr> <td width=3D"54"><im=
+g style=3D"border-radius: 19px;" src=3D"https://i.postimg.cc/xT8Fq4zQ/PETRO=
+CHINA-big.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"Logo"></td> <=
+td> <p class=3D"textm" style=3D"margin:0px;padding:0px;font-family:'Trebuch=
+et MS', Helvetica, Arial, sans-serif;font-size:16px;line-height:21px;color:=
+#131722;text-align:left !important;"> <a style=3D"color:#131722;text-decora=
+tion:none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_37=
+9193_10028_1_25&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5Ky=
+UyOEVOJTI5%7C" target=3D"_blank">PETROCHINA CO (ADS)</a> </p> <p class=3D"t=
+extm" style=3D"margin:0px;padding:0px;font-family:'Trebuchet MS', Helvetica=
+, Arial, sans-serif;font-size:13px;line-height:18px;color:#131722;text-alig=
+n:left !important;"> <i>EPS Estimate: 2.08</i> </p> </td> </tr> </table> </=
+td> <td align=3D"right"> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0"> <tr> <td align=3D"center" style=3D"border-radius:3px;"> <a href=3D"=
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_26&ems_=
+l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" targe=
+t=3D"_blank" style=3D"font-size:14px;font-family:'Trebuchet MS', Helvetica,=
+ Arial, sans-serif;color:#2196f3;font-weight:normal;text-decoration:none;pa=
+dding:10px 15px;border-radius:3px;border:1px solid #2196f3;display:inline-b=
+lock;">Mar 25</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr=
+> <td height=3D"40" style=3D"font-size:30px;line-height:30px;">&nbsp;</td> =
+</tr> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr> =
+</table> <![endif]--> </td> </tr> </table> <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"40" style=3D"fo=
+nt-size:24px; line-height:24px;">&nbsp;</td> </tr> </table><table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td align=3D"c=
+enter" style=3D"padding: 0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <t=
+able align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"600"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![endif=
+]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"width: 100%; max-width: 600px;"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"text-align: left; border: 1px solid #e0e3eb; border-radiu=
+s: 6px; box-shadow: 0px 2px 7px rgba(0,0,0,0.05); overflow: hidden; display=
+: block;" class=3D"darkmode1"> <table cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%"> <tr> <td height=3D"32" style=3D"font-size:24px;line-height:2=
+4px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"tex=
+t-align:left;padding:0px 40px;" class=3D"padding3"> <h3 class=3D"dynamic" s=
+tyle=3D"margin:0px 0px 24px 0px;padding:0px;font-family:'Trebuchet MS', Hel=
+vetica, Arial, sans-serif;font-size:24px;line-height:32px;color:#131722;tex=
+t-align:left !important;"> <a style=3D"color:#131722;text-decoration:none;"=
+ href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_=
+1_27&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%=
+7C" target=3D"_blank">Economic Calendar</a> </h3> </td> </tr> <tr> <td vali=
+gn=3D"top" align=3D"left" style=3D"text-align:left;padding:0px 40px;" class=
+=3D"padding3"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspacing=3D"0"> <tr> <td =
+width=3D"54"><img style=3D"border-radius: 19px;" src=3D"https://imgur.com/B=
+c9pE1K.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"Logo"></td> <td>=
+ <p class=3D"textm" style=3D"margin:0px;padding:0px;font-family:'Trebuchet =
+MS', Helvetica, Arial, sans-serif;font-size:16px;line-height:21px;color:#13=
+1722;text-align:left !important;"> <a style=3D"color:#131722;text-decoratio=
+n:none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_37919=
+3_10028_1_28&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyO=
+EVOJTI5%7C" target=3D"_blank">Existing Home Sales</a> </p> <p class=3D"text=
+m" style=3D"margin:0px;padding:0px;font-family:'Trebuchet MS', Helvetica, A=
+rial, sans-serif;font-size:13px;line-height:18px;color:#131722;text-align:l=
+eft !important;"> <i>USA</i> </p> </td> </tr> </table> </td> <td align=3D"r=
+ight"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td al=
+ign=3D"center" style=3D"border-radius:3px;"> <a href=3D"https://suite42.ema=
+rsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_29&ems_l=3D11065&d=3DV2Vla=
+2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank" style=
+=3D"font-size:14px;font-family:'Trebuchet MS', Helvetica, Arial, sans-serif=
+;color:#2196f3;font-weight:normal;text-decoration:none;padding:10px 15px;bo=
+rder-radius:3px;border:1px solid #2196f3;display:inline-block;">Mar 22, 09:=
+00 ET</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> <tr> <td he=
+ight=3D"18" style=3D"font-size:12px;line-height:12px;">&nbsp;</td> </tr> <t=
+r> <td valign=3D"top" align=3D"left" style=3D"text-align:left;padding:0px 4=
+0px;" class=3D"padding3"> <table border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspacing=3D"0"=
+> <tr> <td width=3D"54"><img style=3D"border-radius: 19px;" src=3D"https://=
+imgur.com/z747hbV.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"Logo"=
+></td> <td> <p class=3D"textm" style=3D"margin:0px;padding:0px;font-family:=
+'Trebuchet MS', Helvetica, Arial, sans-serif;font-size:16px;line-height:21p=
+x;color:#131722;text-align:left !important;"> <a style=3D"color:#131722;tex=
+t-decoration:none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_379193_10028_1_30&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2=
+x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">CPI (Inflation), MM</a> </p> <p cl=
+ass=3D"textm" style=3D"margin:0px;padding:0px;font-family:'Trebuchet MS', H=
+elvetica, Arial, sans-serif;font-size:13px;line-height:18px;color:#131722;t=
+ext-align:left !important;"> <i>UK</i> </p> </td> </tr> </table> </td> <td =
+align=3D"right"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <=
+tr> <td align=3D"center" style=3D"border-radius:3px;"> <a href=3D"https://s=
+uite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_31&ems_l=3D11065=
+&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_bla=
+nk" style=3D"font-size:14px;font-family:'Trebuchet MS', Helvetica, Arial, s=
+ans-serif;color:#2196f3;font-weight:normal;text-decoration:none;padding:10p=
+x 15px;border-radius:3px;border:1px solid #2196f3;display:inline-block;">Ma=
+r 24, 02:00 ET</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> <t=
+r> <td height=3D"18" style=3D"font-size:12px;line-height:12px;">&nbsp;</td>=
+ </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align:left;padd=
+ing:0px 40px;" class=3D"padding3"> <table border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0" width=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspac=
+ing=3D"0"> <tr> <td width=3D"54"><img style=3D"border-radius: 19px;" src=3D=
+"https://imgur.com/Bc9pE1K.png" width=3D"38" height=3D"38" border=3D"0" alt=
+=3D"Logo"></td> <td> <p class=3D"textm" style=3D"margin:0px;padding:0px;fon=
+t-family:'Trebuchet MS', Helvetica, Arial, sans-serif;font-size:16px;line-h=
+eight:21px;color:#131722;text-align:left !important;"> <a style=3D"color:#1=
+31722;text-decoration:none;" href=3D"https://suite42.emarsys.net/u/nrd.php?=
+p=3DvB49VX0wEg_379193_10028_1_32&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZ=
+XcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">GDP Final</a> </p> <p cla=
+ss=3D"textm" style=3D"margin:0px;padding:0px;font-family:'Trebuchet MS', He=
+lvetica, Arial, sans-serif;font-size:13px;line-height:18px;color:#131722;te=
+xt-align:left !important;"> <i>USA</i> </p> </td> </tr> </table> </td> <td =
+align=3D"right"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <=
+tr> <td align=3D"center" style=3D"border-radius:3px;"> <a href=3D"https://s=
+uite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_33&ems_l=3D11065=
+&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_bla=
+nk" style=3D"font-size:14px;font-family:'Trebuchet MS', Helvetica, Arial, s=
+ans-serif;color:#2196f3;font-weight:normal;text-decoration:none;padding:10p=
+x 15px;border-radius:3px;border:1px solid #2196f3;display:inline-block;">Ma=
+r 25, 07:30 ET</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> <t=
+r> <td height=3D"40" style=3D"font-size:30px;line-height:30px;">&nbsp;</td>=
+ </tr> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr>=
+ </table> <![endif]--> </td> </tr> </table> <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"40" style=3D"fo=
+nt-size:24px; line-height:24px;">&nbsp;</td> </tr> </table><table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td align=3D"c=
+enter" style=3D"padding: 0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <t=
+able align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"600"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![endif=
+]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"=
+ style=3D"width: 100%; max-width: 600px;"> <tr> <td align=3D"left" valign=
+=3D"top" style=3D"text-align: left; border: 1px solid #e0e3eb; border-radiu=
+s: 6px; box-shadow: 0px 2px 7px rgba(0,0,0,0.05); overflow: hidden; display=
+: block;" class=3D"darkmode1"> <table cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%"> <tr> <td valign=3D"top" align=3D"center" style=3D"text-align=
+: center; padding: 0px;"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?=
+p=3DvB49VX0wEg_379193_10028_1_34&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZ=
+XcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D"https://s3.tr=
+adingview.com/8/8DzZqPA4_big.png" style=3D"-ms-interpolation-mode: bicubic;=
+ height: auto; max-width: 600px; width: 100%; font-family: Helvetica, Arial=
+, sans-serif; color: #414141; font-size: 18px; border-radius: 6px 6px 0px 0=
+px;" width=3D"600" border=3D"0" alt=3D"Chart"></a> </td> </tr> <tr> <td hei=
+ght=3D"32" style=3D"font-size:24px; line-height:24px;">&nbsp;</td> </tr> <t=
+r> <td valign=3D"top" align=3D"left" style=3D"text-align: left; padding: 0p=
+x 40px;" class=3D"padding3"> <h3 class=3D"dynamic" style=3D" margin: 0px 0p=
+x 16px 0px; padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sa=
+ns-serif; font-size: 24px; line-height: 32px; color: #131722; text-align: l=
+eft !important; "> <a style=3D"color:#131722;text-decoration:none;" href=3D=
+"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_35&ems=
+_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" targ=
+et=3D"_blank">Crypto Correlations</a> </h3> </td> </tr> <tr> <td valign=3D"=
+top" align=3D"left" style=3D"text-align: left; padding: 0px 40px;" class=3D=
+"padding3"> <p style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet=
+ MS', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 24px; col=
+or: #131722; text-align: left !important; "> =E2=80=9CCorrelations measure =
+the strength of a relationship between the movements of two variables and r=
+anges from 0 to 1. In general, assets with a correlation above 0.5 are cons=
+idered to have strong positive/negative correlations. Conversely, a close-t=
+o-zero correlation indicates no linear relationship.=E2=80=9D </p> </td> </=
+tr> <tr> <td height=3D"32" style=3D"font-size:24px; line-height:24px;">&nbs=
+p;</td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align: l=
+eft; padding: 0px 40px;" class=3D"padding3"> <table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" width=3D"100%"> <tr> <td> <table cellpadding=3D"0=
+" cellspacing=3D"0"> <tr> <td width=3D"54"> <a href=3D"https://suite42.emar=
+sys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_36&ems_l=3D11065&d=3DV2Vla2=
+x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img st=
+yle=3D"border-radius: 3px;" src=3D"https://s3.tradingview.com/userpics/5488=
+746-sScC_mid.png" width=3D"38" height=3D"38" border=3D"0" alt=3D"Author"></=
+a> </td> <td> <p class=3D"textm" style=3D" margin: 0px; padding: 0px; font-=
+family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 14px; line=
+-height: 21px; color: #131722; text-align: left !important; "> <a style=3D"=
+color: #131722; text-decoration: none;" href=3D"https://suite42.emarsys.net=
+/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_37&ems_l=3D11065&d=3DV2Vla2x5%7CVH=
+JhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">By Berzerk_inv=
+est</a> </p> </td> </tr> </table> </td> <td align=3D"right"> <table border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=3D"center" style=
+=3D"border-radius: 3px;" bgcolor=3D"#2196f3"> <a href=3D"https://suite42.em=
+arsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_38&ems_l=3D11065&d=3DV2Vl=
+a2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank" style=
+=3D"font-size: 14px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-se=
+rif; color: #ffffff; font-weight: normal; text-decoration: none; padding: 1=
+0px 15px; border-radius: 3px; border: 1px solid #2196f3; display: inline-bl=
+ock;">Open Idea</a> </td> </tr> </table> </td> </tr> </table> </td> </tr> <=
+tr> <td height=3D"40" style=3D"font-size:30px; line-height:30px;">&nbsp;</t=
+d> </tr> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </t=
+r> </table> <![endif]--> </td> </tr> </table> <table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"48" style=3D"=
+font-size:30px; line-height:30px;">&nbsp;</td> </tr> </table><table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td align=
+=3D"center" style=3D"padding:0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]=
+> <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"600"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![e=
+ndif]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"1=
+00%" style=3D"max-width: 600px;"> <tr> <td align=3D"center" valign=3D"top" =
+style=3D"text-align: center;"> <table cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0" width=3D"100%"> <tr> <td valign=3D"top" align=3D"center" style=
+=3D"text-align: center; padding: 0px 32px;"> <h3 class=3D"dynamic" style=3D=
+" margin: 0px; padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial,=
+ sans-serif; font-size: 24px; line-height: 32px; color: #131722; text-align=
+: center !important; "> Script of the Week </h3> </td> </tr> </table> </td>=
+ </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]--=
+> </td> </tr> </table> <table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%"> <tr> <td height=3D"24" style=3D"font-size:24px; line-he=
+ight:24px;">&nbsp;</td> </tr> </table> <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%"> <tr> <td align=3D"center" style=3D"padd=
+ing: 0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <table align=3D"center=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"600"> <tr> <td =
+align=3D"center" valign=3D"top" width=3D"600"> <![endif]--> <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"width: 1=
+00%; max-width: 600px;"> <tr> <td align=3D"left" valign=3D"top" style=3D"te=
+xt-align: left; border: 1px solid #e0e3eb; border-radius: 6px; box-shadow: =
+0px 2px 7px rgba(0,0,0,0.05); overflow: hidden; display: block;" class=3D"d=
+arkmode1"> <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> =
+<td valign=3D"top" align=3D"center" style=3D"text-align: center; padding: 0=
+px;"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_37919=
+3_10028_1_39&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyO=
+EVOJTI5%7C" target=3D"_blank"><img src=3D"https://imgur.com/FFKuxqr.png" st=
+yle=3D"-ms-interpolation-mode: bicubic; height: auto; max-width: 600px; wid=
+th: 100%; font-family: Helvetica, Arial, sans-serif; color: #414141; font-s=
+ize: 18px; border-radius: 6px 6px 0px 0px;" width=3D"600" border=3D"0" alt=
+=3D"Chart"></a> </td> </tr> <tr> <td height=3D"32" style=3D"font-size:24px;=
+ line-height:24px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"left=
+" style=3D"text-align: left; padding: 0px 40px;" class=3D"padding3"> <h3 cl=
+ass=3D"dynamic" style=3D" margin: 0px 0px 16px 0px; padding: 0px; font-fami=
+ly: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 24px; line-hei=
+ght: 32px; color: #131722; text-align: left !important; "> <a style=3D"colo=
+r:#131722;text-decoration:none;" href=3D"https://suite42.emarsys.net/u/nrd.=
+php?p=3DvB49VX0wEg_379193_10028_1_40&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ=
+1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">Tick Charts</a> </h3>=
+ </td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"text-align: le=
+ft; padding: 0px 40px;" class=3D"padding3"> <p style=3D" margin: 0px; paddi=
+ng: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-si=
+ze: 16px; line-height: 24px; color: #131722; text-align: left !important; "=
+> =E2=80=9CTick charts display price variation over a fixed number of price=
+ updates. They are not time-based like Renko or Point and Figure.=E2=80=9D =
+</p> </td> </tr> <tr> <td height=3D"32" style=3D"font-size:24px; line-heigh=
+t:24px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"left" style=3D"=
+text-align: left; padding: 0px 40px;" class=3D"padding3"> <table border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%"> <tr> <td> <table cel=
+lpadding=3D"0" cellspacing=3D"0"> <tr> <td width=3D"54"> <a href=3D"https:/=
+/suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_41&ems_l=3D110=
+65&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_b=
+lank"><img style=3D"border-radius: 3px;" src=3D"https://s3.tradingview.com/=
+userpics/1183570-FPxI_mid.png" width=3D"38" height=3D"38" border=3D"0" alt=
+=3D"Author"></a> </td> <td> <p class=3D"textm" style=3D" margin: 0px; paddi=
+ng: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-si=
+ze: 14px; line-height: 21px; color: #131722; text-align: left !important; "=
+> <a style=3D"color: #131722; text-decoration: none;" href=3D"https://suite=
+42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_42&ems_l=3D11065&d=
+=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank=
+">By LonesomeTheBlue</a> </p> </td> </tr> </table> </td> <td align=3D"right=
+"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0"> <tr> <td align=
+=3D"center" style=3D"border-radius: 3px;" bgcolor=3D"#2196f3"><a href=3D"ht=
+tps://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_43&ems_l=
+=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=
+=3D"_blank" style=3D"font-size: 14px; font-family: 'Trebuchet MS', Helvetic=
+a, Arial, sans-serif; color: #ffffff; font-weight: normal; text-decoration:=
+ none; padding: 10px 15px; border-radius: 3px; border: 1px solid #2196f3; d=
+isplay: inline-block;">Get Script</a></td> </tr> </table> </td> </tr> </tab=
+le> </td> </tr> <tr> <td height=3D"40" style=3D"font-size:30px; line-height=
+:30px;">&nbsp;</td> </tr> </table> </td> </tr> </table> <!--[if (gte mso 9)=
+|(IE)]> </td> </tr> </table> <![endif]--> </td> </tr> </table> <table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td height=
+=3D"48" style=3D"font-size:30px; line-height:30px;">&nbsp;</td> </tr> </tab=
+le><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%"> =
+<tr> <td align=3D"center" style=3D"padding:0px 10px 0px 10px;"> <!--[if (gt=
+e mso 9)|(IE)]> <table align=3D"center" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" width=3D"600"> <tr> <td align=3D"center" valign=3D"top" width=
+=3D"600"> <![endif]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%" style=3D"max-width: 600px;"> <tr> <td align=3D"center" v=
+align=3D"top" style=3D"text-align: center;"> <table cellpadding=3D"0" cells=
+pacing=3D"0" border=3D"0" width=3D"100%"> <tr> <td valign=3D"top" align=3D"=
+center" style=3D"text-align: center; padding: 0px 32px;"> <h3 class=3D"dyna=
+mic" style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet MS', Helv=
+etica, Arial, sans-serif; font-size: 24px; line-height: 32px; color: #13172=
+2; text-align: center !important; "> Learn Something New </h3> </td> </tr> =
+</table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </td> </tr> </tabl=
+e> <![endif]--> </td> </tr> </table> <table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%"> <tr> <td height=3D"24" style=3D"font-size=
+:24px; line-height:24px;">&nbsp;</td> </tr> </table><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%"> <tr> <td align=3D"center" =
+style=3D"padding: 0px 10px 0px 10px;"> <!--[if (gte mso 9)|(IE)]> <table al=
+ign=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"60=
+0"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![endif]--> <t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"width: 100%; max-width: 600px;"> <tr> <td align=3D"left" valign=3D"top"=
+ style=3D"text-align: left; border: 1px solid #e0e3eb; border-radius: 6px; =
+box-shadow: 0px 2px 7px rgba(0,0,0,0.05); overflow: hidden; display: block;=
+" class=3D"darkmode1"> <table cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%"> <tr> <td valign=3D"top" align=3D"center" style=3D"text-align: center=
+; padding: 0px;"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49=
+VX0wEg_379193_10028_1_44&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla=
+2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D"https://imgur.com/oGd=
+haDy.png" style=3D"-ms-interpolation-mode: bicubic; height: auto; max-width=
+: 600px; width: 100%; font-family: Helvetica, Arial, sans-serif; color: #41=
+4141; font-size: 18px; border-radius: 6px 6px 0px 0px;" width=3D"600" borde=
+r=3D"0" alt=3D"Chart"></a> </td> </tr> <tr> <td height=3D"32" style=3D"font=
+-size:24px; line-height:24px;">&nbsp;</td> </tr> <tr> <td valign=3D"top" al=
+ign=3D"left" style=3D"text-align: left; padding: 0px 40px;" class=3D"paddin=
+g3"> <h3 class=3D"dynamic" style=3D" margin: 0px 0px 16px 0px; padding: 0px=
+; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 24p=
+x; line-height: 32px; color: #131722; text-align: left !important; "> <a st=
+yle=3D"color:#131722;text-decoration:none;" href=3D"https://suite42.emarsys=
+.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_45&ems_l=3D11065&d=3DV2Vla2x5%=
+7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">How To Use=
+ Timelines (Video)</a> </h3> </td> </tr> <tr> <td valign=3D"top" align=3D"l=
+eft" style=3D"text-align: left; padding: 0px 40px;" class=3D"padding3"> <p =
+style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet MS', Helvetica=
+, Arial, sans-serif; font-size: 16px; line-height: 24px; color: #131722; te=
+xt-align: left !important; "> =E2=80=9CWe created Timelines to help people =
+learn more about the companies and symbols they follow. Timelines are compr=
+ehensive guides that reveal the history, key events, and defining moments o=
+f a specific symbol.=E2=80=9D </p> </td> </tr> <tr> <td height=3D"32" style=
+=3D"font-size:24px; line-height:24px;">&nbsp;</td> </tr> <tr> <td valign=3D=
+"top" align=3D"left" style=3D"text-align: left; padding: 0px 40px;" class=
+=3D"padding3"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%"> <tr> <td> <table cellpadding=3D"0" cellspacing=3D"0"> <tr> <td =
+width=3D"54"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0w=
+Eg_379193_10028_1_46&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5K=
+zk5KyUyOEVOJTI5%7C" target=3D"_blank"><img style=3D"border-radius: 3px;" sr=
+c=3D"https://s3.tradingview.com/userpics/6171439-LZyQ_mid.png" width=3D"38"=
+ height=3D"38" border=3D"0" alt=3D"Author"></a> </td> <td> <p class=3D"text=
+m" style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet MS', Helvet=
+ica, Arial, sans-serif; font-size: 14px; line-height: 21px; color: #131722;=
+ text-align: left !important; "> <a style=3D"color: #131722; text-decoratio=
+n: none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_3791=
+93_10028_1_47&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUy=
+OEVOJTI5%7C" target=3D"_blank">By TradingView</a> </p> </td> </tr> </table>=
+ </td> <td align=3D"right"> <table border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0"> <tr> <td align=3D"center" style=3D"border-radius: 3px;" bgcolor=
+=3D"#2196f3"><a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wE=
+g_379193_10028_1_48&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kz=
+k5KyUyOEVOJTI5%7C" target=3D"_blank" style=3D"font-size: 14px; font-family:=
+ 'Trebuchet MS', Helvetica, Arial, sans-serif; color: #ffffff; font-weight:=
+ normal; text-decoration: none; padding: 10px 15px; border-radius: 3px; bor=
+der: 1px solid #2196f3; display: inline-block;">Open Idea</a></td> </tr> </=
+table> </td> </tr> </table> </td> </tr> <tr> <td height=3D"40" style=3D"fon=
+t-size:30px; line-height:30px;">&nbsp;</td> </tr> </table> </td> </tr> </ta=
+ble> <!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]--> </td> </t=
+r> </table> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%"> <tr> <td height=3D"64" style=3D"font-size:24px; line-height:24px=
+;">&nbsp;</td> </tr> </table><table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" width=3D"100%"> <tr> <td height=3D"48" style=3D"font-size:30px; l=
+ine-height:30px; border-top: 1px solid #F0F3FA;">&nbsp;</td> </tr> <tr> <td=
+ height=3D"16" style=3D"font-size:16px; line-height:16px;">&nbsp;</td> </tr=
+> <tr> <td align=3D"center" class=3D"padding2"> <!--[if (gte mso 9)|(IE)]> =
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600"> <tr> <td align=3D"center" valign=3D"top" width=3D"600"> <![end=
+if]--> <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100=
+%" style=3D"max-width: 600px;"> <tr> <td align=3D"center" valign=3D"top" st=
+yle=3D"text-align: center;"> <table cellpadding=3D"0" cellspacing=3D"0" bor=
+der=3D"0" width=3D"100%"> <tr> <td valign=3D"top" align=3D"center" style=3D=
+"text-align: center;"> <table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" width=3D"100%"> <tr> <td class=3D"full center" align=3D"left"> <p style=
+=3D" margin: 0px 0px 24px 0px; padding: 0px; font-family: 'Trebuchet MS', H=
+elvetica, Arial, sans-serif; font-size: 14px; color: #787b86; line-height: =
+21px; "> Thanks for reading, <br> The TradingView Team </p> </td> <td class=
+=3D"full center" align=3D"right"> <p style=3D" margin: 0px 0px 24px 0px; pa=
+dding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font=
+-size: 14px; color: #787b86; line-height: 21px; "> 33 Irving Place, New Yor=
+k, <br> NY 10003 </p> </td> </tr> </table> </td> </tr> <tr> <td valign=3D"t=
+op" align=3D"center" style=3D"text-align: center;"> <table border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0" width=3D"100%"> <tr> <td class=3D"full cen=
+ter" align=3D"left"> <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3Dv=
+B49VX0wEg_379193_10028_1_49&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2=
+Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D"https://suite42.em=
+arsys.net/custloads/836240495/weekly/tv-icon-appstore.png" width=3D"135" he=
+ight=3D"40" alt=3D"Download on the App Store" border=3D"0"></a>&nbsp;&nbsp;=
+&nbsp;<a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_37919=
+3_10028_1_50&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyO=
+EVOJTI5%7C" target=3D"_blank"><img src=3D"https://suite42.emarsys.net/custl=
+oads/836240495/weekly/tv-icon-googleplay.png" width=3D"135" height=3D"40" a=
+lt=3D"Get it on Google Play" border=3D"0"></a> <br /> <br /> </td> <td clas=
+s=3D"full center" align=3D"right" nowrap> <a href=3D"https://suite42.emarsy=
+s.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_51&ems_l=3D11065&d=3DV2Vla2x5=
+%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=
+=3D"https://suite42.emarsys.net/custloads/836240495/weekly/tv-icon-facebook=
+.png" width=3D"40" height=3D"40" alt=3D"TradingView on Facebook" border=3D"=
+0"></a> &nbsp; <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0=
+wEg_379193_10028_1_52&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5=
+Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D"https://suite42.emarsys.=
+net/custloads/836240495/weekly/tv-icon-youtube.png" width=3D"40" height=3D"=
+40" alt=3D"TradingView on Youtube" border=3D"0"></a> &nbsp; <a href=3D"http=
+s://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_53&ems_l=3D=
+11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D=
+"_blank"><img src=3D"https://suite42.emarsys.net/custloads/836240495/weekly=
+/tv-icon-linkedin.png" width=3D"40" height=3D"40" alt=3D"TradingView on Lin=
+kedIn" border=3D"0"></a> &nbsp; <a href=3D"https://suite42.emarsys.net/u/nr=
+d.php?p=3DvB49VX0wEg_379193_10028_1_54&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGl=
+uZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank"><img src=3D"https:/=
+/suite42.emarsys.net/custloads/836240495/weekly/tv-icon-twitter.png" width=
+=3D"40" height=3D"40" alt=3D"TradingView on Twitter" border=3D"0"></a> <br =
+/> <br /> </td> </tr> </table> </td> </tr> <tr> <td height=3D"24" style=3D"=
+font-size:24px; line-height:24px;">&nbsp;</td> </tr> <tr> <td height=3D"41"=
+ style=3D"border-top: 1px solid #e0e3eb;font-size:24px; line-height:24px;">=
+&nbsp;</td> </tr> <tr> <td valign=3D"top" align=3D"center" style=3D"text-al=
+ign: center; padding: 0px;"> <p style=3D" margin: 0px; padding: 0px; font-f=
+amily: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 14px; line-=
+height: 21px; color: #787B86; "> Want to be featured in this newsletter? Re=
+ad <a class=3D"link" style=3D"text-decoration: none; color: #2196F3;" href=
+=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_379193_10028_1_55&=
+ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV2Vla2x5Kzk5KyUyOEVOJTI5%7C" t=
+arget=3D"_blank">our guidelines</a> and submit your profile in the comments=
+. <br><br> This email was sent to <a style=3D"text-decoration: none; color:=
+ #2196F3;" href=3D"mailto:chris@alednow.com" >chris@alednow.com</a> because=
+ on 2021-03-17, you signed up at <a class=3D"link" style=3D"text-decoration=
+: none; color: #2196F3;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3D=
+vB49VX0wEg_379193_10028_1_56&ems_l=3D11065&d=3DV2Vla2x5%7CVHJhZGluZ1ZpZXcrV=
+2Vla2x5Kzk5KyUyOEVOJTI5%7C" target=3D"_blank">TradingView.com</a>. If you d=
+on't want to receive this type of emails anymore, you can <a class=3D"link"=
+ style=3D"text-decoration: none; color: #2196F3;" href=3D"https://tradingvi=
+ew.com/accounts/subscriptions/?k=3DeyJpZCI6IDE4NjE2NDQ3LCAiZW1haWwiOiAiY2hy=
+aXNAYWxlZG5vdy5jb20ifQ.mkGpVzGwFRoS1Yz_wniF9b2oNQ6jJQFr9gJr7AaXD4M" target=
+=3D"_blank">unsubscribe</a> at any time. </p> </td> </tr> <tr> <td height=
+=3D"24" style=3D"font-size:24px; line-height:24px;">&nbsp;</td> </tr> <tr> =
+<td valign=3D"top" align=3D"center" style=3D"text-align: center; padding: 0=
+px;"> <p style=3D" margin: 0px; padding: 0px; font-family: 'Trebuchet MS', =
+Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #7=
+87b86; "> <strong>DISCLAIMER:</strong> All posts and descriptions in this e=
+mail are ideas of individual authors for educational and entertainment purp=
+ose and may not reflect the opinions of TradingView. None of the ideas post=
+ed are investment advice. TradingView is not a broker, or an introducing br=
+oker, and we do not encourage anyone to perform trades on live accounts. </=
+p> </td> </tr> </table> </td> </tr> </table> <!--[if (gte mso 9)|(IE)]> </t=
+d> </tr> </table> <![endif]--> </td> </tr> <tr> <td height=3D"48" style=3D"=
+font-size:30px; line-height:30px;">&nbsp;</td> </tr> <tr> <td height=3D"16"=
+ style=3D"font-size:16px; line-height:16px;">&nbsp;</td> </tr> </table> <im=
+g src=3D"https://suite42.emarsys.net/mo/vB49VX0wEg_836240495_10028_379193_1=
+1065.gif" height=3D"2" width=3D"2" border=3D"0" alt=3D""></body> </html>
+----=_---NextPart--=_-owPpcWNBpk--

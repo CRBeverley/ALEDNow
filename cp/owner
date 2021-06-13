@@ -1,0 +1,46 @@
+# cPanel -- If you edit this file directly you must run /usr/local/cpanel/scripts/updateuserdomains afterwards to rebuild the system caches.
+# If you edit MAX_EMAIL_PER_HOUR or MAX_EMAIL_PER_HOUR-[domain] you must run /usr/local/cpanel/scripts/updateuserdomains'
+
+BACKUP=1
+BWLIMIT=0
+CHILD_WORKLOADS=
+CONTACTEMAIL=CRBeverley@gmail.com
+CONTACTEMAIL2=
+DEMO=0
+DISK_BLOCK_LIMIT=1023998976
+DNS=alednow.com
+FEATURELIST=default
+HASCGI=1
+HASDKIM=1
+HASSPF=0
+IP=192.232.216.164
+LEGACY_BACKUP=0
+LOCALE=en
+MAILBOX_FORMAT=maildir
+MAXADDON=999
+MAXFTP=unlimited
+MAXLST=25
+MAXPARK=999
+MAXPASSENGERAPPS=4
+MAXPOP=unlimited
+MAXSQL=unlimited
+MAXSUB=100
+MAX_EMAILACCT_QUOTA=unlimited
+MTIME=1556520419
+MXCHECK-alednow.com=0
+OWNER=root
+PLAN=Baby Croc
+PUSHBULLET_ACCESS_TOKEN=
+RS=hostgator
+SSL_DEFAULT_KEY_TYPE=system
+STARTDATE=1556494825
+USER=owner
+UTF8MAILBOX=1
+notify_account_authn_link=1
+notify_account_authn_link_notification_disabled=1
+notify_contact_address_change=1
+notify_contact_address_change_notification_disabled=1
+notify_disk_limit=1
+notify_email_quota_limit=1
+notify_password_change=1
+notify_password_change_notification_disabled=1

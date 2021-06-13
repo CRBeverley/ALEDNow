@@ -1,0 +1,172 @@
+Return-Path: <bounces+633772-ec66-chris=alednow.com@email.prnewswire.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id COZWM8lWt2AfIAUAi5QuQQ
+	(envelope-from <bounces+633772-ec66-chris=alednow.com@email.prnewswire.com>)
+	for <chris@alednow.com>; Wed, 02 Jun 2021 05:00:41 -0500
+Return-path: <bounces+633772-ec66-chris=alednow.com@email.prnewswire.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Wed, 02 Jun 2021 05:00:41 -0500
+Received: from o1.email.prnewswire.com ([50.31.33.53]:8508)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <bounces+633772-ec66-chris=alednow.com@email.prnewswire.com>)
+	id 1loNg1-001PmU-Ku
+	for chris@alednow.com; Wed, 02 Jun 2021 05:00:41 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; 
+	d=prnewswire.com; 
+	h=content-transfer-encoding:content-type:from:mime-version:reply-to:subject:to; 
+	s=smtpapi; bh=eEJ1bgp9OHRNWMb/y0mGqn+rUuqyqlxhkIdN92eYbz0=; b=Ys
+	UfvH+hGQfokFgWffn3xxVqbU+1FGNxjYkMOHgBaIvHmeidiD9WkX/bvkaT/tmvnM
+	3ZJXJAdMk23e3bxfZopjcp1rTPjZFAU9u1P70JW4st3E5I4tdpVv8qLen/hIs6bA
+	eIyaNrq3H0JKD+T6Td0KgjGmBCGHJ02ql59qU9LyU=
+Received: by filter2535p1mdw1.sendgrid.net with SMTP id filter2535p1mdw1-22236-60B756BA-2B
+        2021-06-02 10:00:26.863877142 +0000 UTC m=+1240538.803764677
+Received: from NjMzNzcy (unknown)
+	by ismtpd0185p1mdw1.sendgrid.net (SG) with HTTP id bN_smHycTOS_aqGpqMBaHw
+	Wed, 02 Jun 2021 10:00:26.809 +0000 (UTC)
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 02 Jun 2021 10:00:27 +0000 (UTC)
+From: "ReneSola Ltd." <news@prnewswire.com>
+Mime-Version: 1.0
+Reply-to: ir@renesolapower.com
+Subject: ReneSola Power to Participate in a Fireside Chat at the Cowen Sustainability & Energy Transition Summit
+To: chris@alednow.com
+X-Sendmail-SourceSystemIdentifier: UxzLi1x27Hbser2E3m7Diw==oXAornj06g2BQmDmbXrcbccQaoiu6mALbMT8+nZ/gek=
+Message-ID: <bN_smHycTOS_aqGpqMBaHw@ismtpd0185p1mdw1.sendgrid.net>
+X-SG-EID: aCCjVbkMkLt9eQzj5T8f8U4TXpQYmKOHNte5a1iLVtHmr1JUmk4Qhe/+hPDnzUAvRDoWehFJ9AGQzE
+ 4Ixxd2aAs0dzimUAWvUQaRE+1WYt+nvc2ZC1fAuEszt2AkqgBO3JgY47+WrMJWvtjAkgkZv0Tg7YHi
+ 4dAqV8ObujcQxIb8FP4n3hVD/D1aXi/nLRvwiHiMiYoQ8lpoX8ujcrIC9Lhv6VQVte8LXWhmJEJOV3
+ U=
+X-SG-ID: W/b2yCS6alpLbbOs9IUVPviXuul0pOqwGaRbbC23BJxHfMK+6qxp4Z4CVbr2TTAsn7tPGfFatPyzQ/
+ 76itMlyVfxJOuPQMWzTYzSLZCPVe0+6641zSItzPUzvMcwVlatqk/ncKSTDI66/nahMsChdAkNFyHk
+ kCKNY7r1SS3zFKE=
+X-Entity-ID: 4PlPyuRXX9AaN4cfgAVsIg==
+
+<html>
+<head>
+ <meta http-equiv=3D"content-type" content=3D"text/html;charset=3Diso-8859-=
+1" />
+
+<link rel=3D"stylesheet" href=3D"http://www.prnewswire.com/includes/41a6333=
+31580fe3ae69f8ad3ea341f87/styles.css" type=3D"text/css" />
+
+ <style type=3D"text/css">
+ 	body { margin-left: 3px; }
+ 	#ReleaseContent h1 {
+ 	  font-family: Verdana,Helvetica,sans-serif;
+ 	  font-size: 20px;
+ 	  font-weight: 400;
+ 	  line-height: 20px;
+ 	  padding: 0;
+ 	  margin: 0;
+ 	  margin-top: 15px;
+           margin-bottom: 15px;
+ 	  margin-left: 3px;
+ 	  }
+ 	#ReleaseContent p, #ReleaseContent p * {
+ 	  margin: 0;
+           padding: 0;
+           padding-top:15px;
+           }
+ 	#ReleaseContact {
+ 	  border: none;
+           margin: 0;
+           padding: 0;
+ 	  }
+</style>
+
+</head>
+
+<body>
+
+<div id=3D"ReleaseContent">
+
+
+    <br />
+    <div id=3D"divHeadline">
+      <!-- #Begin headline -->
+      <p style=3D"TEXT-ALIGN: center">
+        <b>ReneSola Power to Participate in a Fireside Chat at the Cowen Su=
+stainability &amp; Energy Transition Summit</b>
+      </p>
+      <!-- #End headline -->
+    </div>
+    <div id=3D"divBody">
+      <!-- #Begin release -->
+<!-- #Begin Wide Release --><div id=3D"divWide">
+
+    <br /><br />
+    <div id=3D"ReleaseContent" class=3D"content">
+        <p>STAMFORD, Conn., June 2, 2021 /PRNewswire/ --=C2=A0ReneSola Ltd =
+("ReneSola Power" or the "Company") (<a target=3D"_blank" href=3D"http://em=
+ail.prnewswire.com/ls/click?upn=3DxUJPOf2UlCyMEnoI-2FyynhEEmvmkVbRPlaF0jGA7=
+x9-2F43w-2Bkm-2FBSBPWXPH00l-2BRRXQg3k_udT3v8hfWpShd4l40iR1Yg-2B0PB1m5ciNfCL=
+6TqfZvxg9eIUA-2Bs1EHmQSbGV0Qh30s1kEY384v5CgtLLpMoRmboXmgq9ZZCTHYyrk99MoUDGG=
+SXxZcNU3tYPpWXtstP2h4s5jDxJicZ-2B8cIMObPdH25cTGZvdSWDQMaV8mWHDmgOT-2B7yDsyf=
+XUaQxTwoEBBTs-2B4iCDFq-2FD4EyyYyhuYdmOWjn6emRibzVJTmNmaCROBQN-2BnklxiPFEEN2=
+1U5xJeeJfeDRnzkEFTKRJFLSbnJ-2FmcX1Oy-2F4wyZ9pIYXKhAjNK5HMG0skcxM-2FkA4U-2FC=
+4eKxXjTdJetNYlv-2BKYfQobSznGsmsbOq7fUyyQqZVyECNiWU-3D" style=3D"COLOR: blue=
+">www.renesolapower.com</a>) (NYSE: SOL), a leading fully integrated solar =
+project developer, today announced that the management team will present in=
+ a fireside chat at the Cowen Sustainability &amp; Energy Transition Summit=
+ on Wednesday, June 9, 2021 at 3:10 p.m. Eastern Time.</p><div class=3D"PRN=
+_ImbeddedAssetReference" id=3D"DivAssetPlaceHolder8314"><p><img src=3D"http=
+s://mma.prnewswire.com/media/707006/ReneSola_Logo.jpg" title=3D"ReneSola Lo=
+go. (PRNewsFoto/ReneSola Ltd) (PRNewsfoto/ReneSola Ltd.)" /></p></div><p>Ma=
+nagement will be available for one-on-one meetings with institutional inves=
+tors at the event. Portfolio managers and analysts who wish to request a me=
+eting should contact their institutional sales representative at Cowen.</p>=
+<p><b>About ReneSola Power</b></p><p>ReneSola Power (NYSE: SOL) is a leadin=
+g global solar project developer and operator. The Company focuses on solar=
+ power project development, construction management and project financing s=
+ervices. With local professional teams in more than 10 countries around the=
+ world, the business is spread across a number of regions where the solar p=
+ower project markets are growing rapidly, and can sustain that growth due t=
+o improved clarity around government policies. The Company's strategy is to=
+ pursue high-margin project development opportunities in these profitable a=
+nd growing markets; specifically, in the U.S. and Europe, where the Company=
+ has a market-leading position in several geographies, including Poland, Hu=
+ngary, Minnesota and New York.</p>
+        <div class=3D"PRN_ImbeddedAssetReference" id=3D"DivAssetPlaceHolder=
+0">
+        </div>
+    </div>
+</div><!-- #End Wide Release --><br /><br /><div id=3D"divMediaContact"><p =
+/><p>CONTACT: In=C2=A0the United States: ReneSola Power, Mr. Adam Krop, +1 =
+(347) 577-9055 x115, IR.USA@renesolapower.com; The Blueshirt Group, Mr. Ral=
+ph Fong, +1 (415) 489-2195, ralph@blueshirtgroup.com; In=C2=A0China: ReneSo=
+la Power, Ms. Ella Li, +86 21 6280-9881 x8004, ir@renesolapower.com; The Bl=
+ueshirt Group Asia, Mr. Gary Dvorchak, CFA, +86 (138) 1079-1480, gary@blues=
+hirtgroup.com</p></div><!-- #End release --></div>
+    <br />
+=20=20
+
+</div>
+
+<p>This information is being distributed to you by: ReneSola Ltd.</p>
+<p>7/F, Block B, Future Land Holdings Tower, No. 5, Lane 388, Zhongjiang Ro=
+ad, Putuo District, Shanghai, Shanghai, 200062, China<br />
+</p>
+
+<p>
+If you wish to stop receiving these types of messages from us, you can <a h=
+ref=3D"mailto:ir@renesolapower.com?subject=3DPlease unsubscribe me">unsubsc=
+ribe</a> at any time.
+</p>
+
+<img src=3D"http://email.prnewswire.com/wf/open?upn=3D-2BPPYzd87qq10IXJQDD0=
+DU8546-2Bzt-2BGLKnyqeWHLVQ-2F0uL8haILh6HpM-2FleFLS0r1X0ngeRYQk7OWj3gIxtZ8Uz=
+YvaWnAKRf7QyfytjS3RZ6cohRxXiihf6gFbZYo7I9ZxLi7bilFxU3477CLE3iIUS64kRP1eszhm=
+UufZLjL-2FtFZnivzAnifpCchnOJd9g7rRivN-2Fy3Yw6L-2FbAHH6ZFRW-2FkbKm8oj8GVNshE=
+oWLnFZ3vVvDgDQCGaTTiJtNHJI-2FvFixZn5qo2fFJv6ay2irdom1AMzUdzUO0qcfG9t28ggHuw=
+Kiieia01Tw6dUDr52xKhyCEPDPV0IEhYeOfXxhGrmQdpeMxHxI3n3rtIJWdum6dRoGpX7TgSncF=
+pME-2F6OE1" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:=
+1px !important;width:1px !important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 !important;margin-left=
+:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-=
+right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>

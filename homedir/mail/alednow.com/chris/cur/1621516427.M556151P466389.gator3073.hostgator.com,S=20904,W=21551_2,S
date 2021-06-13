@@ -1,0 +1,647 @@
+Return-Path: <bounce-1930424_HTML-1262824806-76073046-10019257-4937@bounce.mail.thehartford.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id 0NkRIYtgpmDVHQcAi5QuQQ
+	(envelope-from <bounce-1930424_HTML-1262824806-76073046-10019257-4937@bounce.mail.thehartford.com>)
+	for <chris@alednow.com>; Thu, 20 May 2021 08:13:47 -0500
+Return-path: <bounce-1930424_HTML-1262824806-76073046-10019257-4937@bounce.mail.thehartford.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Thu, 20 May 2021 08:13:47 -0500
+Received: from mta.mail.thehartford.com ([66.231.92.236]:44380)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <bounce-1930424_HTML-1262824806-76073046-10019257-4937@bounce.mail.thehartford.com>)
+	id 1ljiUl-002FA9-Cb
+	for chris@alednow.com; Thu, 20 May 2021 08:13:47 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=mail.thehartford.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:
+ X-CSA-Complaints:Message-ID:Content-Type:Content-Transfer-Encoding;
+ i=TheHartford@mail.thehartford.com;
+ bh=Jd4HdLjB85G/PjAB2IIEAFjEzSa1exCmayPCoZ3M/qg=;
+ b=jD/g+n3fLj9fLgFfgiMzi0bv8gOI24etJ+nQIsywpDcdNagsrzWOal1+UkNOVWy7oIvegkpnzobD
+   uAII885BeHt3FmV+STEaz9i+ltk5oTGv41JLpT5H/fuLL7Nobp/QhiVPC9FHwajyESuw2ZknN8uE
+   Vxnk5WpDu1/WgA1LCWc=
+Received: by mta.mail.thehartford.com id hkpg8m2fmd40 for <chris@alednow.com>; Thu, 20 May 2021 13:13:32 +0000 (envelope-from <bounce-1930424_HTML-1262824806-76073046-10019257-4937@bounce.mail.thehartford.com>)
+From: "The Hartford" <TheHartford@mail.thehartford.com>
+To: <chris@alednow.com>
+Subject: Get a Business Insurance Quote Today!
+Date: Thu, 20 May 2021 07:13:32 -0600
+List-Unsubscribe: <mailto:leave-fc8415797664007f717b28313958-fdf8157273660c7f711c7073-fe5e13767563077d7112-fe66157075650d7f7013-ff2810797663@leave.mail.thehartford.com>
+MIME-Version: 1.0
+Reply-To: "P&C Small Business" <reply-fe5e13767563077d7112-1930424_HTML-1262824806-10019257-4937@mail.thehartford.com>
+List-ID: <159662.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 10019257_76073046
+Message-ID: <49af2367-51d2-466c-a555-1f36a3c69b09@ind1s01mta806.xt.local>
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Hartford Financial Services Group, Inc.</title>
+</head>
+<body><style type="text/css">
+div.preheader 
+{ display: none !important; } 
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">The Hartford offers industry-leading options for Property & General Liability, Workers' Compensation and Business Auto coverage.</div>
+
+<style type="text/css">
+
+	body{
+		margin-top: 0;	
+		margin-right: 0;	
+		margin-bottom: 0;	
+		margin-left: 0;
+		-webkit-text-size-adjust: none;
+		-ms-text-size-adjust:100%;
+		-ms-interpolation-mode: bicubic;
+	}
+	
+	a {
+		color: #3a5a78;
+	}
+	
+	/* bug fix, removes gap between tables outlook 2007, 2010 */ 
+	table {
+		border-collapse:collapse;
+		mso-table-lspace:0;
+		mso-table-rspace:0;
+	}
+	
+	/*bug fix for outlook*/
+	.ExternalClass * {
+		line-height: 100%
+	}
+
+</style>
+<style type="text/css">
+    @media only screen and (max-width: 568px) {
+
+		/*
+		//////////base styles for tempate//////////
+		*/
+
+		html {
+			min-width:100% !important;
+		}
+
+		body {
+			min-width:100% !important;
+		}
+		
+		table[class="hig-mobile-pre-header"] { 
+			border-collapse:collapse !important;
+			width:100% !important;
+		}
+
+		td[class="hig-mobile-logo"], img[class="hig-mobile-logo"] { 
+			width:57px !important;
+		}
+		
+		td[class="hig-mobile-page-box"] { 
+			border:none !important;
+			border-top-width:1px !important;
+			border-top-style:solid !important;
+			border-top-color: #dadada !important;
+		}
+		
+		span[class="hig-mobile-footer-link"] {
+			padding-right:40px !important;	
+			line-height:40px !important;	
+		}
+
+		/*
+		//////////mobile phone number links//////////
+		*/
+
+		a[href^="tel"], a[href^="sms"] {
+			text-decoration: none;
+			color: #3a5a78; /* or whatever your want */
+			pointer-events: none;
+			cursor: default;
+		}
+
+		.hig-mobile-link a[href^="tel"], .hig-mobile-link a[href^="sms"] {
+			text-decoration: default;
+			color: #3a5a78 !important; /* or whatever your want */
+			pointer-events: auto;
+			cursor: default;
+		}
+
+		.hig-mobile-link-legal a[href^="tel"], .hig-mobile-link-legal a[href^="sms"] {
+			text-decoration: default;
+			color: #666666 !important; /* or whatever your want */
+			pointer-events: auto;
+			cursor: default;
+		}
+
+		.hig-mobile-link-legal a {
+			text-decoration: default;
+			color: #666666 !important; /* or whatever your want */
+			pointer-events: auto;
+			cursor: default;
+		}
+
+		/*
+		//////////standard responsive styles//////////
+		*/
+
+		*[class*="hig-mobile-page-width"] { 
+			width:100% !important;
+		}
+
+		*[class*="hig-mobile-hide"] { 
+			display:none !important;
+		}
+
+		td[class="hig-mobile-wrap-column"] { 
+			float:left !important;
+			width:100% !important;
+			border:none !important;
+		}
+		
+		td[class=hig-mobile-wrap-column-font] { 
+			margin-top:0px !important;
+			float:left !important;
+            width:100% !important;
+			border:none !important;
+			line-height:22px !important;
+			font-size:15px !important;
+        }
+		
+		td[class=hig-mobile-font] { 
+			line-height:22px !important;
+			font-size:15px !important;
+        }
+
+		/*
+		//////////Custom local responsive styles//////////
+		(add any styles specific to your email below)
+		*/
+ 
+	}
+</style>
+
+
+<!--begin header HIG logo-->
+<!--begin header HIG logo-->
+<!--begin header HIG logo-->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+
+<tr valign="top"><td>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="hig-mobile-page-width">
+<tr valign="top">
+<td>
+
+<!--begin logo/snippet-->
+<table width="100%" border="0" cellpadding="10" cellspacing="0" class="hig-mobile-pre-header">
+  <tr>
+    <td align="left" style="padding-left: 20px;" class="hig-mobile-logo"><a href="https://click.mail.thehartford.com/?qs=c847a20f084d10011aebc565ba545d1de0a2682145895036137ad1d5313fc79e50ee99144621529c6d0187582b519a2a0ff9734da53dbca2" target="_blank">
+   <img src="http://image.agent.thehartford.com/lib/fec71578706c057c/m/2/adhoc-email-logo.gif" alt="The&nbsp;Hartford" border="0" width="75" style="display: block;" class="hig-mobile-logo"></a></td>
+    <td valign="middle" align="right">
+        <!--begin snippet-->
+        <table border="0" cellpadding="10" cellspacing="0">
+          <tr valign="top">
+            <td align="center" style="font-family:Arial, Helvetica, sans-serif; font-size: 13px; color:#666666;" class="hig-mobile-hide">View as a <a href="https://view.mail.thehartford.com/?qs=9e6b15202bd48e860e285ecc82946a090a24835cc826f917119be7ff96c94d85f96a4e248c0bc867a22fa880c03b4ae9cfdc0248d4f0f1401bc4dce9dfbfd15a64cdf3564f6c9fc4deb131856b2cc83160c1c316eab66590" target="_blank" style="color:#3a5a78;">web page</a>.</td>
+          </tr>
+        </table>
+        <!--end snippet-->
+    </td>
+</tr>
+</table>
+<!--end logo/snippet-->
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<!--end header HIG logo-->
+<!--end header HIG logo-->
+<!--end header HIG logo-->
+
+
+
+
+<!--/////begin email/////-->
+<!--/////begin email/////-->
+<!--/////begin email/////-->
+
+<!--begin page background-->
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#dadada">
+
+<tr valign="top">
+
+<!--begin side bar backgound-->
+<td class="hig-mobile-hide">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr><td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr><td height="20" style="line-height:20px; font-size: 1px;">&nbsp;</td></tr>
+</table>
+</td></tr>
+</table>
+</td>
+<!--end side bar backgound-->
+
+<td width="600" class="hig-mobile-page-width">
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" class="hig-mobile-page-width">
+<tr valign="top">
+<td>
+
+
+<!-- Start Phone Number Else -->
+<!-- Start Phone Number Else -->
+<!-- Start Phone Number Else -->
+<table border="0" cellpadding="5" cellspacing="0" width="100%">
+
+<tr valign="top" align="right" bgcolor="#484848"><td>
+
+<table border="0" cellpadding="0" cellspacing="0">
+
+<!--begin paragraph-->
+<tr valign="top" align="right"><td style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color: #ffffff;"><strong>Call The Hartford at <span style="text-decoration:underline">1-800-441-8371</span> to discuss your quote.</strong>
+</td></tr>
+<!--end paragraph-->
+
+</table>
+
+</td>
+</tr>
+</table>
+
+<!-- end Phone Number Else -->
+<!-- end Phone Number Else -->
+<!-- end Phone Number Else -->
+
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td bgcolor="#ffffff"  class="hig-mobile-page-box">
+
+
+
+<!--begin content: headline_box_lob_50_50_wrap_down.html-->
+<!--begin content: headline_box_lob_50_50_wrap_down.html-->
+<!--begin content: headline_box_lob_50_50_wrap_down.html-->
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#e2edf6">
+<tr>
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+
+<td valign="top" bgcolor="#e2edf6" class="hig-mobile-wrap-column" height="100%">
+<table width="100%" cellpadding="20" cellspacing="0" border="0">
+<tr>
+<td valign="top" >
+<!--begin headline table-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td align="left" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size: 20px; color: #3a5a78;"><b>Get a Quote. Protect Your Business.</b></td>
+</tr>
+
+<tr><td height="12" style="line-height:12px; font-size: 1px;">&nbsp;</td></tr>
+
+
+
+
+<tr><td style="font-family:Arial, Helvetica, sans-serif; font-size: 13px; color: #484848;" class="hig-mobile-font">
+You've worked hard to build your business. No matter if it's zero to 10+ employees; a home office or a store front &ndash; making sure you've got not only enough insurance coverage, but the right coverage is critical. The Hartford offers industry-leading options for Property &amp; General Liability, Workers' Compensation and Business Auto coverage. <br>
+<br>
+
+Get a free business insurance quote from The&nbsp;Hartford.
+
+
+</td>
+</tr>
+
+<tr><td height="20" style="line-height:20px; font-size: 1px;">&nbsp;</td></tr>
+<tr>
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+
+<td valign="top" align="center" width="100%" class="hig-mobile-wrap-column">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<td valign="top" align="center">
+<table width="82%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate;" class="hig-mobile-page-width">
+<tr><td align="center" valign="middle" bgcolor="#FF6600" >
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="hig-mobile-page-width">
+<tr>
+<td align="center">
+<!--/////begin CTA button/////-->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate;">
+<tr><td align="center" valign="middle" bgcolor="#f26722">
+
+<table width="100%" border="0" cellpadding="11" cellspacing="0">
+<tr><td align="center" valign="middle"><a href="https://click.mail.thehartford.com/?qs=c847a20f084d1001dfc862db4b9706134c0fcfb673811f350adc44db175e3787cf90fb9119162b47e69e7bc0438c06672dd0e1621d3b49d4" style="font-family:sans-serif; font-size: 15px; color: #ffffff; font-weight:bold; text-decoration:none; -webkit-text-size-adjust:none; display:block;" target="_blank">GET A QUOTE ONLINE&nbsp;&rsaquo;</a></td></tr>
+</table>
+
+</td></tr>
+</table>
+<!--/////end CTA button/////-->
+
+
+
+
+</td></tr>
+</table>
+
+</td></tr>
+</table></td>
+</table>
+
+</td>
+
+
+
+</tr>
+</table>
+
+</td></tr>
+
+
+
+</table>
+<!--end headline table-->
+
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+<td valign="top" width="224" class="hig-mobile-hide">
+<!--begin photo table-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+<td valign="top"><img src="http://image.mail.thehartford.com/lib/fe66157075650d7f7013/m/1/warehouse-workers-sbo-img.jpg" alt=""  class="hig-mobile-hide" style="display: block;" border="0" width="224" />
+</td>
+</tr>
+
+</table>
+<!--end photo table-->
+
+</td>
+
+</tr>
+</table>
+
+</td></tr>
+</table>
+
+<!--end content: headline_box_lob_50_50_wrap_down.html-->
+<!--end content: headline_box_lob_50_50_wrap_down.html-->
+<!--end content: headline_box_lob_50_50_wrap_down.html-->
+
+
+
+</td>
+</tr>
+</table>
+<!--Start P2 Else -->
+<!--Start P2 Else -->
+<!--Start P2 Else -->
+<table width="100%" cellpadding="0" cellspacing="0" border="0"  bgcolor="#ffffff">
+<tr>
+<td>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+
+
+<td valign="top" width="72%" rowspan="2" class="hig-mobile-wrap-column">
+
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+<tr>
+<td valign="top">
+
+<!--begin paragraphs table-->
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+<!--begin paragraph-->
+<tr><td style="font-family:Arial, Helvetica, sans-serif; font-size: 13px; color: #484848;" class="hig-mobile-font" align="left"><p style="margin-top:10px; margin-right:10px; margin-left:10px; margin-bottom:10px">Get a quote online or talk to a Hartford insurance specialist today to review your needs for Property &amp; General Liability, Workers' Compensation or Business Auto coverage. <span style="color:#3a5a78"><strong><a href="https://click.mail.thehartford.com/?qs=c847a20f084d1001dfc862db4b9706134c0fcfb673811f350adc44db175e3787cf90fb9119162b47e69e7bc0438c06672dd0e1621d3b49d4" style="color: #3a5a78 !important;" target="_blank">Get a quote online</a> or call <span style="text-decoration:underline">1-800-441-8371</span> to speak to a Hartford representative.</strong></span></p>
+</td></tr>
+<!--end paragraph-->
+
+</table>
+<!--end paragraphs table-->
+
+</td></tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+</td></tr>
+</table>
+
+<!--End P2 Else -->
+<!--End P2 Else -->
+<!--End P2 Else -->
+
+
+<!--////////////////////////////////-->
+<!--/////BEGIN PREVAIL/////-->
+<!--////////////////////////////////-->
+
+<table bgcolor="#484848" cellpadding="0" cellspacing="0" border="0" width="100%">
+<tr>
+<td width="20"></td>
+
+<td valign="top">
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+
+<tr><td height="10" style="line-height:10px; font-size: 1px;">&nbsp;</td></tr>
+
+<tr>
+<td class="hig-mobile-font-2" valign="top" style="font-family:Arial, Helvetica, sans-serif; font-size: 14px; color: #ffffff; font-weight:bold" align="center">Prepare. Protect. Prevail. With The Hartford.<sup style="font-size:12px">&reg;</sup>
+</td>
+</tr>
+
+<tr><td height="10" style="line-height:10px; font-size: 1px;">&nbsp;</td></tr>
+
+</table>
+
+</td>
+
+<td width="20"></td>
+</tr>
+</table>
+
+<!--//////////////////////////////-->
+<!--/////END PREVAIL/////-->
+<!--//////////////////////////////-->
+
+<!-- Start HIG badges -->
+<table cellpadding="0" cellspacing="0" width="100%" border="0" bgcolor="#dadada">
+<tr><td width="30">&nbsp;</td><td height="35" colspan="3" style="line-height:35px; font-size: 1px;">&nbsp;</td><td width="30">&nbsp;</td></tr>
+
+
+<tr><td width="30">&nbsp;</td><td width="235" style="font-family:Arial, Helvetica, sans-serif; font-size: 20px; line-height:26px; color: #3a5a78;" class="hig-mobile-wrap-column" align="center">
+<img src="http://image.mail.thehartford.com/lib/fe66157075650d7f7013/m/1/RE-1M-200plua-bdage-dadada.gif" width="198" height="94" alt="" border="0">
+</td>
+<td width="47" style="line-height:1px; font-size: 1px;" class="hig-mobile-hide">&nbsp;</td>
+
+<td class="hig-mobile-wrap-column" align="center" >
+<img src="http://image.mail.thehartford.com/lib/fe66157075650d7f7013/m/1/RE-star-rating-ethisphere-dadada.gif" width="225" height="94" alt="" border="0">
+</td>
+<td width="30">&nbsp;</td>
+</tr>
+
+
+
+
+<tr><td width="25">&nbsp;</td><td height="25" colspan="3" style="line-height:30px; font-size: 1px;">&nbsp;</td><td width="30">&nbsp;</td></tr>
+
+
+</table>
+<!-- End HIG badges -->
+
+
+
+
+
+
+<!--/////////////////////-->
+<!--/////begin legal/////-->
+<!--/////////////////////-->
+
+
+
+
+<table border="0" cellpadding="20" cellspacing="0">
+
+<tr valign="top"><td>
+
+<table border="0" cellpadding="0" cellspacing="0">
+
+<!--begin paragraph-->
+<tr valign="middle"><td style="font-family:Arial, Helvetica, sans-serif; font-size: 14px; color: #666666;" align="center">
+
+<span class="hig-mobile-footer-link">
+<a href="https://click.mail.thehartford.com/?qs=c847a20f084d10013f98cca3e85c7f3f1f02f75341cc86129649e4a8879144acad8bd6c35c6af7101a2937947a7a5c5aeeeb550d04549824" style="color: #3a5a78 !important;" target="_blank">Privacy&nbsp;Policy</a>
+</span>
+
+<span class="hig-mobile-hide">&nbsp;|&nbsp;</span>
+
+<span class="hig-mobile-footer-link">
+<a href="https://click.mail.thehartford.com/unsub_center.aspx?qs=f5ba34ec6a98d5ba9db83dd3a880dce5f2a7babe7b8f20c5b8c75e6e069c4601eeecd51d8aa8fd0ca0f515fa59e0cabf22841d32a6b6ff91046c99a4bd786844535a0bfebc62d831c4eeb2a0205f8a43" style="color: #3a5a78 !important;" target="_blank">Unsubscribe</a>
+</span>
+
+
+
+
+
+</td></tr>
+<!--end paragraph-->
+
+<tr><td height="25" style="line-height:25px; font-size: 1px;">&nbsp;</td></tr>
+
+
+
+
+<tr valign="top"><td style="font-family:Arial, Helvetica, sans-serif; font-size: 12px; color: #666666;">
+<sup>1</sup>The&nbsp;Hartford's Customer Claims Ratings as of October 2015<br>
+
+<sup>2</sup>Hartford Financial Services Group Inc. is among 132 companies recognized as a "World's Most Ethical Company" by the Ethisphere Institute, a NY &ndash; based think tank for 2015.<br>
+<sup>3</sup>Statistics referenced are for The Hartford.
+
+
+This insurance is underwritten by Hartford Fire Insurance Company, Inc., and its property and casualty affiliates, Hartford, CT. In TX, this insurance is written by Sentinel Insurance Company, Ltd., Twin City Fire Insurance Company, Hartford Accident and Indemnity Company, Hartford Fire Insurance Company, Hartford Insurance Company of the Midwest and Trumbull Insurance Company. In CA, this insurance is written by Hartford Fire Insurance Company (CA license #7268) and its property and casualty insurance affiliates.<br>
+<br>
+
+The Hartford<sup>&reg;</sup> is The Hartford Financial Services Group, Inc. and its subsidiaries, including issuing companies, Hartford Fire Insurance Company, Hartford Life Insurance Company and Hartford Life and Accident Insurance Company. Its headquarters is in Hartford, CT.<br>
+<br>
+
+This email was sent to: <a href="mailto:chris@alednow.com" target="_blank" style="color:#3a5a78 !important; text-decoration:none;">chris@alednow.com</a><br>
+<br>
+
+The Hartford, One Hartford Plaza, Hartford, CT 06155, United States<br>
+<br>
+ &copy; Copyright 2021. The Hartford Financial Services Group, Inc. All Rights Reserved.<br>
+<br>
+This email message may constitute a commercial electronic mail message under the CAN&#8209;SPAM Act of 2003.
+</td></tr>
+
+</table>
+
+</td>
+</tr>
+</table>
+
+<!--///////////////////-->
+<!--/////end legal/////-->
+<!--///////////////////-->
+
+
+</td>
+</tr>
+</table>
+
+</td>
+
+
+
+<!--begin side bar backgound-->
+<td class="hig-mobile-hide">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr><td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+<tr><td height="20" style="line-height:20px; font-size: 1px;">&nbsp;</td></tr>
+</table>
+</td></tr>
+</table>
+</td>
+<!--end side bar backgound-->
+
+
+</tr>
+</table>
+<!--end page background-->
+
+<!--/////end email/////-->
+<!--/////end email/////-->
+<!--/////end email/////-->
+
+<img src="http://click.mail.thehartford.com/open.aspx?ffcb10-fe5e13767563077d7112-fdc8157576620d7d7510737463-fe66157075650d7f7013-fe9815797664007f71-fdf8157273660c7f711c7073-ff2810797663" width="1" height="1">
+
+<!-- EOA SC LD NTR RE Ren -->
+<!-- EOA SC LD NTR RE Ren -->
+<!-- EOA SC LD NTR RE Ren -->
+<style> #_eoa_div, #_eoa_img { display:none; } @media print{ #_eoa_div { background-image: url('https://8YRnEjnGhw.eoapxl.com/8YRnEjnGhw/chris@alednow.com/P'); } } div.OutlookMessageHeader, table.moz-email-headers-table, blockquote #_eoa_div, #mailContainerBody #_eoa_div { background-image:url('https://8YRnEjnGhw.eoapxl.com/8YRnEjnGhw/chris@alednow.com/F') } </style><div id="_eoa_div"></div>
+<img id="_eoa_img" src="https://8YRnEjnGhw.eoapxl.com/8YRnEjnGhw/chris@alednow.com" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;display:block;" alt="" title="" border="0" width="1" height="1" />
+<!-- EOA SC LD NTR RE Ren -->
+<!-- EOA SC LD NTR RE Ren -->
+<!-- EOA SC LD NTR RE Ren -->
+  
+  
+</body>
+</html>
+

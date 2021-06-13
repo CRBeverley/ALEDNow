@@ -1,0 +1,411 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201911 will be lost/reset.
+# Last config file used to build this data file was /home4/owner/tmp/awstats/awstats.alednow.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2677                
+POS_VISITOR 9179                
+POS_DAY 10595               
+POS_DOMAIN 3311                
+POS_LOGIN 3644                
+POS_ROBOT 3799                
+POS_WORMS 4112                
+POS_EMAILSENDER 4243                
+POS_EMAILRECEIVER 4386                
+POS_SESSION 10939               
+POS_SIDER 11086               
+POS_FILETYPES 4521                
+POS_DOWNLOADS 4635                
+POS_OS 4683                
+POS_BROWSER 4874                
+POS_SCREENSIZE 5264                
+POS_UNKNOWNREFERER 5338                
+POS_UNKNOWNREFERERBROWSER 5568                
+POS_ORIGIN 5684                
+POS_SEREFERRALS 5818                
+POS_PAGEREFS 5983                
+POS_SEARCHWORDS 6174                
+POS_KEYWORDS 6326                
+POS_MISC 2341                
+POS_ERRORS 6385                
+POS_CLUSTER 3500                
+POS_SIDER_404 6511                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191201064944 1 0 9842739969989
+FirstTime 20191106082437
+LastTime 20191130230105
+LastUpdate 20191202063819 1 0 0 0 0
+TotalVisits 48                  
+TotalUnique 35                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 36                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 1 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 14 21 7903
+1 0 0 0 4 7 1922
+2 1 1 503 15 20 11344
+3 0 0 0 4 5 1552
+4 1 1 297 3 5 2142
+5 1 1 503 11 13 6242
+6 0 0 0 27 30 12490
+7 0 0 0 8 9 2642
+8 7 9 797444 5 8 3504
+9 0 0 0 8 8 1633
+10 3 3 1091 21 25 14410
+11 2 2 800 28 32 7277
+12 0 0 0 19 22 9836
+13 1 1 294 12 12 4571
+14 25 25 9718 13 18 10704
+15 3 3 1091 2 3 1007
+16 2 2 588 42 43 19154
+17 5 5 1468 8 9 3895
+18 3 3 1091 10 17 10504
+19 19 19 8355 166 179 105554
+20 0 0 0 9 15 8798
+21 2 2 797 26 28 19137
+22 0 0 0 33 35 16249
+23 4 4 1806 7 8 4453
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 10
+us 51 51 18414
+ca 12 12 5874
+cn 5 5 2515
+hu 3 3 882
+ru 2 2 797
+gb 2 2 591
+ie 1 3 795473
+pl 1 1 503
+sc 1 1 294
+th 1 1 503
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+spider 104 52728 20191130192016 0
+bot[\s_+:,\.\;\/\\-] 18 7385 20191129044444 0
+bingbot/ 5 1470 20191130175934 0
+aiHitBot/ 5 1484 20191120061145 0
+Googlebot/ 3 888 20191128104504 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+js 1 747789 0 0
+html 79 41569 0 0
+css 1 36488 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+win8.1 10 10
+macosx8 1 1
+Unknown 26 26
+win7 16 16
+macosx11 5 5
+macosx10 1 1
+macosx 1 1
+linuxandroid 1 1
+linux 9 9
+win10 11 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+firefox54.0 1 1
+chrome41.0.2228.0 1 1
+firefox47.0 5 5
+chrome26.0.1410.65 1 1
+opera36.0.2130.32 2 2
+opera53.0.2907.99 1 1
+firefox71.0 1 1
+firefox59.0 1 1
+msie9.0 13 13
+edge18 3 1
+firefox61.0 3 3
+chrome71.0.3578.98 1 1
+chrome76.0.3809.132 2 2
+mozilla 28 28
+chrome53.0.2785.104 10 10
+chrome78.0.3904.97 1 1
+chrome45.0.2454.94 1 1
+Unknown 6 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_ips-agent) 20191123145525
+Go-http-client/1.1 20191126195833
+Mozilla/5.0_(compatible;_Dataprovider.com) 20191121235010
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go-http-client/1.1 20191126195833
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 56
+From1 0 0
+From2 13 13
+From3 3 3
+From4 9 9
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 13 13
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://brandnewblogs.com/site-browser 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+404 363 213146
+406 9 2034
+409 38 3154
+403 26 3484
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 86
+/ads.txt 2 -
+/administrator/index.php 1 -
+/index.php 2 -
+/vendor/phpunit/phpunit/build.xml 1 -
+/admin/img/version.js 3 -
+/website/wp-includes/wlwmanifest.xml 1 -
+//wp-admin/install.php 2 -
+/new//wp-admin/install.php 2 -
+/admin/includes/general.js 1 -
+/wordpress/wp-includes/wlwmanifest.xml 2 -
+/blog/wp-includes/wlwmanifest.xml 2 -
+/site/ 3 -
+/portal/ 2 -
+/backup//wp-admin/install.php 2 -
+/wordpress//wp-admin/install.php 2 -
+/cms/ 3 -
+/ 86 -
+/web/wp-includes/wlwmanifest.xml 1 -
+/viewer/$%7Burl%7D 1 http://www.google.com/url
+/home/ 3 -
+/news//wp-admin/install.php 2 -
+/xmlrpc.php 5 -
+/test/ 3 -
+/alednow%20contact 7 -
+/viewer/viewer.css 1 -
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/backup/ 3 -
+/wp/ 9 -
+/blog/administrator/index.php 1 -
+/fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/sitemap.xml 1 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/test//wp-admin/install.php 2 -
+/2018//wp-admin/install.php 2 -
+/blog/ 9 -
+/test/wp-includes/wlwmanifest.xml 1 -
+/wp-includes/js/jquery/jquery.js 1 -
+/joomla/administrator/index.php 1 -
+/web//wp-admin/install.php 2 -
+/admin/view/javascript/common.js 1 -
+/blog//wp-admin/install.php 2 -
+/temp//wp-admin/install.php 2 -
+/old//wp-admin/install.php 2 -
+/main/ 3 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/th1s_1s_a_4o4.html 25 http://www.google.com/url
+/2019/wp-includes/wlwmanifest.xml 1 -
+/%C3%A2%C2%80%C2%9D/apple-touch-icon.png%C3%A2%C2%80%C2%9D 1 http://www.google.com/url
+/wp/wp-includes/wlwmanifest.xml 2 -
+/old/ 3 -
+/temp/ 3 -
+/tmp/ 3 -
+/js/header-rollup-554.js 1 -
+/demo/ 3 -
+/bk//wp-admin/install.php 2 -
+/admin/ 1 -
+/shop//wp-admin/install.php 2 -
+/robots.txt 42 -
+/vendor/phpunit/phpunit/LICENSE 2 -
+/site/wp-includes/wlwmanifest.xml 2 -
+/misc/ajax.js 1 -
+/wp-includes/wlwmanifest.xml 2 -
+/plugins/system/debug/debug.xml 1 -
+/joomla/robots.txt 1 -
+/new/ 3 -
+/v1/ 1 -
+/v2/ 1 -
+/dev/ 2 -
+/wordpress/ 9 -
+/wp//wp-admin/install.php 2 -
+/wp-admin/setup-config.php 1 -
+/images/editor/separator.gif 1 -
+/web/ 3 -
+/alednow%20about%20us 8 -
+// 1 -
+/wp1//wp-admin/install.php 2 -
+/viewer/viewer.js 12 -
+/alednow%20services 14 -
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/cms/wp-includes/wlwmanifest.xml 2 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 4 -
+/blog/robots.txt 7 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/cms//wp-admin/install.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 36
+158.69.26.125 11 11 5577 20191120140330
+69.58.178.57 9 9 2671 20191123145525
+60.191.38.77 5 5 2515 20191129233110
+107.174.150.252 5 5 1468 20191127171622
+66.84.91.17 5 5 1468 20191124080806
+184.154.139.26 4 4 2028 20191129192149
+184.154.139.23 4 4 2028 20191128191702
+184.154.139.15 2 2 1014 20191122192319
+92.249.158.9 2 2 588 20191128103513
+35.227.97.73 2 2 588 20191118142809
+104.196.198.200 2 2 588 20191122145723
+35.237.250.228 2 2 588 20191126153130
+54.37.76.3 2 2 1006 20191125183127
+104.196.154.205 2 2 588 20191130160011
+184.154.139.14 2 2 1014 20191130192014
+34.223.88.251 1 1 294 20191124195850
+52.70.135.239 1 1 503 20191125112905
+196.245.186.38 1 1 294 20191129192022
+184.154.36.170 1 1 507 20191120191947
+18.237.111.148 1 1 294 20191126195833
+1.10.141.220 1 1 503 20191120214322
+185.136.159.26 1 1 503 20191130230105
+79.191.178.130 1 1 503 20191121150740
+178.164.164.19 1 1 294 20191119130636
+167.114.250.111 1 1 297 20191128041909
+31.13.127.26 0 1 747789 
+51.77.246.76 1 1 297 20191121235010
+54.213.123.152 1 1 294 20191120193041
+31.13.127.7 1 2 47684 20191106082437
+77.222.96.144 1 1 294 20191126215648
+3.227.170.71 1 1 294 20191122183643
+64.246.161.190 1 1 297 20191127115915
+18.236.125.190 1 1 294 20191125194939
+35.166.27.56 1 1 294 20191125100037
+54.188.117.93 1 1 294 20191122185819
+163.172.182.111 1 1 294 20191128140842
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 14
+20191106 1 3 795473 1
+20191118 3 3 1095 2
+20191119 2 2 801 2
+20191120 14 14 6881 4
+20191121 3 3 1307 3
+20191122 6 6 2186 5
+20191123 10 10 3178 2
+20191124 10 10 3778 6
+20191125 6 6 2395 6
+20191126 5 5 1683 4
+20191127 7 7 2272 3
+20191128 4 4 1392 4
+20191129 4 4 1807 3
+20191130 4 4 1598 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 48
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 79 41569 48 48
+END_SIDER

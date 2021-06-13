@@ -1,0 +1,1786 @@
+Return-Path: <suite42@xpressus.emarsys.us>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id 6OU9Ne0RtGCT7woAi5QuQQ
+	(envelope-from <suite42@xpressus.emarsys.us>)
+	for <chris@alednow.com>; Sun, 30 May 2021 17:30:05 -0500
+Return-path: <suite42@xpressus.emarsys.us>
+Envelope-to: chris@alednow.com
+Delivery-date: Sun, 30 May 2021 17:30:05 -0500
+Received: from mta-c2711b12.ip4.emarsys.us ([194.113.27.18]:7927)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <suite42@xpressus.emarsys.us>)
+	id 1lnTwb-0030JX-Iy
+	for chris@alednow.com; Sun, 30 May 2021 17:30:05 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key4; d=email.tradingview.com;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:List-Unsubscribe-Post:
+ Content-Type:Message-ID:Date; i=hello@email.tradingview.com;
+ bh=8VoDWXp/TkV2B6NApFCuu+neCWpeSkkGJmz/bDyDvlE=;
+ b=fRyKnXd8UItJ7l55erxxWf+lrP/sRw0s/W6zUmZyb5JRS+l+MHbsQ5LYpHIMV70QgdUmGSLgc/V2
+   RCoYoDzf0VAJpjVuRjVhckJdXeI1vFEWpUWr1fWqkfLMRos70o9P0Rp/0DF5DZOwVLcujXTZpDeT
+   bbmf+MEdB5+0UD2/70Y=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=emarsys.net;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:List-Unsubscribe-Post:
+ Content-Type:Message-ID:Date;
+ bh=8VoDWXp/TkV2B6NApFCuu+neCWpeSkkGJmz/bDyDvlE=;
+ b=A+veb4JPb2wgikPtGUyuX3FR3RuXqS6h1LVthhqovo+GHxTA5yU3rb2c33YTNN00me2TUOMfX93e
+   mrZykRbVlkjNcwoVeU2lV9tmnXtcTd+1x/BrWhH8/6GWx4n22HBdWDbD50Xev26iDFvyBS403gdY
+   /Bo5OT9KpgBdg9SFiZY=
+To: chris@alednow.com
+Subject: =?UTF-8?Q?=F0=9F=93=96=20Your=20weekly=20report?=
+X-Mailer: class SMTPMail
+From: "TradingView" <hello@email.tradingview.com>
+MIME-Version: 1.0
+List-Id: 836240495 <TradingView>
+X-EMarSys-Identify: 836240495_11599_928634
+X-EMarSys-Environment: suite42
+X-Report-Abuse: Please report abuse here: abuse-report@emarsys.com
+List-Unsubscribe: <mailto:list-unsubscribe+836240495_11599_928634_vB49VX0wEg@emarsys.net>, <https://list-unsubscribe.eservice.emarsys.net/api/unsubscribe/836240495_11599_928634_vB49VX0wEg>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative;
+ boundary="--=_---NextPart--=_-nAMdgThIq1"
+Message-ID: <0.0.1B.863.1D755A34E09CA2A.0@mta-c2711b12.ip4.emarsys.us>
+Date: Mon, 31 May 2021 00:29:50 +0200
+
+
+----=_---NextPart--=_-nAMdgThIq1
+Content-Type: text/plain; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+Hey chris, here=E2=80=99s what=E2=80=99s been going on in the
+markets this week
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=C2=A0=E2=80=8C=
+=C2=A0=E2=80=8C=C2=A0=E2=80=8C
+
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_2&ems_l=
+=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyU=
+yOGRyaXAlMjk%3D%7C&_esuh=3D_7_ce26be6c23330048f122298362d5ce9d3516b0fc9af65=
+4913626085de3dd1ba7
+
+
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_4&ems_l=
+=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyU=
+yOGRyaXAlMjk%3D%7C&_esuh=3D_7_85ee71316bdb9b6259f14ef034036cefc33f8094efabf=
+254c75889439bd70907
+
+
+Weekly performance
+
+What you might have missed...
+chris, here are your most relevant symbols
+and how they've changed since last Saturday.
+
+=20
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_6&ems_l=
+=3D12746&d=3DU1BDRkQ6U1BY%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWts=
+eSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_094d39aec8c7743bcbe5f1bb51d7b5=
+c38b83cf47e1760ac67db09a070314acd9
+
+
+
+ S&amp;P 500
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_10&ems_=
+l=3D12746&d=3DU1BDRkQ6U1BY%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWt=
+seSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_6377b25469ef4e20a3b6383962031=
+aa13849e7d8d5cb5ed0b67a284385fd06b1
+
+
+4204.12
+
+ 33.96
+  0.82%
+
+
+28 May 2021, 20:04:52 UTC-5. 1W change.
+
+ =20
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_6&ems_l=
+=3D12746&d=3DTkFTREFROkFBUEw%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1=
+dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_c2c19dce136bcbe3236012f8=
+dd0efc4be0d663fc8aac94c744c6e2fdeaef9831
+
+
+
+ APPLE INC
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_10&ems_=
+l=3D12746&d=3DTkFTREFROkFBUEw%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK=
+1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_54d69aacf778887110e9b82=
+9f1d14e9cca3cf39e796e1e8e1a66353330fe3ce6
+
+
+124.61
+
+ -1.40
+  -1.11%
+
+
+28 May 2021, 23:59:58 UTC-5. 1W change.
+
+ =20
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_6&ems_l=
+=3D12746&d=3DTkFTREFROlRTTEE%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1=
+dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_e5eb6e79b3445014c278bf49=
+5da8122fef5dff294a7214ad21cdaab477ecbb5c
+
+
+
+ TESLA INC
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_10&ems_=
+l=3D12746&d=3DTkFTREFROlRTTEE%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK=
+1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_eeda513cacba16355cc68c7=
+553c62abcbb7ec852d2682a8c28f92b96faf29b2a
+
+
+625.22
+
+ 43.62
+  7.5%
+
+
+28 May 2021, 23:59:55 UTC-5. 1W change.
+
+ =20
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_8&ems_l=
+=3D12746&d=3DQklUU1RBTVA6QlRDVVNEQw%3D%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9D=
+b3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_2ee659a45e0c9e=
+7aacfcbbdef52e864a6ccce3b05528b7b6dfd75c39776013ad
+
+
+
+ Bitcoin / USD Coin
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_10&ems_=
+l=3D12746&d=3DQklUU1RBTVA6QlRDVVNEQw%3D%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9=
+Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_cab5f75dc8e0c=
+83f50b7e3fb30b59bfae04a77dccb72313b35010b3aca9e0454
+
+
+37001.00000000
+
+ 2174.00000000
+  6.25%
+
+
+29 May 2021, 06:03:38 UTC-5. 1W change.
+
+ =20
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_6&ems_l=
+=3D12746&d=3DVFZDOkRYWQ%3D%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dl=
+ZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_d26f5dfbe478912da0367f0411=
+924a27dd060a5dcf91558596d39244da8d5a21
+
+
+
+ U.S. DOLLAR CURRENCY INDEX
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_10&ems_=
+l=3D12746&d=3DVFZDOkRYWQ%3D%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1d=
+lZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_a49c113c014121189bece13a6=
+105ff696ba134669446ddc791e7ddc7e8eaf742
+
+
+90.056
+
+ 0.027
+  0.03%
+
+
+28 May 2021, 19:37:08 UTC-5. 1W change.
+
+  Don't forget, you can always explore more tickers and
+analysis=C2=A0with=C2=A0us=C2=A0anytime.
+
+Find a new opportunity
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_12&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_c2de9d9407a886963708667ed031b31050824d8339ac=
+6a98445189392488463e
+
+
+Thanks for reading,
+
+The TradingView Team
+
+33 Irving Place, New York,
+
+NY 10003
+
+ App Store
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_14&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_57ba3ae1733f2a29eba28b9bd8148f0263926d704c3a=
+5c6fba607ac76d2a57ec
+
+
+ Google Play
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_16&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_cecc192f4507b5c56a590068890ecf359dbfe94517a6=
+7555819c04da25c99dd2
+
+
+ Facebook
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_18&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_01b7db097478f6e831faa8ef6685a0d2a3c60ef9e77f=
+1fcbeaabf38e6dd740f7
+
+
+ YouTube
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_20&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_53fcde653b81617d81e88a7676b37ff4d37ed056baf9=
+63cc419857500072f9d6
+
+
+ LinkedIn
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_22&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_fb39f49505138ef335363377b9ea496486ce1bfdb4bc=
+ed4c372e90fa45bfb924
+
+
+ Twitter
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_24&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_f5a086b3b2425b05295ecb75b354d1eed951ae61bdba=
+7d91ff350623509b2234
+
+
+This email was sent to chris@alednow.com
+mailto:chris@alednow.com=20
+ because on 2021-03-17, you signed up at TradingView.com
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_26&ems_=
+l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_68175dcc50c44972761f3bc34e90cfd9fde6cfebbc6b=
+fb39a9abc54f036d35f9
+
+.
+
+If you don't want to receive this type of emails anymore, you can
+unsubscribe
+https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_28&ems_=
+l=3D12746&d=3DZXlKcFpDSTZJREU0TmpFMk5EUTNMQ0FpWlcxaGFXd2lPaUFpWTJoeWFYTkFZV=
+3hsWkc1dmR5NWpiMjBpZlEubWtHcFZ6R3dGUm9TMVl6X3duaUY5YjJvTlE2akpRRnI5Z0pyN0Fh=
+WEQ0TQ%3D%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzK=
+yUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_769d24d9ecdef68b6df08d17b927be44e73aad0aaad=
+5f803014605d8afe27310
+
+ at any time.
+
+----=_---NextPart--=_-nAMdgThIq1
+Content-Type: text/html; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+<!DOCTYPE html><html style=3D"color-scheme: light dark; supported-color-sch=
+emes: light dark;">
+<head>
+<title>Your weekly report</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"color-scheme" content=3D"light dark">
+<meta name=3D"supported-color-schemes" content=3D"light dark">
+<style>body,
+table,
+td,
+a {
+-webkit-text-size-adjust: 100%;
+-ms-text-size-adjust: 100%;
+}
+table,
+td {
+mso-table-lspace: 0pt;
+mso-table-rspace: 0pt;
+}
+img {
+-ms-interpolation-mode: bicubic;
+}
+img {
+border: 0;
+height: auto;
+line-height: 100%;
+outline: none;
+text-decoration: none;
+}
+table {
+border-collapse: collapse !important;
+}
+body {
+height: 100% !important;
+margin: 0 !important;
+padding: 0 !important;
+width: 100% !important;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+}
+a[x-apple-data-detectors] {
+color: inherit !important;
+text-decoration: none !important;
+font-size: inherit !important;
+font-family: inherit !important;
+font-weight: inherit !important;
+line-height: inherit !important;
+}
+.hided {
+display: none !important;
+}
+@media screen and (max-width:600px) {
+.columnWrapper {
+max-width: 100% !important;
+width: 100% !important;
+}
+.full {
+width: 100% !important;
+display: block;
+}
+.hidem {
+display: none !important;
+}
+.showem {
+display: block!important;
+}
+.hr {
+border-top: 1px solid #e0e3eb;
+}
+.left {
+text-align: left !important;
+}
+.center {
+text-align: center !important;
+}
+h1.dynamic {
+font-size: 32px !important;
+line-height: 40px !important;
+}
+h3.dynamic {
+font-size: 24px !important;
+line-height: 30px !important;
+}
+p.dynamic {
+font-size: 16px !important;
+line-height: 24px !important;
+}
+img.mobile1 {
+width: 109px !important;
+height: 36px !important;
+}
+img.mobile2 {
+width: 122px !important;
+height: 36px !important;
+}
+img.mobile3 {
+width: 300px !important;
+height: 300px !important;
+}
+td.padding1 {
+padding-left: 10px !important;
+}
+td.padding2 {
+padding-left: 10px !important;
+padding-right: 10px !important;
+}
+td.padding3 {
+padding: 0px 16px !important;
+}
+td.align1 {
+text-align: left !important;
+}
+}
+div[style*=3D"margin: 16px 0;"] {
+margin: 0 !important;
+}
+
+:root {
+color-scheme: light dark;
+supported-color-schemes: light dark;
+}
+
+[data-ogsc] .dark-img {
+display: block !important;
+width: auto !important;
+overflow: visible !important;
+float: none !important;
+max-height: inherit !important;
+max-width: inherit !important;
+line-height: auto !important;
+margin-top: 0px !important;
+visibility: inherit !important;
+}
+
+[data-ogsc] .light-img {
+display: none;
+display: none !important;
+}
+
+[data-ogsc] .darkmode0 {
+background-color: #1f212d !important;
+}
+
+[data-ogsc] .darkmode1 {
+background-color: #141622 !important;
+}
+
+[data-ogsc] .darkmode2 {
+background-color: #1f212d !important;
+}
+
+[data-ogsc] h1,
+[data-ogsc] h2,
+[data-ogsc] h3,
+[data-ogsc] p,
+[data-ogsc] span,
+[data-ogsc] a,
+[data-ogsc] b {
+color: #ffffff !important;
+}
+
+[data-ogsc] .link {
+color: #91ADD4 !important;
+}
+@media (prefers-color-scheme: dark) {
+
+.dark-img {
+display: block !important;
+width: auto !important;
+overflow: visible !important;
+float: none !important;
+max-height: inherit !important;
+max-width: inherit !important;
+line-height: auto !important;
+margin-top: 0px !important;
+visibility: inherit !important;
+}
+
+.light-img {
+display: none;
+display: none !important;
+}
+
+.darkmode0 {
+background-color: #1f212d !important;
+}
+
+.darkmode1 {
+background-color: #141622 !important;
+}
+
+.darkmode2 {
+background-color: #1f212d !important;
+}
+
+h1,
+h2,
+h3,
+p,
+span,
+a,
+b {
+color: #ffffff !important;
+}
+
+.link {
+color: #d1d4dc !important;
+}
+}</style>
+</head>
+<body bgcolor=3D"#ffffff" class=3D"darkmode0" style=3D"-webkit-text-size-ad=
+just: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialiased=
+; -moz-osx-font-smoothing: grayscale; background-color: #ffffff; height: 10=
+0% !important; width: 100% !important; margin: 0px !important; padding: 0 !=
+important;"><div ems:preheader style=3D"display:none!important;font-size:1p=
+x;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;over=
+flow:hidden;mso-hide:all">Hey chris, here=E2=80=99s what=E2=80=99s been goi=
+ng on in the markets this week</div>
+<div style=3D"display:none;max-height:0px;overflow:hidden;">&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;=
+&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zw=
+nj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;=
+&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nb=
+sp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;&nbsp;&zwnj;</div>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" e-bl=
+ock-id=3D"5f68b16582baf15a36000008" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; max-width: 600px; border-collapse: coll=
+apse !important;">
+<tr>
+<td colspan=3D"3" height=3D"30" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; fon=
+t-size: 30px; line-height: 30px;">&nbsp;</td>
+</tr>
+<tr>
+<td width=3D"44" align=3D"left" valign=3D"middle" style=3D"-webkit-text-siz=
+e-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-tabl=
+e-rspace: 0pt; padding-top: 5px; padding-bottom: 5px;" class=3D"padding1">
+<a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_1159=
+9_1_1&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1=
+cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_58b7388fca8d90042987e93efd7ce1b36a=
+be17b014fa93790f01a5163d0e3dcd" target=3D"_blank" style=3D"-webkit-text-siz=
+e-adjust: 100%; -ms-text-size-adjust: 100%;">
+<img class=3D"light-img" alt=3D"TradingView" src=3D"https://suite42.emarsys=
+.net/custloads/836240495/weekly/tv-icon.png" width=3D"44" height=3D"25" sty=
+le=3D"-ms-interpolation-mode: bicubic; border: 0; height: auto; line-height=
+: 100%; outline: none; text-decoration: none; width: 44px; max-width: 44px;=
+ min-width: 44px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif=
+; color: #131722; font-size: 18px;" border=3D"0">
+<!-- The following Dark Mode logo image is hidden with MSO conditional code=
+ and inline CSS, but will be revealed once Dark Mode is triggered --> <!--[=
+if !mso]> <! --> <span class=3D"dark-img" style=3D"display:none; overflow:h=
+idden; width:0px; max-height:0px; max-width:0px; line-height:0px; visibilit=
+y:hidden;">
+<img alt=3D"TradingView" src=3D"https://suite42.emarsys.net/custloads/83624=
+0495/weekly/tv-icon-white.png" width=3D"44" height=3D"25" style=3D"-ms-inte=
+rpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outlin=
+e: none; text-decoration: none; width: 44px; max-width: 44px; min-width: 44=
+px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; color: #1317=
+22; font-size: 18px;" border=3D"0">
+</span>
+<!--<![endif]-->
+</a>
+</td>
+<td align=3D"left" valign=3D"bottom" style=3D"-webkit-text-size-adjust: 100=
+%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt=
+; padding: 5px 10px 5px 10px;" class=3D"hidem">
+<a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_1159=
+9_1_3&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1=
+cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_9147353a207e7fe7e28b71b9cb6337ffc1=
+aa4634c63adb0ad377726242bbd6b6" target=3D"_blank" style=3D"-webkit-text-siz=
+e-adjust: 100%; -ms-text-size-adjust: 100%;">
+<img class=3D"light-img" alt=3D"TradingView" src=3D"https://suite42.emarsys=
+.net/custloads/836240495/weekly/tv-title.png" width=3D"112" height=3D"20" s=
+tyle=3D"-ms-interpolation-mode: bicubic; border: 0; height: auto; line-heig=
+ht: 100%; outline: none; text-decoration: none; width: 112px; max-width: 11=
+2px; min-width: 112px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-=
+serif; color: #131722; font-size: 18px;" border=3D"0">
+<!-- The following Dark Mode logo image is hidden with MSO conditional code=
+ and inline CSS, but will be revealed once Dark Mode is triggered -->
+<!--[if !mso]>
+<! -->
+<span class=3D"dark-img" style=3D"display:none; overflow:hidden; width:0px;=
+ max-height:0px; max-width:0px; line-height:0px; visibility:hidden;">
+<img alt=3D"TradingView" src=3D"https://suite42.emarsys.net/custloads/83624=
+0495/weekly/tv-title-white.png" width=3D"112" height=3D"20" style=3D"-ms-in=
+terpolation-mode: bicubic; border: 0; height: auto; line-height: 100%; outl=
+ine: none; text-decoration: none; width: 112px; max-width: 112px; min-width=
+: 112px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; color: =
+#131722; font-size: 18px;" border=3D"0">
+</span>
+<!--<![endif]-->
+</a>
+</td>
+<td align=3D"right" valign=3D"middle" style=3D"-webkit-text-size-adjust: 10=
+0%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0p=
+t; padding-top: 5px; padding-bottom: 5px;" class=3D"padding2">
+<p e-editable=3D"preheader" style=3D"
+margin: 0px;
+padding: 0px;
+font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 18px;=
+ line-height: 18px; color: #131722;
+">
+Weekly performance
+</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"18" style=3D"-webkit-text-size-adjust: 100%; -m=
+s-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; fon=
+t-size: 18px; line-height: 18px;">&nbsp;</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b19d82baf15a3600000a" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td height=3D"32" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 32px; =
+line-height: 32px;">&nbsp;</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b1c582baf15a3600000e" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; max-width: 600px; border-collapse: coll=
+apse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<h3 e-editable=3D"title" style=3D"
+margin: 0px;
+padding: 0px;
+font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 36px;=
+ line-height: 44px; color: #131722;
+">What you might have missed...</h3>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" e-bl=
+ock-id=3D"5f68b25b82baf15a3600000f" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ border-collapse: collapse !important;"> <tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b28382baf15a36000011" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; max-width: 600px; border-collapse: coll=
+apse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<p e-editable=3D"text" style=3D"
+margin: 0px;
+padding: 0px;
+font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 18px;=
+ line-height: 28px; color: #131722;
+">chris, here are your most relevant symbols and how they've changed since =
+last Saturday.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5fcbde7e33b811164e000001" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td height=3D"8" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adj=
+ust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 8px; li=
+ne-height: 8px;" class=3D"darkmode0">&nbsp;</td>
+</tr>
+</table><div e-editable=3D"app" style=3D"text-align:center;" e-block-id=3D"=
+5fcbccf9b9a85e361e000004"><!-- -1 -->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"24" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"480">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"480">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; width: 100%; max-width: 480px; border-c=
+ollapse: collapse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; border: 1px solid #e0e3eb; border-radius: 12px; displa=
+y: block;" class=3D"darkmode1">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; tex=
+t-decoration: none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49=
+VX0wEg_928634_11599_1_5&ems_l=3D12746&d=3DU1BDRkQ6U1BY%7CV2Vla2x5%7CMjAyMTA=
+1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_0=
+21107161290d95acec3710cd41092be5c7676346fae22f32086a6101ab2c407" target=3D"=
+_blank"><img style=3D"-ms-interpolation-mode: bicubic; border: 0; height: a=
+uto; line-height: 100%; outline: none; text-decoration: none; border-radius=
+: 100%;" src=3D"https://s3-symbol-logo.tradingview.com/country/US--96.png" =
+width=3D"56" alt border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;" class=3D"padding3">
+<h3 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 26px;
+color: #131722;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_9&ems_l=3D12746&d=3DU1BDRkQ6U1BY%7CV2=
+Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D=
+%7C&_esuh=3D_7_dbe3c5830f0ca765eefa187826e1ebb5f7d081a8150790643bd3cfb24469=
+fb4a" target=3D"_blank">S&amp;P 500</a>
+</h3>
+<h2 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #131722;
+">
+4204.12
+</h2>
+<h4 style=3D"
+margin: 0px 0px 2px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #009688;
+font-weight: normal;
+">
+<span>
+ 33.96
+</span>
+&nbsp; <span>
+ 0.82%
+</span>
+</span></span></h4>
+<p style=3D"
+margin: 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">
+28 May 2021, 20:04:52 UTC-5. 1W change.
+</p>
+</td>
+</tr>
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"24" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"480">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"480">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; width: 100%; max-width: 480px; border-c=
+ollapse: collapse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; border: 1px solid #e0e3eb; border-radius: 12px; displa=
+y: block;" class=3D"darkmode1">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; tex=
+t-decoration: none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49=
+VX0wEg_928634_11599_1_5&ems_l=3D12746&d=3DTkFTREFROkFBUEw%3D%7CV2Vla2x5%7CM=
+jAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=
+=3D_7_4d3a6b69900ae53d396e5449deab83035472dcd8f0712b5dce08cefc08701e93" tar=
+get=3D"_blank"><img style=3D"-ms-interpolation-mode: bicubic; border: 0; he=
+ight: auto; line-height: 100%; outline: none; text-decoration: none; border=
+-radius: 100%;" src=3D"https://s3-symbol-logo.tradingview.com/apple--96.png=
+" width=3D"56" alt border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;" class=3D"padding3">
+<h3 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 26px;
+color: #131722;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_9&ems_l=3D12746&d=3DTkFTREFROkFBUEw%3=
+D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAl=
+Mjk%3D%7C&_esuh=3D_7_a32a5f39df66ec3c0dc39b50aae27c4d852a35ebe7b686396c6b84=
+3cd6cc7e4f" target=3D"_blank">APPLE INC</a>
+</h3>
+<h2 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #131722;
+">
+124.61
+</h2>
+<h4 style=3D"
+margin: 0px 0px 2px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #009688;
+font-weight: normal;
+">
+<span style=3D"color:#EF5350">
+ -1.40
+</span>
+&nbsp; <span style=3D"color:#EF5350">
+ -1.11%
+</span>
+</span></span></h4>
+<p style=3D"
+margin: 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">
+28 May 2021, 23:59:58 UTC-5. 1W change.
+</p>
+</td>
+</tr>
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"24" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"480">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"480">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; width: 100%; max-width: 480px; border-c=
+ollapse: collapse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; border: 1px solid #e0e3eb; border-radius: 12px; displa=
+y: block;" class=3D"darkmode1">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; tex=
+t-decoration: none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49=
+VX0wEg_928634_11599_1_5&ems_l=3D12746&d=3DTkFTREFROlRTTEE%3D%7CV2Vla2x5%7CM=
+jAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=
+=3D_7_f930e5ee147ca6df5c3e82278185b7951fbe3d95a1874f37e9447b7fcdec510d" tar=
+get=3D"_blank"><img style=3D"-ms-interpolation-mode: bicubic; border: 0; he=
+ight: auto; line-height: 100%; outline: none; text-decoration: none; border=
+-radius: 100%;" src=3D"https://s3-symbol-logo.tradingview.com/tesla--96.png=
+" width=3D"56" alt border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;" class=3D"padding3">
+<h3 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 26px;
+color: #131722;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_9&ems_l=3D12746&d=3DTkFTREFROlRTTEE%3=
+D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAl=
+Mjk%3D%7C&_esuh=3D_7_0169998842d3729bb56398ab2e6a0afb0960d33a71e664f18ab083=
+0553b77d55" target=3D"_blank">TESLA INC</a>
+</h3>
+<h2 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #131722;
+">
+625.22
+</h2>
+<h4 style=3D"
+margin: 0px 0px 2px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #009688;
+font-weight: normal;
+">
+<span>
+ 43.62
+</span>
+&nbsp; <span>
+ 7.5%
+</span>
+</span></span></h4>
+<p style=3D"
+margin: 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">
+28 May 2021, 23:59:55 UTC-5. 1W change.
+</p>
+</td>
+</tr>
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"24" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"480">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"480">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; width: 100%; max-width: 480px; border-c=
+ollapse: collapse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; border: 1px solid #e0e3eb; border-radius: 12px; displa=
+y: block;" class=3D"darkmode1">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; tex=
+t-decoration: none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49=
+VX0wEg_928634_11599_1_7&ems_l=3D12746&d=3DQklUU1RBTVA6QlRDVVNEQw%3D%3D%7CV2=
+Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D=
+%7C&_esuh=3D_7_4b1bb0ebc55280c6aaf90e79a62341771ee2d3527bb4557d9af603bd29fa=
+608d" target=3D"_blank"> &nbsp; <img style=3D"-ms-interpolation-mode: bicub=
+ic; border: 0; height: auto; line-height: 100%; outline: none; text-decorat=
+ion: none; border-radius: 100%;" src=3D"https://s3-symbol-logo.tradingview.=
+com/crypto/XTVCBTC--96.png" width=3D"56" alt border=3D"0"> &nbsp; <img styl=
+e=3D"-ms-interpolation-mode: bicubic; border: 0; height: auto; line-height:=
+ 100%; outline: none; text-decoration: none; border-radius: 100%;" src=3D"h=
+ttps://s3-symbol-logo.tradingview.com/crypto/XTVCUSDC--96.png" width=3D"56"=
+ alt border=3D"0"> &nbsp; </a>
+</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;" class=3D"padding3">
+<h3 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 26px;
+color: #131722;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_9&ems_l=3D12746&d=3DQklUU1RBTVA6QlRDV=
+VNEQw%3D%3D%7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKy=
+UyOGRyaXAlMjk%3D%7C&_esuh=3D_7_93d92489ea378b0f3b9faaca3b0d864caa80ebdcf79d=
+d5fd6a0cef6499a4a39f" target=3D"_blank">Bitcoin / USD Coin</a>
+</h3>
+<h2 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #131722;
+">
+37001.00000000
+</h2>
+<h4 style=3D"
+margin: 0px 0px 2px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #009688;
+font-weight: normal;
+">
+<span>
+ 2174.00000000
+</span>
+&nbsp; <span>
+ 6.25%
+</span>
+</span></span></h4>
+<p style=3D"
+margin: 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">
+29 May 2021, 06:03:38 UTC-5. 1W change.
+</p>
+</td>
+</tr>
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"24" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"480">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"480">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; width: 100%; max-width: 480px; border-c=
+ollapse: collapse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; border: 1px solid #e0e3eb; border-radius: 12px; displa=
+y: block;" class=3D"darkmode1">
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"-webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; =
+mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; tex=
+t-decoration: none;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49=
+VX0wEg_928634_11599_1_5&ems_l=3D12746&d=3DVFZDOkRYWQ%3D%3D%7CV2Vla2x5%7CMjA=
+yMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D=
+_7_7135be55476c388ac370c8d2b73b517b5b406c33e2697d21a607af7793e1c138" target=
+=3D"_blank"><img style=3D"-ms-interpolation-mode: bicubic; border: 0; heigh=
+t: auto; line-height: 100%; outline: none; text-decoration: none; border-ra=
+dius: 100%;" src=3D"https://s3-symbol-logo.tradingview.com/country/US--96.p=
+ng" width=3D"56" alt border=3D"0"></a>
+</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;" class=3D"padding3">
+<h3 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 18px;
+line-height: 26px;
+color: #131722;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_9&ems_l=3D12746&d=3DVFZDOkRYWQ%3D%3D%=
+7CV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMj=
+k%3D%7C&_esuh=3D_7_1d31e5f1be3dad0c4b88bc4098ede58879e2474d4a8ab92e4741978d=
+1796c455" target=3D"_blank">U.S. DOLLAR CURRENCY INDEX</a>
+</h3>
+<h2 style=3D"
+margin: 0px 0px 8px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #131722;
+">
+90.056
+</h2>
+<h4 style=3D"
+margin: 0px 0px 2px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 26px;
+line-height: 32px;
+color: #009688;
+font-weight: normal;
+">
+<span>
+ 0.027
+</span>
+&nbsp; <span>
+ 0.03%
+</span>
+</span></span></h4>
+<p style=3D"
+margin: 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">
+28 May 2021, 19:37:08 UTC-5. 1W change.
+</p>
+</td>
+</tr>
+<tr>
+<td height=3D"40" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 24px; =
+line-height: 24px;">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table>
+</div><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+" e-block-id=3D"5fcbcd84b9a85e361e000007" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt; border-collapse: collapse !important;"> <tr>
+<td height=3D"48" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 48px; =
+line-height: 48px;">&nbsp;</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5fcbca16b9a85e361e000001" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; max-width: 600px; border-collapse: coll=
+apse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<p e-editable=3D"text" style=3D"
+margin: 0px;
+padding: 0px;
+font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif; font-size: 18px;=
+ line-height: 28px; color: #131722;
+">Don't forget, you can always explore more tickers and analysis&nbsp;with&=
+nbsp;us&nbsp;anytime.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5fcbcd81b9a85e361e000006" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td height=3D"32" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 32px; =
+line-height: 32px;">&nbsp;</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b2ab82baf15a36000013" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td align=3D"center" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size=
+-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0px 1=
+0px 0px 10px;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; max-width: 600px; border-collapse: coll=
+apse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center; padding: 0px 40px;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" st=
+yle=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-tabl=
+e-lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;=
+">
+<tr>
+<td e-editable=3D"button" align=3D"center" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt; border-radius: 120px;" bgcolor=3D"#2196f3"><a href=3D"https://suite=
+42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_11&ems_l=3D12746&d=
+=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlM=
+jk%3D%7C&_esuh=3D_7_cd3cbc11711d5738fe0f1df0ee72a9bd83eff60b999a686cc20c04f=
+9350878c7" target=3D"_blank" style=3D"-webkit-text-size-adjust: 100%; -ms-t=
+ext-size-adjust: 100%; font-size: 24px; font-family: 'Trebuchet MS', Helvet=
+ica, Arial, sans-serif; color: #ffffff; font-weight: normal; text-decoratio=
+n: none; padding: 15px 55px; border-radius: 120px; border: 1px solid #2196f=
+3; display: inline-block;">Find a new opportunity</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b2b282baf15a36000014" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td height=3D"32" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 32px; =
+line-height: 32px;">&nbsp;</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b2b682baf15a36000015" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;"> <tr>
+<td height=3D"32" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 32px; =
+line-height: 32px;">&nbsp;</td>
+</tr>
+</table><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" e-block-id=3D"5f68b2bc82baf15a36000016" style=3D"-webkit-text-size-adju=
+st: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspa=
+ce: 0pt; border-collapse: collapse !important;">
+<tr>
+<td align=3D"center" class=3D"padding2" style=3D"-webkit-text-size-adjust: =
+100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+<!--[if (gte mso 9)|(IE)]>
+<table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wi=
+dth=3D"600">
+<tr>
+<td align=3D"center" valign=3D"top" width=3D"600">
+<![endif]-->
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; max-width: 600px; border-collapse: coll=
+apse !important;">
+<tr>
+<td align=3D"center" valign=3D"top" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td class=3D"full center" align=3D"left" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt;">
+<p e-editable=3D"signature" style=3D"
+margin: 0px 0px 24px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #B2B5BE;
+line-height: 21px;
+">
+Thanks for reading,
+<br>
+The TradingView Team
+</p>
+</td>
+<td class=3D"full center" align=3D"right" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace=
+: 0pt;">
+<p e-editable=3D"address" style=3D"
+margin: 0px 0px 24px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #B2B5BE;
+line-height: 21px;
+">
+33 Irving Place, New York,
+<br>
+NY 10003
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"center" style=3D"-webkit-text-size-adjust: 100%=
+; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;=
+ text-align: center;">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" styl=
+e=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-=
+lspace: 0pt; mso-table-rspace: 0pt; border-collapse: collapse !important;">
+<tr>
+<td class=3D"full center" align=3D"left" style=3D"-webkit-text-size-adjust:=
+ 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace:=
+ 0pt;">
+<p e-editable=3D"app" style=3D"
+margin: 0px 0px 24px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #B2B5BE;
+line-height: 21px;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_13&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyM=
+TA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7=
+_f9803f9502fc67dcc0d30bd5de890b6b1a86d6d553de962c4d708650ee8428fc" target=
+=3D"_blank">App Store</a>
+&nbsp;&nbsp;
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_15&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyM=
+TA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7=
+_8c3b49aadd7394b19c1920bef9b0d7c6a3710544d41d6d08f651af5f387f5cb0" target=
+=3D"_blank">Google Play</a>
+</p>
+</td>
+<td class=3D"full center" align=3D"right" nowrap style=3D"-webkit-text-size=
+-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table=
+-rspace: 0pt;">
+<p e-editable=3D"social" style=3D"
+margin: 0px 0px 24px 0px;
+padding: 0px; font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+color: #B2B5BE;
+line-height: 21px;
+">
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_17&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyM=
+TA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7=
+_7ff86d2b03429b58a0544eb9e818e00b3588f61a001ab215f23aadcaf42fc144" target=
+=3D"_blank">Facebook</a>
+&nbsp;&nbsp;
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_19&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyM=
+TA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7=
+_2389bd15225c3a380c431d7c5a1ba3f889cc1890da79e69b935b9d0787108c26" target=
+=3D"_blank">YouTube</a>
+&nbsp;&nbsp;
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_21&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyM=
+TA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7=
+_f66fe347aaa94d13733708b510a229fbd6f41d103cfa4caf61f38767a6ef7034" target=
+=3D"_blank">LinkedIn</a>
+&nbsp;&nbsp;
+<a style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; col=
+or: #2196F3; text-decoration: none;" href=3D"https://suite42.emarsys.net/u/=
+nrd.php?p=3DvB49VX0wEg_928634_11599_1_23&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyM=
+TA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7=
+_20a87e14ec878c2bf012aadaf4f9ab2b90c9ed509fc91166e6377f57115f7581" target=
+=3D"_blank">Twitter</a>
+</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"49" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; border-top: 1px s=
+olid #e0e3eb; font-size: 24px; line-height: 24px;">&nbsp;</td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"left" style=3D"-webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; t=
+ext-align: left; padding: 0px;">
+<p e-editable=3D"footer1" style=3D"
+margin: 0px 0px 8px 0px; padding: 0px;
+font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">
+This email was sent to <a style=3D"-webkit-text-size-adjust: 100%; -ms-text=
+-size-adjust: 100%; text-decoration: none; color: #2196F3;" href=3D"mailto:=
+chris@alednow.com" target=3D"_blank">chris@alednow.com</a> because on 2021-=
+03-17, you signed up at <a class=3D"link" style=3D"-webkit-text-size-adjust=
+: 100%; -ms-text-size-adjust: 100%; text-decoration: none; color: #2196F3;"=
+ href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_=
+1_25&ems_l=3D12746&d=3DV2Vla2x5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1c=
+GRhdGVzKyUyOGRyaXAlMjk%3D%7C&_esuh=3D_7_c486c1a563ba3155c6c3667ed7b0039e46b=
+a75fe0734e9130aec9fce2fbe93c0" target=3D"_blank">TradingView.com</a>.
+</p>
+<p e-editable=3D"footer2" style=3D"
+margin: 0px; padding: 0px;
+font-family: 'Trebuchet MS', Helvetica, Arial, sans-serif;
+font-size: 14px;
+line-height: 21px;
+color: #B2B5BE;
+">If you don't want to receive this type of emails anymore, you can <a clas=
+s=3D"link" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 1=
+00%; text-decoration: none; color: #2196f3;" href=3D"https://suite42.emarsy=
+s.net/u/nrd.php?p=3DvB49VX0wEg_928634_11599_1_27&ems_l=3D12746&d=3DZXlKcFpD=
+STZJREU0TmpFMk5EUTNMQ0FpWlcxaGFXd2lPaUFpWTJoeWFYTkFZV3hsWkc1dmR5NWpiMjBpZlE=
+ubWtHcFZ6R3dGUm9TMVl6X3duaUY5YjJvTlE2akpRRnI5Z0pyN0FhWEQ0TQ%3D%3D%7CV2Vla2x=
+5%7CMjAyMTA1MzBfMjEzOF9Db3B5K29mK1dlZWtseSt1cGRhdGVzKyUyOGRyaXAlMjk%3D%7C&_=
+esuh=3D_7_1860453fa9fc479b37e569229cd250bf479491f02b63ea310ad42d5bb24b1578"=
+ target=3D"_blank" rel=3D"noopener">unsubscribe</a> at any time.</p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!--[if (gte mso 9)|(IE)]> </td> </tr> </table> <![endif]-->
+</td>
+</tr>
+<tr>
+<td height=3D"48" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 30px; =
+line-height: 30px;">&nbsp;</td>
+</tr>
+<tr>
+<td height=3D"16" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-ad=
+just: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-size: 16px; =
+line-height: 16px;">&nbsp;</td>
+</tr>
+</table>
+<img src=3D"https://suite42.emarsys.net/mo/vB49VX0wEg_836240495_11599_92863=
+4_12746.gif" height=3D"2" width=3D"2" border=3D"0" alt=3D""></body>
+</html>
+----=_---NextPart--=_-nAMdgThIq1--

@@ -1,0 +1,302 @@
+Return-Path: <bounces+207049-a440-chris=alednow.com@sendgrid.enphaseenergy.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id cO60HrSXMWBXTAQAi5QuQQ
+	(envelope-from <bounces+207049-a440-chris=alednow.com@sendgrid.enphaseenergy.com>)
+	for <chris@alednow.com>; Sat, 20 Feb 2021 17:13:56 -0600
+Return-path: <bounces+207049-a440-chris=alednow.com@sendgrid.enphaseenergy.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Sat, 20 Feb 2021 17:13:56 -0600
+Received: from o1.sendgrid.enphaseenergy.com ([198.21.7.22]:27564)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.93)
+	(envelope-from <bounces+207049-a440-chris=alednow.com@sendgrid.enphaseenergy.com>)
+	id 1lDbRk-001Ddw-CS
+	for chris@alednow.com; Sat, 20 Feb 2021 17:13:56 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.me; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=J+miX+QADXuTUWhbMXlf9XmwinAPEeI2y8ssAxLNJgk=; b=tU
+	LvO75OcJBrMvyoNPrXlXXnp50LveZdA+9YSQfzeWfPz2GDOEOZMvu4QUNgkcZNdP
+	V7AwVHu+ivCcmr+Om13zqJu6VOvT2PxswQpMkjozvv/FoO2ZYIJGf0vM7uU9HE1G
+	6VAIPOBnI1DjH7WrzddQnYueqrh071hlaWid0bDAI=
+Received: by filter3050p1mdw1.sendgrid.net with SMTP id filter3050p1mdw1-22929-603197A8-14
+        2021-02-20 23:13:44.871056111 +0000 UTC m=+259405.530338355
+Received: from enlighten.enphaseenergy.com (unknown)
+	by ismtpd0124p1mdw1.sendgrid.net (SG) with ESMTP id HNNHg66JQDadTIfqWNwGjw
+	for <chris@alednow.com>; Sat, 20 Feb 2021 23:13:44.783 +0000 (UTC)
+Date: Sat, 20 Feb 2021 23:13:44 +0000 (UTC)
+From: Enlighten <donotreply@enphaseenergy.com>
+To: chris@alednow.com
+Message-ID: <603197a87b1e8_2af0c87a6c778b8@prod-resque3.enphaseenergy.com.mail>
+Subject: Welcome to Enphase Energy's Enlighten
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_603197a87970e_2af0c87a6c7773f";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+user-locale: en
+X-SG-EID: aCCjVbkMkLt9eQzj5T8f8U4TXpQYmKOHNte5a1iLVtHemK8sBwNDBDuc3Jxjh6gkYOnjfva97qIraZ
+ lML/OssY5Myr59KFXA2lLjNBqHRm7JKfzR29JFCCUYUCCDqtpF3OBkgbdnZ70Di3exZwS4xFQ3CNiL
+ eajmMjcwM/2Acqxfqp2w3bTwaGrY9aT0Z7wt7n3UbmKrrsGuKy3CRN2LAKHr44usIQz5TTD5DjrUzd
+ Q=
+X-SG-ID: vsx7nv/2zpleokjqD6CJiXofNpf+5gxRlOk6JYLk0BPdRcSekbl+OrJcFXyAosZqoHXAHVUewbebok
+ 0VIBKQuue9eLIvZC7scyKHDFwXHDrZzjMEUhfOQa+9ga08PB66NLrrycbk/qs2Mah9z/Ud0g==
+X-Entity-ID: LkHZONW7e5bBaqu5uH32YA==
+
+----==_mimepart_603197a87970e_2af0c87a6c7773f
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+a:hover {=0D
+text-decoration: underline; color: #1155ff; background:=0D
+transparent; font-family: "Helvetica Neue", Helvetica, Arial,=0D
+Verdana, sans-serif;=0D
+}=0D
+a:active {=0D
+text-decoration: underline; color: #1155ff; background:=0D
+transparent; font-family: "Helvetica Neue", Helvetica, Arial,=0D
+Verdana, sans-serif;=0D
+}=0D
+a:visited {=0D
+text-decoration: underline; color: #1155ff; background:=0D
+transparent; font-family: "Helvetica Neue", Helvetica, Arial,=0D
+Verdana, sans-serif;=0D
+}=0D
+p.LegalContent a:visited {=0D
+color: #79797e;=0D
+}=0D
+p.LegalContent a:hover {=0D
+color: #2CA2DF;=0D
+}=0D
+=0D
+Welcome to Enlighten =0D
+( http://enlighten.enphaseenergy.com/login?utm_campaign=3Denlighten_system&=
+utm_medium=3Demail&utm_source=3Dnew_user&utm_content=3Dhtml )=0D
+=0D
+=0D
+*****************************=0D
+Welcome to Enphase Enlighten=C2=AE=0D
+*****************************=0D
+=0D
+Dear Christopher Beverley,=0D
+=0D
+Congratulations! You now have access to Enlighten.=0D
+=0D
+Activate your account now =0D
+( https://enlighten.enphaseenergy.com/reset_password/88a71xh7nQbys53tJmyN?l=
+ocale=3Den&utm_campaign=3Denlighten_system&utm_medium=3Demail&utm_source=3D=
+new_user&utm_content=3Dhtml )=0D
+=0D
+=0D
+Welcome!=0D
+=0D
+The Enphase Team=0D
+=0D
+Update Your Address Book=0D
+=0D
+Add donotreply@enphaseenergy.com to ensure you receive future=0D
+Enlighten emails.=0D
+=0D
+All trademarks are the property of their respective owners.=0D
+=0D
+=C2=A92008-2021 Enphase Energy, Inc. All rights reserved.=0D
+=0D
+This is an automated system notification from Enphase Energy=0D
+Inc.,=0D
+=0D
+1420 N. McDowell Blvd., Petaluma, CA 94954, USA.=0D
+=0D
+To edit your notification preferences, please sign in to your=0D
+Enlighten=C2=AE account =0D
+( http://enlighten.enphaseenergy.com/pv/settings?utm_campaign=3Denlighten_s=
+ystem&utm_medium=3Demail&utm_source=3Dnew_user&utm_content=3Dhtml )=0D
+.=0D
+=0D
+Your privacy is important to us. Please review Enphase Energy's=0D
+Privacy Policy =0D
+( http://enphase.com/privacy?utm_campaign=3Denlighten_system&utm_medium=3De=
+mail&utm_source=3Dnew_user&utm_content=3Dhtml )=0D
+.=0D
+=0D
+Enlighten =0D
+( http://enlighten.enphaseenergy.com/login?utm_campaign=3Denlighten_system&=
+utm_medium=3Demail&utm_source=3Dnew_user&utm_content=3Dhtml )=
+
+----==_mimepart_603197a87970e_2af0c87a6c7773f
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">=0D
+<html>=0D
+<head>=0D
+<title>Welcome to Enlighten</title>=0D
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">=
+=0D
+<meta http-equiv=3D"Content-Language" content=3D"en">=0D
+</head>=0D
+<body marginheight=3D"0" marginwidth=3D"0">=0D
+<style type=3D"text/css">=0D
+a:hover {=0D
+text-decoration: underline; color: #1155ff; background: transparent; font-f=
+amily: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;=0D
+}=0D
+a:active {=0D
+text-decoration: underline; color: #1155ff; background: transparent; font-f=
+amily: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;=0D
+}=0D
+a:visited {=0D
+text-decoration: underline; color: #1155ff; background: transparent; font-f=
+amily: "Helvetica Neue", Helvetica, Arial, Verdana, sans-serif;=0D
+}=0D
+p.LegalContent a:visited {=0D
+color: #79797e;=0D
+}=0D
+p.LegalContent a:hover {=0D
+color: #2CA2DF;=0D
+}=0D
+</style>=0D
+<table id=3D"BodyImposter" width=3D"100%" height=3D"100%" cellspacing=3D"0"=
+ cellpadding=3D"0" style=3D"color: #73777E; margin: 0; width: 100%;" bgcolo=
+r=3D"#E4E5E6"><tr>=0D
+<td valign=3D"top" align=3D"center">=0D
+      <table id=3D"Box" cellspacing=3D"0" cellpadding=3D"0" width=3D"580" a=
+lign=3D"center" style=3D"color: #73777E; margin: 10px auto;" bgcolor=3D"#FF=
+FFFF">=0D
+<thead><tr>=0D
+<td id=3D"Header" style=3D"height: 65px;" bgcolor=3D"#E4E5E6">=0D
+              <a href=3D"http://enlighten.enphaseenergy.com/login?utm_campa=
+ign=3Denlighten_system&amp;utm_medium=3Demail&amp;utm_source=3Dnew_user&amp=
+;utm_content=3Dhtml" style=3D"background-color: transparent; color: #1155ff=
+; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; tex=
+t-decoration: underline;"><img alt=3D"Welcome to Enlighten" width=3D"580" h=
+eight=3D"65" title=3D"Welcome to Enlighten" src=3D"https://assets1.enphasee=
+nergy.com/images/email/mast_generalv2.png" style=3D"border: 0;"></a>=0D
+          </td>=0D
+        </tr></thead>=0D
+<tbody><tr>=0D
+<td class=3D"Content" width=3D"580" style=3D"padding: 25px;">=0D
+              <table cellspacing=3D"0" cellpadding=3D"0" width=3D"530" id=
+=3D"ContentTable">=0D
+<tr>=0D
+<td class=3D"ContentCellTop" style=3D"padding-bottom: 15px;">=0D
+      <h1 class=3D"boldh2" style=3D"background-color: transparent; color: #=
+6E6E73; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-seri=
+f; font-size: 18px; font-weight: bold; margin: 0; padding: 0;">Welcome to E=
+nphase Enlighten=C2=AE</h1>=0D
+<br><table id=3D"subContent" cellspacing=3D"0" cellpadding=3D"0" width=3D"5=
+30"><tr>=0D
+<td class=3D"CCRight" style=3D"padding: 0 0 0 15px;">=0D
+      <p class=3D"defaultp" style=3D"color: #73777E; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-heigh=
+t: 1.5em; margin: 0 0 1em;">Dear Christopher Beverley,</p>=0D
+      <p class=3D"defaultp" style=3D"color: #73777E; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-heigh=
+t: 1.5em; margin: 0 0 1em;">Congratulations! You now have access to Enlight=
+en.</p>=0D
+      <p class=3D"defaultp" style=3D"color: #73777E; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-heigh=
+t: 1.5em; margin: 0 0 1em;">=0D
+        <a id=3D"action_link" clicktracking=3D"off" href=3D"https://enlight=
+en.enphaseenergy.com/reset_password/88a71xh7nQbys53tJmyN?locale=3Den&amp;ut=
+m_campaign=3Denlighten_system&amp;utm_medium=3Demail&amp;utm_source=3Dnew_u=
+ser&amp;utm_content=3Dhtml" style=3D"background-color: transparent; color: =
+#; display: inline-block; float: none; font-family: 'Helvetica Neue', Helve=
+tica, Arial, Verdana, sans-serif; font-size: 12px; font-weight: normal; mar=
+gin-top: 5px; text-decoration: underline;">Activate your account now</a>=0D
+      </p>=0D
+      <p class=3D"defaultp" style=3D"color: #73777E; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-heigh=
+t: 1.5em; margin: 0 0 1em;">=0D
+        Welcome!<br>=0D
+        The Enphase Team<br></p>=0D
+    </td>=0D
+  </tr></table>=0D
+</td>=0D
+  </tr>=0D
+<tr>=0D
+<td class=3D"ContentCell" style=3D"border-top-color: #eaeaeb; border-top-st=
+yle: solid; border-top-width: 1px; padding-bottom: 12px; padding-top: 12px;=
+">=0D
+      <p class=3D"defaultp" style=3D"color: #73777E; font-family: 'Helvetic=
+a Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 12px; line-heigh=
+t: 1.5em; margin: 0 0 1em;">=0D
+        <b>Update Your Address Book</b><br>=0D
+        Add donotreply@enphaseenergy.com to ensure you receive future Enlig=
+hten emails.=0D
+      </p>=0D
+    </td>=0D
+  </tr>=0D
+</table>=0D
+</td>=0D
+        </tr></tbody>=0D
+</table>=0D
+<table class=3D"Legal" cellspacing=3D"0" cellpadding=3D"0" width=3D"580" st=
+yle=3D"margin: 0 auto;"><tr>=0D
+<td class=3D"LegalContent" style=3D"margin: 0; padding: 5px 0 10px;">=0D
+                <table cellspacing=3D"0" cellpadding=3D"0" width=3D"580"><t=
+r>=0D
+<td>=0D
+      <p class=3D"LegalContent" style=3D"color: #939397; font-family: 'Helv=
+etica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 10px; margin=
+: 0.5em 0 0; padding: 0;" align=3D"left">=0D
+        All trademarks are the property of their respective owners.<br>=0D
+        =C2=A92008-2021 Enphase Energy, Inc. All rights reserved.=0D
+      </p>=0D
+      <p class=3D"LegalContent" style=3D"color: #939397; font-family: 'Helv=
+etica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 10px; margin=
+: 0.5em 0 0; padding: 0;" align=3D"left">This is an automated system notifi=
+cation from Enphase Energy Inc.,<br>=0D
+        1420 N. McDowell Blvd., Petaluma, CA 94954, USA.=0D
+      </p>=0D
+      <p class=3D"LegalContent" style=3D"color: #939397; font-family: 'Helv=
+etica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 10px; margin=
+: 0.5em 0 0; padding: 0;" align=3D"left">=0D
+          To edit your notification preferences, please sign in to your <a =
+href=3D"http://enlighten.enphaseenergy.com/pv/settings?utm_campaign=3Denlig=
+hten_system&amp;utm_medium=3Demail&amp;utm_source=3Dnew_user&amp;utm_conten=
+t=3Dhtml" style=3D"background-color: transparent; color: #79797e; font-fami=
+ly: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; text-decoratio=
+n: underline;">Enlighten=C2=AE account</a>.<br>=0D
+        Your privacy is important to us. Please review Enphase Energy's <a =
+href=3D"http://enphase.com/privacy?utm_campaign=3Denlighten_system&amp;utm_=
+medium=3Demail&amp;utm_source=3Dnew_user&amp;utm_content=3Dhtml" style=3D"b=
+ackground-color: transparent; color: #79797e; font-family: 'Helvetica Neue'=
+, Helvetica, Arial, Verdana, sans-serif; text-decoration: underline;">Priva=
+cy Policy</a>.=0D
+      </p>=0D
+    </td>=0D
+    <td align=3D"right" valign=3D"top">=0D
+      <a href=3D"http://enlighten.enphaseenergy.com/login?utm_campaign=3Den=
+lighten_system&amp;utm_medium=3Demail&amp;utm_source=3Dnew_user&amp;utm_con=
+tent=3Dhtml" style=3D"background-color: transparent; color: #1155ff; font-f=
+amily: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; text-decora=
+tion: underline;"><img border=3D"0" alt=3D"Enlighten" title=3D"Enlighten" s=
+rc=3D"https://assets1.enphaseenergy.com/images/email/enphase_logo.png" styl=
+e=3D"border: 0;"></a>=0D
+    </td>=0D
+  </tr></table>=0D
+</td>=0D
+        </tr></table>=0D
+</td>=0D
+  </tr></table>=0D
+
+<img src=3D"http://sendgrid.enphaseenergy.com/wf/open?upn=3D-2BPPYzd87qq10I=
+XJQDD0DU3qnpWU5qSEHcqK-2BMN8yONu7k6ZaUrKgCBtN8tphl1ztb2RrymgoiU2Ro0Nh2UPiOU=
+CVxyW5nb-2FOiSOq-2Fk-2FJThNvWapaLc4RKF7acj-2FbfRS4G730l2iIFc4E3xOnVdLDnMc2Y=
+y-2FevZyznweX8RCKcd1dtrAJNTO-2F-2FtIqKE8538fLWjcMndi1s9KucnOsSw-2BzJePEVo8E=
+wH2pLGE2xoZuvxjZ6-2BCxVUfNNcY7Awh2FSsBtlf-2FEHkGM-2FTGmeNIqXwgvjc5HLEWq-2Ff=
+HyUtY-2BU0wLDNcCj1sE3Lqhv723ZQ12er-2B-2Bivcq78wsAH6sZpZorFJY2fnKn7oOVC9csEz=
+mZFYilw-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"height:=
+1px !important;width:1px !important;border-width:0 !important;margin-top:0 =
+!important;margin-bottom:0 !important;margin-right:0 !important;margin-left=
+:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-=
+right:0 !important;padding-left:0 !important;"/>
+</body>=0D
+</html>=0D
+
+
+----==_mimepart_603197a87970e_2af0c87a6c7773f--

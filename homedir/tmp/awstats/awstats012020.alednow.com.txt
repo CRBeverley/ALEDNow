@@ -1,0 +1,720 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home4/owner/tmp/awstats/awstats.alednow.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2006                
+POS_TIME 2670                
+POS_VISITOR 17106               
+POS_DAY 19124               
+POS_DOMAIN 3299                
+POS_LOGIN 3687                
+POS_ROBOT 3842                
+POS_WORMS 4215                
+POS_EMAILSENDER 4346                
+POS_EMAILRECEIVER 4489                
+POS_SESSION 19768               
+POS_SIDER 19915               
+POS_FILETYPES 4624                
+POS_DOWNLOADS 4707                
+POS_OS 4755                
+POS_BROWSER 4994                
+POS_SCREENSIZE 5547                
+POS_UNKNOWNREFERER 5621                
+POS_UNKNOWNREFERERBROWSER 5817                
+POS_ORIGIN 5950                
+POS_SEREFERRALS 6086                
+POS_PAGEREFS 6251                
+POS_SEARCHWORDS 6434                
+POS_KEYWORDS 6586                
+POS_MISC 2334                
+POS_ERRORS 6645                
+POS_CLUSTER 3543                
+POS_SIDER_404 6808                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201012552 22 3791 6791631721584
+FirstTime 0
+LastTime 20200131193052
+LastUpdate 20200201063827 22 0 21 0 0
+TotalVisits 82                  
+TotalUnique 52                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 52                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 294 9 10 2816
+1 6 6 2182 4 5 1855
+2 4 4 1594 6 11 2580
+3 4 4 1176 3 4 1299
+4 2 2 591 4 6 2104
+5 1 1 294 49 51 9422
+6 10 10 3356 34 35 15904
+7 9 9 3071 3 7 2689
+8 4 4 1176 5 7 1634
+9 2 2 586 3 3 460
+10 1 1 294 319 339 164441
+11 0 0 0 7 9 2564
+12 0 0 0 10 12 3482
+13 0 0 0 9 15 4922
+14 1 1 294 6 9 3253
+15 1 1 294 24 25 9782
+16 2 2 588 7 9 2801
+17 13 13 6165 25 32 13666
+18 1 1 294 1 1 294
+19 41 41 18445 276 278 146680
+20 2 2 797 2 2 545
+21 2 2 588 4 4 1629
+22 1 1 294 6 7 2240
+23 1 1 294 2 2 377
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+us 70 70 27807
+ca 11 11 5577
+ro 6 6 1762
+mu 5 5 1468
+gb 4 4 1392
+hn 2 2 588
+cn 2 2 1006
+cz 2 2 797
+kr 1 1 294
+fr 1 1 503
+de 1 1 294
+jp 1 1 294
+ua 1 1 294
+se 1 1 297
+eu 1 1 294
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+spider 240 121680 20200131192311 0
+bot[\s_+:,\.\;\/\\-] 20 7781 20200129004306 0
+bingbot/ 18 5297 20200131212348 0
+Googlebot/ 9 2664 20200130141349 0
+Baiduspider/ 6 1014 20200129171855 0
+(firefox/)([0-9]\.|[0-1][0]\.) 2 588 20200122192019 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 109 42667 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+macosx9 2 2
+Unknown 24 24
+ios_iphone 1 1
+macosx10 2 2
+linuxandroid 1 1
+win8 1 1
+win8.1 10 10
+linux 22 22
+macosx 2 2
+win7 33 33
+macosx12 1 1
+winxp 3 3
+win10 5 5
+macosx11 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 27
+firefox46.0 1 1
+netscape5.0 1 1
+chrome31.0.1650.57 1 1
+chrome77.0.3865.120 2 2
+Unknown 13 13
+firefox62.0 1 1
+firefox51.0 1 1
+opera55.0.2994.44 1 1
+msie10.0 1 1
+firefox69.0 1 1
+chrome75.0.3770.0 1 1
+firefox48.0 1 1
+mozilla 27 27
+chrome41.0.2227.0 2 2
+firefox54.0 1 1
+firefox47.0 3 3
+msie9.0 30 30
+chrome53.0.2785.104 10 10
+chrome78.0.3904.87 1 1
+chrome71.0.3578.98 1 1
+chrome5.0.375.99 2 2
+chrome45.0.2454.94 1 1
+msie6.0 1 1
+chrome65.0.3325.181 1 1
+firefox59.0 1 1
+safari7.0 1 1
+chrome76.0.3809.132 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go-http-client/1.1 20200131193052
+Mozilla/5.0_(compatible;_Dataprovider.com) 20200115195311
+4 20200122230842
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+4 20200122230842
+Go-http-client/1.1 20200131193052
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 65 65
+From1 2 2
+From2 30 30
+From3 1 1
+From4 11 11
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 30 30
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://testbotprocessor44.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+206 13 6539
+403 33 4422
+500 12 5850
+404 438 224508
+405 11 5082
+406 37 8362
+409 44 3652
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 341
+/adminer-3.6.0-mysql-cs.php 1 -
+/adminer-3.1.0-en.php 1 -
+/wp-content/plugins/wp-live-chat-software-for-wordpress/plugin_files/js/livechat.js 1 -
+/adminer-4.7.3-cs.php 1 -
+/new/ 2 -
+/adminer-4.2.4-mysql-cs.php 1 -
+/adminer-4.6.2-mysql-cs.php 1 -
+/adminer-3.0.0-mysql-en.php 1 -
+/adminer-3.3.0.php 1 -
+/adminer-3.6.1-cs.php 1 -
+/main/ 2 -
+/adminer-4.2.3-cs.php 1 -
+/adminer-4.0.1-mysql.php 1 -
+/adminer-3.7.0-mysql-cs.php 1 -
+/adminer-3.0.0-cs.php 1 -
+/v2//wp-admin/install.php 1 -
+/adminer-3.2.2-en.php 1 -
+/adminer-4.6.0-mysql.php 1 -
+/wp/ 2 -
+/adminer-3.1.0.php 1 -
+/wp-content/plugins/iwp-client/clipboard.min.js 1 -
+/adminer-3.7.1-mysql-cs.php 1 -
+/adminer-3.6.1-mysql.php 1 -
+/adminer-4.2.3-mysql.php 1 -
+/adminer-4.6.0-cs.php 1 -
+/adminer-4.3.1.php 1 -
+/adminer-3.0.0-mysql.php 1 -
+/adminer-4.7.3-mysql.php 1 -
+/adminer-3.3.0-en.php 1 -
+/adminer-4.0.1-mysql-cs.php 1 -
+/adminer-4.2.2-mysql-cs.php 1 -
+/adminer-3.2.2.php 1 -
+/installer-backup.php 1 -
+/adminer-4.3.0-mysql-en.php 1 -
+/adminer-4.0.0-mysql-cs.php 1 -
+/old//wp-admin/install.php 1 -
+/wp-content/plugins/hybrid-composer/style.css 1 -
+/adminer-3.6.4-cs.php 1 -
+/adminer-3.5.0-mysql.php 1 -
+/adminer-3.3.2-mysql-cs.php 1 -
+/adminer-4.6.3.php 1 -
+/adminer-3.2.1.php 1 -
+/adminer-3.3.3-mysql.php 1 -
+/2018//wp-admin/install.php 1 -
+/adminer-4.7.0-en.php 1 -
+/adminer-3.4.0.php 1 -
+/v1//wp-admin/install.php 1 -
+/test/ 2 -
+/adminer-3.7.1.php 1 -
+/adminer-3.5.1-mysql-cs.php 1 -
+/alednow%20contact 6 -
+//wp-admin/install.php 1 -
+/adminer-3.3.3-mysql-cs.php 1 -
+/adminer-3.6.2-mysql.php 1 -
+/adminer-3.3.3-mysql-en.php 1 -
+/adminer-3.6.3-mysql-cs.php 1 -
+/adminer-4.0.2-cs.php 1 -
+/adminer-4.7.2-mysql-cs.php 1 -
+/adminer-4.7.1-mysql-cs.php 1 -
+/adminer-3.2.1-en.php 1 -
+/adminer-4.6.3-en.php 1 -
+/adminer-3.4.0-en.php 1 -
+/adminer-4.7.0.php 1 -
+/backup/ 2 -
+/dev//wp-admin/install.php 1 -
+/adminer-4.0.2-mysql.php 1 -
+/adminer-3.6.2-cs.php 1 -
+/adminer-4.0.3-mysql-en.php 1 -
+/adminer-4.2.2-mysql-en.php 1 -
+/old/ 2 -
+/adminer-3.5.0-cs.php 1 -
+/adminer-3.7.1-en.php 1 -
+/adminer-4.2.4-mysql-en.php 1 -
+/wp-content/uploads/file-manager/log.txt 1 -
+/adminer-3.6.4-mysql.php 1 -
+/wp-content/plugins/wp-inventory-manager/themes/css/default-theme.css 1 -
+/adminer-3.6.4-mysql-en.php 1 -
+/tmp/ 2 -
+/adminer-3.3.3-cs.php 1 -
+/wp-json/wpshopify/v1/settings 1 -
+/adminer-4.0.3-en.php 1 -
+/adminer-4.7.1.php 1 -
+/adminer-3.6.1-mysql-cs.php 1 -
+/adminer-4.2.5-mysql-cs.php 1 -
+/adminer-3.3.4-mysql-en.php 1 -
+/adminer-3.3.2.php 1 -
+/ad.php 1 -
+/adminer-3.2.0-en.php 1 -
+/demo/ 2 -
+/adminer-4.6.2-mysql.php 1 -
+/adminer-3.3.4-en.php 1 -
+/wp-admin/setup-config.php 1 -
+/adminer-3.3.1-mysql-cs.php 1 -
+/_adminer.php 1 -
+/adminer-4.4.0-mysql-en.php 1 -
+/adminer-4.7.0-mysql-en.php 1 -
+/adminer-3.6.3.php 1 -
+/adminer-3.6.1-mysql-en.php 1 -
+/adminer-4.2.3-mysql-en.php 1 -
+/assets//wp-admin/install.php 1 -
+/adminer 1 -
+/.git/config 1 -
+/adminer-3.7.0-en.php 1 -
+/adminer-4.4.0.php 1 -
+/.git/HEAD 4 -
+/adminer-3.5.1-cs.php 1 -
+/adminer-3.3.2-en.php 1 -
+/adminer-3.1.0-mysql-en.php 1 -
+/adminer-4.6.0-mysql-cs.php 1 -
+/adminer-4.5.0-cs.php 1 -
+/viewer/viewer.js 2 http://www.alednow.com/alednow%20contact
+/adminer-4.7.1-en.php 1 -
+/adminer-4.0.3.php 1 -
+/adminer-3.3.4.php 1 -
+/adminer-3.5.1-mysql.php 1 -
+/tmp//wp-admin/install.php 1 -
+/adminer-3.2.0.php 1 -
+/adminer-4.2.5-mysql-en.php 1 -
+/main//wp-admin/install.php 1 -
+/adminer-3.6.3-en.php 1 -
+/wp-content/plugins/delucks-seo/modules/professional/breadcrumbs/assets/css/frontend.css 1 -
+/adminer-4.0.1-mysql-en.php 1 -
+/adminer-3.7.0.php 1 -
+/admin/ 1 -
+/adminer-4.0.2-mysql-en.php 1 -
+/adminer-4.6.2-cs.php 1 -
+/adminer-3.5.0-mysql-cs.php 1 -
+/wp//wp-admin/install.php 1 -
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 1 -
+/site/ 2 -
+/adminer-4.3.0.php 1 -
+/wp-content/uploads/adminer.php 1 -
+/adminer-4.6.1-cs.php 1 -
+/adminer-4.3.0-mysql-cs.php 1 -
+/adminer-4.2.4.php 1 -
+/adminer-4.2.5-en.php 1 -
+/adminer-4.0.0-cs.php 1 -
+/adminer-3.7.0-mysql-en.php 1 -
+/adminer-4.2.2-en.php 1 -
+/adminer-3.1.0-mysql-cs.php 1 -
+/adminer-3.6.0-mysql.php 1 -
+/replace.php 1 -
+/wp-content/adminer.php 1 -
+/adminer-4.1.0-en.php 1 -
+/adminer-3.6.2-mysql-cs.php 1 -
+/adminer-4.7.2-en.php 1 -
+/README.txt 1 -
+/adminer-4.5.0-mysql-cs.php 1 -
+/adminer-3.3.1-en.php 1 -
+/adminer-4.2.4-en.php 1 -
+/site//wp-admin/install.php 1 -
+/blog//wp-admin/install.php 1 -
+/2019//wp-admin/install.php 1 -
+/adminer-4.3.0-en.php 1 -
+/wp-content/plugins/fv-wordpress-flowplayer/css/flowplayer.css 1 -
+/adminer-4.2.2.php 1 -
+/wp-content/plugins/easy-wp-smtp/js/script.js 1 -
+/adminer-4.2.5.php 1 -
+/sitemap.xml 1 -
+/adminer-4.1.0.php 1 -
+/adminer-3.0.1-cs.php 1 -
+/adminer-4.6.1-mysql.php 1 -
+/adminer-3.6.0-cs.php 1 -
+/portal//wp-admin/install.php 1 -
+/adminer-3.3.1.php 1 -
+/adminer-4.1.0-mysql-en.php 1 -
+/adminer-4.7.2.php 1 -
+/adminer-4.7.3-mysql-en.php 1 -
+/temp/ 2 -
+/adminer-4.0.0-mysql.php 1 -
+/adminer-3.2.0-mysql.php 1 -
+/wp-content/plugins/wpematico/app/js/wpe_hooks.js 1 -
+/adminer-4.6.2-en.php 1 -
+/adminer-3.5.1.php 1 -
+/adminer-3.3.4-mysql.php 1 -
+/adminer-4.4.0-cs.php 1 -
+/blog/ 3 -
+/adminer-4.0.3-mysql.php 1 -
+/adminer-3.6.3-cs.php 1 -
+/adminer-3.7.0-mysql.php 1 -
+/adminer-4.7.1-cs.php 1 -
+/adminer-4.5.0-en.php 1 -
+/wp-content/plugins/wp-time-capsule/js/opentip-jquery.js 1 -
+/adminer-3.3.2-cs.php 1 -
+/adminer-3.0.0-mysql-cs.php 1 -
+/wp1//wp-admin/install.php 1 -
+/wp-content/plugins/adminer/inc/editor/index.php 1 -
+/adminer-3.5.1-en.php 1 -
+/adminer-3.5.0-mysql-en.php 1 -
+/adminer-3.7.0-cs.php 1 -
+/adminer-4.2.3-mysql-cs.php 1 -
+/adminer-3.3.0-mysql-cs.php 1 -
+/adminer-3.3.2-mysql.php 1 -
+/adminer-4.0.2-mysql-cs.php 1 -
+/adminer-3.4.0-mysql-cs.php 1 -
+/viewer/viewer.css 2 http://www.alednow.com/alednow%20services
+/adminer-4.4.0-mysql-cs.php 1 -
+/adminer-4.4.0-mysql.php 1 -
+/adminer-3.0.1-mysql-en.php 1 -
+/adminer-3.3.4-cs.php 1 -
+/adminer-3.2.0-cs.php 1 -
+/adminer-4.0.0-mysql-en.php 1 -
+/adminer-3.6.3-mysql.php 1 -
+/backup//wp-admin/install.php 1 -
+/adminer-4.0.3-cs.php 1 -
+/alednow%20about%20us 2 -
+/adminer-4.5.0.php 1 -
+/home//wp-admin/install.php 1 -
+/adminer-3.2.0-mysql-en.php 1 -
+/adminer-4.2.5-mysql.php 1 -
+/adminer-4.2.2-mysql.php 1 -
+/adminer-3.6.0-en.php 1 -
+/adm.php 1 -
+/dup-installer/main.installer.php 1 -
+/web/ 2 -
+/adminer-3.0.1-en.php 1 -
+/adminer-4.7.1-mysql-en.php 1 -
+/adminer-4.7.2-mysql.php 1 -
+/adminer-4.0.0.php 1 -
+/adminer-3.6.3-mysql-en.php 1 -
+/adminer-3.5.1-mysql-en.php 1 -
+/adminer-3.0.1-mysql-cs.php 1 -
+/robots.txt 28 -
+/adminer-3.3.1-mysql.php 1 -
+/adminer-3.2.1-mysql-cs.php 1 -
+/site/README.txt 1 -
+/adminer-3.6.0-mysql-en.php 1 -
+/adminer-4.6.1.php 1 -
+/adminer-4.3.0-cs.php 1 -
+/adminer-4.6.2-mysql-en.php 1 -
+/adminer-4.1.0-mysql.php 1 -
+/pma.php 1 -
+/adminer-4.2.4-cs.php 1 -
+/wp-content/plugins/rich-reviews/css/rich-reviews.css 1 -
+/adminer-3.3.1-cs.php 1 -
+/mysql.php 1 -
+/adminer-3.6.0.php 1 -
+/wp.php 1 -
+/wp-content/plugins/insert-php/admin/assets/js/tag-it.js 1 -
+/adminer-4.7.2-cs.php 1 -
+/adminer-4.2.4-mysql.php 1 -
+/adminer-4.1.0-mysql-cs.php 1 -
+/adminer-4.1.0-cs.php 1 -
+/adminer-4.3.0-mysql.php 1 -
+/v1/ 2 -
+/adminer-4.2.5-cs.php 1 -
+/wp-content/plugins/ithemes-sync/js/settings-page.js 1 -
+/adminer-4.0.0-en.php 1 -
+/home/ 2 -
+/wp-admin/admin-ajax.php 6 -
+/adminer-4.6.1-en.php 1 -
+/adminer-3.0.0.php 1 -
+/adminer-4.3.1-mysql.php 1 -
+/adminer-3.6.1.php 1 -
+/adminer-4.2.3.php 1 -
+/adminer-3.6.4-mysql-cs.php 1 -
+/adminer-3.3.0-cs.php 1 -
+/adminer-3.1.0-mysql.php 1 -
+/cms//wp-admin/install.php 1 -
+/drupal/README.txt 1 -
+/adminer-3.3.1-mysql-en.php 1 -
+/wp2//wp-admin/install.php 1 -
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/js/yellow-pencil.js 1 -
+/adminer-3.2.2-mysql.php 1 -
+/adminer-4.6.0-en.php 1 -
+/wp-content/plugins/yuzo-related-post/assets/js/admin.js 1 -
+/adminer-4.6.1-mysql-en.php 1 -
+/adminer-4.6.1-mysql-cs.php 1 -
+/wordpress/ 2 -
+/adminer-4.7.3.php 1 -
+/adminer-4.5.0-mysql-en.php 1 -
+/adminer-3.2.2-cs.php 1 -
+/alednow%20services 5 -
+/adminer-3.0.0-en.php 1 -
+/cms/ 2 -
+/web//wp-admin/install.php 1 -
+/adminer-3.6.1-en.php 1 -
+/adminer-4.2.3-en.php 1 -
+/adminer-3.2.2-mysql-en.php 1 -
+/wp-content/plugins/fb-messenger-live-chat/assets/js/main.js 1 -
+/adminer-4.3.1-cs.php 1 -
+/adminer-4.6.0.php 1 -
+/wp-content/plugins/wpshopify/dist/public.min.css 1 -
+/adminer-4.7.3-mysql-cs.php 1 -
+/v2/ 2 -
+/adminer-4.7.3-en.php 1 -
+/adminer-3.4.0-mysql-en.php 1 -
+/adminer-4.6.0-mysql-en.php 1 -
+/adminer-4.6.3-mysql-cs.php 1 -
+/adminer-4.0.1.php 1 -
+/adminer-3.1.0-cs.php 1 -
+/adminer-3.3.0-mysql.php 1 -
+/temp//wp-admin/install.php 1 -
+/ads.txt 1 -
+/adminer-4.7.2-mysql-en.php 1 -
+/bk//wp-admin/install.php 1 -
+/demo//wp-admin/install.php 1 -
+/adminer-3.3.3-en.php 1 -
+/new//wp-admin/install.php 1 -
+/connect.php 1 -
+/adminer-3.2.2-mysql-cs.php 1 -
+/adminer-4.7.0-mysql.php 1 -
+/adminer-3.3.0-mysql-en.php 1 -
+/adminer-4.0.2.php 1 -
+/wp-content/plugins/responsive-coming-soon/templates/template1/assets/css/style.css 1 -
+/test/README.txt 1 -
+/adminer-3.7.1-cs.php 1 -
+/adminer-3.6.2-mysql-en.php 1 -
+/adminer-3.5.0-en.php 1 -
+/wordpress//wp-admin/install.php 1 -
+/installer.php 1 -
+/test//wp-admin/install.php 1 -
+/adminer-3.6.2-en.php 1 -
+/adminer-3.3.2-mysql-en.php 1 -
+/adminer-3.4.0-cs.php 1 -
+/wp-admin/admin-post.php 4 -
+/adminer-4.7.0-mysql-cs.php 1 -
+/adminer-3.6.4.php 1 -
+/adminer-4.6.3-cs.php 1 -
+/wp-content/plugins/wp-private-content-plus/css/wppcp-front.css 1 -
+/adminer-3.2.1-cs.php 1 -
+/adminer-3.4.0-mysql.php 1 -
+/th1s_1s_a_4o4.html 30 http://www.google.com/url
+/adminer-4.0.2-en.php 1 -
+/adminer-3.3.3.php 1 -
+/adminer-3.2.0-mysql-cs.php 1 -
+/adminer-3.2.1-mysql.php 1 -
+/adminer-4.6.3-mysql.php 1 -
+/adminer-3.3.4-mysql-cs.php 1 -
+/adminer-3.5.0.php 1 -
+/wp-content/plugins/easy2map/scripts/jquery.xml2json.js 1 -
+/adminer.php 1 -
+/.bitcoin/ 1 -
+/searchreplacedb2.php 1 -
+/adminer-4.7.0-cs.php 1 -
+/adminer-3.6.2.php 1 -
+/adminer-3.7.1-mysql.php 1 -
+/adminer-3.6.4-en.php 1 -
+/adminer-4.0.3-mysql-cs.php 1 -
+/adminer-3.2.1-mysql-en.php 1 -
+/adminer-4.6.3-mysql-en.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 52
+158.69.225.36 11 11 5577 20200115172625
+184.154.139.23 8 8 4056 20200124192016
+184.154.139.15 8 8 4056 20200131192310
+184.154.36.170 5 5 2535 20200125192534
+52.55.5.16 5 5 1470 20200127224355
+109.102.111.63 5 5 1468 20200131060107
+154.16.61.111 5 5 1468 20200130194639
+184.154.139.26 4 4 2028 20200129191952
+184.154.139.14 3 3 1521 20200119191718
+34.73.240.216 2 2 588 20200110021338
+50.62.176.220 2 2 1006 20200123020303
+35.237.6.60 2 2 588 20200126071410
+35.229.37.16 2 2 588 20200118034323
+35.243.198.90 2 2 588 20200130074618
+35.196.115.119 2 2 588 20200114031156
+107.150.18.235 2 2 588 20200107150436
+60.191.38.77 2 2 1006 20200116015619
+35.231.95.104 2 2 588 20200106011123
+34.73.128.10 2 2 588 20200122061418
+35.229.113.246 2 2 588 20200101214316
+184.154.139.16 2 2 1014 20200130191750
+34.217.110.135 1 1 294 20200114193208
+52.13.18.241 1 1 294 20200109193747
+61.79.198.51 1 1 294 20200118162144
+52.89.134.48 1 1 294 20200115193106
+191.102.166.159 1 1 294 20200105143350
+51.77.246.199 1 1 297 20200115195311
+18.237.79.97 1 1 292 20200119090108
+34.217.47.113 1 1 294 20200119082351
+69.50.248.49 1 1 294 20200103070843
+191.102.182.71 1 1 294 20200108170848
+18.236.104.185 1 1 294 20200119074202
+77.236.223.94 1 1 294 20200122010015
+185.39.144.148 1 1 297 20200126045834
+91.246.8.96 1 1 294 20200115055257
+100.20.64.36 1 1 294 20200128195018
+34.212.21.132 1 1 294 20200119090117
+188.240.223.5 1 1 294 20200113103854
+167.172.161.192 1 1 507 20200125075340
+34.221.147.129 1 1 294 20200119082326
+208.73.20.91 1 1 294 20200111181152
+188.163.104.94 1 1 294 20200106161414
+104.237.156.169 1 1 503 20200110064207
+51.15.86.148 1 1 294 20200125003147
+178.62.96.199 1 1 294 20200112083733
+40.76.79.103 1 1 503 20200106070145
+54.244.110.144 1 1 294 20200131193052
+216.145.14.142 1 1 297 20200114073355
+143.137.164.223 1 1 294 20200116205553
+62.138.16.247 1 1 294 20200122230842
+89.187.165.131 1 1 503 20200123201552
+62.210.140.4 1 1 503 20200119064756
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20200101 3 3 1095 2
+20200102 1 1 507 1
+20200103 2 2 801 2
+20200104 1 1 507 1
+20200105 2 2 801 2
+20200106 6 6 2186 5
+20200107 2 2 801 2
+20200108 2 2 801 2
+20200109 2 2 801 2
+20200110 4 4 1598 3
+20200111 2 2 801 2
+20200112 2 2 801 2
+20200113 2 2 801 2
+20200114 5 5 1686 4
+20200115 16 16 7472 6
+20200116 3 3 1304 3
+20200117 1 1 507 1
+20200118 4 4 1389 3
+20200119 7 7 2478 7
+20200121 1 1 507 1
+20200122 5 5 1683 4
+20200123 4 4 2016 3
+20200124 1 1 507 1
+20200125 3 3 1308 3
+20200126 6 6 1980 5
+20200127 4 4 1389 4
+20200128 2 2 801 2
+20200129 1 1 507 1
+20200130 8 8 2563 3
+20200131 7 7 2269 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 82
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 108 42373 81 81
+// 1 294 1 1
+END_SIDER

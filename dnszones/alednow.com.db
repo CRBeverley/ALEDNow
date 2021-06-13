@@ -1,0 +1,47 @@
+; cPanel first:78.0.21 (update_time):1621072251 Cpanel::ZoneFile::VERSION:1.3 hostname:gator3073.hostgator.com latest:94.0.8
+; Zone file for alednow.com
+$TTL 14400
+alednow.com.	86400	IN	SOA	ns6145.hostgator.com.	root.gator3073.hostgator.com.	(
+						2021051501 ;Serial Number
+						86400 ;refresh
+						7200 ;retry
+						3600000 ;expire
+						86400	)
+
+alednow.com.	86400	IN	NS	ns6145.hostgator.com.
+alednow.com.	86400	IN	NS	ns6146.hostgator.com.
+
+
+alednow.com.	14400	IN	A	192.232.216.164
+
+localhost	14400	IN	A	127.0.0.1
+
+alednow.com.	14400	IN	MX	0	mail.alednow.com.
+
+mail	14400	IN	A	192.232.216.164
+www	14400	IN	CNAME	alednow.com.
+ftp	14400	IN	CNAME	alednow.com.
+
+cpanel	14400	IN	CNAME	alednow.com.
+webmail	14400	IN	CNAME	alednow.com.
+
+alednow.com.	14400	IN	TXT	"v=spf1 a mx include:websitewelcome.com ~all"
+_carddavs._tcp	14400	IN	SRV	0	0	2080	gator3073.hostgator.com.
+_carddavs._tcp	14400	IN	TXT	path=/
+_caldavs._tcp	14400	IN	SRV	0	0	2080	gator3073.hostgator.com.
+_caldavs._tcp	14400	IN	TXT	path=/
+cpcontacts	14400	IN	A	192.232.216.164
+webdisk	14400	IN	A	192.232.216.164
+cpcalendars	14400	IN	A	192.232.216.164
+autodiscover	14400	IN	A	192.232.216.164
+_carddav._tcp	14400	IN	SRV	0	0	2079	gator3073.hostgator.com.
+_carddav._tcp	14400	IN	TXT	path=/
+autoconfig	14400	IN	A	192.232.216.164
+whm	14400	IN	A	192.232.216.164
+_caldav._tcp	14400	IN	SRV	0	0	2079	gator3073.hostgator.com.
+_caldav._tcp	14400	IN	TXT	path=/
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4n38uUlPgIuPLQpbLxwWyPoFGiPC/KYrReKki9itL1P/8NrTSJCA+Txi5Hlvv+4TFCDR1o2O4gC5h1LzaGkEZsyzT9KPIChZ6CmwoFqjBBRPPmm2nqHx3M5ecRIdrUeodYonjTjtefP9keJJrzji15t/aq3D4jgXbwpCCs3ITQEMuV0+EXgMAYvjZGUzymqel" JklOLOInmWpQwN4Llt5fq7OeQ7AY7T/Fk3/PibV9LxJJhXo6eQK7Rz8u/1rdcp+BBNEdM17TpuZC7ll911Gy9FYWumk3q/VLVZNgryBfQuCftqwq0x6wn2j+BsXXKpzyfNoIaH5Wm6YvkGn0X1bcQIDAQAB\;
+_cpanel-dcv-test-record	14400	IN	TXT	_cpanel-dcv-test-record=kXV7JYxJlgZapIrK4iVDbv_75O87oz1EvUFtXujZoC0bJQK1h46GoxqMvFZK5tD_
+alednow.com.	14400	IN	TXT	google-site-verification=wCnV0o3tzgBgGm9OrQHnwNBWhwi3tZ9GtkGyYCo7K0k
+_acme-challenge	14400	IN	TXT	vPFLkIvy8FF08QDUtO7ByvMWFR0kq0CTYQBZjNCRQAE

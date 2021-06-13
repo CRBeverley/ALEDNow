@@ -1,0 +1,127 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__alednow_com_c1abd_d642f_1628844654_645adb7c9ae6e11f2773cff5ce93cca9: 
+      created: '1621072255'
+      domains: 
+        - "*.alednow.com"
+        - alednow.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “alednow.com”
+      id: _wildcard__alednow_com_c1abd_d642f_1628844654_645adb7c9ae6e11f2773cff5ce93cca9
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: c1abd249dc873f02e0ed4008ed3216751e4b1f5b85b11292a40da1113d3a2bdc97e434411b6610b5a0e0dd0e4d45a5136852668e75f7df46ac245bda2f7eb807ab949076c054a9ce595905367335867d7f026e3b07fc679f8e5b0f7d5f02b6ae7a40b753c1b07bfe8e934ac5c6fe5b7ed18c55f522cdfcf75e475fb1377a35f9273279d6b917bd99a87495e3ac2450907e424134dc46ea49abe011c14130613db462710a5d37389f00ff79cf7fd934ad7d6c9db8ff6aa1ea2fb7f75d17d3f02c0d8dc218ca1a6872354f293947e53d7d08ba2a9b55e8c833e2fec94fa308de4f4cc0673652aa42ce075e1b3a9918661095e67ff1e4857c452979d33e13ad642f
+      modulus_length: 2048
+      not_after: '1628844654'
+      not_before: '1621068654'
+      serial: 045a81c3757b41b45c7e8b00b944e3713695
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.alednow.com"
+      validation_type: dv
+    cpanel_alednow_com_cd9a7_316bb_1623576897_bc7496e70201d464a45b61c5e4df4a49: 
+      created: '1615804498'
+      domains: 
+        - alednow.com
+        - autodiscover.alednow.com
+        - cpanel.alednow.com
+        - cpcalendars.alednow.com
+        - cpcontacts.alednow.com
+        - mail.alednow.com
+        - webdisk.alednow.com
+        - webmail.alednow.com
+        - www.alednow.com
+      friendly_name: Cert for “alednow.com” 1615804498.0
+      id: cpanel_alednow_com_cd9a7_316bb_1623576897_bc7496e70201d464a45b61c5e4df4a49
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      modulus: cd9a748712f50efd3615f8c6901d38a143968dd6319172a8d4bd5fa772ec954beb3082d9fc2ae8a3f6927c1735e2510dec82996a8c01b510eb109804d696063e55389903f0e87835a850d9c604df8d29b95471e4eda2f801d67e6629a2f2013811e8be1ffc9e6820b9b73eeac7d0ce58b69d680fb52f353e7cf15469b1300c781956cd8801debe58ea2373785c667a7331d46b2ce965637a6232599195523f1c992db530a20449500597d4e40063270aa47977f2efbcedafa83cf052d0fdff9b2d188515c4babd239b874f08be4882e72f73784973952544df4adb1d1d7002ba844e238515ad265cc731efdfb5b4645826a9a5cbffd11f12acddc770b9e316bb
+      modulus_length: 2048
+      not_after: '1623576897'
+      not_before: '1615800897'
+      serial: 03f1e09bff8de3e0ec1735b55afe4377e72d
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cpanel.alednow.com
+      validation_type: dv
+    cpcontacts_alednow_com_d54a1_fca87_1618231226_b3782a6adfdd676e1aa97b7fcb290122: 
+      created: '1610458826'
+      domains: 
+        - alednow.com
+        - autodiscover.alednow.com
+        - cpanel.alednow.com
+        - cpcalendars.alednow.com
+        - cpcontacts.alednow.com
+        - mail.alednow.com
+        - webdisk.alednow.com
+        - webmail.alednow.com
+        - www.alednow.com
+      friendly_name: Cert for “alednow.com” 1610458826.0
+      id: cpcontacts_alednow_com_d54a1_fca87_1618231226_b3782a6adfdd676e1aa97b7fcb290122
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      modulus: d54a1529fe96ba1af031f801e53a4ff7ab9871d2d66a3ea7cb3991fca815f8636ed1922d79eea3c5ae16ee9d1a2e5b6ce06361f429f49ba4ea31becf9a41776aa00cefcbfdd02028723ed008b1d925d85e7b15a46e58b0083a54068c1c568e4f41e208a39b24436eb7468705eef36c57275906ce13189abf000c635f9c63e42fde889306f860946394a036f65b72364d3da5eebd3a22a86b022e0770830ab97c5c181ec467f2ce1af0c503d2037592c10ba5c990ddf769c63e46d6f7159e0788072606d6f41b3e60732a363219a9ea9d6fc8e150e22802e675edf27c231b4f68ae9946e2b3e7362dc692b90f2d42cac02ab1105f64418746aaf47e762b0fca87
+      modulus_length: 2048
+      not_after: '1618231226'
+      not_before: '1610455226'
+      serial: 03b5848f8542268aed0cb0ec535c24fc0548
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: cpcontacts.alednow.com
+      validation_type: dv
+  key: 
+    c1abd_d642f_2a8281ee535cf70f1c3abd7fe9b85477: 
+      created: '1621072255'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “alednow.com”
+      id: c1abd_d642f_2a8281ee535cf70f1c3abd7fe9b85477
+      key_algorithm: rsaEncryption
+      modulus: c1abd249dc873f02e0ed4008ed3216751e4b1f5b85b11292a40da1113d3a2bdc97e434411b6610b5a0e0dd0e4d45a5136852668e75f7df46ac245bda2f7eb807ab949076c054a9ce595905367335867d7f026e3b07fc679f8e5b0f7d5f02b6ae7a40b753c1b07bfe8e934ac5c6fe5b7ed18c55f522cdfcf75e475fb1377a35f9273279d6b917bd99a87495e3ac2450907e424134dc46ea49abe011c14130613db462710a5d37389f00ff79cf7fd934ad7d6c9db8ff6aa1ea2fb7f75d17d3f02c0d8dc218ca1a6872354f293947e53d7d08ba2a9b55e8c833e2fec94fa308de4f4cc0673652aa42ce075e1b3a9918661095e67ff1e4857c452979d33e13ad642f
+      modulus_length: 2048
+    cd9a7_316bb_b5ad8b461acbaff14bd75cc142b1c1e8: 
+      created: '1615804498'
+      friendly_name: Key for “alednow.com” 1615804498.0
+      id: cd9a7_316bb_b5ad8b461acbaff14bd75cc142b1c1e8
+      modulus: cd9a748712f50efd3615f8c6901d38a143968dd6319172a8d4bd5fa772ec954beb3082d9fc2ae8a3f6927c1735e2510dec82996a8c01b510eb109804d696063e55389903f0e87835a850d9c604df8d29b95471e4eda2f801d67e6629a2f2013811e8be1ffc9e6820b9b73eeac7d0ce58b69d680fb52f353e7cf15469b1300c781956cd8801debe58ea2373785c667a7331d46b2ce965637a6232599195523f1c992db530a20449500597d4e40063270aa47977f2efbcedafa83cf052d0fdff9b2d188515c4babd239b874f08be4882e72f73784973952544df4adb1d1d7002ba844e238515ad265cc731efdfb5b4645826a9a5cbffd11f12acddc770b9e316bb
+      modulus_length: 2048
+    d54a1_fca87_4173dd7143f9a8bdab44ccdc696a5a44: 
+      created: '1610458826'
+      friendly_name: Key for “alednow.com” 1610458826.0
+      id: d54a1_fca87_4173dd7143f9a8bdab44ccdc696a5a44
+      modulus: d54a1529fe96ba1af031f801e53a4ff7ab9871d2d66a3ea7cb3991fca815f8636ed1922d79eea3c5ae16ee9d1a2e5b6ce06361f429f49ba4ea31becf9a41776aa00cefcbfdd02028723ed008b1d925d85e7b15a46e58b0083a54068c1c568e4f41e208a39b24436eb7468705eef36c57275906ce13189abf000c635f9c63e42fde889306f860946394a036f65b72364d3da5eebd3a22a86b022e0770830ab97c5c181ec467f2ce1af0c503d2037592c10ba5c990ddf769c63e46d6f7159e0788072606d6f41b3e60732a363219a9ea9d6fc8e150e22802e675edf27c231b4f68ae9946e2b3e7362dc692b90f2d42cac02ab1105f64418746aaf47e762b0fca87
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c1abd249dc873f02e0ed4008ed3216751e4b1f5b85b11292a40da1113d3a2bdc97e434411b6610b5a0e0dd0e4d45a5136852668e75f7df46ac245bda2f7eb807ab949076c054a9ce595905367335867d7f026e3b07fc679f8e5b0f7d5f02b6ae7a40b753c1b07bfe8e934ac5c6fe5b7ed18c55f522cdfcf75e475fb1377a35f9273279d6b917bd99a87495e3ac2450907e424134dc46ea49abe011c14130613db462710a5d37389f00ff79cf7fd934ad7d6c9db8ff6aa1ea2fb7f75d17d3f02c0d8dc218ca1a6872354f293947e53d7d08ba2a9b55e8c833e2fec94fa308de4f4cc0673652aa42ce075e1b3a9918661095e67ff1e4857c452979d33e13ad642f: 
+        _wildcard__alednow_com_c1abd_d642f_1628844654_645adb7c9ae6e11f2773cff5ce93cca9: ~
+      cd9a748712f50efd3615f8c6901d38a143968dd6319172a8d4bd5fa772ec954beb3082d9fc2ae8a3f6927c1735e2510dec82996a8c01b510eb109804d696063e55389903f0e87835a850d9c604df8d29b95471e4eda2f801d67e6629a2f2013811e8be1ffc9e6820b9b73eeac7d0ce58b69d680fb52f353e7cf15469b1300c781956cd8801debe58ea2373785c667a7331d46b2ce965637a6232599195523f1c992db530a20449500597d4e40063270aa47977f2efbcedafa83cf052d0fdff9b2d188515c4babd239b874f08be4882e72f73784973952544df4adb1d1d7002ba844e238515ad265cc731efdfb5b4645826a9a5cbffd11f12acddc770b9e316bb: 
+        cpanel_alednow_com_cd9a7_316bb_1623576897_bc7496e70201d464a45b61c5e4df4a49: ~
+      d54a1529fe96ba1af031f801e53a4ff7ab9871d2d66a3ea7cb3991fca815f8636ed1922d79eea3c5ae16ee9d1a2e5b6ce06361f429f49ba4ea31becf9a41776aa00cefcbfdd02028723ed008b1d925d85e7b15a46e58b0083a54068c1c568e4f41e208a39b24436eb7468705eef36c57275906ce13189abf000c635f9c63e42fde889306f860946394a036f65b72364d3da5eebd3a22a86b022e0770830ab97c5c181ec467f2ce1af0c503d2037592c10ba5c990ddf769c63e46d6f7159e0788072606d6f41b3e60732a363219a9ea9d6fc8e150e22802e675edf27c231b4f68ae9946e2b3e7362dc692b90f2d42cac02ab1105f64418746aaf47e762b0fca87: 
+        cpcontacts_alednow_com_d54a1_fca87_1618231226_b3782a6adfdd676e1aa97b7fcb290122: ~
+    subject.commonName: 
+      "*.alednow.com": 
+        _wildcard__alednow_com_c1abd_d642f_1628844654_645adb7c9ae6e11f2773cff5ce93cca9: ~
+      cpanel.alednow.com: 
+        cpanel_alednow_com_cd9a7_316bb_1623576897_bc7496e70201d464a45b61c5e4df4a49: ~
+      cpcontacts.alednow.com: 
+        cpcontacts_alednow_com_d54a1_fca87_1618231226_b3782a6adfdd676e1aa97b7fcb290122: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “alednow.com”: _wildcard__alednow_com_c1abd_d642f_1628844654_645adb7c9ae6e11f2773cff5ce93cca9
+      Cert for “alednow.com” 1610458826.0: cpcontacts_alednow_com_d54a1_fca87_1618231226_b3782a6adfdd676e1aa97b7fcb290122
+      Cert for “alednow.com” 1615804498.0: cpanel_alednow_com_cd9a7_316bb_1623576897_bc7496e70201d464a45b61c5e4df4a49
+  key: 
+    friendly_name: 
+      Key for “alednow.com”: c1abd_d642f_2a8281ee535cf70f1c3abd7fe9b85477
+      Key for “alednow.com” 1610458826.0: d54a1_fca87_4173dd7143f9a8bdab44ccdc696a5a44
+      Key for “alednow.com” 1615804498.0: cd9a7_316bb_b5ad8b461acbaff14bd75cc142b1c1e8
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      c1abd249dc873f02e0ed4008ed3216751e4b1f5b85b11292a40da1113d3a2bdc97e434411b6610b5a0e0dd0e4d45a5136852668e75f7df46ac245bda2f7eb807ab949076c054a9ce595905367335867d7f026e3b07fc679f8e5b0f7d5f02b6ae7a40b753c1b07bfe8e934ac5c6fe5b7ed18c55f522cdfcf75e475fb1377a35f9273279d6b917bd99a87495e3ac2450907e424134dc46ea49abe011c14130613db462710a5d37389f00ff79cf7fd934ad7d6c9db8ff6aa1ea2fb7f75d17d3f02c0d8dc218ca1a6872354f293947e53d7d08ba2a9b55e8c833e2fec94fa308de4f4cc0673652aa42ce075e1b3a9918661095e67ff1e4857c452979d33e13ad642f: c1abd_d642f_2a8281ee535cf70f1c3abd7fe9b85477
+      cd9a748712f50efd3615f8c6901d38a143968dd6319172a8d4bd5fa772ec954beb3082d9fc2ae8a3f6927c1735e2510dec82996a8c01b510eb109804d696063e55389903f0e87835a850d9c604df8d29b95471e4eda2f801d67e6629a2f2013811e8be1ffc9e6820b9b73eeac7d0ce58b69d680fb52f353e7cf15469b1300c781956cd8801debe58ea2373785c667a7331d46b2ce965637a6232599195523f1c992db530a20449500597d4e40063270aa47977f2efbcedafa83cf052d0fdff9b2d188515c4babd239b874f08be4882e72f73784973952544df4adb1d1d7002ba844e238515ad265cc731efdfb5b4645826a9a5cbffd11f12acddc770b9e316bb: cd9a7_316bb_b5ad8b461acbaff14bd75cc142b1c1e8
+      d54a1529fe96ba1af031f801e53a4ff7ab9871d2d66a3ea7cb3991fca815f8636ed1922d79eea3c5ae16ee9d1a2e5b6ce06361f429f49ba4ea31becf9a41776aa00cefcbfdd02028723ed008b1d925d85e7b15a46e58b0083a54068c1c568e4f41e208a39b24436eb7468705eef36c57275906ce13189abf000c635f9c63e42fde889306f860946394a036f65b72364d3da5eebd3a22a86b022e0770830ab97c5c181ec467f2ce1af0c503d2037592c10ba5c990ddf769c63e46d6f7159e0788072606d6f41b3e60732a363219a9ea9d6fc8e150e22802e675edf27c231b4f68ae9946e2b3e7362dc692b90f2d42cac02ab1105f64418746aaf47e762b0fca87: d54a1_fca87_4173dd7143f9a8bdab44ccdc696a5a44

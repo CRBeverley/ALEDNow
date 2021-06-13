@@ -1,0 +1,1456 @@
+Return-Path: <suite42@xpressus.emarsys.us>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id 6BKxK7gWumBOGwgAi5QuQQ
+	(envelope-from <suite42@xpressus.emarsys.us>)
+	for <chris@alednow.com>; Fri, 04 Jun 2021 07:04:08 -0500
+Return-path: <suite42@xpressus.emarsys.us>
+Envelope-to: chris@alednow.com
+Delivery-date: Fri, 04 Jun 2021 07:04:08 -0500
+Received: from mta-c2711b08.ip4.emarsys.us ([194.113.27.8]:6345)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <suite42@xpressus.emarsys.us>)
+	id 1lp8Ya-002J8e-DS
+	for chris@alednow.com; Fri, 04 Jun 2021 07:04:08 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key4; d=email.tradingview.com;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:List-Unsubscribe-Post:
+ Content-Type:Message-ID:Date; i=hello@email.tradingview.com;
+ bh=e+Gsj+pQ25E/dtrzPPlbseFmjy/SeQQSobWzSNX+MfE=;
+ b=JxKzspWoV/4AWhfF+nY1PwdKTlA8nDLkWZ59hIBrZJT1uvLty+cRmmbUGx8dVi81w9iCi9eg6OvA
+   zjneCBdRqNxnYYK+Fz3F0jAYFSagKQDN/msOdXcAcDkVsUVAPXQNc9n4zc02ehd+ekd9PVmo8YRn
+   3+n1mq7CN3z7WqAVc20=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=emarsys.net;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:List-Unsubscribe-Post:
+ Content-Type:Message-ID:Date;
+ bh=e+Gsj+pQ25E/dtrzPPlbseFmjy/SeQQSobWzSNX+MfE=;
+ b=c5b+j2BcCDPvOH3hkZh825M/mTdMXx/lFfdny8DU8v4n8Xbm2LrU8G5/+JfY5BWIJ6/PoJS0y7mh
+   Vpe9rQRz7/FZD3gYQMSGdFrJxZrm1DySUg5/Uph8onghgOqqjEAVvXA4PmHHeUrdSpTTUbkK0KVd
+   4kdPSG3knrwcoIV9D7Q=
+To: chris@alednow.com
+Subject: =?UTF-8?Q?What=E2=80=99s=20New=20at=20TradingView?=
+X-Mailer: class SMTPMail
+From: "TradingView Monthly" <hello@email.tradingview.com>
+MIME-Version: 1.0
+List-Id: 836240495 <TradingView Monthly>
+X-EMarSys-Identify: 836240495_11663_1071966
+X-EMarSys-Environment: suite42
+X-Report-Abuse: Please report abuse here: abuse-report@emarsys.com
+List-Unsubscribe: <mailto:list-unsubscribe+836240495_11663_1071966_vB49VX0wEg@emarsys.net>, <https://list-unsubscribe.eservice.emarsys.net/api/unsubscribe/836240495_11663_1071966_vB49VX0wEg>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Content-Type: multipart/alternative;
+ boundary="--=_---NextPart--=_-nrTbEAoJIm"
+Message-ID: <0.0.4B.230.1D75939B0706BE4.0@mta-c2711b08.ip4.emarsys.us>
+Date: Fri, 4 Jun 2021 14:03:53 +0200
+
+
+----=_---NextPart--=_-nrTbEAoJIm
+Content-Type: text/plain; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+Monthly product updates from TradingView
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=
+=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=8C =E2=80=
+=8C =E2=80=8C =E2=80=8C =E2=80=8C
+=E2=80=8C =E2=80=8C
+
+TradingView
+
+TradingView
+( https://tradingview.com/ )
+
+TradingView
+
+TradingView
+( https://tradingview.com/ )
+
+Monthly product updates
+
+The TradingView Monthly
+-----------------------
+
+This month we=E2=80=99ve
+added dynamic messages to alerts, launched new broker
+integrations, and released two new drawing tools. We hope your
+year is off to a great start and that you enjoy using these new
+features as much as we enjoyed making them.
+
+What=E2=80=99s New
+----------
+
+Alerts + Dynamic Messages
+-------------------------
+
+Our new `alert()`
+function makes it possible to trigger alerts on an even more
+diverse set of conditions, including in strategies. Both
+indicators and strategies now provide users with dynamic alert
+messages, and traders running automated strategies have more
+flexibility in creating trade orders.
+
+Learn about
+Dynamic Messages (
+https://www.tradingview.com/blog/en/our-new-alerts-allow-for-dynamic-messag=
+es-22588/
+)
+
+Bitcoin Timeline
+----------------
+
+Our Timelines
+help you see the key events and moments in a symbol=E2=80=99s history.
+We=E2=80=99re excited to show you our newest Timeline for Bitcoin. If you
+missed it, we=E2=80=99ve already added Timelines for Tesla (
+https://www.tradingview.com/symbols/NASDAQ-TSLA/history-timeline/ ),
+Shopify (
+https://www.tradingview.com/symbols/NYSE-SHOP/history-timeline/ ),
+Beyond Meat (
+https://www.tradingview.com/symbols/NASDAQ-BYND/history-timeline/ ), and
+Lyft ( https://www.tradingview.com/symbols/NASDAQ-LYFT/history-timeline/
+).
+
+See the
+Timeline ( https://www.tradingview.com/symbols/BTCUSD/history-timeline/
+)
+
+Broker Awards
+-------------
+
+As a TradingView
+member you can leave verified reviews about the brokerage of your
+choice. Your reviews will help someone else pick the perfect
+brokerage. We recently handed out awards to the best rated
+brokerages. Come see who won.
+
+See the
+winners ( https://www.tradingview.com/broker-awards/ )
+
+Trading Integrations
+--------------------
+
+Connect your
+brokerage to your TradingView account and trade without ever
+leaving our platform. This month we welcome CapitalCom (
+https://www.tradingview.com/broker/Capitalcom/ ) and TigerBrokers
+( https://www.tradingview.com/broker/TigerBrokers/ ) to our
+platform. In addition, TradeStation Crypto now supports Bracket
+Orders and ForexCom has added trailing stops. Please give a round
+of applause to every integrated broker.
+
+Learn about
+every integration (
+https://www.tradingview.com/blog/en/category/market-analysis/trading/ )
+
+Meet the new Highlighter tool
+-----------------------------
+
+Our new
+Highlighter drawing tool works the same way it sounds. Highlight
+key price levels, text, notes, and events on your chart. Make it
+easy for others to see your work and for your to remember
+important price action.
+
+Try
+Highlighter (
+https://www.tradingview.com/blog/en/brand-new-drawing-tool-highlighter-2194=
+7/
+)
+
+Auto Fibonacci Retracements
+---------------------------
+
+Click and
+instantly see Fibonacci Retracements on the chart. This new
+indicator is written in Pine Script and its source code can be
+found in the templates and changed however you like.
+
+Auto
+Fibonacci (
+https://www.tradingview.com/blog/en/auto-fib-extension-22247/ )
+
+Meet the new Signpost tool
+--------------------------
+
+With our new
+Signpost tool you can quickly add new notes to your chart. Create
+your own Timeline and add notes at any price level. Extend them
+any distance from the chart and point them above or below.
+
+Try Signpost
+(
+https://www.tradingview.com/blog/en/signposts-in-the-chart-window-22176/
+)
+
+Tips & tricks
+-------------
+
+Tips
+& Tricks
+
+Add Symbols to your watchlist
+-----------------------------
+
+We=E2=80=99ve
+added another way to quickly add symbols to your watchlist.
+Right-click anywhere on your watchlist and add a ticker to that
+exact spot.
+
+See how (
+https://www.tradingview.com/blog/en/add-symbols-to-the-watchlist-at-a-speci=
+fic-point-in-the-list-22486/
+)
+
+Tips
+& Tricks
+
+Change colors at once
+---------------------
+
+We=E2=80=99ve
+made it easier to change the colors of the objects on your chart.
+Select all and then pick the color of your choice.
+
+Change your colors (
+https://www.tradingview.com/blog/en/color-change-of-multiple-tools-22257/
+)
+
+Thanks for
+reading the TradingView monthly. If you have any questions or
+comments, send us a message on TradingView (
+https://www.tradingview.com/u/TradingView/ ).
+
+Start
+Charting ( https://www.tradingview.com/chart/ )
+
+Thanks
+for reading,
+
+The
+TradingView Team
+
+33 Irving
+Place, New York,
+
+NY 10003
+
+App Store
+(
+https://itunes.apple.com/us/app/tradingview-trading-community-charts-and-qu=
+otes/id1205990992
+)
+
+Google
+Play (
+https://play.google.com/store/apps/details?id=3Dcom.tradingview.tradingview=
+app
+)
+
+Facebook
+( https://www.facebook.com/tradingview/ )
+
+YouTube ( https://www.youtube.com/channel/UCfOflihrkOKDQZ_ZKtF2VfQ )
+
+LinkedIn
+( https://www.linkedin.com/company/tradingview/ )
+
+Twitter ( https://twitter.com/tradingview/ )
+
+This email was sent
+to chris@alednow.com ( chris@alednow.com ) because on 2021-03-17,
+you signed up at TradingView.com ( https://tradingview.com/ ).
+
+If you don't want to
+receive this type of emails anymore, you can unsubscribe (
+https://suite42.emarsys.net/u/un.php?par=3DvB49VX0wEg_11663_1071966_1&_esuh=
+=3D_7_7e56d0930b56315954ea085574d16a2152c44a36aae6a4579b27dbd7d59429a7
+) at any time.
+
+----=_---NextPart--=_-nrTbEAoJIm
+Content-Type: text/html; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]>
+<xml>
+<o:OfficeDocumentSettings>
+<o:AllowPNG/>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings>
+</xml>
+<![endif]-->
+<title>What=E2=80=99s New at TradingView</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0" />
+<link rel=3D"preconnect" href=3D"https://fonts.gstatic.com" ems:notrack=3D"=
+true" />
+<link href=3D"https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0=
+,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&disp=
+lay=3Dswap" ems:notrack=3D"true" rel=3D"stylesheet" />
+<meta name=3D"color-scheme" content=3D"light dark" />
+<meta name=3D"supported-color-schemes" content=3D"light dark" />
+<style type=3D"text/css">
+a[x-apple-data-detectors]{color: inherit !important; text-decoration: none =
+!important;}
+a[href^=3D"tel"]:hover{text-decoration: none !important;}
+table td{mso-line-height-rule: exactly;}
+a img{border: none;}
+b, strong{font-weight:700;}
+p{margin:0;}
+th{padding: 0;}
+td{text-decoration: none;}
+a{
+outline: none;
+color: #2196F3;
+text-decoration: underline;
+}
+.highlight-phone{
+color:inherit;
+border:none;
+}
+.nl span,
+.nl a{
+color:inherit !important;
+text-decoration:none !important;
+border:none !important;
+}
+a:hover{text-decoration: none !important;}
+.h-u a{text-decoration: none;}
+.h-u a:hover{text-decoration: underline !important;}
+.btn-01:hover{background-color: #e8e7e6 !important;}
+.active a:hover{opacity: 0.8;}
+.btn-01,
+.active a{transition: all 0.3s ease;}
+ul{Margin: 0 0 0 20px; padding:0;}
+img + div {
+display:none !important;
+width:0px !important;
+height:0px !important;
+opacity:0 !important;
+}
+@media only screen and (max-width:375px) and (min-width:374px){
+.gmail-fix{min-width:374px !important;}
+}
+@media only screen and (max-width:414px) and (min-width:413px){
+.gmail-fix{min-width:413px !important;}
+}
+@media only screen and (max-width:500px){
+
+.flexible{width: 100% !important;}
+.img-flex img{width: 100% !important; height: auto !important;}
+.table-holder{display: table !important; width: 100% !important;}
+.thead{display: table-header-group !important; width: 100% !important;}
+.tfoot{display: table-footer-group !important; width: 100% !important;}
+.tflex{display: block !important; width: 100% !important;}
+.hide{display: none !important; width: 0 !important; height: 0 !important; =
+padding: 0 !important; font-size: 0 !important; line-height: 0 !important;}
+.tc{margin: 0 auto !important; float: none !important;}
+.ac{text-align: center !important;}
+.h-0{height: 0 !important;}
+.p-0{padding: 0 !important;}
+.p-20{padding: 20px !important;}
+.p-30{padding: 30px !important;}
+.plr-0{padding-left: 0 !important; padding-right: 0 !important;}
+.plr-10{padding-left: 10px !important; padding-right: 10px !important;}
+.plr-15{padding-left: 15px !important; padding-right: 15px !important;}
+.plr-20{padding-left: 20px !important; padding-right: 20px !important;}
+.pt-20{padding-top: 20px !important;}
+.pt-30{padding-top: 30px !important;}
+.pb-20{padding-bottom: 20px !important;}
+.pb-30{padding-bottom: 30px !important;}
+
+.fs-20{font-size: 20px !important; line-height: 30px !important;}
+.fs-24{font-size: 24px !important; line-height: 32px !important;}
+}
+:root {
+color-scheme: light dark;
+supported-color-schemes: light dark;
+}
+[data-ogsc] .dark-img {
+display: block !important;
+width: auto !important;
+overflow: visible !important;
+float: none !important;
+max-height: inherit !important;
+max-width: inherit !important;
+line-height: auto !important;
+margin-top: 0px !important;
+visibility: inherit !important;
+}
+[data-ogsc] .light-img {
+display: none;
+display: none !important;
+}
+[data-ogsc] .darkmode0 {
+background-color: #1f212d !important;
+}
+[data-ogsc] .darkmode1 {
+background-color: #141622 !important;
+}
+[data-ogsc] .darkmode2 {
+background-color: #1f212d !important;
+}
+[data-ogsc] h1,
+[data-ogsc] h2,
+[data-ogsc] h3,
+[data-ogsc] p,
+[data-ogsc] span,
+[data-ogsc] td,
+[data-ogsc] b {
+color: #ffffff !important;
+}
+[data-ogsc] .link {
+color: #2196F3 !important;
+}
+@media (prefers-color-scheme: dark) {
+.dark-img {
+display: block !important;
+width: auto !important;
+overflow: visible !important;
+float: none !important;
+max-height: inherit !important;
+max-width: inherit !important;
+line-height: auto !important;
+margin-top: 0px !important;
+visibility: inherit !important;
+}
+.light-img {
+display: none;
+display: none !important;
+}
+.darkmode0 {
+background-color: #1f212d !important;
+}
+.darkmode1 {
+background-color: #141622 !important;
+}
+.darkmode2 {
+background-color: #1f212d !important;
+}
+h1,
+h2,
+h3,
+p,
+span,
+td,
+b {
+color: #ffffff !important;
+}
+.link {
+color: #2196F3 !important;
+}
+}
+</style>
+<style type=3D"text/css">
+@import url('https://fonts.googleapis.com/css2?family=3DRoboto:ital,wght@0,=
+100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&displ=
+ay=3Dswap');
+</style>
+</head>
+<body class=3D"darkmode0" bgcolor=3D"#ffffff" style=3D"margin:0; padding:0;=
+ -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+<table class=3D"gmail-fix" width=3D"100%" style=3D"min-width:320px;" cellsp=
+acing=3D"0" cellpadding=3D"0">
+<tr>
+<td>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"display:none; font-size:0; line-height:0; width:0; height:0; p=
+adding:0;">
+<!-- Preheader hide text-->The latest product updates
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"flexible" width=3D"680" align=3D"center" style=3D"margin:0 =
+auto;" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"darkmode0" bgcolor=3D"#ffffff">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"p-20" style=3D"padding:40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<th class=3D"tflex" width=3D"200" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"ac">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_1&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb2=
+50aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_6c66faa25a150c96649661fd896e16ff3684a2=
+9df912dc4bdf3de8f1e75e6c0a">
+<img src=3D"https://suite42.emarsys.net/custloads/836240495/md_14888.png" s=
+tyle=3D"vertical-align:top; height: auto; width: 160px;" border=3D"0" width=
+=3D"160" alt=3D"TradingView" />
+</a>
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"tflex" width=3D"20" height=3D"20" align=3D"left" style=3D"vert=
+ical-align:top; padding:0;"></th>
+<th class=3D"tflex" width=3D"380" align=3D"left" style=3D"padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"ac" align=3D"right" style=3D"font:14px/21px Trebuchet MS, Aria=
+l, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-ser=
+if; color:#131722;">
+Monthly product updates
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"p-20" style=3D"padding: 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-24 pb-20" align=3D"center" style=3D"font:700 36px/44px Treb=
+uchet MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helve=
+tica, sans-serif; color:#131722; padding: 0 0 15px;">
+The TradingView Monthly
+</td>
+</tr>
+<tr>
+<td align=3D"center" style=3D"font:18px/28px Trebuchet MS, Arial, Helvetica=
+, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-serif; color:#1=
+31722;">
+We=E2=80=99re excited to show you our updated desktop app, the latest Pine =
+Script improvements, and several new data feeds. As a member of TradingView=
+, all of the following new tools were created for you.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 40px 38px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_2&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb2=
+50aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_fb64e9f01db3b1b6cbc8c5840b485fb2874bd0=
+386e0b4455438b489f537fcc66">
+<img src=3D"https://suite42.emarsys.net/custloads/836240495/md_15548.jpg" s=
+tyle=3D"vertical-align:top; height: auto; width: 600px;" border=3D"0" width=
+=3D"600" alt=3D"img" />
+</a>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+Our updated desktop app
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722; padding: 0 0 30px;">
+Our desktop app is free for Mac, Windows, and Linux users. The latest updat=
+e comes with reduced memory consumption, faster load times, and compatibili=
+ty with M1 chips.
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" style=3D"margin: 0 auto;" cellpadding=3D"0" cellspa=
+cing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:9px 30px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:9px 30px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_3&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1=
+Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_7d610e8b30e18ec3d7b5c1576df6dde5119=
+d8735a0ab851683873df8bc846fc4">Download now</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_4&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb2=
+50aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_65d257d9171a5fa0b58c5ddc0c9821b1aaee4e=
+37c10b9cb4bd08fee7f6240dc9">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/0aef=
+32fe-d498-1c58-40b9-b58027944339.jpg" style=3D"vertical-align:top; height: =
+auto; width: 600px;" border=3D"0" width=3D"600" alt=3D"img" />
+</a>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+Introducing Pine Tables
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722; padding: 0 0 30px;">
+With Pine Tables, coders can create custom data displays, dynamic heatmaps,=
+ and more. Pine Tables open up a whole new world of customizations that can=
+ be added to your chart with a few lines of code.
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" style=3D"margin: 0 auto;" cellpadding=3D"0" cellspa=
+cing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:9px 30px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:9px 30px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_5&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1=
+Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_c65ddaa4596ba59c2e571eea1ebacbdd7c9=
+acca54ff6aed0f37dc119bd3b04ca">Learn about Pine Tables</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/f25d=
+7d47-7ceb-f7f4-56f8-3a6f891c8611.jpg" style=3D"vertical-align:top; height: =
+auto; width: 600px;" border=3D"0" width=3D"600" alt=3D"img" />
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+New financial data
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722;">
+We=E2=80=99ve added <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_6&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1=
+Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_0ccfcc2b15b8f827d028a7ba81e5db4d01c=
+d2933335222c8e88e5e34e52346ce" target=3D"_blank" style=3D"color:#2196F3; te=
+xt-decoration: none;">Matba Rofex Futures</a>, <a href=3D"https://suite42.e=
+marsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966_11663_1_7&ems_l=3D12847&d=3DTW9=
+udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_c8be6b2e=
+67b7e92352c4ef286e95ea4521cadbc556eb12dd7288af7231957f20" target=3D"_blank"=
+ style=3D"color:#2196F3; text-decoration: none;">Nordic Growth Market</a>, =
+and decentralized finance protocols <a href=3D"https://suite42.emarsys.net/=
+u/nrd.php?p=3DvB49VX0wEg_1071966_11663_1_8&ems_l=3D12847&d=3DTW9udGhseQ%3D%=
+3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_f90a03bd68bfad13d94=
+2bd9f392d86202a23b994f5d82aef999c918a24f81bc2" target=3D"_blank" style=3D"c=
+olor:#2196F3; text-decoration: none;">SushiSwap</a>, <a href=3D"https://sui=
+te42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966_11663_1_9&ems_l=3D12847&d=
+=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_e7=
+bd437869a353d34430cf6cb8607e4ceaaec490a973649106df7ea45f7a34b7" target=3D"_=
+blank" style=3D"color:#2196F3; text-decoration: none;">Honeyswap</a>, and <=
+a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966_1166=
+3_1_10&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%=
+3D%3D%7C&_esuh=3D_7_da8277714322c81565f2dffa8e928d9b1b0c03a0a7a66a0e544f181=
+5a6c86b2f" target=3D"_blank" style=3D"color:#2196F3; text-decoration: none;=
+">Uniswap</a>. This data makes it possible for anyone to chart and research=
+ symbols from around the world. We=E2=80=99re always working to bring you n=
+ew data.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/7ed1=
+9630-a876-a270-c18f-a9381eb97334.jpg" style=3D"vertical-align:top; height: =
+auto; width: 600px;" border=3D"0" width=3D"600" alt=3D"img" />
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+Follow the biggest stories with Timelines
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722;">
+We recently introduced bespoke Timeline News onto our home page, bringing i=
+nsights into the hottest trends, biggest changes and most active symbols fo=
+r the market that day. Visit the home page each day or check out our latest=
+ <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966_11=
+663_1_11&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyM=
+Q%3D%3D%7C&_esuh=3D_7_6f6b36283fcb3a5a165b31a3a63a3d6baf34902adeb9f6362765d=
+b6f546ebe28" target=3D"_blank" style=3D"color:#2196F3; text-decoration: non=
+e;">Facebook Timeline</a> to learn about the events that shape companies.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_12&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_bd870b99b99171ea3d685fabe0baa1588fd1b=
+e1996fcc8f7583673e017f2678d">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/23a0=
+21fc-6e3b-a092-a811-31ae751f538b.jpg" style=3D"vertical-align:top; height: =
+auto; width: 600px;" border=3D"0" width=3D"600" alt=3D"img" />
+</a>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+Meet the Technical Ratings indicator
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722; padding: 0 0 30px;">
+Our new Technical Ratings indicator combines moving averages and oscillator=
+s into one easy to see visual on your chart. The calculation combines every=
+thing from Ichimoku Clouds to RSI and VWMA. We=E2=80=99ve turned our popula=
+r speedometer tools into a standalone indicator.
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" style=3D"margin: 0 auto;" cellpadding=3D"0" cellspa=
+cing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:9px 30px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:9px 30px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_13&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_7c556aa367c9b5920aa194bc2f5b856c02=
+1830bf7949e39709fcb57c3aecce67">Learn how it works</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_14&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_f4a0864ffcf03fb65c7ec45a0b45182914059=
+2ae23516c199a65b0063b8716e1">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/890c=
+8c54-1e6f-0d24-22f9-48fb9391efd4.jpg" style=3D"vertical-align:top; height: =
+auto; width: 600px;" border=3D"0" width=3D"600" alt=3D"img" />
+</a>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+Charts + emojis
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722; padding: 0 0 30px;">
+Our Signpost tool now supports emojis. Add more color, excitement, and deta=
+il to your charting. Emojis can be used to share your work with friends, on=
+ social media or as notes that attach directly to specific price levels.
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" style=3D"margin: 0 auto;" cellpadding=3D"0" cellspa=
+cing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:9px 30px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:9px 30px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_15&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_92d7decf9c8c4649fd32df304e1e8f610d=
+929246ba4a8e37e4db18e0977473cf">Chart with emojis</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40"></td>
+</tr>
+<tr>
+<td style=3D"border: 1px solid #E0E3EB; border-radius: 6px; overflow: hidde=
+n;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_16&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_6788b6cbb853aa5fcdc2c9ad123ff166238b4=
+b0210213c4683c421e412ad3d6e">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/8127=
+13a2-af47-4711-485b-7e791dcf2f08.jpg" style=3D"vertical-align:top; height: =
+auto; width: 600px;" border=3D"0" width=3D"600" alt=3D"img" />
+</a>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 30px 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-20" align=3D"center" style=3D"font:700 24px/32px Trebuchet =
+MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, =
+sans-serif; color:#131722; padding: 0 0 10px;">
+Pine Script improvements
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:16px/24px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#131722; padding: 0 0 30px;">
+We=E2=80=99ve added a new `varip` keyword to declare variables that preserv=
+e their value across realtime updates. We=E2=80=99ve also added new math fu=
+nctions like median() and mode(). We=E2=80=99re always working to improve P=
+ine Script and make it as robust as possible including adding <a href=3D"ht=
+tps://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966_11663_1_17&ems_l=
+=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_es=
+uh=3D_7_b200e06e944ac4df98de36d8dc700ca8e471e3fde96a922d2ffa142e82ce34e4" t=
+arget=3D"_blank" style=3D"color:#2196F3; text-decoration: none;">tooltips</=
+a>, <a href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966=
+_11663_1_18&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MD=
+IyMQ%3D%3D%7C&_esuh=3D_7_edd64ffdbb9f4d11580fa06078b929235c03823de5ca817b02=
+70738bb5fd4d27" target=3D"_blank" style=3D"color:#2196F3; text-decoration: =
+none;">sections</a>, new ways to <a href=3D"https://suite42.emarsys.net/u/n=
+rd.php?p=3DvB49VX0wEg_1071966_11663_1_19&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D=
+%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_9c4abd5969bbafe89223f=
+95099ac0a289bbbac8b234cd0642de67399829ab401" target=3D"_blank" style=3D"col=
+or:#2196F3; text-decoration: none;">code in color</a>, a <a href=3D"https:/=
+/suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071966_11663_1_20&ems_l=3D12=
+847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D=
+_7_6fa38da0bdb43d0dccfb052e5d74c91656fa25c141ff34af2917b2f393547014" target=
+=3D"_blank" style=3D"color:#2196F3; text-decoration: none;">leverage mechan=
+ism</a> for strategies, and a <a href=3D"https://suite42.emarsys.net/u/nrd.=
+php?p=3DvB49VX0wEg_1071966_11663_1_21&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7C=
+UHJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_9ef9a3c7bf957286c043948c=
+c7298cb69e1085e034f0d7e5f0e1b095c59a1f13" target=3D"_blank" style=3D"color:=
+#2196F3; text-decoration: none;">drawing box</a>.
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" style=3D"margin: 0 auto;" cellpadding=3D"0" cellspa=
+cing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:9px 30px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:9px 30px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_22&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_02a16113f700cb01f8c897a32e7f5c3800=
+a9e23662800894bbdde409a85a3ad3">What=E2=80=99s new with Pine</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 40px 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"fs-24 pb-20" align=3D"center" style=3D"font:700 36px/44px Treb=
+uchet MS, Arial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helve=
+tica, sans-serif; color:#131722; padding: 0 0 40px;">
+Tips & tricks
+</td>
+</tr>
+<tr>
+<td style=3D"padding:0 0 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<th class=3D"tflex" width=3D"320" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex" align=3D"center">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_23&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_bb47b0e214cee0c6420a8c3a3afac1477b42b=
+e94ecea28d0533e9084d516c159">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/5e60=
+6189-48b6-63da-b0f6-3583e7706a0e.jpg" style=3D"vertical-align:top; height: =
+auto; width: 320px; max-width: 320px;" border=3D"0" width=3D"320" alt=3D"im=
+g" />
+</a>
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"tflex" width=3D"40" height=3D"20" align=3D"left" style=3D"vert=
+ical-align:top; padding:0;"></th>
+<th class=3D"tflex" width=3D"240" align=3D"left" style=3D"padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"plr-20">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"font: 11px/16px Trebuchet MS, Arial, Helvetica, sans-serif; ms=
+o-ascii-font-family: Arial, Helvetica, sans-serif; color:#9598A1; padding: =
+0 0 5px;">
+Tips & Tricks
+</td>
+</tr>
+<tr>
+<td style=3D"font:700 20px/28px Trebuchet MS, Arial, Helvetica, sans-serif;=
+ mso-ascii-font-family: Arial, Helvetica, sans-serif; color:#131722; paddin=
+g: 0 0 5px;">
+A faster way to manage alerts
+</td>
+</tr>
+<tr>
+<td style=3D"font:14px/21px Trebuchet MS, Arial, Helvetica, sans-serif; mso=
+-ascii-font-family: Arial, Helvetica, sans-serif; color:#131722; padding: 0=
+ 0 15px;">
+Alerts help you wait patiently for the perfect entry. Do your research, cre=
+ate an alert, and then wait for it to trigger.
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:3px 25px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:3px 25px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_24&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_aba2f477aa7d6e4abe0a0b43f3994656c5=
+3fcdba5eba0e0edb6d624dfd0a9fc4">Start using multi select</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:40px 0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr class=3D"table-holder">
+<th class=3D"tfoot" width=3D"240" align=3D"left" style=3D"padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"plr-20">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"font: 11px/16px Trebuchet MS, Arial, Helvetica, sans-serif; ms=
+o-ascii-font-family: Arial, Helvetica, sans-serif; color:#9598A1; padding: =
+0 0 5px;">
+Tips & Tricks
+</td>
+</tr>
+<tr>
+<td style=3D"font:700 20px/28px Trebuchet MS, Arial, Helvetica, sans-serif;=
+ mso-ascii-font-family: Arial, Helvetica, sans-serif; color:#131722; paddin=
+g: 0 0 5px;">
+Music for trading
+</td>
+</tr>
+<tr>
+<td style=3D"font:14px/21px Trebuchet MS, Arial, Helvetica, sans-serif; mso=
+-ascii-font-family: Arial, Helvetica, sans-serif; color:#131722; padding: 0=
+ 0 15px;">
+We teamed up with a professional psychologist to create a custom music play=
+list to help traders.
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:3px 25px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:3px 25px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_25&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_0b3f46f705129cad805952d003c303e52c=
+ac0d66df1cc8146fe2ebec591feb4d">Listen Now</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"tflex" width=3D"40" height=3D"20" align=3D"left" style=3D"vert=
+ical-align:top; padding:0;"></th>
+<th class=3D"thead" width=3D"320" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex" align=3D"center">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_26&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_3c5ecb70e2658feeed96656f7749cc90b0d00=
+d5a5cba29b8825a7bebc3b18480">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/8cd9=
+b749-054f-fe37-6993-4d2accbfcf6a.jpg" style=3D"vertical-align:top; height: =
+auto; width: 320px; max-width: 320px;" border=3D"0" width=3D"320" alt=3D"im=
+g" />
+</a>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"padding:40px 0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<th class=3D"tflex" width=3D"320" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"img-flex" align=3D"center">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_27&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_eca5cf2d7ff1c975bc4be98a6437c948825ab=
+6f0030dc45e854445e4f9b3a424">
+<img src=3D"https://mcusercontent.com/91280479115517037d2abc299/images/2970=
+2503-803d-3148-aa36-075fe4535b18.jpg" style=3D"vertical-align:top; height: =
+auto; width: 320px; max-width: 320px;" border=3D"0" width=3D"320" alt=3D"im=
+g" />
+</a>
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"tflex" width=3D"40" height=3D"20" align=3D"left" style=3D"vert=
+ical-align:top; padding:0;"></th>
+<th class=3D"tflex" width=3D"240" align=3D"left" style=3D"padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"plr-20">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"font: 11px/16px Trebuchet MS, Arial, Helvetica, sans-serif; ms=
+o-ascii-font-family: Arial, Helvetica, sans-serif; color:#9598A1; padding: =
+0 0 5px;">
+Tips & Tricks
+</td>
+</tr>
+<tr>
+<td style=3D"font:700 20px/28px Trebuchet MS, Arial, Helvetica, sans-serif;=
+ mso-ascii-font-family: Arial, Helvetica, sans-serif; color:#131722; paddin=
+g: 0 0 5px;">
+Code with fundamentals
+</td>
+</tr>
+<tr>
+<td style=3D"font:14px/21px Trebuchet MS, Arial, Helvetica, sans-serif; mso=
+-ascii-font-family: Arial, Helvetica, sans-serif; color:#131722; padding: 0=
+ 0 15px;">
+Value investors can now use earnings, dividends, and splits to create an in=
+dicator for long-term investing.
+</td>
+</tr>
+<tr>
+<td>
+<table cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:16px/30px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:3px 25px; border-radius: 4px;" bg=
+color=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:3px 25px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_28&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_af0126b5321715c33386bdedbe635c7737=
+f2a8f932df095c46d06624671670f6">Learn how</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"plr-20" style=3D"padding: 40px 40px 60px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:18px/28px Trebuchet MS, Arial, Helvetica=
+, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-serif; color:#1=
+31722; padding: 0 0 40px;">
+Thanks for reading the TradingView monthly. If you have any questions or co=
+mments, send us a message on <a href=3D"https://suite42.emarsys.net/u/nrd.p=
+hp?p=3DvB49VX0wEg_1071966_11663_1_29&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CU=
+HJvZHVjdC1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_b7b6413fdeebc76a68e5c82b4=
+83222fad9b983430970906863d756fb7de97138" target=3D"_blank" style=3D"color:#=
+2196F3; text-decoration: none;">TradingView</a>.
+</td>
+</tr>
+<tr>
+<td>
+<table align=3D"center" style=3D"margin: 0 auto;" cellpadding=3D"0" cellspa=
+cing=3D"0">
+<tr>
+<td align=3D"center" style=3D"font:24px/32px Trebuchet MS, Arial, Helvetica=
+, sans-serif; color:#fff; mso-padding-alt:9px 40px; border-radius: 25px;" b=
+gcolor=3D"#2196F3">
+<a target=3D"_blank" style=3D"text-decoration:none; color:#fff; display:blo=
+ck; padding:9px 40px;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB=
+49VX0wEg_1071966_11663_1_30&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC=
+1Nb250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_1c976e28651ea743d93061f1307daf585b=
+8c509e7bc1c201ff5528bf88393e92">Start Charting</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"p-20" style=3D"border-top: 1px solid #E0E3EB; padding: 40px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"pb-20" style=3D"padding: 0 0 30px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"pb-20" style=3D"padding: 0 0 30px; border-bottom: 1px solid #E=
+0E3EB;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td style=3D"padding:0 0 25px;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<th class=3D"tflex" width=3D"290" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"ac" style=3D"font:14px/21px Trebuchet MS, Arial, Helvetica, sa=
+ns-serif; mso-ascii-font-family: Arial, Helvetica, sans-serif; color:#787B8=
+6;">
+Thanks for reading, <br />
+The TradingView Team
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"tflex" width=3D"20" height=3D"20" align=3D"left" style=3D"vert=
+ical-align:top; padding:0;"></th>
+<th class=3D"tflex" width=3D"290" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"ac" align=3D"right" style=3D"font:14px/21px Trebuchet MS, Aria=
+l, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-ser=
+if; color:#787B86;">
+33 Irving Place, New York, <br class=3D"hide" />
+NY&nbsp;10003
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<th class=3D"tflex" width=3D"285" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table class=3D"tc" width=3D"285" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"active">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_31&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_8f30e18081ced9b075d2ad70ac673b1a880ec=
+d8cc60655b041f69d91524117e9"><img src=3D"https://suite42.emarsys.net/custlo=
+ads/836240495/md_14194.png" style=3D"vertical-align:top; height: auto; widt=
+h: 135px;" border=3D"0" width=3D"135" alt=3D"AppStore" /></a>
+</td>
+<td width=3D"10"></td>
+<td class=3D"hide" width=3D"5"></td>
+<td class=3D"active">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_32&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_8dca5731cc1bd278055bbe05af747d14bfb4d=
+8dc2afd065599970b8aaa56a958"><img src=3D"https://suite42.emarsys.net/custlo=
+ads/836240495/md_14195.png" style=3D"vertical-align:top; height: auto; widt=
+h: 135px;" border=3D"0" width=3D"135" alt=3D"Google Play" /></a>
+</td>
+</tr>
+</table>
+</th>
+<th class=3D"tflex" width=3D"20" height=3D"30" align=3D"left" style=3D"vert=
+ical-align:top; padding:0;"></th>
+<th class=3D"tflex" width=3D"295" align=3D"left" style=3D"vertical-align:to=
+p; padding:0;">
+<table class=3D"tc" align=3D"right" cellpadding=3D"0" cellspacing=3D"0">
+<tr>
+<td class=3D"active">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_33&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_d9fc6ab8eab740d354f56bbc3f987114c0af7=
+3a4c895bf034acf609a710059db"><img src=3D"https://suite42.emarsys.net/custlo=
+ads/836240495/md_14197.png" style=3D"vertical-align:top; height: auto; widt=
+h: 40px;" border=3D"0" width=3D"40" alt=3D"fb" /></a>
+</td>
+<td width=3D"15"></td>
+<td class=3D"active">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_34&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_0e2bbd651d8b69da24a94642ee969cea8776a=
+e3b90bf89e64e30d62320a7a956"><img src=3D"https://suite42.emarsys.net/custlo=
+ads/836240495/md_14200.png" style=3D"vertical-align:top; height: auto; widt=
+h: 40px;" border=3D"0" width=3D"40" alt=3D"yt" /></a>
+</td>
+<td width=3D"15"></td>
+<td class=3D"active">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_35&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_e8ee780009b6df2d304fc8e6353d64f3fae56=
+2b5211d69642b97dfec96db5da4"><img src=3D"https://suite42.emarsys.net/custlo=
+ads/836240495/md_14198.png" style=3D"vertical-align:top; height: auto; widt=
+h: 40px;" border=3D"0" width=3D"40" alt=3D"in" /></a>
+</td>
+<td width=3D"15"></td>
+<td class=3D"active">
+<a target=3D"blank" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49V=
+X0wEg_1071966_11663_1_36&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb=
+250aGx5LTA2MDIyMQ%3D%3D%7C&_esuh=3D_7_816d435c47d0365a1745f9ffe89f2e5745a89=
+6897931b9f23a346d443dce4db6"><img src=3D"https://suite42.emarsys.net/custlo=
+ads/836240495/md_14199.png" style=3D"vertical-align:top; height: auto; widt=
+h: 40px;" border=3D"0" width=3D"40" alt=3D"tw" /></a>
+</td>
+</tr>
+</table>
+</th>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:14px/21px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#B2B5BE; padding: 0 0 10px;">
+This email was sent to <a style=3D"text-decoration:none;color:#2196F3;" hre=
+f=3D"mailto:chris@alednow.com" >chris@alednow.com</a> because on 2021-03-17=
+, you signed up at <a class=3D"link" style=3D"text-decoration:none;color:#2=
+196F3;" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_107196=
+6_11663_1_37&ems_l=3D12847&d=3DTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LTA2M=
+DIyMQ%3D%3D%7C&_esuh=3D_7_e51704a15306d00c0d43440666e93f3877661520f265a1e6b=
+45b4a581ee755ea" target=3D"_blank">TradingView.com</a>.
+</td>
+</tr>
+<tr>
+<td class=3D"h-u" align=3D"center" style=3D"font:14px/21px Trebuchet MS, Ar=
+ial, Helvetica, sans-serif; mso-ascii-font-family: Arial, Helvetica, sans-s=
+erif; color:#B2B5BE;">
+If you don't want to receive this type of emails anymore, you can <a class=
+=3D"link" href=3D"https://suite42.emarsys.net/u/nrd.php?p=3DvB49VX0wEg_1071=
+966_11663_1_38&ems_l=3D12847&d=3DZXlKcFpDSTZJREU0TmpFMk5EUTNMQ0FpWlcxaGFXd2=
+lPaUFpWTJoeWFYTkFZV3hsWkc1dmR5NWpiMjBpZlEubWtHcFZ6R3dGUm9TMVl6X3duaUY5YjJvT=
+lE2akpRRnI5Z0pyN0FhWEQ0TQ%3D%3D%7CTW9udGhseQ%3D%3D%7CUHJvZHVjdC1Nb250aGx5LT=
+A2MDIyMQ%3D%3D%7C&_esuh=3D_7_9cfe99ad8a4d283a7642eb4ffd1e0b2f4ce4f83230802f=
+1ffd7e91744ef80e45" target=3D"_blank" style=3D"color:#2196f3; text-decorati=
+on: none;">unsubscribe</a> at&nbsp;any&nbsp;time.
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<img src=3D"https://suite42.emarsys.net/mo/vB49VX0wEg_836240495_11663_10719=
+66_12847.gif" height=3D"2" width=3D"2" border=3D"0" alt=3D""></body>
+</html>
+----=_---NextPart--=_-nrTbEAoJIm--

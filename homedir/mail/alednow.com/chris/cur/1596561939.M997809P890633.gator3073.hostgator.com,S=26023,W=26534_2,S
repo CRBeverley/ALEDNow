@@ -1,0 +1,511 @@
+Return-Path: <support@averittexpress.com>
+Delivered-To: chris@alednow.com
+Received: from gator3073.hostgator.com
+	by gator3073.hostgator.com with LMTP
+	id wCXLOhOaKV8Jlw0Ai5QuQQ
+	(envelope-from <support@averittexpress.com>)
+	for <chris@alednow.com>; Tue, 04 Aug 2020 12:25:39 -0500
+Return-path: <support@averittexpress.com>
+Envelope-to: chris@alednow.com
+Delivery-date: Tue, 04 Aug 2020 12:25:39 -0500
+Received: from us-smtp-1.mimecast.com ([207.211.31.81]:49983 helo=us-smtp-delivery-1.mimecast.com)
+	by gator3073.hostgator.com with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+	(Exim 4.93)
+	(envelope-from <support@averittexpress.com>)
+	id 1k30h1-003rgq-P3
+	for chris@alednow.com; Tue, 04 Aug 2020 12:25:39 -0500
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=averittexpress.com;
+	s=mimecast20180911; t=1596561927;
+	h=from:from:reply-to:subject:subject:date:date:message-id:message-id:
+	 to:to:cc:mime-version:mime-version:content-type:content-type:
+	 content-transfer-encoding:content-transfer-encoding;
+	bh=Y7g43yiB3LiS0Eiu1TuOEuGtq3eiW4rvfWeDtXO87pc=;
+	b=ZA+V1uu7GY/hoMlFxL4qDV0nXRXAeS2YdTOxfMvNPefRYo4/3wFOn4xL4Z7T7kCM3Av94V
+	BQH5gTGvuhMUPva/IGB+CcqydCXpbZDgpaIvUBdzYg5D3VWcjQX3kWVlfIHujs8NOLsgun
+	071RRjX6UN9UGxUFrqhlgJF1zMt+TRk=
+Received: from NAM11-BN8-obe.outbound.protection.outlook.com
+ (mail-bn8nam11lp2176.outbound.protection.outlook.com [104.47.58.176])
+ (Using TLS) by relay.mimecast.com with ESMTP id
+ us-mta-89-EDb6kfveMZ2PAWFLQqIXRw-1; Tue, 04 Aug 2020 13:25:23 -0400
+X-MC-Unique: EDb6kfveMZ2PAWFLQqIXRw-1
+Received: from BN6PR13CA0050.namprd13.prod.outlook.com (2603:10b6:404:11::12)
+ by DM5PR11MB0027.namprd11.prod.outlook.com (2603:10b6:4:6b::33) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3239.21; Tue, 4 Aug
+ 2020 17:25:21 +0000
+Received: from BN8NAM12FT068.eop-nam12.prod.protection.outlook.com
+ (2603:10b6:404:11:cafe::79) by BN6PR13CA0050.outlook.office365.com
+ (2603:10b6:404:11::12) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3261.12 via Frontend
+ Transport; Tue, 4 Aug 2020 17:25:21 +0000
+X-MS-Exchange-Authentication-Results: spf=temperror (sender IP is
+ 191.237.4.149) smtp.mailfrom=averittexpress.com; AledNOW.com; dkim=none
+ (message not signed) header.d=none;AledNOW.com; dmarc=none action=none
+ header.from=averittexpress.com;
+Received: from us1.smtp.exclaimer.net (191.237.4.149) by
+ BN8NAM12FT068.mail.protection.outlook.com (10.13.182.160) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.3261.10 via Frontend Transport; Tue, 4 Aug 2020 17:25:19 +0000
+Received: from NAM10-DM6-obe.outbound.protection.outlook.com (104.47.58.109)
+	 by us1.smtp.exclaimer.net (191.237.4.149) with Exclaimer Signature Manager
+	 ESMTP Proxy us1.smtp.exclaimer.net (tlsversion=TLS12,
+	 tlscipher=TLS_ECDHE_WITH_AES256_SHA384); Tue, 4 Aug 2020 17:25:19 +0000
+X-ExclaimerHostedSignatures-MessageProcessed: true
+X-ExclaimerProxyLatency: 5714315
+X-ExclaimerImprintLatency: 1252362
+X-ExclaimerImprintAction: b61bb930cfdf4e3dad94a0f945de22b1
+Received: from DM5PR20CA0025.namprd20.prod.outlook.com (2603:10b6:3:13d::11)
+ by MN2PR11MB4351.namprd11.prod.outlook.com (2603:10b6:208:193::31) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3239.20; Tue, 4 Aug
+ 2020 17:25:18 +0000
+Received: from DM6NAM12FT067.eop-nam12.prod.protection.outlook.com
+ (2603:10b6:3:13d:cafe::d5) by DM5PR20CA0025.outlook.office365.com
+ (2603:10b6:3:13d::11) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3239.16 via Frontend
+ Transport; Tue, 4 Aug 2020 17:25:17 +0000
+X-MS-Exchange-Authentication-Results: spf=pass (sender IP is 63.237.12.20)
+ smtp.mailfrom=averittexpress.com; AledNOW.com; dkim=none (message not signed)
+ header.d=none;AledNOW.com; dmarc=bestguesspass action=none
+ header.from=averittexpress.com;
+Received: from exchange1.averittexpress.com (63.237.12.20) by
+ DM6NAM12FT067.mail.protection.outlook.com (10.13.179.141) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384) id
+ 15.20.3261.10 via Frontend Transport; Tue, 4 Aug 2020 17:25:17 +0000
+Received: from EXCHANGE1.AVERITT.local (10.1.5.56) by EXCHANGE1.AVERITT.local
+ (10.1.5.56) with Microsoft SMTP Server (TLS) id 15.0.1104.5; Tue, 4 Aug 2020
+ 12:25:06 -0500
+Received: from TOMCATPROD (10.1.8.10) by EXCHANGE1.AVERITTEXPRESS.COM
+ (10.1.5.60) with Microsoft SMTP Server id 15.0.1104.5 via Frontend Transport;
+ Tue, 4 Aug 2020 12:25:06 -0500
+From: <support@averittexpress.com>
+To: <Chris@AledNOW.com>
+Message-ID: <708344722.16524.1596561906403@TOMCATPROD>
+Subject: Averitt e-Notification
+MIME-Version: 1.0
+Date: Tue, 4 Aug 2020 12:25:06 -0500
+X-EOPAttributedMessage: 1
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: bd66a9d6-d84d-4041-9c7e-08d8389b5c84
+X-MS-TrafficTypeDiagnostic: MN2PR11MB4351:|DM5PR11MB0027:
+X-Microsoft-Antispam-PRVS: 
+	<DM5PR11MB002782A7CE98D2F3C2257D85C94A0@DM5PR11MB0027.namprd11.prod.outlook.com>
+AveritTransportRules-BypassSpamFilterDomain: Triggered
+X-MS-Oob-TLC-OOBClassifiers: OLM:7219;OLM:7219;
+X-MS-Exchange-SenderADCheck: 1
+X-Microsoft-Antispam-Untrusted: BCL:0;
+X-Microsoft-Antispam-Message-Info-Original: 
+ cWHIQQZyULn4mLwr3tgGYjO1QZgyfvyNfR93J21BOxcPMkF5vvA1nF3rdruGzR5raXzy8KMEEv+66a+XpsmFo1ONl1/iO63p0afTtL4fOyp2E6IzTx/Y5Khx094xzvDJ0xErfqyVpSslKudwOgZkKuBYD4lbfiPxT38fH4wIf15nZSerNrTJkmUZsurivPvhlxcAuEiRLsjiEbNlAukx+tz/qaTIvJJ1ATBkL1V7/LITXfxP5Ay/thKhYcmDh7kV7xvLG4x7whoydySmKb4CMZ/tU3cHrGJ5dkOX+zVEaWNz6Exg19x42jmedQxL3efQL7kz7EF4zs7dJb1SVobNvOtlXOjTIOTG2LdapjwWmaJDDZ6yOYmGatrO4XnuuA/9uEHMoCywe2yceGf9ggazPjeobxBi8JZNFiebOvIRatwxQgVNN9mbS8QqTgoBM5SuQW74QnX0dMeCkLTMUpxkZ/fj9JeJc0O1PwV7BDrVocU=
+X-Forefront-Antispam-Report-Untrusted: 
+ CIP:63.237.12.20;CTRY:US;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:exchange1.averittexpress.com;PTR:relay.averittexpress.com;CAT:NONE;SFTY:;SFS:(396003)(136003)(376002)(346002)(39860400002)(46966005)(356005)(6916009)(7636003)(8936002)(8676002)(426003)(33716001)(15650500001)(70586007)(82740400003)(478600001)(70206006)(82310400002)(47076004)(86362001)(316002)(2906002)(83380400001)(336012)(4744005)(9686003)(2876002)(5660300002)(166002)(3480700007)(26005)(186003)(55016002);DIR:OUT;SFP:1101;
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MN2PR11MB4351
+X-MS-Exchange-Transport-CrossTenantHeadersStripped: 
+ BN8NAM12FT068.eop-nam12.prod.protection.outlook.com
+X-MS-Office365-Filtering-Correlation-Id-Prvs: 
+	1eda698e-ba3b-41a8-af7b-08d8389b5b62
+X-Microsoft-Antispam: BCL:0;
+X-Microsoft-Antispam-Message-Info: 
+	vu/iIYBnZ2B9BaM/7Ur/BdiMAPY1O4QjpHIlVW60pFZyXkI7QmsvM2RSkMWmJ7fbBi8TcjyCc2dy7If9L7B4DQ1X1riggNuMD7IxF0D2pv9pRrzjBuZ5YSIbBCRlGCABp8Mm8gkDjhSCbEVZ1REF4elO6FtmCDrMkArwNf39xLTiQKo77t8uNDKQoNQBJEmlstS8DVE1SCWmqn0fvxUKCdNkXSJoKfjA8qncKkVOTSYFS6fp3qoxg7ukvi4tvqt/Zpuv25wXEK/4wLzLDgOD4Ghu9c9LhlP2HF27C0TrAFeOTjJk0uNVIQs4hJMkjFYljbWSO+aJb9584q+6lrkGlhfQh6V0TcLZjWCEFB6jriCEJKh2PtwGvzjrGBrl19W/JrJIL2hlLdomcIi2xdWT+GBhXd2ogkFDi2qWgY5leHxs8ez3wTeBbUNcEVRriusQCwPdwr5OQ8zlTZ88Ifsc6B7m856OisZsZZ1QmGdaW6o=
+X-Forefront-Antispam-Report: 
+	CIP:191.237.4.149;CTRY:US;LANG:en;SCL:1;SRV:;IPV:CAL;SFV:NSPM;H:us1.smtp.exclaimer.net;PTR:us1.smtp.exclaimer.net;CAT:NONE;SFTY:;SFS:(346002)(396003)(376002)(136003)(39860400002)(46966005)(5660300002)(55016002)(478600001)(4744005)(426003)(86362001)(63350400001)(6916009)(15650500001)(82310400002)(316002)(70586007)(47076004)(82740400003)(70206006)(8936002)(186003)(3480700007)(26005)(33716001)(7636003)(2906002)(7596003)(83380400001)(166002)(2876002)(9686003)(336012)(8676002);DIR:OUT;SFP:1101;
+X-OriginatorOrg: averittexpress.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 04 Aug 2020 17:25:19.3847
+ (UTC)
+X-MS-Exchange-CrossTenant-Network-Message-Id: bd66a9d6-d84d-4041-9c7e-08d8389b5c84
+X-MS-Exchange-CrossTenant-Id: e1c89ba3-8507-4db7-ad83-4310ac5c29bd
+X-MS-Exchange-CrossTenant-OriginalAttributedTenantConnectingIp: TenantId=e1c89ba3-8507-4db7-ad83-4310ac5c29bd;Ip=[191.237.4.149];Helo=[us1.smtp.exclaimer.net]
+X-MS-Exchange-CrossTenant-AuthSource: 
+	BN8NAM12FT068.eop-nam12.prod.protection.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Anonymous
+X-MS-Exchange-CrossTenant-FromEntityHeader: HybridOnPrem
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR11MB0027
+Authentication-Results: relay.mimecast.com;
+	auth=pass smtp.auth=CUSA113A5 smtp.mailfrom=support@averittexpress.com
+X-Mimecast-Spam-Score: 0
+X-Mimecast-Originator: averittexpress.com
+Content-Type: text/html; charset=WINDOWS-1252
+Content-Transfer-Encoding: quoted-printable
+
+
+<html>
+    <head>
+        <title>AverittExpress.com</title>
+        <style type=3D"text/css">
+<!--
+body {
+    background-color: #FFFFFF;
+    background-image: url(../../interface/archive/2008/images/pagebground.g=
+if);
+}
+.footer {
+    color: #FFFFFF;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-weight: bold;
+}
+.mainarticle {
+    width: 373px;
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}=20
+.sidebar {
+    width: 160px;
+    padding-top: 0px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sidebarcontent {
+    width: auto;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.sidebar_header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color: #C02037;
+    background-position: center;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 3px;
+    border-top-style: ridge;
+    border-right-style: ridge;
+    border-bottom-style: ridge;
+    border-left-style: ridge;
+    border-top-width: thin;
+    border-right-width: thin;
+    border-bottom-width: thin;
+    border-left-width: thin;
+}
+a:link {
+    color: #C02037;
+}
+a:visited {
+    color: #C02037;
+}
+a:hover {
+    color: #C02037;
+}
+a:active {
+    color: #C02037;
+    text-align: center;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style61 {
+    font-size: 10px;
+    color: #666666;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style71 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+--></style>
+    </head>
+    <body alink=3D"#940008" link=3D"#940008" vlink=3D"#940008" style=3D"bac=
+kground-color: #ffffff; margin-top: 0px; font-family: Arial, Helvetica, san=
+s-serif; color: #000000; font-size: 10px; margin-right: 0px">
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"60=
+0" align=3D"center">
+            <tbody>
+                <tr>
+                    <td valign=3D"top">
+                    <table border=3D"0" cellspacing=3D"0" width=3D"100%">
+                        <tbody>
+                            <tr>
+                                <td class=3D"style71" width=3D"68%"></td>
+                                <td width=3D"32%"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"60=
+0" align=3D"center">
+            <tbody>
+                <tr>
+                    <td valign=3D"top"><a target=3D"_blank" xt=3D"SPCLICK" =
+href=3D"http://www.averittexpress.com" ><img border=3D"0" alt=3D"" width=3D=
+"600" height=3D"80" src=3D"https://www.averittexpress.com/public/emarketing=
+/interface/archive/2011/images/top_header.gif" /></a></td>
+                </tr>
+            </tbody>
+        </table>
+        <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"60=
+0" align=3D"center">
+            <tbody>
+                <tr>
+                    <td class=3D"style21" bgcolor=3D"#ffffff" valign=3D"top=
+" background=3D"http://www.averittexpress.com/interface/archive/2011/images=
+/bground.gif" name=3D"http:__www.averittexpress.com_interface_archive_2011_=
+images_bground.gif" spname=3D"http:__www.averittexpress.com_interface_archi=
+ve_2011_images_bground.gif">
+                    <table width=3D"580" border=3D"0" align=3D"center" cell=
+padding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff">
+                        <tbody>
+                            <tr>
+                                <td valign=3D"top" colspan=3D"3">
+                                  <table width=3D"90%" border=3D"0" align=
+=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+                                    <tr>
+                                      <td><p align=3D"left"><strong style=
+=3D"font-size: 18pt">E-Notification of Shipment Status</strong></p>
+                                          <p><em>Status as of August 04, 20=
+20 at 12:25 PM CDT</em></p>
+                                                                           =
+                                                                           =
+                                                           =20
+                                                                           =
+        =20
+                                                                           =
+        =20
+                                                                           =
+        =20
+                                                                           =
+                                                  =20
+                                        <table width=3D"80%" border=3D"0" c=
+ellpadding=3D"5">
+                                          <tr>
+                                            <td width=3D"39%"><strong>PRO#:=
+</strong></td>
+                                            <td width=3D"61%"><strong><a hr=
+ef=3D"https://www.averittexpress.com/action/trackingDetails?orderId=3D03017=
+99369&serviceType=3DLTL">0301799369</a></strong></td>
+                                          </tr>
+                                         =20
+                                                                           =
+             <tr>
+                                                <td><strong>Current Status:=
+ </strong></td>
+                                                <td><strong> Delivered </st=
+rong></td>
+                                              </tr>
+                                                                           =
+       </table>
+                                       =20
+                                                                           =
+         <p><strong>Shipment progression:</strong></p>
+                                            <table width=3D"100%" border=3D=
+"0" cellpadding=3D"5">
+                                                                           =
+                 <tr>
+                                                  <td><strong>Location</str=
+ong></td>
+                                                  <td><strong>Date</strong>=
+</td>
+                                                  <td><strong>Time</strong>=
+</td>
+                                                  <td><strong>Status</stron=
+g></td>
+                                                </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                            <td style=3D"font-size: 10pt">C=
+harlotte, NC</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">07/27/2020</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">7:55 PM</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">Shipment Picked Up</td>
+                                                    </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                            <td style=3D"font-size: 10pt">C=
+harlotte, NC</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">07/28/2020</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">9:45 PM</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">Origin Departure</td>
+                                                    </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                            <td style=3D"font-size: 10pt">J=
+acksonville, FL</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">07/29/2020</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">5:02 AM</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">Destination Arrival</td>
+                                                    </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                            <td style=3D"font-size: 10pt">F=
+ort White, FL</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">07/29/2020</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">12:10 PM</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">At Destination Terminal</td>
+                                                    </tr>
+                                                                           =
+                         <tr>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                            <td style=3D"font-size: 10pt">F=
+ort White, FL</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">08/04/2020</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">1:01 PM</td>
+                                                        <td style=3D"font-s=
+ize: 10pt">Delivered</td>
+                                                    </tr>
+                                                                           =
+                                                                           =
+                              </table>
+                                                                           =
+     <p>Click the PRO number above for detailed tracking on this shipment.<=
+/p>
+                                       =20
+                                                                           =
+     <p>For additional details on this shipment, please visit <a href=3D"ht=
+tp://www.averittexpress.com">AverittExpress.com</a> or contact <strong>1-80=
+0-AVERITT</strong> and reference the PRO number listed above.</p>
+                                        <hr>
+                                        <p style=3D"font-size: 10px">You ar=
+e receiving this email because you subscribed to Shipment Status e-Notifica=
+tion on <a href=3D"http://www.averittexpress.com">AverittExpress.com</a>.
+                                                                           =
+     </p>
+                                       =20
+                                      </td>
+                                    </tr>
+                                  </table>
+                                  <p style=3D"text-align: center"><br />
+                                </p>
+                                <p></p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"style21" bgcolor=3D"#ffffff" valign=3D"top=
+">
+                    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"3"=
+ width=3D"100%" bgcolor=3D"#c02037">
+                        <tbody>
+                            <tr>
+                                <td></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class=3D"style21" valign=3D"top">
+                    <table border=3D"0" cellspacing=3D"0" width=3D"100%">
+                        <tbody>
+                            <tr>
+                                <td width=3D"60%">
+                                <table border=3D"0" cellspacing=3D"0" width=
+=3D"100%">
+                                    <tbody>
+
+                                        <tr>
+                                        </tr>
+                                        <tr>
+                                            <td class=3D"style21" valign=3D=
+"top">
+                                            <table border=3D"0" cellspacing=
+=3D"0" style=3D"width: 591px; height: 25px">
+                                                <tbody>
+                                                    <tr>
+                                                        <td width=3D"60%" c=
+lass=3D"style61"><a href=3D"https://www.averittexpress.com">AverittExpress.=
+com</a> | 1-800-AVERITT<span style=3D"text-align: center"><span style=3D"fo=
+nt-family: Verdana"> | <a style=3D"font-size: xx-small" href=3D"https://www=
+.averittexpress.com/public/contactUs/index.jsp" ><font color=3D"#810081">Co=
+ntact Us</font></a></span></span></td>
+                                                        <td width=3D"40%">
+                                                        <div class=3D"style=
+61" align=3D"right">&copy;  Averitt Express</div>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                          =20
+                                            <table id=3D"Table1" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"2" style=3D"width: 589px; height: 60px"=
+>
+                                                <tbody>
+                                                    <tr>
+                                                        <td width=3D"400">
+                                                        <p style=3D"text-al=
+ign: left"><font color=3D"#777777" size=3D"1" face=3D"verdana">This email w=
+as sent to: </font><strong><font color=3D"#777777" size=3D"1" face=3D"verda=
+na">Chris@AledNOW.com</font></strong><br>
+                                                          <font color=3D"#7=
+77777" size=3D"1" face=3D"verdana">This email was sent by: Averitt Express<=
+br />
+                                                        1415 Neal St., Cook=
+eville, TN, 38502-3166 </font></p>
+                                                        </td>
+                                                        <td valign=3D"middl=
+e">
+                                                            <a target=3D"_b=
+lank" href=3D"http://www.facebook.com/AverittExpress"> <img border=3D"0" al=
+t=3D"" align=3D"right" width=3D"43" height=3D"43" src=3D"https://www.averit=
+texpress.com/public/images/facebook.gif" /></a>
+                                                            <a target=3D"_b=
+lank" href=3D"http://www.youtube.com/channel/UCJPzpViAddp7IxgBFzCvB2g"><img=
+ border=3D"0" alt=3D"" align=3D"right" width=3D"43" height=3D"43" src=3D"ht=
+tps://www.averittexpress.com/public/images/youtube.gif" /></a>
+                                                            <a target=3D"_b=
+lank" href=3D"http://twitter.com/AverittExpress"> <img border=3D"0" alt=3D"=
+" align=3D"right" width=3D"43" height=3D"43" src=3D"https://www.averittexpr=
+ess.com/public/images/twitter.gif" /></a>
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                </td>
+                                <td width=3D"40%"></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <p></p>
+    </body>
+</html>
+
+
