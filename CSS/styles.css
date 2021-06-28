@@ -1,0 +1,166 @@
+body {
+  background-color: #303030;
+}
+
+.container {
+  background-color: #ababaa;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container > header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 220px;
+  max-height: 100%;
+  height: 100%;
+  background-color: #36485e;
+}
+
+.container > header > h2 {
+  color: #f06363;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  float: left;
+  margin-top: 95px;
+  margin-left: 15px;
+}
+
+nav {
+  margin: 0 0 0 auto;
+}
+
+nav > ul {
+  list-style: none;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+nav > ul > li {
+  float: left;
+  margin: auto;
+  margin-top: 100px;
+}
+
+nav > ul > li > a {
+  margin: 2rem;
+  text-decoration: none;
+  color: white;
+}
+
+.logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+img#aledLogo {
+  display: block;
+  margin: auto;
+  width: 45%;
+  padding-top: 30px;
+}
+
+.services {
+  height: 650px;
+  background-color: #36485e;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.services > * {
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 33%;
+          flex: 0 0 33%;
+  text-align: center;
+}
+
+.services h2 {
+  color: #f06363;
+}
+
+.services p {
+  color: #ababaa;
+}
+
+div.contact {
+  height: 100px;
+  background-color: #f06363;
+}
+
+div.contact p,
+div.contact h2,
+div.contact h1 {
+  margin: 5px 5px;
+  color: white;
+}
+
+div.statement {
+  height: 100px;
+  background-color: #36485e;
+}
+
+div.statement p {
+  padding-top: 40px;
+  text-align: center;
+}
+
+footer {
+  height: 50px;
+  background-color: #f06363;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+footer p#copy {
+  margin: 10px;
+}
+
+footer p#contact {
+  margin: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+  header {
+    min-height: 0%;
+    max-height: 100px;
+  }
+  header > h2 {
+    display: none;
+  }
+  header > nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: auto;
+  }
+  header > nav li {
+    margin: auto;
+  }
+  header > nav li > a {
+    margin: auto;
+    padding: 5px;
+  }
+  div.logo {
+    min-height: 300px;
+  }
+  img#aledLogo {
+    width: 80%;
+  }
+}
