@@ -1,0 +1,64 @@
+.container {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 40% 40% 20%;
+      grid-template-columns: 40% 40% 20%;
+  -ms-grid-rows: 100px 100px;
+      grid-template-rows: 100px 100px;
+}
+
+div.one {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  background-color: blanchedalmond;
+}
+
+div.two {
+  background-color: aquamarine;
+}
+
+div.three {
+  background-color: #312fa3;
+}
+
+div.four {
+  background-color: #88b422;
+}
+
+div.five {
+  background-color: #c4790a;
+}
+
+div.six {
+  background-color: #cf3e2a;
+}
+
+#box1 {
+  vertical-align: middle;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+}
+
+#box2 {
+  height: 50px;
+  width: 50px;
+  background-color: #380404;
+}
+
+#box3 {
+  height: 50px;
+  width: 50px;
+  background-color: #09032b;
+}

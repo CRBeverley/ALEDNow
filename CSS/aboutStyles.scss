@@ -1,0 +1,48 @@
+//filename: aboutStyles.css
+.container {
+  display: grid;
+  grid-template-columns: 40% 40% 20%;
+  grid-template-rows: 100px 100px;
+}
+div.one {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+
+  background-color: blanchedalmond;
+}
+div.two {
+  background-color: aquamarine;
+}
+div.three {
+  background-color: rgb(49, 47, 163);
+}
+div.four {
+  background-color: rgb(136, 180, 34);
+}
+div.five {
+  background-color: rgb(196, 121, 10);
+}
+div.six {
+  background-color: rgb(207, 62, 42);
+}
+
+//individual grid elements
+
+#box1 {
+  vertical-align: middle;
+  height: 50px;
+  width: 50px;
+  background-color: black;
+}
+#box2 {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(56, 4, 4);
+}
+#box3 {
+  height: 50px;
+  width: 50px;
+  background-color: rgb(9, 3, 43);
+}

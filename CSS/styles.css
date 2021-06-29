@@ -9,9 +9,13 @@ body {
 }
 
 .container > header {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 40% 20% 40%;
+      grid-template-columns: 40% 20% 40%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   min-height: 220px;
   max-height: 100%;
   height: 100%;
@@ -23,74 +27,107 @@ body {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 30px;
   float: left;
-  margin-top: 95px;
   margin-left: 15px;
 }
 
 nav {
-  margin: 0 0 0 auto;
+  -ms-grid-column: 3;
+  grid-column: 3;
 }
 
 nav > ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin-right: 10px;
   list-style: none;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-}
-
-nav > ul > li {
-  float: left;
-  margin: auto;
-  margin-top: 100px;
 }
 
 nav > ul > li > a {
-  margin: 2rem;
   text-decoration: none;
   color: white;
 }
 
 .logo {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20% 60% 20%;
+      grid-template-columns: 20% 60% 20%;
+}
+
+img#comingSoon {
+  -ms-grid-column: 1;
+  grid-column: 1;
+  -ms-grid-row: 1;
+  grid-row: 1;
+  width: 75%;
+  margin-top: 20%;
+  -ms-grid-column-align: right;
+      justify-self: right;
 }
 
 img#aledLogo {
-  display: block;
-  margin: auto;
-  width: 45%;
+  -ms-grid-column: 2;
+  grid-column: 2;
+  margin: 0 auto;
+  width: 80%;
   padding-top: 30px;
 }
 
 .services {
-  height: 650px;
+  height: 100%;
   background-color: #36485e;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 33% 33% 33%;
+      grid-template-columns: 33% 33% 33%;
 }
 
 .services > * {
-  -webkit-box-flex: 0;
-      -ms-flex: 0 0 33%;
-          flex: 0 0 33%;
-  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
-.services h2 {
-  color: #f06363;
+.services > * > p {
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
 }
 
-.services p {
-  color: #ababaa;
+.services > div > img {
+  margin-top: 20px;
+  width: 80%;
+}
+
+.light {
+  width: 100%;
+}
+
+.light > h2 {
+  padding-top: 70px;
+}
+
+.smart {
+  -ms-grid-row: 2;
+  grid-row: 2;
+  -ms-grid-column: 2;
+  grid-column: 2;
 }
 
 div.contact {
-  height: 100px;
+  height: 100%;
+  padding: 10px 0;
   background-color: #f06363;
 }
 
@@ -104,6 +141,7 @@ div.contact h1 {
 div.statement {
   height: 100px;
   background-color: #36485e;
+  padding-top: 10px;
 }
 
 div.statement p {
@@ -137,30 +175,49 @@ footer p#contact {
 }
 
 @media only screen and (max-width: 900px) {
-  header {
-    min-height: 0%;
-    max-height: 100px;
-  }
   header > h2 {
     display: none;
   }
-  header > nav {
+  nav {
+    grid-column: span 3;
+  }
+  nav > ul {
+    padding-left: 0;
+    margin: 0%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    margin: auto;
-  }
-  header > nav li {
-    margin: auto;
-  }
-  header > nav li > a {
-    margin: auto;
-    padding: 5px;
+    -webkit-box-pack: space-evenly;
+        -ms-flex-pack: space-evenly;
+            justify-content: space-evenly;
   }
   div.logo {
-    min-height: 300px;
+    min-height: 200px;
   }
   img#aledLogo {
     width: 80%;
+  }
+  .services {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+  }
+  .services > * {
+    margin: auto;
+    height: 100%;
+  }
+  .contact {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    height: 100%;
   }
 }
