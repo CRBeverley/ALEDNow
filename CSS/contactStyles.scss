@@ -1,0 +1,68 @@
+body {
+  background-color: #303030;
+}
+
+.container {
+  background-color: #ababaa;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.container > header {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 40% 20% 40%;
+  grid-template-columns: 40% 20% 40%;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  min-height: 220px;
+  max-height: 100%;
+  height: 100%;
+  background-color: #36485e;
+}
+
+.container > header > h2 {
+  color: #f06363;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  float: left;
+  margin-left: 15px;
+}
+
+nav {
+  -ms-grid-column: 3;
+  grid-column: 3;
+}
+
+nav > ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  margin-right: 10px;
+  list-style: none;
+}
+
+nav > ul > li > a {
+  text-decoration: none;
+  color: white;
+}
+//footer section
+footer {
+  height: 50px;
+  background-color: #f06363;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer p#copy {
+  margin: 10px;
+}
+footer p#contact {
+  margin: 10px;
+}

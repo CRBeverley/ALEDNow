@@ -1,48 +1,132 @@
 //filename: aboutStyles.css
+body {
+  background-color: #303030;
+}
+
 .container {
+  background-color: #ababaa;
+  width: 80%;
+  margin: 0 auto;
+}
+
+//Header Styles
+
+.container > header {
   display: grid;
-  grid-template-columns: 40% 40% 20%;
-  grid-template-rows: 100px 100px;
-}
-div.one {
-  display: flex;
-  flex-direction: row;
+  grid-template-columns: 40% 20% 40%;
+
   align-items: center;
-  justify-content: space-evenly;
+  min-height: 220px;
+  max-height: 100%;
+  height: 100%;
 
-  background-color: blanchedalmond;
+  background-color: #36485e;
 }
-div.two {
-  background-color: aquamarine;
+.container > header > h2 {
+  color: #f06363;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 30px;
+  float: left;
+
+  margin-left: 15px;
 }
-div.three {
-  background-color: rgb(49, 47, 163);
+nav {
+  grid-column: 3;
 }
-div.four {
-  background-color: rgb(136, 180, 34);
-}
-div.five {
-  background-color: rgb(196, 121, 10);
-}
-div.six {
-  background-color: rgb(207, 62, 42);
+nav > ul {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 10px;
+  list-style: none;
+
+  //
+  > li {
+    //
+    > a {
+      text-decoration: none;
+      color: white;
+    }
+  }
 }
 
-//individual grid elements
+//.title section
+.title {
+  display: block;
+  text-align: center;
+  padding: 20px 0px;
+  background-color: #ababaa;
+  color: #36485e;
+}
 
-#box1 {
-  vertical-align: middle;
-  height: 50px;
-  width: 50px;
-  background-color: black;
+//.info section
+.info {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #f06363;
+  padding: 10px 0px;
 }
-#box2 {
-  height: 50px;
-  width: 50px;
-  background-color: rgb(56, 4, 4);
+.image > img {
+  border-radius: 5px;
 }
-#box3 {
+
+.list > h3 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding-left: 30px;
+  font-size: x-large;
+  color: white;
+}
+
+.list > p {
+  font-size: large;
+  font-weight: bold;
+  margin-top: 20px;
+  padding-left: 30px;
+  color: white;
+}
+
+.list > ul > li {
+  color: white;
+}
+
+//whyUs section
+.containerWhyUs {
+  display: flex;
+  justify-content: space-between;
+  background-color: #36485e;
+  padding: 10px 0px;
+}
+
+.whyUs {
+  flex-basis: 45%;
+  padding-left: 20px;
+  > h1 {
+    padding-bottom: 20px;
+  }
+}
+.logo {
+  align-self: center;
+  flex-basis: 40%;
+}
+.logo > img {
+  width: 50%;
+  padding-left: 20%;
+}
+
+//footer section
+footer {
   height: 50px;
-  width: 50px;
-  background-color: rgb(9, 3, 43);
+  background-color: #f06363;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+footer p#copy {
+  margin: 10px;
+}
+footer p#contact {
+  margin: 10px;
 }
